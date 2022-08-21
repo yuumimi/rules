@@ -1,0 +1,150 @@
+name: Build
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - "**/README.md"
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Checkout data source
+        uses: actions/checkout@v2
+        with: 
+          repository: v2fly/domain-list-community
+          path: domain-list-community
+
+      - name: Setup Go 1.x.y
+        uses: actions/setup-go@v2
+        with:
+          go-version: ^1.18
+
+      - name: Generate
+        run: |
+          cd domain-list-community
+          echo "auvpn.net" >> ./data/category-vpnservices
+          echo "ausososo.click" >> ./data/category-vpnservices
+          echo "ausososo.club" >> ./data/category-vpnservices
+          echo "ausososo.online" >> ./data/category-vpnservices
+          echo "ausu.autos @cn" >> ./data/category-vpnservices
+          echo "ausu.beauty @cn" >> ./data/category-vpnservices
+          echo "ausu.hair @cn" >> ./data/category-vpnservices
+          echo "ausu.lol @cn" >> ./data/category-vpnservices
+          echo "ausu.mom @cn" >> ./data/category-vpnservices
+          echo "ausu.pics @cn" >> ./data/category-vpnservices
+          echo "ausu.quest @cn" >> ./data/category-vpnservices
+          echo "ausu.shop @cn" >> ./data/category-vpnservices
+          echo "ausu.skin @cn" >> ./data/category-vpnservices
+          echo "ausvc.link @cn" >> ./data/category-vpnservices
+          echo "full:api.inforun.work @cn" >> ./data/category-vpnservices
+          echo "full:repo.t5.work @cn" >> ./data/category-vpnservices
+          echo "splashtop.com @cn" >> ./data/category-vpnservices
+          
+          cd ../clash
+          go run main.go ../domain-list-community ../release/clash
+          wget --no-check-certificate -O ../release/clash/Country.mmdb https://raw.githubusercontent.com/yuumimi/geoip/release/Country.mmdb
+          wget --no-check-certificate -O ../release/clash/geoip.dat https://raw.githubusercontent.com/yuumimi/geoip/release/geoip.dat
+          wget --no-check-certificate -O ../release/clash/geosite.dat https://raw.githubusercontent.com/yuumimi/geosite/release/geosite.dat
+          cd ../loon
+          go run main.go ../domain-list-community ../release/loon
+          wget --no-check-certificate -O ../release/loon/cn.mmdb https://raw.githubusercontent.com/yuumimi/chnroutes2mmdb/release/chnroutes.mmdb
+          cd ../qx
+          go run main.go ../domain-list-community ../release/qx
+          wget --no-check-certificate -O ../release/qx/cn.mmdb https://raw.githubusercontent.com/yuumimi/chnroutes2mmdb/release/chnroutes.mmdb
+          cd ../surge
+          go run main.go ../domain-list-community ../release/surge
+          wget --no-check-certificate -O ../release/surge/cn.mmdb https://raw.githubusercontent.com/yuumimi/chnroutes2mmdb/release/chnroutes.mmdb
+
+          cd ..
+
+          cat ./release/clash/cn.txt | grep -Ev '^$|#|payload' > 1.tmp
+          cat ./release/clash/cn@\!cn.txt | grep -Ev '^$|#|payload' > 2.tmp
+          cat ./release/clash/geolocation-\!cn.txt | grep -Ev '^$|#|payload' > 3.tmp
+          cat ./release/clash/geolocation-\!cn@cn.txt | grep -Ev '^$|#|payload' > 4.tmp
+          cat 1.tmp 2.tmp 2.tmp | sort | uniq -u > 5.tmp
+          cat 5.tmp 4.tmp | sort | uniq > 6.tmp
+          cat 3.tmp 4.tmp 4.tmp | sort | uniq -u > 7.tmp
+          cat 7.tmp 2.tmp | sort | uniq > 8.tmp
+          sed -e '/+/d' 6.tmp > 61.tmp
+          cat 6.tmp 61.tmp | sort | uniq -u > 62.tmp
+          cat 61.tmp 62.tmp > 63.tmp
+          sed -e '/+/d' 8.tmp > 81.tmp
+          cat 8.tmp 81.tmp | sort | uniq -u > 82.tmp
+          cat 81.tmp 82.tmp > 83.tmp
+          sed '1i# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cn\n\n# Behavior: domain\n\npayload:' 63.tmp > ./release/clash/cn.txt
+          sed '1i# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/geolocation-!cn\n\n# Behavior: domain\n\npayload:' 83.tmp > ./release/clash/geolocation-\!cn.txt
+
+          cat ./release/loon/cn.txt | grep -Ev '^$|#' > 1.tmp
+          cat ./release/loon/cn@\!cn.txt | grep -Ev '^$|#' > 2.tmp
+          cat ./release/loon/geolocation-\!cn.txt | grep -Ev '^$|#' > 3.tmp
+          cat ./release/loon/geolocation-\!cn@cn.txt | grep -Ev '^$|#' > 4.tmp
+          cat 1.tmp 2.tmp 2.tmp | sort | uniq -u > 5.tmp
+          cat 5.tmp 4.tmp | sort | uniq > 6.tmp
+          cat 3.tmp 4.tmp 4.tmp | sort | uniq -u > 7.tmp
+          cat 7.tmp 2.tmp | sort | uniq > 8.tmp
+          sed '1i# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cn\n' 6.tmp > ./release/loon/cn.txt
+          sed '1i# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/geolocation-!cn\n' 8.tmp > ./release/loon/geolocation-\!cn.txt
+
+          cat ./release/qx/cn.txt | grep -Ev '^$|#' > 1.tmp
+          cat ./release/qx/cn@\!cn.txt | grep -Ev '^$|#' > 2.tmp
+          cat ./release/qx/geolocation-\!cn.txt | grep -Ev '^$|#' > 3.tmp
+          cat ./release/qx/geolocation-\!cn@cn.txt | grep -Ev '^$|#' > 4.tmp
+          cat 1.tmp 2.tmp 2.tmp | sort | uniq -u > 5.tmp
+          cat 5.tmp 4.tmp | sort | uniq > 6.tmp
+          cat 3.tmp 4.tmp 4.tmp | sort | uniq -u > 7.tmp
+          cat 7.tmp 2.tmp | sort | uniq > 8.tmp
+          sed -i 's/proxy$/direct/g' 6.tmp
+          sed '1i# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cn\n' 6.tmp > ./release/qx/cn.txt
+          sed '1i# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/geolocation-!cn\n' 8.tmp > ./release/qx/geolocation-\!cn.txt
+
+          cat ./release/surge/cn.txt | grep -Ev '^$|#' > 1.tmp
+          cat ./release/surge/cn@\!cn.txt | grep -Ev '^$|#' > 2.tmp
+          cat ./release/surge/geolocation-\!cn.txt | grep -Ev '^$|#' > 3.tmp
+          cat ./release/surge/geolocation-\!cn@cn.txt | grep -Ev '^$|#' > 4.tmp
+          cat 1.tmp 2.tmp 2.tmp | sort | uniq -u > 5.tmp
+          cat 5.tmp 4.tmp | sort | uniq > 6.tmp
+          cat 3.tmp 4.tmp 4.tmp | sort | uniq -u > 7.tmp
+          cat 7.tmp 2.tmp | sort | uniq > 8.tmp
+          sed -e '/^\./d' 6.tmp > 61.tmp
+          cat 6.tmp 61.tmp | sort | uniq -u > 62.tmp
+          cat 61.tmp 62.tmp > 63.tmp
+          sed -e '/^\./d' 8.tmp > 81.tmp
+          cat 8.tmp 81.tmp | sort | uniq -u > 82.tmp
+          cat 81.tmp 82.tmp > 83.tmp
+          sed '1i# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cn\n' 63.tmp > ./release/surge/cn.txt
+          sed '1i# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/geolocation-!cn\n' 83.tmp > ./release/surge/geolocation-\!cn.txt
+
+      - name: Get Commit Message
+        id: message
+        uses: actions/github-script@v3
+        env:
+          FULL_COMMIT_MESSAGE: '${{ github.event.head_commit.message }}'
+        with:
+          result-encoding: string
+          script: |
+            var message = `${process.env.FULL_COMMIT_MESSAGE}`;
+            core.info(message);
+            if (message != '') return message;
+            var time = new Date(Date.now()).toISOString();
+            core.info(time);
+            return `Generate at ${time}`;
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          exclude_assets: '.nojekyll'
+          publish_branch: release
+          publish_dir: ./release
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
+          full_commit_message: ${{ steps.message.outputs.result }}
+          force_orphan: true
+          enable_jekyll: true

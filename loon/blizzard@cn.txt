@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/blizzard
+
+DOMAIN,blz.nosdn.127.net
+DOMAIN,cn.actual.battle.net
+DOMAIN,di.res.netease.com
+DOMAIN,diablo3.nosdn.127.net
+DOMAIN,hearthstone.nosdn.127.net
+DOMAIN,heroes.nos.netease.com
+DOMAIN,overwatch.nosdn.127.net
+DOMAIN,sc2.nosdn.127.net
+DOMAIN,wow.nosdn.127.net
+DOMAIN-SUFFIX,battlenet.com.cn
+DOMAIN-SUFFIX,blizzard.cn
+DOMAIN-SUFFIX,blizzardgames.cn
+DOMAIN-SUFFIX,blzstatic.cn
+DOMAIN-SUFFIX,bnet.163.com
+DOMAIN-SUFFIX,wowchina.com

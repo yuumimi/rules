@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-browser-!cn
+
+.brave.com
+.bromite.org
+.chrome
+.chrome.com
+.chromium.org
+.firefox.com
+.firefoxusercontent.com
+.opera.com
+.vivaldi.com
+.waterfox.net

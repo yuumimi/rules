@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tex
+
+host-suffix, ctan.org, proxy
+host-suffix, latex-project.org, proxy
+host-suffix, miktex.org, proxy
+host-suffix, tug.org, proxy

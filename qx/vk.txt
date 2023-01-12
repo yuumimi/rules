@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vk
+
+host-suffix, mvk.com, proxy
+host-suffix, userapi.com, proxy
+host-suffix, vk-cdn.me, proxy
+host-suffix, vk-cdn.net, proxy
+host-suffix, vk-portal.net, proxy
+host-suffix, vk.cc, proxy
+host-suffix, vk.com, proxy
+host-suffix, vk.design, proxy
+host-suffix, vk.link, proxy
+host-suffix, vk.me, proxy
+host-suffix, vkcache.com, proxy
+host-suffix, vkgo.app, proxy
+host-suffix, vklive.app, proxy
+host-suffix, vkmessenger.app, proxy
+host-suffix, vkmessenger.com, proxy
+host-suffix, vkontakte.ru, proxy
+host-suffix, vkuseraudio.com, proxy
+host-suffix, vkuserlive.net, proxy
+host-suffix, vkuservideo.com, proxy
+host-suffix, vkuservideo.net, proxy

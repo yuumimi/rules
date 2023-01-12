@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ogury-ads
+
+DOMAIN-SUFFIX,ogury.co
+DOMAIN-SUFFIX,ogury.com
+DOMAIN-SUFFIX,presage.io

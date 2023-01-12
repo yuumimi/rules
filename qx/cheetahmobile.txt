@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cheetahmobile
+
+host-suffix, cmcm.com, proxy
+host-suffix, cmcmcdn.com, proxy
+host-suffix, duba.com, proxy
+host-suffix, duba.net, proxy
+host-suffix, ijinshan.com, proxy
+host-suffix, liebao.cn, proxy

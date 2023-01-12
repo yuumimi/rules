@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rockstar
+
+host, gamedownloads-rockstargames-com.akamaized.net, proxy
+host, media-rockstargames-com.akamaized.net, proxy
+host, videos-rockstargames-com.akamaized.net, proxy
+host-suffix, rockstargames.com, proxy
+host-suffix, rsg.sc, proxy

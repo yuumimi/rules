@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/flickr
+
+.flic.kr
+.flickr
+.flickr.com
+.flickr.net
+.staticflickr.com

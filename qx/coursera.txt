@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/coursera
+
+host-suffix, coursera-for-business.org, proxy
+host-suffix, coursera.community, proxy
+host-suffix, coursera.help, proxy
+host-suffix, coursera.org, proxy

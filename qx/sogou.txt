@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sogou
+
+host-suffix, go2map.com, proxy
+host-suffix, sogo.com, proxy
+host-suffix, sogou.com, proxy
+host-suffix, sogoucdn.com, proxy

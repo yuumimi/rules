@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-travel
+
+# Behavior: domain
+
+payload:
+  - "+.alibaba.ir"
+  - "+.flightio.com"
+  - "+.mrbilit.com"
+  - "+.snapp.cab"
+  - "+.snapp.ir"
+  - "+.snapp.site"
+  - "+.snapp.taxi"
+  - "+.snapp.tech"
+  - "+.tapsi.ir"

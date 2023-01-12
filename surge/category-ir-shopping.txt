@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-shopping
+
+.digi-kala.com
+.digikala.com
+.divar.ir
+.emalls.ir
+.esam.ir
+.sheypoor.com
+.snappfood.ir
+.torob.com
+.zanbil.ir

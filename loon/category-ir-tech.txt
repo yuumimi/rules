@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-tech
+
+DOMAIN-SUFFIX,afranet.com
+DOMAIN-SUFFIX,arvancloud.com
+DOMAIN-SUFFIX,arvancloud.ir
+DOMAIN-SUFFIX,asiatech.ir
+DOMAIN-SUFFIX,download.ir
+DOMAIN-SUFFIX,git.ir
+DOMAIN-SUFFIX,hiweb.ir
+DOMAIN-SUFFIX,irancell.ir
+DOMAIN-SUFFIX,iranserver.com
+DOMAIN-SUFFIX,mci.ir
+DOMAIN-SUFFIX,mihanwebhost.com
+DOMAIN-SUFFIX,mobinnet.ir
+DOMAIN-SUFFIX,myket.ir
+DOMAIN-SUFFIX,p30download.com
+DOMAIN-SUFFIX,p30download.ir
+DOMAIN-SUFFIX,parsonline.com
+DOMAIN-SUFFIX,pishgaman.net
+DOMAIN-SUFFIX,rightel.ir
+DOMAIN-SUFFIX,sarzamindownload.com
+DOMAIN-SUFFIX,shatel.ir
+DOMAIN-SUFFIX,soft98.ir
+DOMAIN-SUFFIX,taliya.ir
+DOMAIN-SUFFIX,tci.ir

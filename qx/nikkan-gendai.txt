@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nikkan-gendai
+
+host-suffix, gendai.net, proxy
+host-suffix, nikkan-gendai.com, proxy

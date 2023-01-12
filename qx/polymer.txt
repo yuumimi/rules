@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/polymer
+
+host-suffix, polymer-project.org, proxy
+host-suffix, polymerproject.org, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hinet-eca
+
+DOMAIN-SUFFIX,eca.hinet.net
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/suning
+
+host-suffix, cnsuning.com, proxy
+host-suffix, suning.com, proxy
+host-suffix, suningcloud.com, proxy
+host-suffix, suningestate.com, proxy
+host-suffix, suningholdings.com, proxy

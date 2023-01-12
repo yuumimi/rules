@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cowtransfer
+
+host-suffix, c-t.work, proxy
+host-suffix, cowtransfer.com, proxy

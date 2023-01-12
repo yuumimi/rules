@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hamivideo
+
+host, apl-hamivideo.cdn.hinet.net, proxy
+host, hamivideo.hinet.net, proxy
+host, mobilelive-hamivideo.cdn.hinet.net, proxy
+host, pvr-hamivideo.cdn.hinet.net, proxy
+host, scc.ott.hinet.net, proxy
+host, static-hamivideo.cdn.hinet.net, proxy
+host, tvcastlive-hamivideo.cdn.hinet.net, proxy
+host, weblive-hamivideo.cdn.hinet.net, proxy

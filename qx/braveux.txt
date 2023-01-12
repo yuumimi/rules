@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/braveux
+
+host-suffix, braventures.com, proxy
+host-suffix, braveux.com, proxy
+host-suffix, compass.is, proxy
+host-suffix, fightforux.com, proxy
+host-suffix, forthebadge.com, proxy
+host-suffix, stockagainstphotography.com, proxy

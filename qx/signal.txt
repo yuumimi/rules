@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/signal
+
+host-suffix, signal.art, proxy
+host-suffix, signal.org, proxy
+host-suffix, signalusers.org, proxy
+host-suffix, whispersystems.org, proxy

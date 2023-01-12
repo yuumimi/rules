@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-scholar
+
+# Behavior: domain
+
+payload:
+  - "+.ac.ir"
+  - "+.edu.ir"
+  - "+.jtt.ir"
+  - "+.sharif.ir"
+  - "+.srttu.edu"

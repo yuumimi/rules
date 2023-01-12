@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/readthedocs
+
+DOMAIN-SUFFIX,readthedocs-hosted.com
+DOMAIN-SUFFIX,readthedocs.com
+DOMAIN-SUFFIX,readthedocs.io
+DOMAIN-SUFFIX,readthedocs.org

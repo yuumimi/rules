@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hketgroup
+
+host-suffix, apexprint.com.hk, proxy
+host-suffix, eprc.com.hk, proxy
+host-suffix, etbc.com.hk, proxy
+host-suffix, etnet.com.cn, proxy
+host-suffix, etnet.com.hk, proxy
+host-suffix, etnetchina.com.cn, proxy
+host-suffix, etpress.com.hk, proxy
+host-suffix, ettrade.com.hk, proxy
+host-suffix, etwealth.com, proxy
+host-suffix, hket.com, proxy
+host-suffix, hketgroup.com, proxy
+host-suffix, ulifestyle.com.hk, proxy
+host-suffix, umagazine.com.hk, proxy

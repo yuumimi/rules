@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaikan
+
+host-suffix, kkmh.com, proxy
+host-suffix, kuaikanmanhua.com, proxy

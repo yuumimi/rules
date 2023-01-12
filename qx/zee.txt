@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zee
+
+host, zeenews-fonts.s3.amazonaws.com, proxy
+host-suffix, bgr.in, proxy
+host-suffix, bollywoodlife.com, proxy
+host-suffix, careerfundas.com, proxy
+host-suffix, cricketcountry.com, proxy
+host-suffix, dnai.in, proxy
+host-suffix, dnaindia.com, proxy
+host-suffix, earngeek.com, proxy
+host-suffix, ekhindi.com, proxy
+host-suffix, ind.sh, proxy
+host-suffix, india.com, proxy
+host-suffix, indiancolleges.com, proxy
+host-suffix, itripto.com, proxy
+host-suffix, oncars.in, proxy
+host-suffix, prepsure.com, proxy
+host-suffix, thehealthsite.com, proxy
+host-suffix, wionews.com, proxy
+host-suffix, yo1health.com, proxy
+host-suffix, zee.com, proxy
+host-suffix, zeebiz.com, proxy
+host-suffix, zeeentertainment.com, proxy
+host-suffix, zeenews.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netease
+
+host-suffix, analytics.163.com, proxy
+host-suffix, crash.163.com, proxy
+host-suffix, crashlytics.163.com, proxy
+host-suffix, g.163.com, proxy

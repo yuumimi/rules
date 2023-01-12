@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hetzner
+
+host-suffix, hetzner.cloud, proxy
+host-suffix, hetzner.com, proxy
+host-suffix, hetzner.de, proxy
+host-suffix, your-server.de, proxy

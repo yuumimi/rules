@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/oppo
+
+DOMAIN-SUFFIX,coloros.com
+DOMAIN-SUFFIX,finzfin.com
+DOMAIN-SUFFIX,heytap.com
+DOMAIN-SUFFIX,heytapcs.com
+DOMAIN-SUFFIX,heytapdownload.com
+DOMAIN-SUFFIX,heytapimage.com
+DOMAIN-SUFFIX,heytapmobi.com
+DOMAIN-SUFFIX,myoppo.com
+DOMAIN-SUFFIX,nearme.com.cn
+DOMAIN-SUFFIX,oppo.cn
+DOMAIN-SUFFIX,oppo.com
+DOMAIN-SUFFIX,oppo.mobi
+DOMAIN-SUFFIX,oppodigital.com
+DOMAIN-SUFFIX,oppoer.me
+DOMAIN-SUFFIX,oppomobile.com
+DOMAIN-SUFFIX,oppopay.com
+DOMAIN-SUFFIX,opposhop.cn
+DOMAIN-SUFFIX,realme.com
+DOMAIN-SUFFIX,realmebbs.com
+DOMAIN-SUFFIX,realmemobile.com

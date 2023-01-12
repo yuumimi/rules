@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dingtalk
+
+host-suffix, ddurl.to, proxy
+host-suffix, dingding.xin, proxy
+host-suffix, dingtalk.cn, proxy
+host-suffix, dingtalk.com, proxy
+host-suffix, dingtalk.net, proxy
+host-suffix, dingtalkapps.com, proxy
+host-suffix, laiwang.com, proxy
+host-suffix, lwurl.to, proxy

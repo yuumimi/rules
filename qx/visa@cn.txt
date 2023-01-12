@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/visa
+
+host-suffix, financialsoccer.com.cn, proxy
+host-suffix, practicalmoneyskills.cn, proxy
+host-suffix, practicalmoneyskills.com.cn, proxy
+host-suffix, visa.cn, proxy
+host-suffix, visa.com.cn, proxy
+host-suffix, visainfinite.cn, proxy
+host-suffix, visapay.cn, proxy
+host-suffix, visaplatinum.cn, proxy
+host-suffix, visaplatinum.com.cn, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ycombinator
+
+host-suffix, startupschool.org, proxy
+host-suffix, ycombinator.com, proxy

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wps
+
+host-suffix, 51dzt.com, proxy
+host-suffix, docer.com, proxy
+host-suffix, iciba.com, proxy
+host-suffix, kdocs.cn, proxy
+host-suffix, papocket.com, proxy
+host-suffix, wps.cn, proxy
+host-suffix, wps.com, proxy
+host-suffix, wpspdf.cn, proxy

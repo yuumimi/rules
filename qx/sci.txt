@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sci
+
+host-suffix, isiknowledge.com, proxy
+host-suffix, newisiknowledge.com, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tesla
+
+DOMAIN,tesla-cdn.thron.cn
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,tesla.com.cn
+DOMAIN-SUFFIX,teslamotors.cn
+DOMAIN-SUFFIX,teslamotors.com.cn

@@ -1,0 +1,37 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-bourse
+
+host-suffix, abanbroker.com, proxy
+host-suffix, arman-ati.com, proxy
+host-suffix, bahmanbroker.com, proxy
+host-suffix, bkisecurities.com, proxy
+host-suffix, bmibourse.com, proxy
+host-suffix, bourseiness.com, proxy
+host-suffix, bt-broker.com, proxy
+host-suffix, codal.ir, proxy
+host-suffix, danabroker.com, proxy
+host-suffix, emofid.com, proxy
+host-suffix, etminansahm.com, proxy
+host-suffix, farasahm.ir, proxy
+host-suffix, hafezbourse.com, proxy
+host-suffix, ifb.ir, proxy
+host-suffix, ime.co.ir, proxy
+host-suffix, irenex.ir, proxy
+host-suffix, irfarabi.com, proxy
+host-suffix, kmsco.ir, proxy
+host-suffix, maskanbourse.com, proxy
+host-suffix, mellatbroker.com, proxy
+host-suffix, nobitex.ir, proxy
+host-suffix, novinbourse.com, proxy
+host-suffix, oibroker.com, proxy
+host-suffix, omidsahm.com, proxy
+host-suffix, rbc.ir, proxy
+host-suffix, saderatbourse.com, proxy
+host-suffix, sahandbroker.com, proxy
+host-suffix, samanbourse.com, proxy
+host-suffix, sdbhouse.com, proxy
+host-suffix, sepahbourse.com, proxy
+host-suffix, sukuk.ir, proxy
+host-suffix, tadbirgar.com, proxy
+host-suffix, talarebourse.com, proxy
+host-suffix, tse.ir, proxy
+host-suffix, tsetmc.ir, proxy

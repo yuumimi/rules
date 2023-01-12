@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/eleme
+
+host-suffix, ele.me, proxy
+host-suffix, eleme.cn, proxy
+host-suffix, elemecdn.com, proxy

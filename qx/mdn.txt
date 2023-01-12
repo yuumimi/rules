@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mdn
+
+host, developer.mozilla.org, proxy
+host, interactive-examples.mdn.mozilla.net, proxy
+host, mdn.mozillademos.org, proxy
+host, media.prod.mdn.mozit.cloud, proxy

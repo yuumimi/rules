@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/startpage
+
+DOMAIN-SUFFIX,ixquick.com
+DOMAIN-SUFFIX,startpage.com

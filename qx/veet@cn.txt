@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/veet
+
+host-suffix, veet.cn, proxy
+host-suffix, veet.com.cn, proxy

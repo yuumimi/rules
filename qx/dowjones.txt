@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dowjones
+
+host-suffix, djreprints.com, proxy
+host-suffix, dowjones.com, proxy
+host-suffix, dowjones.io, proxy
+host-suffix, dowjoneson.com, proxy

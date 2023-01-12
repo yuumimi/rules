@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/2kgames
+
+host-suffix, 2k.com, proxy
+host-suffix, 2kcoretech.online, proxy
+host-suffix, 2kgames.com, proxy
+host-suffix, take2games.com, proxy

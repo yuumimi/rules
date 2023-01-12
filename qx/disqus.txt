@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/disqus
+
+host-suffix, disqus.com, proxy
+host-suffix, disquscdn.com, proxy
+host-suffix, disqusservice.com, proxy

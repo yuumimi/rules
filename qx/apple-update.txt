@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-update
+
+host-suffix, appldnld.apple.com, proxy
+host-suffix, gg.apple.com, proxy
+host-suffix, gnf-mdn.apple.com, proxy
+host-suffix, gnf-mr.apple.com, proxy
+host-suffix, gs.apple.com, proxy
+host-suffix, ig.apple.com, proxy
+host-suffix, mesu.apple.com, proxy
+host-suffix, ns.itunes.apple.com, proxy
+host-suffix, oscdn.apple.com, proxy
+host-suffix, osrecovery.apple.com, proxy
+host-suffix, skl.apple.com, proxy
+host-suffix, swcdn.apple.com, proxy
+host-suffix, swdist.apple.com, proxy
+host-suffix, swdownload.apple.com, proxy
+host-suffix, swpost.apple.com, proxy
+host-suffix, swscan.apple.com, proxy
+host-suffix, updates-http.cdn-apple.com, proxy
+host-suffix, updates.cdn-apple.com, proxy
+host-suffix, xp.apple.com, proxy

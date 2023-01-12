@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anime
+
+.9anime.cz
+.9anime.id
+.9anime.to
+.9anime.ws
+.animedao-tv.com
+.crunchyroll.com
+.funimation.com
+.gogo-load.com
+.gogoanime.vc
+.gogoanime.wiki
+.gogocdn.net
+.hidive.com
+.vrv.co

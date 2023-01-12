@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/woolite
+
+host-suffix, woolite.ca, proxy
+host-suffix, woolite.cn, proxy
+host-suffix, woolite.com, proxy
+host-suffix, woolite.com.cn, proxy
+host-suffix, woolite.pl, proxy
+host-suffix, woolite.us, proxy
+host-suffix, woolitecarpet.com, proxy

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fastly
+
+host-suffix, fastly-terrarium.com, proxy
+host-suffix, fastly.com, proxy
+host-suffix, fastly.net, proxy
+host-suffix, fastlylabs.com, proxy
+host-suffix, fastlylb.net, proxy
+host-suffix, zencdn.net, proxy

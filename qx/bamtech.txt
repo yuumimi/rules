@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bamtech
+
+host-suffix, bamgrid.com, proxy
+host-suffix, dmed.technology, proxy

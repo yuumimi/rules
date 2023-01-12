@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-payment
+
+.asanpardakht.com
+.asanpardakht.net
+.behpardakht.com
+.iranicard.ir
+.mydigipay.com
+.payping.ir
+.pec.ir
+.pep.co.ir
+.sadadpsp.ir
+.sep.ir
+.shaparak.ir
+.zarinpal.ir

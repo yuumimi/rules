@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ftv
+
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ftv.com.tw
+DOMAIN-SUFFIX,ftvnews.com.tw

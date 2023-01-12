@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lg
+
+DOMAIN,lgelectronics.122.2o7.net
+DOMAIN-SUFFIX,lg.com
+DOMAIN-SUFFIX,lgappstv.com
+DOMAIN-SUFFIX,lge.co.kr
+DOMAIN-SUFFIX,lge.com
+DOMAIN-SUFFIX,lgecareers.com
+DOMAIN-SUFFIX,lghvac.com
+DOMAIN-SUFFIX,lghvacstory.com
+DOMAIN-SUFFIX,lgrecyclingprogram.com
+DOMAIN-SUFFIX,lgsalesportal.com

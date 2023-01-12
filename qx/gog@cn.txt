@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gog
+
+host, gog.qtlglb.com, proxy
+host, gogalaxy.gog-statics.com, proxy
+host, menu-static.gog-statics.com, proxy
+host, productcard.gog-statics.com, proxy
+host, static-login.gog-statics.com, proxy
+host, www4-static.gog-statics.com, proxy

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/umeng
+
+# Behavior: domain
+
+payload:
+  - "+.mobmore.com"
+  - "+.umeng.com"
+  - "+.umengcloud.com"
+  - "+.umsns.com"
+  - "+.umtrack.com"
+  - "+.uyunad.com"
+  - "+.w.cnzz.com"
+  - "+.whalecloud.com"
+  - "+.z.gds.cnzz.com"

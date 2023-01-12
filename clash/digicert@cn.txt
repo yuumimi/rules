@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/digicert
+
+# Behavior: domain
+
+payload:
+  - "+.dcocsp.cn"
+  - "+.digicert.cn"

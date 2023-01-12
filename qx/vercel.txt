@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vercel
+
+host-suffix, err.sh, proxy
+host-suffix, hyper.is, proxy
+host-suffix, nextjs.org, proxy
+host-suffix, now.sh, proxy
+host-suffix, static.fun, proxy
+host-suffix, title.sh, proxy
+host-suffix, turborepo.org, proxy
+host-suffix, vercel-dns.com, proxy
+host-suffix, vercel-status.com, proxy
+host-suffix, vercel.app, proxy
+host-suffix, vercel.blog, proxy
+host-suffix, vercel.com, proxy
+host-suffix, vercel.events, proxy
+host-suffix, vercel.live, proxy
+host-suffix, vercel.pub, proxy
+host-suffix, vercel.sh, proxy
+host-suffix, vercel.store, proxy
+host-suffix, zeit-world.co.uk, proxy
+host-suffix, zeit-world.com, proxy
+host-suffix, zeit-world.net, proxy
+host-suffix, zeit-world.org, proxy
+host-suffix, zeit.co, proxy
+host-suffix, zeit.sh, proxy
+host-suffix, zeitworld.com, proxy

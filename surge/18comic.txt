@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/18comic
+
+.18comic.cc
+.18comic.company
+.18comic.org
+.18comic.vip
+.jmcomic.me
+.jmcomic.mobi
+.jmcomic.moe
+.jmcomic1.city
+.jmcomic1.me
+.jmcomic1.mobi
+.jmcomic2.moe

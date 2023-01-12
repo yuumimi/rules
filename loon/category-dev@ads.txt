@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-dev
+
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,unityads.unitychina.cn

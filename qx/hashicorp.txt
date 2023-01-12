@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hashicorp
+
+host-suffix, consul.io, proxy
+host-suffix, hashicorp.com, proxy
+host-suffix, nomadproject.io, proxy
+host-suffix, packer.io, proxy
+host-suffix, terraform.io, proxy
+host-suffix, vagrantcloud.com, proxy
+host-suffix, vagrantup.com, proxy
+host-suffix, vaultproject.io, proxy

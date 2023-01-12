@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pgyer
+
+host-suffix, frontjs.com, proxy
+host-suffix, pgyer.com, proxy
+host-suffix, tracup.com, proxy

@@ -1,0 +1,28 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netease
+
+host-suffix, 126.com, proxy
+host-suffix, 126.link, proxy
+host-suffix, 126.net, proxy
+host-suffix, 127.com, proxy
+host-suffix, 127.net, proxy
+host-suffix, 163.com, proxy
+host-suffix, 163cn.tv, proxy
+host-suffix, 163industry.com, proxy
+host-suffix, 163mail.com, proxy
+host-suffix, 163qiyukf.com, proxy
+host-suffix, 163yun.com, proxy
+host-suffix, 166.com, proxy
+host-suffix, 166.net, proxy
+host-suffix, haowu.link, proxy
+host-suffix, icourse163.org, proxy
+host-suffix, kaola.com, proxy
+host-suffix, lofter.com, proxy
+host-suffix, nease.net, proxy
+host-suffix, netease-inc.com, proxy
+host-suffix, netease.com, proxy
+host-suffix, netease.im, proxy
+host-suffix, qiyukf.com, proxy
+host-suffix, ydstatic.com, proxy
+host-suffix, yeah.net, proxy
+host-suffix, youdao.com, proxy
+host-suffix, zhuanzfx.com, proxy

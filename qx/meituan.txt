@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meituan
+
+host-suffix, dianping.com, proxy
+host-suffix, maoyan.com, proxy
+host-suffix, meituan.com, proxy
+host-suffix, meituan.net, proxy
+host-suffix, mtyun.com, proxy
+host-suffix, neixin.cn, proxy
+host-suffix, sankuai.com, proxy

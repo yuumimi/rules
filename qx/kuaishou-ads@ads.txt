@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaishou-ads
+
+host, log-sdk.gifshow.com, proxy
+host, wlog.kuaishou.com, proxy

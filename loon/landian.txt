@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/landian
+
+DOMAIN-SUFFIX,lancdn.com
+DOMAIN-SUFFIX,landian.vip
+DOMAIN-SUFFIX,landiannews.com
+DOMAIN-SUFFIX,wsoso.com

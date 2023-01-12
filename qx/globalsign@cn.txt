@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/globalsign
+
+host, crl2.alphassl.com, proxy
+host, ocsp.globalsign.com, proxy
+host, ocsp2.globalsign.com, proxy
+host, secure.globalsign.com, proxy
+host, secure2.alphassl.com, proxy

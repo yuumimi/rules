@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xhamster
+
+# Behavior: domain
+
+payload:
+  - "+.xhamster.com"
+  - "+.xhamster.desi"
+  - "+.xhamster.xxx"
+  - "+.xhamsterlive.com"
+  - "+.xhcdn.com"
+  - "widgets.stripst.com"

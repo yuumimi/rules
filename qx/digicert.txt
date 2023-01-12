@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/digicert
+
+host-suffix, dcocsp.cn, proxy
+host-suffix, digicert-cn.com, proxy
+host-suffix, digicert-validation.com, proxy
+host-suffix, digicert.cn, proxy
+host-suffix, digicert.com, proxy
+host-suffix, digitalcertvalidation.com, proxy
+host-suffix, freessl.com, proxy
+host-suffix, geotrust.com, proxy
+host-suffix, public-trust.com, proxy
+host-suffix, quovadisglobal.com, proxy
+host-suffix, rapidssl.com, proxy
+host-suffix, thawte.com, proxy
+host-suffix, thawte.de, proxy
+host-suffix, thawte.fr, proxy

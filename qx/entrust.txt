@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/entrust
+
+host-suffix, affirmtrust.com, proxy
+host-suffix, atos.net, proxy
+host-suffix, certificat2.com, proxy
+host-suffix, entrust.net, proxy
+host-suffix, entrustdatacard.com, proxy
+host-suffix, myatos.net, proxy
+host-suffix, trendmicro.com, proxy

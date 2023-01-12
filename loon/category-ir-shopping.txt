@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-shopping
+
+DOMAIN-SUFFIX,digi-kala.com
+DOMAIN-SUFFIX,digikala.com
+DOMAIN-SUFFIX,divar.ir
+DOMAIN-SUFFIX,emalls.ir
+DOMAIN-SUFFIX,esam.ir
+DOMAIN-SUFFIX,sheypoor.com
+DOMAIN-SUFFIX,snappfood.ir
+DOMAIN-SUFFIX,torob.com
+DOMAIN-SUFFIX,zanbil.ir

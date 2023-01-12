@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/letv-ads
+
+host-suffix, api.game.letvstore.com, proxy
+host-suffix, ark.letv.com, proxy
+host-suffix, dc.letv.com, proxy
+host-suffix, fz.letv.com, proxy
+host-suffix, g3.letv.com, proxy
+host-suffix, letv.allyes.com, proxy
+host-suffix, minisite.letv.com, proxy
+host-suffix, msg.m.letv.com, proxy
+host-suffix, n.mark.letv.com, proxy
+host-suffix, pro.hoye.letv.com, proxy
+host-suffix, pro.letv.com, proxy
+host-suffix, stat.letv.com, proxy
+host-suffix, static.app.m.letv.com, proxy

@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinatelecom
+
+host-suffix, 189.cn, proxy
+host-suffix, chinatelecom-h.com, proxy
+host-suffix, chinatelecom.com.cn, proxy
+host-suffix, chinatelecomglobal.com, proxy
+host-suffix, chntel.com, proxy
+host-suffix, ctexcel.ca, proxy
+host-suffix, ctexcel.com, proxy
+host-suffix, ctexcel.com.hk, proxy
+host-suffix, ctexcel.fr, proxy
+host-suffix, ctexcel.us, proxy

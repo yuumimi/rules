@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-vpnservices
+
+host, api.inforun.work, proxy
+host, repo.t5.work, proxy
+host-suffix, ausu.autos, proxy
+host-suffix, ausu.beauty, proxy
+host-suffix, ausu.hair, proxy
+host-suffix, ausu.lol, proxy
+host-suffix, ausu.mom, proxy
+host-suffix, ausu.pics, proxy
+host-suffix, ausu.quest, proxy
+host-suffix, ausu.shop, proxy
+host-suffix, ausu.skin, proxy
+host-suffix, ausvc.link, proxy
+host-suffix, splashtop.com, proxy

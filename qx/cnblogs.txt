@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnblogs
+
+host-suffix, blogjava.net, proxy
+host-suffix, cnblogs.com, proxy
+host-suffix, cnitblog.com, proxy
+host-suffix, cnweblog.com, proxy
+host-suffix, cppblog.com, proxy
+host-suffix, phpweblog.net, proxy
+host-suffix, teachblog.net, proxy

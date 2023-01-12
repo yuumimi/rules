@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hacpai
+
+DOMAIN-SUFFIX,hacpai.com
+DOMAIN-SUFFIX,ld246.com

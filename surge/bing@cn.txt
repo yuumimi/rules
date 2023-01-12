@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bing
+
+.bing.com.cn
+.cn.bing.com
+.cn.bing.net
+.ditu.live.com
+bj1.api.bing.com
+emoi-cncdn.bing.com

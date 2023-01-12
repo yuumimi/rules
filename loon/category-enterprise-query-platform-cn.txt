@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-enterprise-query-platform-cn
+
+DOMAIN-SUFFIX,aiqicha.baidu.com
+DOMAIN-SUFFIX,hongdunwang.com.cn
+DOMAIN-SUFFIX,jindidata.com
+DOMAIN-SUFFIX,qcc.com
+DOMAIN-SUFFIX,qichacha.com
+DOMAIN-SUFFIX,qichamao.com
+DOMAIN-SUFFIX,qixin.com
+DOMAIN-SUFFIX,qyyjt.cn
+DOMAIN-SUFFIX,tianyancha.com
+DOMAIN-SUFFIX,x315.com

@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-shopping
+
+host-suffix, digi-kala.com, proxy
+host-suffix, digikala.com, proxy
+host-suffix, divar.ir, proxy
+host-suffix, emalls.ir, proxy
+host-suffix, esam.ir, proxy
+host-suffix, sheypoor.com, proxy
+host-suffix, snappfood.ir, proxy
+host-suffix, torob.com, proxy
+host-suffix, zanbil.ir, proxy

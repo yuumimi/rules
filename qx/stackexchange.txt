@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/stackexchange
+
+host-suffix, askubuntu.com, proxy
+host-suffix, blogoverflow.com, proxy
+host-suffix, codeforaliving.io, proxy
+host-suffix, mathoverflow.net, proxy
+host-suffix, serverfault.com, proxy
+host-suffix, sstatic.net, proxy
+host-suffix, stackapps.com, proxy
+host-suffix, stackauth.com, proxy
+host-suffix, stackexchange.com, proxy
+host-suffix, stackmod.blog, proxy
+host-suffix, stackoverflow.blog, proxy
+host-suffix, stackoverflow.co, proxy
+host-suffix, stackoverflow.com, proxy
+host-suffix, stackoverflow.email, proxy
+host-suffix, stackoverflowbusiness.com, proxy
+host-suffix, stackoverflowcareers.com, proxy
+host-suffix, stacksnippets.net, proxy
+host-suffix, superuser.com, proxy
+host-suffix, tex-talk.net, proxy
+host-suffix, thesffblog.com, proxy

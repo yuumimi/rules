@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili2
+
+DOMAIN-SUFFIX,bili2.cc
+DOMAIN-SUFFIX,bili888.com
+DOMAIN-SUFFIX,bili999.com

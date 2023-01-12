@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-finance
+
+# Behavior: domain
+
+payload:
+  - "+.fxcorporate.com"
+  - "+.mql5.com"
+  - "+.tradingview.com"

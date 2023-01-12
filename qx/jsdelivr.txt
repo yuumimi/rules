@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jsdelivr
+
+host-suffix, esm.run, proxy
+host-suffix, jsdelivr.com, proxy
+host-suffix, jsdelivr.net, proxy

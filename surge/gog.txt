@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gog
+
+.gog-statics.com
+.gog.com
+gog.qtlglb.com

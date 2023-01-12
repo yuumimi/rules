@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/realtype
+
+DOMAIN-SUFFIX,realtype.co.jp
+DOMAIN-SUFFIX,realtype.jp

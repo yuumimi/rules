@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imagecurl
+
+# Behavior: domain
+
+payload:
+  - "+.imagecurl.com"
+  - "+.imagecurl.org"
+  - "+.imgcrl.org"

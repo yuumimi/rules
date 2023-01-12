@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jable
+
+host-suffix, cdnlab.live, proxy
+host-suffix, jable.tv, proxy

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-wiki-cn
+
+DOMAIN-SUFFIX,fgo.wiki
+DOMAIN-SUFFIX,huijistatic.com
+DOMAIN-SUFFIX,huijiwiki.com
+DOMAIN-SUFFIX,mbalib.com
+DOMAIN-SUFFIX,moegirl.org
+DOMAIN-SUFFIX,moegirl.org.cn

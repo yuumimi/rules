@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aerogard
+
+DOMAIN-SUFFIX,aerogard.com.au
+DOMAIN-SUFFIX,aerogard.com.cn
+DOMAIN-SUFFIX,aerogardcn.com

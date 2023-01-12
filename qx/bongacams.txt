@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bongacams
+
+host-suffix, bcicdn.com, proxy
+host-suffix, bcrncdn.com, proxy
+host-suffix, bongacams.com, proxy

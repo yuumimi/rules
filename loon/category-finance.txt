@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-finance
+
+DOMAIN-SUFFIX,fxcorporate.com
+DOMAIN-SUFFIX,mql5.com
+DOMAIN-SUFFIX,tradingview.com

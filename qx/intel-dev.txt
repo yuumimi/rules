@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/intel-dev
+
+host-suffix, 01.org, proxy
+host-suffix, acpica.com, proxy
+host-suffix, clearlinux.org, proxy
+host-suffix, hyperscan.io, proxy
+host-suffix, intellinuxgraphics.com, proxy
+host-suffix, intellinuxgraphics.net, proxy
+host-suffix, oneapi.com, proxy
+host-suffix, openvinotoolkit.org, proxy
+host-suffix, ospray.net, proxy
+host-suffix, ospray.org, proxy
+host-suffix, snap-telemetry.io, proxy

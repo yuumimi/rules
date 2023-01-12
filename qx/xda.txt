@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xda
+
+host-suffix, xda-cdn.com, proxy
+host-suffix, xda-developers.com, proxy

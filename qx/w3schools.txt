@@ -1,0 +1,3 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/w3schools
+
+host-suffix, w3schools.com, proxy

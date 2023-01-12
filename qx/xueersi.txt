@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xueersi
+
+host-suffix, speiyou.com, proxy
+host-suffix, xesimg.com, proxy
+host-suffix, xueersi.com, proxy

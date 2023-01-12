@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youzan
+
+.youzan.com
+.youzanyun.com
+.yzcdn.cn

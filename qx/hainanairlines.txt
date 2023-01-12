@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hainanairlines
+
+host-suffix, 10044.cn, proxy
+host-suffix, hainanairlines.com, proxy
+host-suffix, hnacargo.com, proxy
+host-suffix, hnair.com, proxy

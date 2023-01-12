@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/insider
+
+host-suffix, businessinsider.co.za, proxy
+host-suffix, businessinsider.com, proxy
+host-suffix, businessinsider.com.au, proxy
+host-suffix, businessinsider.com.pl, proxy
+host-suffix, businessinsider.de, proxy
+host-suffix, businessinsider.es, proxy
+host-suffix, businessinsider.fr, proxy
+host-suffix, businessinsider.in, proxy
+host-suffix, businessinsider.jp, proxy
+host-suffix, businessinsider.mx, proxy
+host-suffix, businessinsider.my, proxy
+host-suffix, businessinsider.nl, proxy
+host-suffix, businessinsider.sg, proxy
+host-suffix, insider-intelligence.com, proxy
+host-suffix, insider.com, proxy
+host-suffix, insiderintelligence.com, proxy

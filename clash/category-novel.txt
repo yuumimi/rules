@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-novel
+
+# Behavior: domain
+
+payload:
+  - "+.ptzwx.com"
+  - "+.quanben-xiaoshuo.com"
+  - "+.quanben.io"

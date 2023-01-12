@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bcy
+
+DOMAIN-SUFFIX,bcy.net
+DOMAIN-SUFFIX,bcyimg.com
+DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com

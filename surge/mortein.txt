@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mortein
+
+.mortein.cn
+.mortein.co.in
+.mortein.co.nz
+.mortein.co.za
+.mortein.com
+.mortein.com.au
+.mortein.com.br
+.mortein.com.ng
+.mortein.com.pk
+.morteincam.com
+.pifpafarabia.com

@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/iqiyi-ads
+
+host-suffix, a.ckm.iqiyi.com, proxy
+host-suffix, ad.m.iqiyi.com, proxy
+host-suffix, afp.iqiyi.com, proxy
+host-suffix, c.uaa.iqiyi.com, proxy
+host-suffix, cloudpush.iqiyi.com, proxy
+host-suffix, cm.passport.iqiyi.com, proxy
+host-suffix, cupid.iqiyi.com, proxy
+host-suffix, emoticon.sns.iqiyi.com, proxy
+host-suffix, gamecenter.iqiyi.com, proxy
+host-suffix, hotchat-im.iqiyi.com, proxy
+host-suffix, ifacelog.iqiyi.com, proxy
+host-suffix, mbdlog.iqiyi.com, proxy
+host-suffix, msg.71.am, proxy
+host-suffix, msg.video.qiyi.com, proxy
+host-suffix, msg2.video.qiyi.com, proxy
+host-suffix, policy.video.iqiyi.com, proxy
+host-suffix, yuedu.iqiyi.com, proxy

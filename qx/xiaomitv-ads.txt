@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomitv-ads
+
+host-suffix, ad.hpplay.cn, proxy
+host-suffix, ad.intl.xiaomi.com, proxy
+host-suffix, ad.mi.com, proxy
+host-suffix, ad.xiaomi.com, proxy
+host-suffix, ad1.xiaomi.com, proxy
+host-suffix, adeng.hpplay.cn, proxy
+host-suffix, admob.xiaomi.com, proxy
+host-suffix, adv.sec.intl.miui.com, proxy
+host-suffix, adv.sec.miui.com, proxy
+host-suffix, kuyun.com, proxy
+host-suffix, misc.in.duokanbox.com, proxy
+host-suffix, mistat.xiaomi.com, proxy
+host-suffix, tjqonline.cn, proxy
+host-suffix, tracking.miui.com, proxy
+host-suffix, umeng.com, proxy

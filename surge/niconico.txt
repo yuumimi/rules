@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/niconico
+
+.nico
+.nicodic.jp
+.nicomanga.jp
+.niconico.com
+.nicoseiga.jp
+.nicovideo.jp
+.nimg.jp
+.simg.jp

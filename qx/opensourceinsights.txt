@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/opensourceinsights
+
+host-suffix, deps.dev, proxy
+host-suffix, deps.info, proxy
+host-suffix, opensourceinsight.dev, proxy
+host-suffix, opensourceinsights.dev, proxy

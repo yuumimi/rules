@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/36kr
+
+host-suffix, 36dianping.com, proxy
+host-suffix, 36kr.com, proxy
+host-suffix, 36krcdn.com, proxy
+host-suffix, 36krcnd.com, proxy

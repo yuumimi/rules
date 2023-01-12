@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bcy
+
+.bcy.net
+.bcyimg.com
+.lf-rc1.yhgfb-cn-static.com

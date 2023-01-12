@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-cas
+
+DOMAIN,certs-lb.apple.com.akadns.net
+DOMAIN,certs.apple.com
+DOMAIN,crl-lb.apple.com.akadns.net
+DOMAIN,crl.apple.com
+DOMAIN,crl.pki.goog
+DOMAIN,crl2.alphassl.com
+DOMAIN,ocsp-lb.apple.com.akadns.net
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp.globalsign.com
+DOMAIN,ocsp.pki.goog
+DOMAIN,ocsp2-lb.apple.com.akadns.net
+DOMAIN,ocsp2.apple.com
+DOMAIN,ocsp2.globalsign.com
+DOMAIN,pki-goog.l.google.com
+DOMAIN,secure.globalsign.com
+DOMAIN,secure2.alphassl.com
+DOMAIN,www.microsoft.com
+DOMAIN-SUFFIX,dcocsp.cn
+DOMAIN-SUFFIX,digicert.cn
+DOMAIN-SUFFIX,oemssl.cn
+DOMAIN-SUFFIX,sectigochina.com
+DOMAIN-SUFFIX,sslcom.cn
+DOMAIN-SUFFIX,trust-provider.cn
+DOMAIN-SUFFIX,yahoo.cn
+DOMAIN-SUFFIX,yahoo.com.cn

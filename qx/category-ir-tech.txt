@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-tech
+
+host-suffix, afranet.com, proxy
+host-suffix, arvancloud.com, proxy
+host-suffix, arvancloud.ir, proxy
+host-suffix, asiatech.ir, proxy
+host-suffix, download.ir, proxy
+host-suffix, git.ir, proxy
+host-suffix, hiweb.ir, proxy
+host-suffix, irancell.ir, proxy
+host-suffix, iranserver.com, proxy
+host-suffix, mci.ir, proxy
+host-suffix, mihanwebhost.com, proxy
+host-suffix, mobinnet.ir, proxy
+host-suffix, myket.ir, proxy
+host-suffix, p30download.com, proxy
+host-suffix, p30download.ir, proxy
+host-suffix, parsonline.com, proxy
+host-suffix, pishgaman.net, proxy
+host-suffix, rightel.ir, proxy
+host-suffix, sarzamindownload.com, proxy
+host-suffix, shatel.ir, proxy
+host-suffix, soft98.ir, proxy
+host-suffix, taliya.ir, proxy
+host-suffix, tci.ir, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/taikang
+
+host-suffix, taikang.com, proxy
+host-suffix, taikanglife.com, proxy
+host-suffix, taikangzhijia.com, proxy
+host-suffix, tkhealthcare.com, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/applovin-ads
+
+host-suffix, applovin.com, proxy
+host-suffix, applvn.com, proxy

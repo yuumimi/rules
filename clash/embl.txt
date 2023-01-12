@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/embl
+
+# Behavior: domain
+
+payload:
+  - "+.ebi.ac.uk"
+  - "+.embl-hamburg.de"
+  - "+.embl.de"
+  - "+.embl.fr"
+  - "+.embl.it"
+  - "+.embl.org"
+  - "+.emblstatic.net"

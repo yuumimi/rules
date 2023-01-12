@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dlsite
+
+DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,ci-en.net
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,dlsite.com.tw
+DOMAIN-SUFFIX,dlsitestudio.com
+DOMAIN-SUFFIX,nijiyome.jp
+DOMAIN-SUFFIX,triokini.com

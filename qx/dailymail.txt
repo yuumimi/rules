@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dailymail
+
+host-suffix, anm.co.uk, proxy
+host-suffix, dailym.ai, proxy
+host-suffix, dailymail.co.uk, proxy
+host-suffix, dailymail.com, proxy
+host-suffix, dailymail.com.au, proxy
+host-suffix, dailymail.dk, proxy
+host-suffix, dailymailonline.com, proxy
+host-suffix, dmgmediaprivacy.co.uk, proxy
+host-suffix, mailhealth.com, proxy
+host-suffix, mailonline.co.uk, proxy
+host-suffix, mailonline.com, proxy
+host-suffix, mailonsunday.co.uk, proxy
+host-suffix, mailonsunday.ie, proxy
+host-suffix, metro.co.uk, proxy
+host-suffix, mol.im, proxy
+host-suffix, thisismoney.co.uk, proxy
+host-suffix, thismon.ee, proxy

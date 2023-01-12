@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bcy
+
+host-suffix, bcy.net, proxy
+host-suffix, bcyimg.com, proxy
+host-suffix, lf-rc1.yhgfb-cn-static.com, proxy

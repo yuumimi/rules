@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/applysquare
+
+# Behavior: domain
+
+payload:
+  - "+.applysquare.com"
+  - "+.applysquare.net"

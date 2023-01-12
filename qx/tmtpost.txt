@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tmtpost
+
+host-suffix, 72whys.com, proxy
+host-suffix, chaindd.com, proxy
+host-suffix, checkzeit.com, proxy
+host-suffix, tigeek.net.cn, proxy
+host-suffix, tivitv.com, proxy
+host-suffix, tmtpost.com, proxy
+host-suffix, tmtsmartlife.com, proxy
+host-suffix, tmtsmartrun.com, proxy

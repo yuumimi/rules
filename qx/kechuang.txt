@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kechuang
+
+host, kc.kexinshe.com, proxy
+host-suffix, kechuang.org, proxy

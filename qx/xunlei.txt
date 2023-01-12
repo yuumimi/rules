@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xunlei
+
+host-suffix, 00cdn.com, proxy
+host-suffix, 88cdn.com, proxy
+host-suffix, p2cdn.com, proxy
+host-suffix, sandai.net, proxy
+host-suffix, thundercdn.com, proxy
+host-suffix, thunderurl.com, proxy
+host-suffix, xunlei.com, proxy
+host-suffix, xycdn.com, proxy
+host-suffix, xycloud.com, proxy

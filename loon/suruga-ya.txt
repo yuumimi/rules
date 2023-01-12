@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/suruga-ya
+
+DOMAIN-SUFFIX,suruga-ya.com
+DOMAIN-SUFFIX,suruga-ya.jp

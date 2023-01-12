@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/farfetch
+
+.farfetch.cn
+.farfetch.com.cn
+.farfetch.net.cn

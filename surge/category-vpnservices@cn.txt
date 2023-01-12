@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-vpnservices
+
+.ausu.autos
+.ausu.beauty
+.ausu.hair
+.ausu.lol
+.ausu.mom
+.ausu.pics
+.ausu.quest
+.ausu.shop
+.ausu.skin
+.ausvc.link
+.splashtop.com
+api.inforun.work
+repo.t5.work

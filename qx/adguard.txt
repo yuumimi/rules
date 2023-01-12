@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/adguard
+
+host-suffix, adguard-vpn.com, proxy
+host-suffix, adguard.com, proxy

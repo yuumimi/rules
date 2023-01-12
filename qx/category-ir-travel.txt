@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-travel
+
+host-suffix, alibaba.ir, proxy
+host-suffix, flightio.com, proxy
+host-suffix, mrbilit.com, proxy
+host-suffix, snapp.cab, proxy
+host-suffix, snapp.ir, proxy
+host-suffix, snapp.site, proxy
+host-suffix, snapp.taxi, proxy
+host-suffix, snapp.tech, proxy
+host-suffix, tapsi.ir, proxy

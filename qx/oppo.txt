@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/oppo
+
+host-suffix, coloros.com, proxy
+host-suffix, finzfin.com, proxy
+host-suffix, heytap.com, proxy
+host-suffix, heytapcs.com, proxy
+host-suffix, heytapdownload.com, proxy
+host-suffix, heytapimage.com, proxy
+host-suffix, heytapmobi.com, proxy
+host-suffix, myoppo.com, proxy
+host-suffix, nearme.com.cn, proxy
+host-suffix, oppo.cn, proxy
+host-suffix, oppo.com, proxy
+host-suffix, oppo.mobi, proxy
+host-suffix, oppodigital.com, proxy
+host-suffix, oppoer.me, proxy
+host-suffix, oppomobile.com, proxy
+host-suffix, oppopay.com, proxy
+host-suffix, opposhop.cn, proxy
+host-suffix, realme.com, proxy
+host-suffix, realmebbs.com, proxy
+host-suffix, realmemobile.com, proxy

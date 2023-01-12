@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qcloud
+
+host-suffix, ap-bangkok.myqcloud.com, proxy
+host-suffix, ap-hongkong.myqcloud.com, proxy
+host-suffix, ap-jakarta.myqcloud.com, proxy
+host-suffix, ap-mumbai.myqcloud.com, proxy
+host-suffix, ap-seoul.myqcloud.com, proxy
+host-suffix, ap-singapore.myqcloud.com, proxy
+host-suffix, ap-tokyo.myqcloud.com, proxy
+host-suffix, ca.file.myqcloud.com, proxy
+host-suffix, cosca.myqcloud.com, proxy
+host-suffix, cosger.myqcloud.com, proxy
+host-suffix, coshk.myqcloud.com, proxy
+host-suffix, cossgp.myqcloud.com, proxy
+host-suffix, eu-frankfurt.myqcloud.com, proxy
+host-suffix, eu-moscow.myqcloud.com, proxy
+host-suffix, ger.file.myqcloud.com, proxy
+host-suffix, hk.file.myqcloud.com, proxy
+host-suffix, intltencentcos.com, proxy
+host-suffix, na-ashburn.myqcloud.com, proxy
+host-suffix, na-siliconvalley.myqcloud.com, proxy
+host-suffix, na-toronto.myqcloud.com, proxy
+host-suffix, sa-saopaulo.myqcloud.com, proxy
+host-suffix, sgp.file.myqcloud.com, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xvideos
+
+host-suffix, xvideos-cdn.com, proxy
+host-suffix, xvideos.com, proxy

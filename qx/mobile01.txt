@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mobile01
+
+host-suffix, 5i01.com, proxy
+host-suffix, mobile01.com, proxy

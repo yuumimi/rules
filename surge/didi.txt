@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/didi
+
+.didi-food.com
+.didiaustralia.blog
+.didichuxing.com
+.didiglobal.com
+.didimobility.co.jp
+.didistatic.com
+.xiaojukeji.com

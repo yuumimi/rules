@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bytedance-ads
+
+# Behavior: domain
+
+payload:
+  - "+.bds.snssdk.com"
+  - "+.ctobsnssdk.com"
+  - "+.dig.bdurl.net"
+  - "+.extlog.snssdk.com"
+  - "+.i.snssdk.com"
+  - "+.is.snssdk.com"
+  - "+.mcs.snssdk.com"
+  - "+.pangolin-sdk-toutiao.com"
+  - "+.pangolin.snssdk.com"
+  - "+.pglstatp-toutiao.com"
+  - "+.sf3-ttcdn-tos.pstatp.com"

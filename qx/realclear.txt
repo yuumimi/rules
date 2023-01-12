@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/realclear
+
+host-suffix, realclear.com, proxy
+host-suffix, realclearbooks.com, proxy
+host-suffix, realcleardefense.com, proxy
+host-suffix, realcleareducation.com, proxy
+host-suffix, realclearenergy.org, proxy
+host-suffix, realclearfoundation.org, proxy
+host-suffix, realclearhealth.com, proxy
+host-suffix, realclearhistory.com, proxy
+host-suffix, realclearinvestigations.com, proxy
+host-suffix, realclearlife.com, proxy
+host-suffix, realclearmarkets.com, proxy
+host-suffix, realclearpolicy.com, proxy
+host-suffix, realclearpolitics.com, proxy
+host-suffix, realclearpublicaffairs.com, proxy
+host-suffix, realclearreligion.org, proxy
+host-suffix, realclearscience.com, proxy
+host-suffix, realclearworld.com, proxy

@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-media
+
+DOMAIN-SUFFIX,aparat.com
+DOMAIN-SUFFIX,filimo.com
+DOMAIN-SUFFIX,irib.ir
+DOMAIN-SUFFIX,iribtv.ir
+DOMAIN-SUFFIX,irinn.ir
+DOMAIN-SUFFIX,jjtvn.ir
+DOMAIN-SUFFIX,namava.ir
+DOMAIN-SUFFIX,qurantv.ir
+DOMAIN-SUFFIX,radio.ir
+DOMAIN-SUFFIX,radioiran.ir
+DOMAIN-SUFFIX,radiojavan.ir
+DOMAIN-SUFFIX,radiomaaref.ir
+DOMAIN-SUFFIX,radiopayam.ir
+DOMAIN-SUFFIX,radioquran.ir
+DOMAIN-SUFFIX,radiotehran.ir
+DOMAIN-SUFFIX,radiovarzesh.ir
+DOMAIN-SUFFIX,telewebion.com
+DOMAIN-SUFFIX,tv3.ir
+DOMAIN-SUFFIX,tv5.ir
+DOMAIN-SUFFIX,tv7.ir

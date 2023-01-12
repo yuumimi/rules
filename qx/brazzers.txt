@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/brazzers
+
+host-suffix, brazzers.com, proxy
+host-suffix, brazzers.xxx, proxy
+host-suffix, brazzersnetwork.com, proxy

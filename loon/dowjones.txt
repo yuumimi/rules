@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dowjones
+
+DOMAIN-SUFFIX,djreprints.com
+DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,dowjones.io
+DOMAIN-SUFFIX,dowjoneson.com

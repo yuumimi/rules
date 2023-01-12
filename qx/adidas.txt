@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/adidas
+
+host-suffix, adidas.at, proxy
+host-suffix, adidas.be, proxy
+host-suffix, adidas.ch, proxy
+host-suffix, adidas.co.in, proxy
+host-suffix, adidas.co.uk, proxy
+host-suffix, adidas.com, proxy
+host-suffix, adidas.com.cn, proxy
+host-suffix, adidas.com.sa, proxy
+host-suffix, adidas.com.tw, proxy
+host-suffix, adidas.cz, proxy
+host-suffix, adidas.de, proxy
+host-suffix, adidas.dk, proxy
+host-suffix, adidas.hu, proxy
+host-suffix, adidas.ie, proxy
+host-suffix, adidas.it, proxy
+host-suffix, adidas.nl, proxy
+host-suffix, adidas.pl, proxy
+host-suffix, adidas.ru, proxy
+host-suffix, adidas.se, proxy

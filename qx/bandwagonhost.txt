@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bandwagonhost
+
+host-suffix, bandwagonhost.com, proxy
+host-suffix, bwh1.net, proxy
+host-suffix, bwh8.net, proxy
+host-suffix, bwh88.net, proxy

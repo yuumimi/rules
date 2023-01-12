@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aerogard
+
+host-suffix, aerogard.com.au, proxy
+host-suffix, aerogard.com.cn, proxy
+host-suffix, aerogardcn.com, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/setn
+
+host-suffix, setn.com, proxy
+host-suffix, settv.com.tw, proxy

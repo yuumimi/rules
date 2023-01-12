@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-pki
+
+host, certs-lb.apple.com.akadns.net, proxy
+host, certs.apple.com, proxy
+host, crl-lb.apple.com.akadns.net, proxy
+host, crl.apple.com, proxy
+host, ocsp-lb.apple.com.akadns.net, proxy
+host, ocsp.apple.com, proxy
+host, ocsp2-lb.apple.com.akadns.net, proxy
+host, ocsp2.apple.com, proxy

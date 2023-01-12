@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/microsoft-pki
+
+# Behavior: domain
+
+payload:
+  - "+.msocsp.com"
+  - "crl.microsoft.com"
+  - "mscrl.microsoft.com"
+  - "ocsp.microsoft.com"
+  - "oneocsp.microsoft.com"
+  - "www.microsoft.com"

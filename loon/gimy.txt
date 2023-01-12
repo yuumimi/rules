@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gimy
+
+DOMAIN-SUFFIX,gimy.cc
+DOMAIN-SUFFIX,gimy.co
+DOMAIN-SUFFIX,gimy.to
+DOMAIN-SUFFIX,gimy.tv

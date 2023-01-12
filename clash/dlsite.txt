@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dlsite
+
+# Behavior: domain
+
+payload:
+  - "+.chobit.cc"
+  - "+.ci-en.net"
+  - "+.dlsite.com"
+  - "+.dlsite.com.tw"
+  - "+.dlsitestudio.com"
+  - "+.nijiyome.jp"
+  - "+.triokini.com"

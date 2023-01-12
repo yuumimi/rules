@@ -1,0 +1,28 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mcdonalds
+
+host-suffix, 4008-517-517.cn, proxy
+host-suffix, aboutmcdonalds.com, proxy
+host-suffix, happymeal.co.nz, proxy
+host-suffix, happymeal.com.au, proxy
+host-suffix, mcd, proxy
+host-suffix, mcd.com, proxy
+host-suffix, mcdelivery.co.id, proxy
+host-suffix, mcdelivery.co.kr, proxy
+host-suffix, mcdelivery.com.au, proxy
+host-suffix, mcdelivery.com.my, proxy
+host-suffix, mcdelivery.com.sg, proxy
+host-suffix, mcdelivery.com.tw, proxy
+host-suffix, mcdindonesia.com, proxy
+host-suffix, mcdonalds, proxy
+host-suffix, mcdonalds.ca, proxy
+host-suffix, mcdonalds.co.uk, proxy
+host-suffix, mcdonalds.com, proxy
+host-suffix, mcdonalds.com.hk, proxy
+host-suffix, mcdonalds.hk, proxy
+host-suffix, mcdonalds.it, proxy
+host-suffix, mcdonalds.no, proxy
+host-suffix, mcdonalds.se, proxy
+host-suffix, mcdonaldsarabia.com, proxy
+host-suffix, mcdonaldsparties.co.nz, proxy
+host-suffix, mcdonaldsparties.com.au, proxy
+host-suffix, xn--qhrx81fxh2a.xn--55qx5d.hk, proxy

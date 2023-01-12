@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gemfury
+
+host-suffix, fury.blog, proxy
+host-suffix, fury.co, proxy
+host-suffix, fury.dev, proxy
+host-suffix, fury.help, proxy
+host-suffix, fury.io, proxy
+host-suffix, gemfury.com, proxy

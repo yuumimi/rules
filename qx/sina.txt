@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sina
+
+host-suffix, 97973.com, proxy
+host-suffix, adimages.sina.com.hk, proxy
+host-suffix, oascentral.sina.com.hk, proxy
+host-suffix, picself.cn, proxy
+host-suffix, sina.cn, proxy
+host-suffix, sina.com, proxy
+host-suffix, sina.com.cn, proxy
+host-suffix, sina.net, proxy
+host-suffix, sinaapp.com, proxy
+host-suffix, sinaedge.com, proxy
+host-suffix, sinaimg.cn, proxy
+host-suffix, sinaimg.com, proxy
+host-suffix, sinajs.cn, proxy
+host-suffix, sinajs.com, proxy
+host-suffix, t.cn, proxy
+host-suffix, videoself.cn, proxy
+host-suffix, wbimg.cn, proxy
+host-suffix, wbimg.com, proxy
+host-suffix, wcdn.cn, proxy
+host-suffix, weibo.cn, proxy
+host-suffix, weibo.com, proxy
+host-suffix, weibo.com.cn, proxy
+host-suffix, weibocdn.com, proxy
+host-suffix, xhaiwai.com, proxy

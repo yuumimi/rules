@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-travel
+
+DOMAIN-SUFFIX,alibaba.ir
+DOMAIN-SUFFIX,flightio.com
+DOMAIN-SUFFIX,mrbilit.com
+DOMAIN-SUFFIX,snapp.cab
+DOMAIN-SUFFIX,snapp.ir
+DOMAIN-SUFFIX,snapp.site
+DOMAIN-SUFFIX,snapp.taxi
+DOMAIN-SUFFIX,snapp.tech
+DOMAIN-SUFFIX,tapsi.ir

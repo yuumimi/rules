@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-scholar
+
+DOMAIN-SUFFIX,ac.ir
+DOMAIN-SUFFIX,edu.ir
+DOMAIN-SUFFIX,jtt.ir
+DOMAIN-SUFFIX,sharif.ir
+DOMAIN-SUFFIX,srttu.edu

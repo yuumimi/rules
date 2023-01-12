@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/icloud
+
+host-suffix, apple-icloud.cn, proxy
+host-suffix, appleicloud.cn, proxy
+host-suffix, icloud-apple.cn, proxy
+host-suffix, icloud.com.cn, proxy
+host-suffix, icloud.net.cn, proxy
+host-suffix, icloudapple.cn, proxy

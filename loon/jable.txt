@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jable
+
+DOMAIN-SUFFIX,cdnlab.live
+DOMAIN-SUFFIX,jable.tv

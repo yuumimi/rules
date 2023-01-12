@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tonec
+
+host-suffix, internetdownloadmanager.com, proxy
+host-suffix, registeridm.com, proxy
+host-suffix, tonec.com, proxy

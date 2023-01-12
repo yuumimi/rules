@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/costco
+
+host-suffix, costco-static.com, proxy
+host-suffix, costco.com, proxy
+host-suffix, costcobusinessdelivery.com, proxy

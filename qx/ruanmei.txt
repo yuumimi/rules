@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ruanmei
+
+host-suffix, 6655.com, proxy
+host-suffix, cooldock.com, proxy
+host-suffix, ithome.com, proxy
+host-suffix, lapin365.com, proxy
+host-suffix, ruanmei.com, proxy
+host-suffix, saayaa.com, proxy
+host-suffix, win7china.com, proxy
+host-suffix, win8china.com, proxy

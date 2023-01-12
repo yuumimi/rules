@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netlify
+
+.bitballoon.com
+.netlify.app
+.netlify.com
+.netlifystatus.com
+d33wubrfki0l68.cloudfront.net

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-wiki-cn
+
+host-suffix, fgo.wiki, proxy
+host-suffix, huijistatic.com, proxy
+host-suffix, huijiwiki.com, proxy
+host-suffix, mbalib.com, proxy
+host-suffix, moegirl.org, proxy
+host-suffix, moegirl.org.cn, proxy

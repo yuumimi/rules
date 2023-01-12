@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/douyu
+
+host-suffix, douyu.com, proxy
+host-suffix, douyu.tv, proxy
+host-suffix, douyucdn.cn, proxy
+host-suffix, douyucdn2.cn, proxy
+host-suffix, douyuscdn.com, proxy
+host-suffix, douyutv.com, proxy

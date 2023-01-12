@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/docker
+
+host-suffix, compose-spec.io, proxy
+host-suffix, docker.com, proxy
+host-suffix, docker.io, proxy

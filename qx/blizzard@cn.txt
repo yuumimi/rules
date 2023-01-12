@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/blizzard
+
+host, blz.nosdn.127.net, proxy
+host, cn.actual.battle.net, proxy
+host, di.res.netease.com, proxy
+host, diablo3.nosdn.127.net, proxy
+host, hearthstone.nosdn.127.net, proxy
+host, heroes.nos.netease.com, proxy
+host, overwatch.nosdn.127.net, proxy
+host, sc2.nosdn.127.net, proxy
+host, wow.nosdn.127.net, proxy
+host-suffix, battlenet.com.cn, proxy
+host-suffix, blizzard.cn, proxy
+host-suffix, blizzardgames.cn, proxy
+host-suffix, blzstatic.cn, proxy
+host-suffix, bnet.163.com, proxy
+host-suffix, wowchina.com, proxy

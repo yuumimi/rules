@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-food-cn
+
+DOMAIN-SUFFIX,3songshu.com
+DOMAIN-SUFFIX,517lppz.com
+DOMAIN-SUFFIX,haidilao.com
+DOMAIN-SUFFIX,heytea.com
+DOMAIN-SUFFIX,lppz.com
+DOMAIN-SUFFIX,lppzimg.com

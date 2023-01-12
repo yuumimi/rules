@@ -1,0 +1,31 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ctrip
+
+host-suffix, c-ctrip.com, proxy
+host-suffix, colinker.com, proxy
+host-suffix, ctrip.cn, proxy
+host-suffix, ctrip.co.id, proxy
+host-suffix, ctrip.co.kr, proxy
+host-suffix, ctrip.co.th, proxy
+host-suffix, ctrip.com, proxy
+host-suffix, ctrip.com.hk, proxy
+host-suffix, ctrip.my, proxy
+host-suffix, ctrip.sg, proxy
+host-suffix, ctripbiz.com, proxy
+host-suffix, ctripbuy.hk, proxy
+host-suffix, ctripteam.com, proxy
+host-suffix, doticloud.com, proxy
+host-suffix, easytrip.com, proxy
+host-suffix, hhtravel.com, proxy
+host-suffix, hhtravel.com.tw, proxy
+host-suffix, izuchebao.com, proxy
+host-suffix, lvtds.com, proxy
+host-suffix, shuntu.cn, proxy
+host-suffix, skysea.com, proxy
+host-suffix, suanya.cn, proxy
+host-suffix, suanya.com, proxy
+host-suffix, tieyou.com, proxy
+host-suffix, toptown.cn, proxy
+host-suffix, toursbms.com, proxy
+host-suffix, trip.com, proxy
+host-suffix, tripcdn.com, proxy
+host-suffix, vipdlt.com, proxy

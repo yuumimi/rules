@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yuewen
+
+host-suffix, hongxiu.com, proxy
+host-suffix, lrts.me, proxy
+host-suffix, qdmm.com, proxy
+host-suffix, qidian.com, proxy
+host-suffix, readnovel.com, proxy
+host-suffix, tingbook.com, proxy
+host-suffix, webnovel.com, proxy
+host-suffix, xs8.cn, proxy
+host-suffix, xxsy.net, proxy
+host-suffix, yuewen.com, proxy

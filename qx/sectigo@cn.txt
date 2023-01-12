@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sectigo
+
+host-suffix, oemssl.cn, proxy
+host-suffix, sectigochina.com, proxy
+host-suffix, trust-provider.cn, proxy

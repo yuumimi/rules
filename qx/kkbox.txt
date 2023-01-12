@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kkbox
+
+host-suffix, kfs.io, proxy
+host-suffix, kk.stream, proxy
+host-suffix, kkbox.com, proxy
+host-suffix, kkbox.com.tw, proxy
+host-suffix, kktix.com, proxy
+host-suffix, kktv.com.tw, proxy
+host-suffix, kktv.me, proxy

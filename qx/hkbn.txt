@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hkbn
+
+host-suffix, csifund.org, proxy
+host-suffix, hkbn.com.hk, proxy
+host-suffix, hkbn.net, proxy
+host-suffix, hkbnes.net, proxy
+host-suffix, jos.com, proxy
+host-suffix, speedtest.com.hk, proxy

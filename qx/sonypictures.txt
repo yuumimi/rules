@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sonypictures
+
+host-suffix, imageworks.com, proxy
+host-suffix, motionpictureser.com, proxy
+host-suffix, playshow.io, proxy
+host-suffix, playshowtv.com, proxy
+host-suffix, sonyclassics.com, proxy
+host-suffix, sonypictures.com, proxy
+host-suffix, sonypicturesanimation.com, proxy
+host-suffix, sonypicturesmuseum.com, proxy
+host-suffix, sonypicturesstudios.com, proxy
+host-suffix, sonypicturestelevision.com, proxy
+host-suffix, sonypicturestelevisiongames.com, proxy
+host-suffix, wheelpop.com, proxy
+host-suffix, wwtbam.com, proxy
+host-suffix, yourfantasybeginsnow.com, proxy

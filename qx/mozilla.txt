@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mozilla
+
+host, mdn.mozillademos.org, proxy
+host, media.prod.mdn.mozit.cloud, proxy
+host-suffix, bugzilla.org, proxy
+host-suffix, crates.io, proxy
+host-suffix, docs.rs, proxy
+host-suffix, extensionworkshop.com, proxy
+host-suffix, firefox.com, proxy
+host-suffix, firefoxusercontent.com, proxy
+host-suffix, getpocket.com, proxy
+host-suffix, mozilla.com, proxy
+host-suffix, mozilla.community, proxy
+host-suffix, mozilla.net, proxy
+host-suffix, mozilla.org, proxy
+host-suffix, rust-lang.org, proxy
+host-suffix, rustup.rs, proxy
+host-suffix, seamonkey-project.org, proxy
+host-suffix, thunderbird.net, proxy

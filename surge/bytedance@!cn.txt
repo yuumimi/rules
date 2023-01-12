@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bytedance
+
+.byteoversea.com
+.ibytedtos.com
+.ibyteimg.com
+.muscdn.com
+.musical.ly
+.tik-tokapi.com
+.tiktok.com
+.tiktokcdn.com
+.tiktokv.com
+p16-tiktokcdn-com.akamaized.net

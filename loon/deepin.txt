@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/deepin
+
+DOMAIN-SUFFIX,chinauos.com
+DOMAIN-SUFFIX,deepin.cn
+DOMAIN-SUFFIX,deepin.com
+DOMAIN-SUFFIX,deepin.io
+DOMAIN-SUFFIX,deepin.org
+DOMAIN-SUFFIX,uniontech.com

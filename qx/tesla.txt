@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tesla
+
+host, tesla-cdn.thron.cn, proxy
+host, tesla-cdn.thron.com, proxy
+host-suffix, solarcity.com, proxy
+host-suffix, tesla.cn, proxy
+host-suffix, tesla.com, proxy
+host-suffix, tesla.com.cn, proxy
+host-suffix, tesla.services, proxy
+host-suffix, teslaenergy.services, proxy
+host-suffix, teslamotors.cn, proxy
+host-suffix, teslamotors.com, proxy
+host-suffix, teslamotors.com.cn, proxy
+host-suffix, teslazta.net, proxy
+host-suffix, ts.la, proxy

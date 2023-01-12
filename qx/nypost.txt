@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nypost
+
+host-suffix, nypost.com, proxy
+host-suffix, nypost.help, proxy
+host-suffix, nypostreprints.com, proxy

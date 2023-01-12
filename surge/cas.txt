@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cas
+
+.csdl.ac.cn
+.iscas.ac.cn
+.las.ac.cn

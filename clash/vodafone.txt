@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vodafone
+
+# Behavior: domain
+
+payload:
+  - "+.myvodafone.com.au"
+  - "+.myvodafone.com.ws"
+  - "+.vodafone.co.uk"
+  - "+.vodafone.com"
+  - "+.vodafone.com.au"
+  - "+.vodafone.com.tr"
+  - "+.vodafone.de"
+  - "+.vodafone.it"

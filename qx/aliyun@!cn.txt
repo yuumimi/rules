@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aliyun
+
+host-suffix, oss-ap-northeast-1.aliyuncs.com, proxy
+host-suffix, oss-ap-northeast-2.aliyuncs.com, proxy
+host-suffix, oss-ap-south-1.aliyuncs.com, proxy
+host-suffix, oss-ap-southeast-1.aliyuncs.com, proxy
+host-suffix, oss-ap-southeast-2.aliyuncs.com, proxy
+host-suffix, oss-ap-southeast-3.aliyuncs.com, proxy
+host-suffix, oss-ap-southeast-5.aliyuncs.com, proxy
+host-suffix, oss-ap-southeast-6.aliyuncs.com, proxy
+host-suffix, oss-ap-southeast-7.aliyuncs.com, proxy
+host-suffix, oss-cn-hongkong.aliyuncs.com, proxy
+host-suffix, oss-eu-central-1.aliyuncs.com, proxy
+host-suffix, oss-eu-west-1.aliyuncs.com, proxy
+host-suffix, oss-me-east-1.aliyuncs.com, proxy
+host-suffix, oss-us-east-1.aliyuncs.com, proxy
+host-suffix, oss-us-west-1.aliyuncs.com, proxy

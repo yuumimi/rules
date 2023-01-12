@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sxl
+
+host-suffix, mysxl.cn, proxy
+host-suffix, sxl.cn, proxy
+host-suffix, sxlcdn.cn, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ctexcel
+
+host-suffix, ctexcel.ca, proxy
+host-suffix, ctexcel.com, proxy
+host-suffix, ctexcel.com.hk, proxy
+host-suffix, ctexcel.fr, proxy
+host-suffix, ctexcel.us, proxy

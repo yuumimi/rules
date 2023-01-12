@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-hospital-cn
+
+host, hospital.pku.edu.cn, proxy
+host, ss.bjmu.edu.cn, proxy
+host-suffix, fuwai.com, proxy
+host-suffix, pkuh6.cn, proxy
+host-suffix, puh3.net.cn, proxy

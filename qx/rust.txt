@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rust
+
+host-suffix, crates.io, proxy
+host-suffix, docs.rs, proxy
+host-suffix, rust-lang.org, proxy
+host-suffix, rustup.rs, proxy

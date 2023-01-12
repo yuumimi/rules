@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/scala
+
+host-suffix, scala-lang.org, proxy
+host-suffix, scala-sbt.org, proxy

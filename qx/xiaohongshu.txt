@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaohongshu
+
+host-suffix, xhscdn.com, proxy
+host-suffix, xiaohongshu.com, proxy

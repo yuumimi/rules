@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mudvod
+
+# Behavior: domain
+
+payload:
+  - "+.biggggg.com"
+  - "+.mudvod.tv"
+  - "+.nbys.tv"
+  - "+.nbys1.tv"
+  - "+.nbyy.tv"
+  - "+.newpppp.com"
+  - "+.nivod.tv"
+  - "+.vod360.net"

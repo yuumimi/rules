@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/steam
+
+host, xz.pphimalayanrt.com, proxy
+host-suffix, csgo.wmsj.cn, proxy
+host-suffix, dl.steam.clngaa.com, proxy
+host-suffix, dl.steam.ksyna.com, proxy
+host-suffix, dota2.wmsj.cn, proxy
+host-suffix, st.dl.bscstorage.net, proxy
+host-suffix, st.dl.eccdnx.com, proxy
+host-suffix, st.dl.pinyuncloud.com, proxy
+host-suffix, steamchina.com, proxy
+host-suffix, steampipe.steamcontent.tnkjmec.com, proxy
+host-suffix, steampowered.com.8686c.com, proxy
+host-suffix, steamstatic.com.8686c.com, proxy
+host-suffix, wmsjsteam.com, proxy

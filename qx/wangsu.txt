@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wangsu
+
+host-suffix, 51cdn.com, proxy
+host-suffix, 8686c.com, proxy
+host-suffix, cdn30.org, proxy
+host-suffix, chinanetcenter.com, proxy
+host-suffix, lxdns.com, proxy
+host-suffix, lxdns.info, proxy
+host-suffix, lxdns.org, proxy
+host-suffix, ourdvsss.com, proxy
+host-suffix, speedws.info, proxy
+host-suffix, speedws.org, proxy
+host-suffix, wangsu.com, proxy
+host-suffix, wscdns.com, proxy
+host-suffix, wscdns.info, proxy
+host-suffix, wscdns.org, proxy

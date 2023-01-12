@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/thetimes
+
+host-suffix, driving.co.uk, proxy
+host-suffix, mytimesplus.co.uk, proxy
+host-suffix, sportswomanoftheyear.co.uk, proxy
+host-suffix, sportswomenoftheyear.co.uk, proxy
+host-suffix, the-tls.co.uk, proxy
+host-suffix, thesundaytimes.co.uk, proxy
+host-suffix, thetimes.co.uk, proxy
+host-suffix, thetimes.ie, proxy
+host-suffix, timesmembership.com, proxy

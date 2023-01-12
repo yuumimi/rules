@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/paypal
+
+host-suffix, anfutong.cn, proxy
+host-suffix, anfutong.com.cn, proxy
+host-suffix, beibao.cn, proxy
+host-suffix, beibao.com.cn, proxy
+host-suffix, paypal.com.cn, proxy
+host-suffix, paypal.net.cn, proxy
+host-suffix, paypal.org.cn, proxy
+host-suffix, paypalcommunity.cn, proxy
+host-suffix, paypalhere.cn, proxy
+host-suffix, paypalhere.com.cn, proxy
+host-suffix, xn--bnq297cix3a.cn, proxy
+host-suffix, xoom.net.cn, proxy

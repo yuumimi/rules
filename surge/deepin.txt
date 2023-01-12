@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/deepin
+
+.chinauos.com
+.deepin.cn
+.deepin.com
+.deepin.io
+.deepin.org
+.uniontech.com

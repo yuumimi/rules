@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pchome
+
+host, ecapi-pchome.cdn.hinet.net, proxy
+host-suffix, ecimg.tw, proxy
+host-suffix, pchome.com.tw, proxy
+host-suffix, pchomeec.tw, proxy
+host-suffix, pchomeonline.com.tw, proxy
+host-suffix, pchomepay.com.tw, proxy
+host-suffix, pcloud.tw, proxy
+host-suffix, pcstore.com.tw, proxy
+host-suffix, piapp.com.tw, proxy
+host-suffix, rakuya.com.tw, proxy
+host-suffix, tagapie.com.tw, proxy
+host-suffix, toget.com.tw, proxy

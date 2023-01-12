@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-finance
+
+host-suffix, fxcorporate.com, proxy
+host-suffix, mql5.com, proxy
+host-suffix, tradingview.com, proxy

@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ir-gov
+
+DOMAIN-SUFFIX,adliran.ir
+DOMAIN-SUFFIX,bazresi.ir
+DOMAIN-SUFFIX,bia-judiciary.ir
+DOMAIN-SUFFIX,budget.imo.org.ir
+DOMAIN-SUFFIX,dadiran.ir
+DOMAIN-SUFFIX,dadsara.ir
+DOMAIN-SUFFIX,dadsetani.ir
+DOMAIN-SUFFIX,divan-edalat.ir
+DOMAIN-SUFFIX,dmk.ir
+DOMAIN-SUFFIX,doe.ir
+DOMAIN-SUFFIX,dolat.ir
+DOMAIN-SUFFIX,eadl.ir
+DOMAIN-SUFFIX,gov.ir
+DOMAIN-SUFFIX,hadafmandi.ir
+DOMAIN-SUFFIX,intamedia.ir
+DOMAIN-SUFFIX,irimo.ir
+DOMAIN-SUFFIX,mporg.ir
+DOMAIN-SUFFIX,parliran.ir
+DOMAIN-SUFFIX,president.ir
+DOMAIN-SUFFIX,refahi.ir
+DOMAIN-SUFFIX,sahamedalat.ir
+DOMAIN-SUFFIX,samanese.ir
+DOMAIN-SUFFIX,sccr.ir
+DOMAIN-SUFFIX,shora-gc.ir

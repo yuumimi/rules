@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/115
+
+host-suffix, 115.com, proxy
+host-suffix, 115cdn.com, proxy
+host-suffix, 115cdn.net, proxy
+host-suffix, 115img.com, proxy
+host-suffix, 116cd.cn, proxy
+host-suffix, 116cd.com, proxy
+host-suffix, 116cd.net, proxy
+host-suffix, anxia.com, proxy
+host-suffix, sq.cc, proxy

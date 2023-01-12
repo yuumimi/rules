@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/5ch
+
+DOMAIN-SUFFIX,2ch.net
+DOMAIN-SUFFIX,5ch.net

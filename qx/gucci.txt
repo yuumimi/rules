@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gucci
+
+host-suffix, chimeforchange.org, proxy
+host-suffix, gucci, proxy
+host-suffix, gucci.cn, proxy
+host-suffix, gucci.com, proxy
+host-suffix, guccimuseo.com, proxy
+host-suffix, guccitimeless.com, proxy
+host-suffix, regiongold.com, proxy

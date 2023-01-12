@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imperialcollege
+
+host, imperial.insendi.com, proxy
+host-suffix, ic.ac.uk, proxy
+host-suffix, imperial.ac.uk, proxy
+host-suffix, imperialbusiness.school, proxy

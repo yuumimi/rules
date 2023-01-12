@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-browser-!cn
+
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,bromite.org
+DOMAIN-SUFFIX,chrome
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefoxusercontent.com
+DOMAIN-SUFFIX,opera.com
+DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,waterfox.net

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fansta
+
+.fansta.me
+misa-prod.s3.ap-northeast-1.amazonaws.com

@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sci-hub
+
+# Behavior: domain
+
+payload:
+  - "+.sci-hub.ee"
+  - "+.sci-hub.it.nf"
+  - "+.sci-hub.mksa.top"
+  - "+.sci-hub.se"
+  - "+.sci-hub.st"
+  - "+.sci.hubg.org"

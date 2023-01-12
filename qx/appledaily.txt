@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/appledaily
+
+host-suffix, appledaily.com, proxy
+host-suffix, appledaily.com.hk, proxy
+host-suffix, appledaily.com.tw, proxy
+host-suffix, appledaily.hk, proxy
+host-suffix, applefruity.com, proxy
+host-suffix, applehealth.com.hk, proxy
+host-suffix, atnext.com, proxy
+host-suffix, bestmallawards.com, proxy
+host-suffix, deluxe.com.hk, proxy
+host-suffix, eracom.com.tw, proxy
+host-suffix, next.hk, proxy
+host-suffix, nextdigital.com.hk, proxy
+host-suffix, nextdigital.com.tw, proxy
+host-suffix, nextfilm.com.hk, proxy
+host-suffix, nextmag.com.tw, proxy
+host-suffix, nextmedia.com, proxy
+host-suffix, nextmedia.com.tw, proxy
+host-suffix, nextmgz.com, proxy
+host-suffix, nextplus.com.hk, proxy
+host-suffix, nexttv.com.tw, proxy
+host-suffix, nextwork.com.hk, proxy
+host-suffix, nextwork.com.tw, proxy
+host-suffix, nextwork.hk, proxy
+host-suffix, nextwork.tw, proxy
+host-suffix, nxtdig.com.hk, proxy
+host-suffix, nxtdig.com.tw, proxy
+host-suffix, omoplanet.com, proxy
+host-suffix, privilege.hk, proxy
+host-suffix, privilege.tw, proxy
+host-suffix, sharpdaily.tw, proxy
+host-suffix, tomonews.net, proxy
+host-suffix, twnextdigital.com, proxy

@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cmb
+
+host-suffix, 8008205555.cn, proxy
+host-suffix, 8008205555.com, proxy
+host-suffix, cignacmb-ipmi.com, proxy
+host-suffix, cignacmb.com, proxy
+host-suffix, cignacmbamc.com, proxy
+host-suffix, cmb-leasing.com, proxy
+host-suffix, cmbchina.biz, proxy
+host-suffix, cmbchina.cn, proxy
+host-suffix, cmbchina.com, proxy
+host-suffix, cmbi.com.hk, proxy
+host-suffix, cmbimg.cn, proxy
+host-suffix, cmbimg.com, proxy
+host-suffix, cmbt.cn, proxy
+host-suffix, cmbuat.com, proxy
+host-suffix, cmburl.cn, proxy
+host-suffix, cmbwinglungbank.com, proxy
+host-suffix, cmf.biz, proxy
+host-suffix, cmf.ltd, proxy
+host-suffix, cmfchina.com, proxy
+host-suffix, cmfunds.cn, proxy
+host-suffix, test-cignacmb.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ganji
+
+host-suffix, 58ganji-corp.com, proxy
+host-suffix, 58ganji.com, proxy
+host-suffix, ganji.com, proxy
+host-suffix, ganjistatic1.com, proxy

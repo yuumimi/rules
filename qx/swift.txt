@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/swift
+
+host-suffix, appleswift.com, proxy
+host-suffix, swift.org, proxy
+host-suffix, swiftui.cn, proxy
+host-suffix, swiftui.com.cn, proxy

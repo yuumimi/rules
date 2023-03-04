@@ -43,8 +43,11 @@ jobs:
           echo "ausu.shop @cn" >> ./data/category-vpnservices
           echo "ausu.skin @cn" >> ./data/category-vpnservices
           echo "ausvc.link @cn" >> ./data/category-vpnservices
+          echo "iijj.sbs @cn" >> ./data/category-vpnservices
           echo "full:api.inforun.work @cn" >> ./data/category-vpnservices
-          echo "full:repo.t5.work @cn" >> ./data/category-vpnservices
+          echo "full:api.bitbroker.cc @cn" >> ./data/category-vpnservices
+          echo "full:repo.o2cdn.icu @cn" >> ./data/category-vpnservices
+          echo "full:repo.ou-er.click @cn" >> ./data/category-vpnservices
           echo "splashtop.com @cn" >> ./data/category-vpnservices
           
           cd ../clash

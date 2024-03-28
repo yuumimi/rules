@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zhangtao
+
+host-suffix, accuratead.cn, proxy
+host-suffix, dutils.com, proxy
+host-suffix, mob.com, proxy

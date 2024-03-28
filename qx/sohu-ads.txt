@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sohu-ads
+
+host, 643108e7617ef.cdn.sohucs.com, proxy
+host, e8aeb8bbdbbd7.cdn.sohucs.com, proxy
+host-suffix, adnet.sohu.com, proxy
+host-suffix, ads.sohu.com, proxy
+host-suffix, adv-sv-show.focus.cn, proxy
+host-suffix, aty.sohu.com, proxy
+host-suffix, data.vod.itc.cn, proxy
+host-suffix, epro.sogou.com, proxy
+host-suffix, go.sohu.com, proxy
+host-suffix, golden1.sogou.com, proxy
+host-suffix, imp.optaim.com, proxy
+host-suffix, inte.sogou.com, proxy
+host-suffix, inte.sogoucdn.com, proxy
+host-suffix, lu.sogoucdn.com, proxy
+host-suffix, pv.sohu.com, proxy
+host-suffix, theta.sogoucdn.com, proxy
+host-suffix, track.sohu.com, proxy
+host-suffix, uranus.sogou.com, proxy
+host-suffix, v2.reachmax.cn, proxy

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bybit
+
+host, bybit-exchange.github.io, proxy
+host, bybit.ada.support, proxy
+host-suffix, byapis.com, proxy
+host-suffix, bybit.com, proxy
+host-suffix, bycbe.com, proxy
+host-suffix, bycsi.com, proxy
+host-suffix, bymj.io, proxy
+host-suffix, bytick.com, proxy

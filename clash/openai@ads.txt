@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openai
+
+# Behavior: domain
+
+payload:
+  - "o33249.ingest.sentry.io"
+  - "openaicom.imgix.net"

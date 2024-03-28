@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-dev
+
+host-suffix, researchkit.cn, proxy
+host-suffix, researchkit.com.cn, proxy
+host-suffix, swiftui.cn, proxy
+host-suffix, swiftui.com.cn, proxy

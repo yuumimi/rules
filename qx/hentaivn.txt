@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hentaivn
+
+host-suffix, hentaivn.de, proxy
+host-suffix, hentaivn.la, proxy
+host-suffix, hentaivn.net, proxy
+host-suffix, htvncdn.net, proxy

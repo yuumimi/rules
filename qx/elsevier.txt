@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/elsevier
+
+host-suffix, cell.com, proxy
+host-suffix, clinicalkey.com, proxy
+host-suffix, els-cdn.com, proxy
+host-suffix, elsevier-ae.com, proxy
+host-suffix, elsevier.com, proxy
+host-suffix, elsevier.io, proxy
+host-suffix, engineeringvillage.com, proxy
+host-suffix, evise.com, proxy
+host-suffix, fundinginstitutional.com, proxy
+host-suffix, knovel.com, proxy
+host-suffix, mendeley.com, proxy
+host-suffix, reaxys.com, proxy
+host-suffix, scival.com, proxy
+host-suffix, scopus.com, proxy

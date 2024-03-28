@@ -1,0 +1,31 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-media-ir
+
+# Behavior: domain
+
+payload:
+  - "+.aparat.com"
+  - "+.aparatkids.com"
+  - "+.aparatsport.com"
+  - "+.cinematicket.org"
+  - "+.filimo.com"
+  - "+.filimo.school"
+  - "+.filmnet.ir"
+  - "+.irib.ir"
+  - "+.iribtv.ir"
+  - "+.irinn.ir"
+  - "+.jjtvn.ir"
+  - "+.namava.ir"
+  - "+.qurantv.ir"
+  - "+.radio.ir"
+  - "+.radioiran.ir"
+  - "+.radiojavan.ir"
+  - "+.radiomaaref.ir"
+  - "+.radiopayam.ir"
+  - "+.radioquran.ir"
+  - "+.radiotehran.ir"
+  - "+.radiovarzesh.ir"
+  - "+.telewebion.com"
+  - "+.tmk.ir"
+  - "+.tv3.ir"
+  - "+.tv5.ir"
+  - "+.tv7.ir"

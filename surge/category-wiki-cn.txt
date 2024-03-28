@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-wiki-cn
+
+.fgo.wiki
+.huijistatic.com
+.huijiwiki.com
+.mbalib.com
+.moegirl.org
+.moegirl.org.cn

@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/epicgames
+
+host-suffix, battlebreakers.com, proxy
+host-suffix, eac-cdn.com, proxy
+host-suffix, easy.ac, proxy
+host-suffix, easyanticheat.net, proxy
+host-suffix, epicgames.com, proxy
+host-suffix, epicgames.dev, proxy
+host-suffix, fortnite.com, proxy
+host-suffix, paragon.com, proxy
+host-suffix, playparagon.com, proxy
+host-suffix, roborecall.com, proxy
+host-suffix, shadowcomplex.com, proxy
+host-suffix, spyjinx.com, proxy
+host-suffix, unrealengine.com, proxy
+host-suffix, unrealtournament.com, proxy

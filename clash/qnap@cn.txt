@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qnap
+
+# Behavior: domain
+
+payload:
+  - "+.myqnapcloud.cn"
+  - "+.qlinkto.cn"
+  - "+.qnap.com.cn"

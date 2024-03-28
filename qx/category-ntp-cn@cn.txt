@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ntp-cn
+
+host-suffix, cn.pool.ntp.org, proxy
+host-suffix, ntp.neu.edu.cn, proxy
+host-suffix, ntp.ntsc.ac.cn, proxy
+host-suffix, ntp.org.cn, proxy

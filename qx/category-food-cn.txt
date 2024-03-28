@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-food-cn
+
+host-suffix, 3songshu.com, proxy
+host-suffix, 517lppz.com, proxy
+host-suffix, haidilao.com, proxy
+host-suffix, heytea.com, proxy
+host-suffix, lppz.com, proxy
+host-suffix, lppzimg.com, proxy

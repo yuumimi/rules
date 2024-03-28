@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hkt
+
+host-suffix, 1010.com.hk, proxy
+host-suffix, esmarthealth.com, proxy
+host-suffix, hkcsl.com, proxy
+host-suffix, hkt-enterprise.com, proxy
+host-suffix, hkt-eye.com, proxy
+host-suffix, hkt.com, proxy
+host-suffix, hkteducation.com, proxy
+host-suffix, hktpremier.com, proxy
+host-suffix, hktshop.com, proxy
+host-suffix, netvigator.com, proxy
+host-suffix, theclub.com.hk, proxy
+host-suffix, uhub.com, proxy

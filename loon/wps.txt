@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wps
+
+DOMAIN-SUFFIX,51dzt.com
+DOMAIN-SUFFIX,docer.com
+DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,kdocs.cn
+DOMAIN-SUFFIX,papocket.com
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpspdf.cn

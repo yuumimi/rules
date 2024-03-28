@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/airchina
+
+host-suffix, airchina.com.cn, proxy
+host-suffix, airchinacargo.com, proxy

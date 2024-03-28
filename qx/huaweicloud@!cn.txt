@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/huaweicloud
+
+host-suffix, ae-ad-1.myhuaweicloud.com, proxy
+host-suffix, af-south-1.myhuaweicloud.com, proxy
+host-suffix, ap-southeast-1.myhuaweicloud.com, proxy
+host-suffix, ap-southeast-2.myhuaweicloud.com, proxy
+host-suffix, ap-southeast-3.myhuaweicloud.com, proxy
+host-suffix, ap-southeast-4.myhuaweicloud.com, proxy
+host-suffix, eu-west-0.myhuaweicloud.com, proxy
+host-suffix, eu-west-101.myhuaweicloud.com, proxy
+host-suffix, huaweicloud-dns.net, proxy
+host-suffix, huaweicloud-dns.org, proxy
+host-suffix, la-north-2.myhuaweicloud.com, proxy
+host-suffix, la-south-2.myhuaweicloud.com, proxy
+host-suffix, me-east-1.myhuaweicloud.com, proxy
+host-suffix, na-mexico-1.myhuaweicloud.com, proxy
+host-suffix, ru-northwest-2.myhuaweicloud.com, proxy
+host-suffix, sa-brazil-1.myhuaweicloud.com, proxy
+host-suffix, tr-west-1.myhuaweicloud.com, proxy

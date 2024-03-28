@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/archive
+
+# Behavior: domain
+
+payload:
+  - "+.4pcdn.org"
+  - "+.4plebs.org"
+  - "+.archive-it.org"
+  - "+.archive.org"
+  - "+.archive.ph"
+  - "+.archive.today"
+  - "+.openlibrary.org"

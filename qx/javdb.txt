@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/javdb
+
+host-suffix, javdb.com, proxy
+host-suffix, jdbimgs.com, proxy
+host-suffix, jdbstatic.com, proxy

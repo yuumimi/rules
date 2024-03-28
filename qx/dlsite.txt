@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dlsite
+
+host-suffix, chobit.cc, proxy
+host-suffix, ci-en.jp, proxy
+host-suffix, ci-en.net, proxy
+host-suffix, dlsite.com, proxy
+host-suffix, dlsite.com.tw, proxy
+host-suffix, dlsite.jp, proxy
+host-suffix, dlsitestudio.com, proxy
+host-suffix, nijiyome.jp, proxy
+host-suffix, triokini.com, proxy

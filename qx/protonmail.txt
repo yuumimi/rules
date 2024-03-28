@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/protonmail
+
+host-suffix, pm.me, proxy
+host-suffix, proton.me, proxy
+host-suffix, protonmail.ch, proxy
+host-suffix, protonmail.com, proxy
+host-suffix, protonstatus.com, proxy

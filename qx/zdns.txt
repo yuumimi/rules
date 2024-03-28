@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zdns
+
+host-suffix, zcmbc.com.cn, proxy
+host-suffix, zdns.cn, proxy
+host-suffix, zdns.net.cn, proxy
+host-suffix, zdns.org.cn, proxy
+host-suffix, zdnscloud.biz, proxy
+host-suffix, zdnscloud.cn, proxy
+host-suffix, zdnscloud.com, proxy
+host-suffix, zdnscloud.com.cn, proxy
+host-suffix, zdnscloud.info, proxy
+host-suffix, zdnscloud.net, proxy
+host-suffix, zdnscloud.net.cn, proxy
+host-suffix, zdnscloud.org.cn, proxy

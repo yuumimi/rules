@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dji
+
+host-suffix, dji.com, proxy
+host-suffix, dji.net, proxy
+host-suffix, djicdn.com, proxy
+host-suffix, djiops.com, proxy
+host-suffix, djiservice.org, proxy
+host-suffix, skypixel.com, proxy

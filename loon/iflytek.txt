@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/iflytek
+
+DOMAIN-SUFFIX,changyan.com
+DOMAIN-SUFFIX,ets100.com
+DOMAIN-SUFFIX,iflytek.com
+DOMAIN-SUFFIX,xunfei.cn
+DOMAIN-SUFFIX,xunfeixxj.com
+DOMAIN-SUFFIX,zhixue.com

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bootcss
+
+host-suffix, bootcdn.cn, proxy
+host-suffix, bootcss.com, proxy
+host-suffix, phpcomposer.com, proxy

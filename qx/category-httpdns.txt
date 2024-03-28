@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-httpdns
+
+host-suffix, dns.jd.com, proxy
+host-suffix, dns.weibo.cn, proxy
+host-suffix, dns.weixin.qq.com, proxy
+host-suffix, dns.weixin.qq.com.cn, proxy
+host-suffix, httpdns-api.aliyuncs.com, proxy
+host-suffix, httpdns-sc.aliyuncs.com, proxy
+host-suffix, httpdns.alicdn.com, proxy
+host-suffix, httpdns.baidu.com, proxy
+host-suffix, httpdns.baidubce.com, proxy
+host-suffix, httpdns.bilivideo.com, proxy
+host-suffix, httpdns.c.cdnhwc2.com, proxy
+host-suffix, httpdns.meituan.com, proxy
+host-suffix, httpdns.music.163.com, proxy
+host-suffix, httpdns.n.netease.com, proxy
+host-suffix, httpdns.push.oppomobile.com, proxy
+host-suffix, httpdns.volcengineapi.com, proxy
+host-suffix, httpsdns.baidu.com, proxy
+host-suffix, kuaishou.httpdns.pro, proxy
+host-suffix, lofter.httpdns.c.163.com, proxy
+host-suffix, music.httpdns.c.163.com, proxy

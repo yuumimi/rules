@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/visualarts
+
+host-suffix, abow.jp, proxy
+host-suffix, angelbeats.jp, proxy
+host-suffix, anigema.jp, proxy
+host-suffix, charlotte-anime.jp, proxy
+host-suffix, clannad-movie.jp, proxy
+host-suffix, heaven-burns-red.com, proxy
+host-suffix, kamisama-day.jp, proxy
+host-suffix, kamisama-maeda-lab.com, proxy
+host-suffix, koubaibu.jp, proxy
+host-suffix, litbus-anime.com, proxy
+host-suffix, product.co.jp, proxy
+host-suffix, rewrite-anime.tv, proxy
+host-suffix, visual-arts.jp, proxy
+host-suffix, visualarts.gr.jp, proxy

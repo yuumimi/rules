@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-enhance-gaming
+
+.heavenlywind.cc
+.lsplayer.com
+.rpglogs.cn
+.steampp.net
+.yeshen.com

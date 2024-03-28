@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openstreetmap
+
+host-suffix, openmaps.org, proxy
+host-suffix, openstreetmap.com, proxy
+host-suffix, openstreetmap.net, proxy
+host-suffix, openstreetmap.org, proxy
+host-suffix, openstreetmaps.org, proxy
+host-suffix, osm.org, proxy
+host-suffix, osmfoundation.org, proxy
+host-suffix, stateofthemap.com, proxy
+host-suffix, stateofthemap.org, proxy

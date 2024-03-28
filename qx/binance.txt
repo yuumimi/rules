@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/binance
+
+host-suffix, appsflayer.com, proxy
+host-suffix, binance.cc, proxy
+host-suffix, binance.charity, proxy
+host-suffix, binance.cloud, proxy
+host-suffix, binance.co, proxy
+host-suffix, binance.com, proxy
+host-suffix, binance.info, proxy
+host-suffix, binance.me, proxy
+host-suffix, binance.net, proxy
+host-suffix, binance.org, proxy
+host-suffix, binance.us, proxy
+host-suffix, binance.vision, proxy
+host-suffix, binanceapi.com, proxy
+host-suffix, binancecnt.com, proxy
+host-suffix, binancezh.be, proxy
+host-suffix, binancezh.biz, proxy
+host-suffix, binancezh.cc, proxy
+host-suffix, binancezh.co, proxy
+host-suffix, binancezh.com, proxy
+host-suffix, binancezh.info, proxy
+host-suffix, binancezh.ink, proxy
+host-suffix, binancezh.kim, proxy
+host-suffix, binancezh.link, proxy
+host-suffix, binancezh.live, proxy
+host-suffix, binancezh.mobi, proxy
+host-suffix, binancezh.net, proxy
+host-suffix, binancezh.pro, proxy
+host-suffix, binancezh.sh, proxy
+host-suffix, binancezh.top, proxy
+host-suffix, bnbstatic.com, proxy
+host-suffix, saasexch.com, proxy
+host-suffix, saasexch.io, proxy

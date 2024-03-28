@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sf-express
+
+DOMAIN-SUFFIX,feng1.com
+DOMAIN-SUFFIX,rongechain.com
+DOMAIN-SUFFIX,sf-airlines.com
+DOMAIN-SUFFIX,sf-cityrush.com
+DOMAIN-SUFFIX,sf-express.com
+DOMAIN-SUFFIX,sf-financial.com
+DOMAIN-SUFFIX,sf-saas.com
+DOMAIN-SUFFIX,sf-tech.com.cn
+DOMAIN-SUFFIX,sfcar.hk
+DOMAIN-SUFFIX,sffix.cn
+DOMAIN-SUFFIX,sfgy.org

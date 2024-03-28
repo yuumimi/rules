@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kemono
+
+DOMAIN-SUFFIX,cooer.su
+DOMAIN-SUFFIX,coomer.party
+DOMAIN-SUFFIX,kemono.party
+DOMAIN-SUFFIX,kemono.su

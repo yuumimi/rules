@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gannett
+
+host-suffix, gannett-cdn.com, proxy
+host-suffix, gannett.com, proxy
+host-suffix, gannettdigital.com, proxy
+host-suffix, usatoday.com, proxy
+host-suffix, usatodaynetworkservice.com, proxy

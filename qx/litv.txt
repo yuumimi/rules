@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/litv
+
+host-suffix, litv.tv, proxy
+host-suffix, litvfreepc.akamaized.net, proxy

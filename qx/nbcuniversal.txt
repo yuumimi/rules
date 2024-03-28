@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nbcuniversal
+
+host-suffix, cnbc.com, proxy
+host-suffix, cnbcfm.com, proxy
+host-suffix, dreamworks.com, proxy
+host-suffix, msnbc.com, proxy
+host-suffix, nbc.co, proxy
+host-suffix, nbc.com, proxy
+host-suffix, nbcnews.com, proxy
+host-suffix, nbcolympics.com, proxy
+host-suffix, nbcsports.com, proxy
+host-suffix, nbcuni.com, proxy
+host-suffix, nbcuniversal.com, proxy
+host-suffix, peacocktv.com, proxy
+host-suffix, s-nbcnews.com, proxy
+host-suffix, universalorlando.com, proxy
+host-suffix, universalpictures.com, proxy
+host-suffix, universalpicturesinternational.com, proxy
+host-suffix, universalstudioshollywood.com, proxy

@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-remote-control
+
+# Behavior: domain
+
+payload:
+  - "+.anydesk.com"
+  - "+.nomachine.com"
+  - "+.rustdesk.com"
+  - "+.teamviewer.cn"
+  - "+.teamviewer.com"
+  - "+.teamviewer.us"
+  - "client-teamviewer-com.trafficmanager.net"
+  - "teamviewer.com.cdn.cloudflare.net"

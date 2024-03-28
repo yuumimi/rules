@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinaunicom
+
+host-suffix, 10010.com, proxy
+host-suffix, 10010.com.cn, proxy
+host-suffix, 114menhu.com, proxy
+host-suffix, chinaunicom.com, proxy
+host-suffix, chinaunicom.com.cn, proxy
+host-suffix, chinaunicom.com.hk, proxy
+host-suffix, chinaunicomglobal.com, proxy
+host-suffix, mychinaunicom.com, proxy
+host-suffix, wo.cn, proxy
+host-suffix, wo.com.cn, proxy
+host-suffix, wo116114.com, proxy

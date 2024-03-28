@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ck101
+
+host-suffix, ck101.com, proxy
+host-suffix, ckcdn.com, proxy
+host-suffix, ckck.fun, proxy

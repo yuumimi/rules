@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ntp
+
+host-suffix, clock.isc.org, proxy
+host-suffix, ntp.fiord.ru, proxy
+host-suffix, ntp.nat.ms, proxy
+host-suffix, ntp.neu.edu.cn, proxy
+host-suffix, ntp.nic.cz, proxy
+host-suffix, ntp.nict.jp, proxy
+host-suffix, ntp.ntsc.ac.cn, proxy
+host-suffix, ntp.org.cn, proxy
+host-suffix, ntp.ripe.net, proxy
+host-suffix, ntp.se, proxy
+host-suffix, ntp.ufe.cz, proxy
+host-suffix, pool.ntp.org, proxy
+host-suffix, time.cloudflare.com, proxy
+host-suffix, time.nrc.ca, proxy
+host-suffix, time.windows.com, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/litv
+
+# Behavior: domain
+
+payload:
+  - "+.litv.tv"
+  - "+.litvfreepc.akamaized.net"

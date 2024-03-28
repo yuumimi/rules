@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi
+
+host-suffix, mi-img.com, proxy
+host-suffix, mi.com, proxy
+host-suffix, mifile.cn, proxy
+host-suffix, misc.in.duokanbox.com, proxy
+host-suffix, miui.com, proxy
+host-suffix, miwifi.com, proxy
+host-suffix, saxyit.com, proxy
+host-suffix, tjqonline.cn, proxy
+host-suffix, xiaomi.cn, proxy
+host-suffix, xiaomi.com, proxy
+host-suffix, xiaomi.net, proxy
+host-suffix, xiaomiev.com, proxy
+host-suffix, xiaomiyoupin.com, proxy

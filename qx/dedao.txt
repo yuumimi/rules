@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dedao
+
+host-suffix, biji.com, proxy
+host-suffix, ddmogo.com, proxy
+host-suffix, igetget.cn, proxy
+host-suffix, igetget.com, proxy
+host-suffix, luojilab.com, proxy
+host-suffix, mogoo.com, proxy
+host-suffix, sao.cn, proxy
+host-suffix, saolife.com, proxy

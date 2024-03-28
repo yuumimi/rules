@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple
+
+host-suffix, api-adservices.apple.com, proxy
+host-suffix, iad.apple.com, proxy
+host-suffix, iadsdk.apple.com, proxy
+host-suffix, qwapi.com, proxy

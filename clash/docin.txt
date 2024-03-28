@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/docin
+
+# Behavior: domain
+
+payload:
+  - "+.docin.com"
+  - "+.douding.cn"

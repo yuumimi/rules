@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sectigo
+
+host-suffix, aoc.cat, proxy
+host-suffix, catcert.cat, proxy
+host-suffix, enterprisessl.com, proxy
+host-suffix, hackerguardian.com, proxy
+host-suffix, incommon-rsa.org, proxy
+host-suffix, instantssl.com, proxy
+host-suffix, netsolssl.com, proxy
+host-suffix, oemssl.cn, proxy
+host-suffix, oemssl.cn.cdn.cloudflare.net, proxy
+host-suffix, optimumssl.com, proxy
+host-suffix, positivessl.com, proxy
+host-suffix, sectigo.com, proxy
+host-suffix, sectigochina.com, proxy
+host-suffix, sectigochina.com.cdn.cloudflare.net, proxy
+host-suffix, trust-provider.cn, proxy
+host-suffix, trust-provider.com, proxy
+host-suffix, usertrust.com, proxy

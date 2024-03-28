@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/itunes
+
+host-suffix, apple-itunes.cn, proxy
+host-suffix, itunes-apple.cn, proxy
+host-suffix, itunesapple.cn, proxy
+host-suffix, itunesradio.cn, proxy
+host-suffix, itunesradio.com.cn, proxy

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jd
+
+host-suffix, ads.union.jd.com, proxy
+host-suffix, c-nfa.jd.com, proxy
+host-suffix, cps.360buy.com, proxy
+host-suffix, img-x.jd.com, proxy
+host-suffix, jzt.jd.com, proxy
+host-suffix, stat.m.jd.com, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fedora
+
+host-suffix, fedoraforum.org, proxy
+host-suffix, fedoramagazine.org, proxy
+host-suffix, fedorapeople.org, proxy
+host-suffix, fedoraproject.org, proxy
+host-suffix, getfedora.org, proxy

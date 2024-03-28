@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/weiphone
+
+host-suffix, feng.com, proxy
+host-suffix, fengimg.com, proxy
+host-suffix, wfdata.club, proxy

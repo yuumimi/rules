@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hetzner
+
+DOMAIN-SUFFIX,hetzner.cloud
+DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,hetzner.de
+DOMAIN-SUFFIX,your-server.de

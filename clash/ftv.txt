@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ftv
+
+# Behavior: domain
+
+payload:
+  - "+.4gtv.tv"
+  - "+.ftv.com.tw"
+  - "+.ftvnews.com.tw"

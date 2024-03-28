@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/telegram
+
+host-suffix, cdn-telegram.org, proxy
+host-suffix, comments.app, proxy
+host-suffix, contest.com, proxy
+host-suffix, fragment.com, proxy
+host-suffix, graph.org, proxy
+host-suffix, quiz.directory, proxy
+host-suffix, t.me, proxy
+host-suffix, tdesktop.com, proxy
+host-suffix, telega.one, proxy
+host-suffix, telegra.ph, proxy
+host-suffix, telegram-cdn.org, proxy
+host-suffix, telegram.dog, proxy
+host-suffix, telegram.me, proxy
+host-suffix, telegram.org, proxy
+host-suffix, telegram.space, proxy
+host-suffix, telesco.pe, proxy
+host-suffix, tg.dev, proxy
+host-suffix, tx.me, proxy
+host-suffix, usercontent.dev, proxy

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/greatfire
+
+.applecensorship.com
+.freebrowser.org
+.freewechat.com
+.freeweibo.com
+.freezhihu.org
+.greatfire.org
+.pao-pao.net
+.wikiunblocked.org

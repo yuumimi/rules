@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/picacg
+
+host-suffix, bikaa.xyz, proxy
+host-suffix, bikac.xyz, proxy
+host-suffix, bikaios.xyz, proxy
+host-suffix, manhuabika.com, proxy
+host-suffix, picacgp.com, proxy
+host-suffix, picacgy.com, proxy
+host-suffix, picacn.xyz, proxy
+host-suffix, picacomic.com, proxy
+host-suffix, picacomic.xyz, proxy
+host-suffix, wikawika.xyz, proxy

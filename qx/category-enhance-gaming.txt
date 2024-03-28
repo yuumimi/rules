@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-enhance-gaming
+
+host-suffix, bluestacks.com, proxy
+host-suffix, fflogs.com, proxy
+host-suffix, heavenlywind.cc, proxy
+host-suffix, lsplayer.com, proxy
+host-suffix, maa.plus, proxy
+host-suffix, playcover.io, proxy
+host-suffix, playcover.workers.dev, proxy
+host-suffix, poi.moe, proxy
+host-suffix, prts.plus, proxy
+host-suffix, rpglogs.cn, proxy
+host-suffix, rpglogs.com, proxy
+host-suffix, steampp.net, proxy
+host-suffix, yeshen.com, proxy

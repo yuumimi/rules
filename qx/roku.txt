@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/roku
+
+host-suffix, fandango.com, proxy
+host-suffix, mgo-images.com, proxy
+host-suffix, mgo.com, proxy
+host-suffix, ravm.tv, proxy
+host-suffix, roku.com, proxy
+host-suffix, rokutime.com, proxy

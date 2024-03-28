@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/inshot
+
+# Behavior: domain
+
+payload:
+  - "+.inshot.cc"
+  - "+.inshot.com"
+  - "+.inshotapp.com"

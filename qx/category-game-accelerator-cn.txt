@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-game-accelerator-cn
+
+host-suffix, bohejiasuqi.com, proxy
+host-suffix, jiasu.bohe.com, proxy
+host-suffix, leigod.com, proxy
+host-suffix, tmjiasuqi.com, proxy
+host-suffix, uu.163.com, proxy
+host-suffix, xunyou.com, proxy

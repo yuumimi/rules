@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/taptap
+
+# Behavior: domain
+
+payload:
+  - "+.tapimg.com"
+  - "+.tapimg.net"
+  - "+.taptap.cn"
+  - "+.taptap.com"
+  - "+.taptap.io"
+  - "+.taptapdada.com"

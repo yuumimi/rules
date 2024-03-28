@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netease-ads
+
+DOMAIN-SUFFIX,analytics.163.com
+DOMAIN-SUFFIX,crash.163.com
+DOMAIN-SUFFIX,crashlytics.163.com
+DOMAIN-SUFFIX,g.163.com

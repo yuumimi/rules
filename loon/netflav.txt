@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netflav
+
+DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,netflav1.com
+DOMAIN-SUFFIX,netflav5.com

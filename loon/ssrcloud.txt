@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ssrcloud
+
+DOMAIN-SUFFIX,airport-gov-cn.com
+DOMAIN-SUFFIX,cnix-gov-cn.com
+DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com

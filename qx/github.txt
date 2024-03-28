@@ -1,0 +1,28 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/github
+
+host, github-cloud.s3.amazonaws.com, proxy
+host-suffix, atom.io, proxy
+host-suffix, blob.core.windows.net, proxy
+host-suffix, dependabot.com, proxy
+host-suffix, ghcr.io, proxy
+host-suffix, git.io, proxy
+host-suffix, github.blog, proxy
+host-suffix, github.com, proxy
+host-suffix, github.community, proxy
+host-suffix, github.dev, proxy
+host-suffix, github.io, proxy
+host-suffix, githubapp.com, proxy
+host-suffix, githubassets.com, proxy
+host-suffix, githubhackathon.com, proxy
+host-suffix, githubnext.com, proxy
+host-suffix, githubpreview.dev, proxy
+host-suffix, githubstatus.com, proxy
+host-suffix, githubuniverse.com, proxy
+host-suffix, githubusercontent.com, proxy
+host-suffix, myoctocat.com, proxy
+host-suffix, npm.community, proxy
+host-suffix, npmjs.com, proxy
+host-suffix, npmjs.org, proxy
+host-suffix, opensource.guide, proxy
+host-suffix, repo.new, proxy
+host-suffix, thegithubshop.com, proxy

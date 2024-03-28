@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tencent
+
+host-suffix, ad.qq.com, proxy
+host-suffix, ad.qun.qq.com, proxy
+host-suffix, adfilter.imtt.qq.com, proxy
+host-suffix, adping.qq.com, proxy
+host-suffix, adpm.app.qq.com, proxy
+host-suffix, adsclick.qq.com, proxy
+host-suffix, adsfile.qq.com, proxy
+host-suffix, adshmmsg.qq.com, proxy
+host-suffix, adslvfile.qq.com, proxy
+host-suffix, adslvseed.qq.com, proxy
+host-suffix, adsmind.apdcdn.tc.qq.com, proxy
+host-suffix, adsqqclick.qq.com, proxy
+host-suffix, adstestview.qq.com, proxy
+host-suffix, adsview.qq.com, proxy
+host-suffix, adsview2.qq.com, proxy
+host-suffix, adv.app.qq.com, proxy
+host-suffix, adver.qq.com, proxy
+host-suffix, btrace.qq.com, proxy
+host-suffix, e.qq.com, proxy
+host-suffix, log.tbs.qq.com, proxy
+host-suffix, mpush.qq.com, proxy
+host-suffix, mtrace.qq.com, proxy
+host-suffix, pgdt.gtimg.cn, proxy
+host-suffix, push.qq.com, proxy
+host-suffix, ugdtimg.com, proxy

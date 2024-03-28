@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zte
+
+host, bbs.ztedevices.com, proxy
+host, www.ztedevices.com, proxy
+host, ztedevices.com, proxy
+host-suffix, nubia.cn, proxy
+host-suffix, nubia.com, proxy
+host-suffix, redmagic.com, proxy
+host-suffix, zte.com.cn, proxy
+host-suffix, ztemall.com, proxy
+host-suffix, ztems.com, proxy

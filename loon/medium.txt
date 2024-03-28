@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/medium
+
+DOMAIN-SUFFIX,medium.com
+DOMAIN-SUFFIX,medium.systems

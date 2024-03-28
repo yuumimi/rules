@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zhangtao
+
+DOMAIN-SUFFIX,accuratead.cn
+DOMAIN-SUFFIX,dutils.com
+DOMAIN-SUFFIX,mob.com

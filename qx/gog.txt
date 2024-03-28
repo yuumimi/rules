@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gog
+
+host, gog.qtlglb.com, proxy
+host-suffix, gog-statics.com, proxy
+host-suffix, gog.com, proxy

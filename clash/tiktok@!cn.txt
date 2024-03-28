@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tiktok
+
+# Behavior: domain
+
+payload:
+  - "+.byteoversea.com"
+  - "+.muscdn.com"
+  - "+.musical.ly"
+  - "+.tik-tokapi.com"
+  - "+.tiktok.com"
+  - "+.tiktokcdn-us.com"
+  - "+.tiktokcdn.com"
+  - "+.tiktokd.net"
+  - "+.tiktokd.org"
+  - "+.tiktokv.com"
+  - "+.tiktokv.us"
+  - "+.tiktokw.us"
+  - "+.ttwstatic.com"
+  - "p16-tiktokcdn-com.akamaized.net"

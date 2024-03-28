@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-game-accelerator-cn
+
+.bohejiasuqi.com
+.jiasu.bohe.com
+.leigod.com
+.tmjiasuqi.com
+.uu.163.com
+.xunyou.com

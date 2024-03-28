@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vivo
+
+host-suffix, vivo.com, proxy
+host-suffix, vivo.com.cn, proxy
+host-suffix, vivoglobal.com, proxy

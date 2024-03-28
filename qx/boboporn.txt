@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/boboporn
+
+host-suffix, boboporn.com, proxy
+host-suffix, boboporn.net, proxy
+host-suffix, bobovip.cc, proxy
+host-suffix, sesez.com, proxy

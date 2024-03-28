@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-bank-ir
+
+host-suffix, agri-bank.com, proxy
+host-suffix, ansarbank.com, proxy
+host-suffix, bank-maskan.ir, proxy
+host-suffix, bankmellat.ir, proxy
+host-suffix, banksepah.ir, proxy
+host-suffix, bim.ir, proxy
+host-suffix, blubank.com, proxy
+host-suffix, bmi.ir, proxy
+host-suffix, bpi.ir, proxy
+host-suffix, bsi.ir, proxy
+host-suffix, cbi.ir, proxy
+host-suffix, day24.ir, proxy
+host-suffix, edbi.ir, proxy
+host-suffix, enbank.ir, proxy
+host-suffix, ghbi.ir, proxy
+host-suffix, hibank24.com, proxy
+host-suffix, izbank.ir, proxy
+host-suffix, karafarinbank.ir, proxy
+host-suffix, mebank.ir, proxy
+host-suffix, mresalat.ir, proxy
+host-suffix, parsian-bank.com, proxy
+host-suffix, postbank.ir, proxy
+host-suffix, qmb.ir, proxy
+host-suffix, rb24.ir, proxy
+host-suffix, refah-bank.ir, proxy
+host-suffix, rqbank.ir, proxy
+host-suffix, sb24.com, proxy
+host-suffix, sbank.ir, proxy
+host-suffix, shahr-bank.ir, proxy
+host-suffix, shaparak.ir, proxy
+host-suffix, sinabank.ir, proxy
+host-suffix, tejaratbank.ir, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/flatpak
+
+host-suffix, flathub.org, proxy
+host-suffix, flatpak.org, proxy

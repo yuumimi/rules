@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/umeng
+
+.alog.umeng.com
+.alog.umengcloud.com
+.w.cnzz.com
+.z.gds.cnzz.com

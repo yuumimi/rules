@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/readthedocs
+
+host-suffix, readthedocs-hosted.com, proxy
+host-suffix, readthedocs.com, proxy
+host-suffix, readthedocs.io, proxy
+host-suffix, readthedocs.org, proxy

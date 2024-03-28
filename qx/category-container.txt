@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-container
+
+host-suffix, azurecr.io, proxy
+host-suffix, docker.io, proxy
+host-suffix, ecr.aws, proxy
+host-suffix, gcr.io, proxy
+host-suffix, ghcr.io, proxy
+host-suffix, mcr.microsoft.com, proxy
+host-suffix, quay.io, proxy
+host-suffix, registry.gitlab.com, proxy
+host-suffix, registry.k8s.io, proxy

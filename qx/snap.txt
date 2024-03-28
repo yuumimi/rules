@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/snap
+
+host, impala-media-production.s3.amazonaws.com, proxy
+host-suffix, sc-cdn.net, proxy
+host-suffix, snap-dev.net, proxy
+host-suffix, snap.com, proxy
+host-suffix, snapads.com, proxy
+host-suffix, snapchat.com, proxy
+host-suffix, snapkit.co, proxy

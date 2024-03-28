@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/firebase
+
+# Behavior: domain
+
+payload:
+  - "firebase-settings.crashlytics.com"

@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/intel-dev
+
+.01.org
+.acpica.com
+.clearlinux.org
+.hyperscan.io
+.intellinuxgraphics.com
+.intellinuxgraphics.net
+.oneapi.com
+.openvinotoolkit.org
+.ospray.net
+.ospray.org
+.snap-telemetry.io

@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hooligapps
+
+# Behavior: domain
+
+payload:
+  - "+.cuntempire.com"
+  - "+.cuntwars.com"
+  - "+.dirtyleague.com"
+  - "+.faptitans.com"
+  - "+.hooligapps.com"
+  - "+.slotbitches.com"
+  - "+.smutstone.com"
+  - "+.townofsins.com"

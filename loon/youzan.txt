@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youzan
+
+DOMAIN-SUFFIX,youzan.com
+DOMAIN-SUFFIX,youzanyun.com
+DOMAIN-SUFFIX,yzcdn.cn

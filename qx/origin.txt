@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/origin
+
+host, cloudsync-prod.s3.amazonaws.com, proxy
+host, origin-a.akamaihd.net, proxy
+host, rtm.tnt-ea.com, proxy
+host, ssl-lvlt.cdn.ea.com, proxy
+host-suffix, dawngate.com, proxy
+host-suffix, eastore.com, proxy
+host-suffix, lordofultima.com, proxy
+host-suffix, origin.com, proxy
+host-suffix, origin.tv, proxy

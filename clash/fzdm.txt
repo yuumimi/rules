@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fzdm
+
+# Behavior: domain
+
+payload:
+  - "+.fffdm.com"
+  - "+.fzdm.com"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hinet
+
+host-suffix, cht.com.tw, proxy
+host-suffix, chtf.org.tw, proxy
+host-suffix, emome.net, proxy
+host-suffix, gtlsca.nat.gov.tw, proxy
+host-suffix, hinet.net, proxy
+host-suffix, xuite.net, proxy

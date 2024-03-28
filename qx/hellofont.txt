@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hellofont
+
+host, hellofontpreview.oss-cn-beijing.aliyuncs.com, proxy
+host, hellowebfonts.oss-cn-beijing.aliyuncs.com, proxy
+host-suffix, hellofont.cn, proxy
+host-suffix, hellowebfont.com, proxy

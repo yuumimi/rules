@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lastfm
+
+# Behavior: domain
+
+payload:
+  - "+.last.fm"
+  - "lastfm.freetls.fastly.net"

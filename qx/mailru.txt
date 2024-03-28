@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mailru
+
+host-suffix, imgsmail.ru, proxy
+host-suffix, mail.ru, proxy
+host-suffix, mycdn.me, proxy

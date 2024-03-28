@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/whatsapp-ads
+
+# Behavior: domain
+
+payload:
+  - "+.graph.whatsapp.com"
+  - "+.graph.whatsapp.net"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/taptap
+
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,tapimg.net
+DOMAIN-SUFFIX,taptap.cn
+DOMAIN-SUFFIX,taptap.com
+DOMAIN-SUFFIX,taptap.io
+DOMAIN-SUFFIX,taptapdada.com

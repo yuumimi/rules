@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tutanota
+
+host-suffix, tuta.io, proxy
+host-suffix, tutanota.com, proxy

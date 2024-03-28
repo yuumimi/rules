@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/deepin
+
+host-suffix, chinauos.com, proxy
+host-suffix, deepin.cn, proxy
+host-suffix, deepin.com, proxy
+host-suffix, deepin.io, proxy
+host-suffix, deepin.org, proxy
+host-suffix, uniontech.com, proxy

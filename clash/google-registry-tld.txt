@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google-registry-tld
+
+# Behavior: domain
+
+payload:
+  - "+.app"
+  - "+.boo"
+  - "+.dad"
+  - "+.day"
+  - "+.dev"
+  - "+.esq"
+  - "+.foo"
+  - "+.how"
+  - "+.ing"
+  - "+.meme"
+  - "+.mov"
+  - "+.new"
+  - "+.nexus"
+  - "+.page"
+  - "+.phd"
+  - "+.prof"
+  - "+.rsvp"
+  - "+.soy"
+  - "+.xn--q9jyb4c"
+  - "+.zip"

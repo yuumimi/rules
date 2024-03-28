@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/2kgames
+
+.2k.com
+.2kcoretech.online
+.2kgames.com
+.take2games.com

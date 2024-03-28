@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-enterprise-query-platform-cn
+
+host-suffix, aiqicha.baidu.com, proxy
+host-suffix, hongdunwang.com.cn, proxy
+host-suffix, jindidata.com, proxy
+host-suffix, qcc.com, proxy
+host-suffix, qichacha.com, proxy
+host-suffix, qichamao.com, proxy
+host-suffix, qixin.com, proxy
+host-suffix, qyyjt.cn, proxy
+host-suffix, tianyancha.com, proxy
+host-suffix, x315.com, proxy

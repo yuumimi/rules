@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aws-cn
+
+host-suffix, a2z.org.cn, proxy
+host-suffix, amazonaws.cn, proxy
+host-suffix, amazonaws.com.cn, proxy
+host-suffix, amazonwebservices.com.cn, proxy
+host-suffix, amazonworkdocs.cn, proxy
+host-suffix, amazonworkdocs.com.cn, proxy
+host-suffix, asfiovnxocqpcry.com.cn, proxy
+host-suffix, aws-border.cn, proxy
+host-suffix, aws-icp-domain-manager.cn, proxy
+host-suffix, awsapps.cn, proxy
+host-suffix, awsapps.com.cn, proxy
+host-suffix, awsstatic.cn, proxy
+host-suffix, cloudfront-cn.net, proxy
+host-suffix, cloudfront-test.cn, proxy
+host-suffix, cloudfront.cn, proxy
+host-suffix, nwcdcloud.cn, proxy
+host-suffix, nwcdcloud.com.cn, proxy
+host-suffix, nwcddns.cn, proxy
+host-suffix, nwcdinfosec.cn, proxy
+host-suffix, route53.cn, proxy
+host-suffix, sagemaker.com.cn, proxy

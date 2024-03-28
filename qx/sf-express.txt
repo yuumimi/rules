@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sf-express
+
+host-suffix, feng1.com, proxy
+host-suffix, rongechain.com, proxy
+host-suffix, sf-airlines.com, proxy
+host-suffix, sf-cityrush.com, proxy
+host-suffix, sf-express.com, proxy
+host-suffix, sf-financial.com, proxy
+host-suffix, sf-saas.com, proxy
+host-suffix, sf-tech.com.cn, proxy
+host-suffix, sfcar.hk, proxy
+host-suffix, sffix.cn, proxy
+host-suffix, sfgy.org, proxy

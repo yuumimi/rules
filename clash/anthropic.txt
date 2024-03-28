@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anthropic
+
+# Behavior: domain
+
+payload:
+  - "+.anthropic.com"
+  - "+.claude.ai"
+  - "servd-anthropic-website.b-cdn.net"

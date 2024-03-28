@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pikpak
+
+.mypikpak.com
+.mypikpak.net
+.pikpak.me
+.pikpakdrive.com
+o4504926511693824.ingest.sentry.io

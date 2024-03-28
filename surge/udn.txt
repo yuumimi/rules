@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/udn
+
+.udn.com
+.udn.com.tw
+.udndata.com
+.udnfunlife.com

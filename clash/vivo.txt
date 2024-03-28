@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vivo
+
+# Behavior: domain
+
+payload:
+  - "+.vivo.com"
+  - "+.vivo.com.cn"
+  - "+.vivoglobal.com"

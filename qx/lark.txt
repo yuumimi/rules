@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lark
+
+host-suffix, larksuite.com, proxy
+host-suffix, larksuitecdn.com, proxy

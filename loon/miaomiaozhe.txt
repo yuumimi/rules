@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/miaomiaozhe
+
+DOMAIN-SUFFIX,miaomiaoz.com
+DOMAIN-SUFFIX,miaomiaozhe.com

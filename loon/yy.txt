@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yy
+
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,dwstatic.com
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yystatic.com

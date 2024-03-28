@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nat-test
+
+# Behavior: domain
+
+payload:
+  - "+.nattest-china.com"

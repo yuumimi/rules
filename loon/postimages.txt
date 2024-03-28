@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/postimages
+
+DOMAIN-SUFFIX,postimages.org
+DOMAIN-SUFFIX,postimg.cc

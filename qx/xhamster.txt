@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xhamster
+
+host, widgets.stripst.com, proxy
+host-suffix, xhamster.com, proxy
+host-suffix, xhamster.desi, proxy
+host-suffix, xhamster.xxx, proxy
+host-suffix, xhamster18.com, proxy
+host-suffix, xhamster18.desi, proxy
+host-suffix, xhamsterlive.com, proxy
+host-suffix, xhcdn.com, proxy

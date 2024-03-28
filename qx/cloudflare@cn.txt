@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cloudflare
+
+host-suffix, cf-ns.com, proxy
+host-suffix, cf-ns.net, proxy
+host-suffix, cf-ns.site, proxy
+host-suffix, cf-ns.tech, proxy
+host-suffix, cftest5.cn, proxy
+host-suffix, cftest6.cn, proxy
+host-suffix, cftest7.com, proxy
+host-suffix, cftest8.com, proxy
+host-suffix, cloudflare-cn.com, proxy
+host-suffix, cloudflareanycast.net, proxy
+host-suffix, cloudflarechina.cn, proxy
+host-suffix, cloudflarecn.net, proxy
+host-suffix, cloudflareglobal.net, proxy
+host-suffix, cloudflareinsights-cn.com, proxy
+host-suffix, cloudflareperf.com, proxy
+host-suffix, cloudflareprod.com, proxy
+host-suffix, cloudflarestaging.com, proxy
+host-suffix, cloudflarestoragegw.com, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openx-ads
+
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,openxadexchange.com
+DOMAIN-SUFFIX,openxcdn.net
+DOMAIN-SUFFIX,openxenterprise.com
+DOMAIN-SUFFIX,openxmarket.asia

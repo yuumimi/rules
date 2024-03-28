@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tencent-dev
+
+.openmidas.com
+.qq.design
+.qqgamedesign.com
+.tencent.design
+.tjstats.com
+.wegamedeveloper.com
+.weixinbridge.com
+.weui.io

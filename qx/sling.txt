@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sling
+
+host-suffix, dishworld.com, proxy
+host-suffix, movenetworks.com, proxy
+host-suffix, movetv.com, proxy
+host-suffix, sling.com, proxy
+host-suffix, slinginternational.com, proxy

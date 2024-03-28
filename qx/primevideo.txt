@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/primevideo
+
+host-suffix, aiv-cdn.net, proxy
+host-suffix, amazonprimevideo.cn, proxy
+host-suffix, amazonprimevideo.com.cn, proxy
+host-suffix, amazonprimevideos.com, proxy
+host-suffix, amazonvideo.cc, proxy
+host-suffix, amazonvideo.com, proxy
+host-suffix, prime-video.com, proxy
+host-suffix, primevideo.cc, proxy
+host-suffix, primevideo.com, proxy
+host-suffix, primevideo.info, proxy
+host-suffix, primevideo.org, proxy
+host-suffix, primevideo.tv, proxy

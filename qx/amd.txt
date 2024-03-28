@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amd
+
+host-suffix, amd.com, proxy
+host-suffix, amd.com.cn, proxy
+host-suffix, amdfanstore.com, proxy
+host-suffix, radeon.com, proxy

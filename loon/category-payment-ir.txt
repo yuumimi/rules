@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-payment-ir
+
+DOMAIN-SUFFIX,asanpardakht.com
+DOMAIN-SUFFIX,asanpardakht.net
+DOMAIN-SUFFIX,behpardakht.com
+DOMAIN-SUFFIX,iranicard.ir
+DOMAIN-SUFFIX,mydigipay.com
+DOMAIN-SUFFIX,pay.ir
+DOMAIN-SUFFIX,payping.ir
+DOMAIN-SUFFIX,pec.ir
+DOMAIN-SUFFIX,pep.co.ir
+DOMAIN-SUFFIX,sadadpsp.ir
+DOMAIN-SUFFIX,sep.ir
+DOMAIN-SUFFIX,shaparak.ir
+DOMAIN-SUFFIX,weswap.digital
+DOMAIN-SUFFIX,zarinpal.com

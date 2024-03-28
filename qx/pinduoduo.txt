@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pinduoduo
+
+host-suffix, pddpic.com, proxy
+host-suffix, pinduoduo.com, proxy
+host-suffix, pinduoduo.net, proxy
+host-suffix, yangkeduo.com, proxy

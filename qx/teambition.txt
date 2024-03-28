@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/teambition
+
+host-suffix, teambition.com, proxy
+host-suffix, teambition.net, proxy
+host-suffix, teambitionapis.com, proxy

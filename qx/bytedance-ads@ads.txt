@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bytedance-ads
+
+host-suffix, bds.snssdk.com, proxy
+host-suffix, ctobsnssdk.com, proxy
+host-suffix, dig.bdurl.net, proxy
+host-suffix, extlog.snssdk.com, proxy
+host-suffix, i.snssdk.com, proxy
+host-suffix, mcs.snssdk.com, proxy
+host-suffix, pangolin-dsp-toutiao-b.com, proxy
+host-suffix, pangolin-dsp-toutiao.com, proxy
+host-suffix, pangolin-sdk-toutiao-b.com, proxy
+host-suffix, pangolin-sdk-toutiao.com, proxy
+host-suffix, pangolin-sdk-toutiao1.com, proxy
+host-suffix, pangolin.snssdk.com, proxy
+host-suffix, panplayable-toutiao-b.com, proxy
+host-suffix, panplayable-toutiao.com, proxy
+host-suffix, pglstatp-sdk-toutiao.com, proxy
+host-suffix, pglstatp-snssdk-toutiao.com, proxy
+host-suffix, pglstatp-toutiao-b.com, proxy
+host-suffix, pglstatp-toutiao.com, proxy
+host-suffix, sf3-ttcdn-tos.pstatp.com, proxy

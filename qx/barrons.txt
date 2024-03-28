@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/barrons
+
+host-suffix, barrons-advisor.com, proxy
+host-suffix, barrons-conferences.com, proxy
+host-suffix, barrons.com, proxy
+host-suffix, wsjbarrons.com, proxy

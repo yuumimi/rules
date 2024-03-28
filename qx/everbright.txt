@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/everbright
+
+host-suffix, cebbank.com, proxy
+host-suffix, ceblease.com, proxy
+host-suffix, eb-ind.com, proxy
+host-suffix, ebasset.com, proxy
+host-suffix, ebchina.com, proxy
+host-suffix, ebchinaintl.com, proxy
+host-suffix, ebf.com.cn, proxy
+host-suffix, ebfcn.com, proxy
+host-suffix, ebfortune.com, proxy
+host-suffix, ebscn-am.com, proxy
+host-suffix, ebscn.com, proxy
+host-suffix, ebtrust.com, proxy
+host-suffix, everbright.com, proxy
+host-suffix, secec.com, proxy
+host-suffix, sunlife-everbright.com, proxy

@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/samsung
+
+host-suffix, galaxyappstore.com, proxy
+host-suffix, galaxymobile.jp, proxy
+host-suffix, game-platform.net, proxy
+host-suffix, knoxemm.com, proxy
+host-suffix, samsung, proxy
+host-suffix, samsung.com, proxy
+host-suffix, samsungapps.com, proxy
+host-suffix, samsungcloud.com, proxy
+host-suffix, samsungdm.com, proxy
+host-suffix, samsungeshop.com.cn, proxy
+host-suffix, samsunggalaxyfriends.com, proxy
+host-suffix, samsungknox.com, proxy
+host-suffix, samsungqbe.com, proxy
+host-suffix, xn--cg4bki, proxy

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wsj
+
+host-suffix, careerjournal.com, proxy
+host-suffix, collegejournal.com, proxy
+host-suffix, opinionjournal.com, proxy
+host-suffix, realestatejournal.com, proxy
+host-suffix, startupjournal.com, proxy
+host-suffix, wsj.com, proxy
+host-suffix, wsj.jobs, proxy
+host-suffix, wsj.net, proxy
+host-suffix, wsjmediakit.com, proxy
+host-suffix, wsjplus.com, proxy
+host-suffix, wsjshop.com, proxy
+host-suffix, wsjwine.com, proxy

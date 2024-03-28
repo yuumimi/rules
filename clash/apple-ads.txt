@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-ads
+
+# Behavior: domain
+
+payload:
+  - "+.api-adservices.apple.com"
+  - "+.iad.apple.com"
+  - "+.iadsdk.apple.com"
+  - "+.qwapi.com"

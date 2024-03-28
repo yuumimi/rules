@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/niconico
+
+host-suffix, nico, proxy
+host-suffix, nicodic.jp, proxy
+host-suffix, nicomanga.jp, proxy
+host-suffix, niconico.com, proxy
+host-suffix, nicoseiga.jp, proxy
+host-suffix, nicovideo.jp, proxy
+host-suffix, nimg.jp, proxy
+host-suffix, simg.jp, proxy

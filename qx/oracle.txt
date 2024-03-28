@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/oracle
+
+host-suffix, addthis.com, proxy
+host-suffix, addthiscdn.com, proxy
+host-suffix, addthisedge.com, proxy
+host-suffix, ateam-oracle.com, proxy
+host-suffix, bronto.com, proxy
+host-suffix, covid19-rx.org, proxy
+host-suffix, covid19rx.org, proxy
+host-suffix, java, proxy
+host-suffix, java.com, proxy
+host-suffix, java.net, proxy
+host-suffix, oracle, proxy
+host-suffix, oracle.com, proxy
+host-suffix, oraclecloud.com, proxy
+host-suffix, oraclefoundation.org, proxy
+host-suffix, oracleimg.com, proxy
+host-suffix, oracleinfinity.io, proxy
+host-suffix, sun.com, proxy
+host-suffix, virtualbox.org, proxy

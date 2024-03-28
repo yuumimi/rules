@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/purikonejp
+
+.api-priconne-redive.cygames.jp
+.omotenashi.cygames.jp
+prd-priconne-redive.akamaized.net

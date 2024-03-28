@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/spotify-ads
+
+adeventtracker.spotify.com
+adstudio-assets.scdn.co
+bloodhound.spotify.com

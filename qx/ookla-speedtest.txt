@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ookla-speedtest
+
+host-suffix, cdnst.net, proxy
+host-suffix, cellmaps.com, proxy
+host-suffix, ekahau.cloud, proxy
+host-suffix, ekahau.com, proxy
+host-suffix, ookla.com, proxy
+host-suffix, ooklaserver.net, proxy
+host-suffix, pingtest.net, proxy
+host-suffix, speedtest.co, proxy
+host-suffix, speedtest.net, proxy
+host-suffix, speedtestcustom.com, proxy
+host-suffix, webtest.net, proxy

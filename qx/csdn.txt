@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/csdn
+
+host-suffix, codechina.net, proxy
+host-suffix, csdn.com, proxy
+host-suffix, csdn.net, proxy
+host-suffix, csdn.net.cn, proxy
+host-suffix, csdnimg.cn, proxy
+host-suffix, csto.com, proxy
+host-suffix, datasea.cn, proxy
+host-suffix, gitbook.cn, proxy
+host-suffix, gitchat.cn, proxy
+host-suffix, gitcode.com, proxy
+host-suffix, gitcode.net, proxy
+host-suffix, iteye.com, proxy
+host-suffix, kaifayun.com, proxy
+host-suffix, programmer.com.cn, proxy
+host-suffix, programmer.net.cn, proxy

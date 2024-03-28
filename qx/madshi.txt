@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/madshi
+
+host-suffix, madshi.net, proxy
+host-suffix, madvr.com, proxy
+host-suffix, madvr.net, proxy
+host-suffix, madvrlabs.llc, proxy

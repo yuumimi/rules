@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/java
+
+host-suffix, java, proxy
+host-suffix, java.com, proxy
+host-suffix, java.net, proxy

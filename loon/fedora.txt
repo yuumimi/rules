@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fedora
+
+DOMAIN-SUFFIX,fedoraforum.org
+DOMAIN-SUFFIX,fedoramagazine.org
+DOMAIN-SUFFIX,fedorapeople.org
+DOMAIN-SUFFIX,fedoraproject.org
+DOMAIN-SUFFIX,getfedora.org

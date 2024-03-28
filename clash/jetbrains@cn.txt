@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jetbrains
+
+# Behavior: domain
+
+payload:
+  - "+.cdn.jetbrains.com"
+  - "+.download-cdn.jetbrains.com.cn"

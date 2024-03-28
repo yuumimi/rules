@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/comodo
+
+host-suffix, comodo.com, proxy
+host-suffix, comodo.net, proxy
+host-suffix, comodoca.com, proxy
+host-suffix, comodoca2.com, proxy
+host-suffix, comodoca3.com, proxy
+host-suffix, comodoca4.com, proxy

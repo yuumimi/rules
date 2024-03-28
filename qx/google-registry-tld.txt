@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google-registry-tld
+
+host-suffix, app, proxy
+host-suffix, boo, proxy
+host-suffix, dad, proxy
+host-suffix, day, proxy
+host-suffix, dev, proxy
+host-suffix, esq, proxy
+host-suffix, foo, proxy
+host-suffix, how, proxy
+host-suffix, ing, proxy
+host-suffix, meme, proxy
+host-suffix, mov, proxy
+host-suffix, new, proxy
+host-suffix, nexus, proxy
+host-suffix, page, proxy
+host-suffix, phd, proxy
+host-suffix, prof, proxy
+host-suffix, rsvp, proxy
+host-suffix, soy, proxy
+host-suffix, xn--q9jyb4c, proxy
+host-suffix, zip, proxy

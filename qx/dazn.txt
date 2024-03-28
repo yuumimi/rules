@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dazn
+
+host-suffix, dazn-api.com, proxy
+host-suffix, dazn.com, proxy
+host-suffix, dazndn.com, proxy
+host-suffix, indazn.com, proxy
+host-suffix, indaznlab.com, proxy

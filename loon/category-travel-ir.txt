@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-travel-ir
+
+DOMAIN-SUFFIX,alibaba.ir
+DOMAIN-SUFFIX,flightio.com
+DOMAIN-SUFFIX,mrbilit.com
+DOMAIN-SUFFIX,tapsi.ir

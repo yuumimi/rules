@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/supersonic-ads
+
+host-suffix, ssacdn.com, proxy
+host-suffix, supersonic.com, proxy
+host-suffix, supersonicads-a.akamaihd.net, proxy
+host-suffix, supersonicads.com, proxy

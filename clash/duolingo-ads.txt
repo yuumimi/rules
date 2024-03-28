@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/duolingo-ads
+
+# Behavior: domain
+
+payload:
+  - "+.ads-api.duolingo.com"
+  - "+.analytics.vpc.duolingo.com"
+  - "+.metrics.duolingo.com"

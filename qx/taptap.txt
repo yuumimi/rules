@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/taptap
+
+host-suffix, tapimg.com, proxy
+host-suffix, tapimg.net, proxy
+host-suffix, taptap.cn, proxy
+host-suffix, taptap.com, proxy
+host-suffix, taptap.io, proxy
+host-suffix, taptapdada.com, proxy

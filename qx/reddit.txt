@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/reddit
+
+host-suffix, redd.it, proxy
+host-suffix, reddit.app.link, proxy
+host-suffix, reddit.com, proxy
+host-suffix, redditmail.com, proxy
+host-suffix, redditmedia.com, proxy
+host-suffix, redditstatic.com, proxy

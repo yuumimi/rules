@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/firebase
+
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebase.google.com
+DOMAIN,firebase.googleapis.com
+DOMAIN,firebaseappcheck.googleapis.com
+DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
+DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
+DOMAIN,firebasedynamiclinks.googleapis.com
+DOMAIN,firebaseinappmessaging.googleapis.com
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,firebaseperusertopics-pa.googleapis.com
+DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.io
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com

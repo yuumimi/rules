@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nexon
+
+.nexon.co.jp
+.nexon.com
+.nexoncdn.co.kr

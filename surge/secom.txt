@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/secom
+
+.cybertrust.co.jp
+.cybertrust.ne.jp
+.managedpki.ne.jp
+.secom.co.jp
+.secomtrust.net

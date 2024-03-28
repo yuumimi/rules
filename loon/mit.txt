@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mit
+
+DOMAIN-SUFFIX,mit
+DOMAIN-SUFFIX,mit.edu
+DOMAIN-SUFFIX,mit.net
+DOMAIN-SUFFIX,mitpressjournals.org

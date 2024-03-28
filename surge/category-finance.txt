@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-finance
+
+.fsmone.com
+.fsmone.com.hk
+.fsmone.com.my
+.fundsupermart.com
+.fxcorporate.com
+.ifastcapital.com.my
+.ifastcorp.com
+.ifastfinancial.co.in
+.ifastfinancial.com.hk
+.ifastgb.com
+.ifastgp.com
+.ifastgp.com.hk
+.ifastnetwork.com
+.ifastps.com.cn
+.ifasttv.com
+.mql5.com
+.tradingview.com
+.transferwise.com
+.wise.com

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-android-app-download
+
+host-suffix, apkcombo.com, proxy
+host-suffix, apkmirror.com, proxy
+host-suffix, apkpure.com, proxy
+host-suffix, apkpure.net, proxy
+host-suffix, cdnpure.com, proxy
+host-suffix, pureapk.com, proxy
+host-suffix, winudf.com, proxy

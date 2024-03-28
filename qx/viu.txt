@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/viu
+
+host, api.viu.now.com, proxy
+host, d1k2us671qcoau.cloudfront.net, proxy
+host, d2anahhhmp1ffz.cloudfront.net, proxy
+host, dfp6rglgjqszk.cloudfront.net, proxy
+host-suffix, viu.com, proxy
+host-suffix, viu.tv, proxy

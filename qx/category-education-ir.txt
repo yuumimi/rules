@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-education-ir
+
+host-suffix, done.ir, proxy
+host-suffix, faradars.org, proxy
+host-suffix, git.ir, proxy
+host-suffix, iranlms.org, proxy
+host-suffix, learnby.ir, proxy
+host-suffix, toplearn.com, proxy
+host-suffix, webinarplus.online, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/microsoft-dev
+
+host-suffix, microsoftreactor.cn, proxy
+host-suffix, microsoftreactor.com.cn, proxy
+host-suffix, reactorms.com.cn, proxy

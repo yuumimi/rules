@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gateio
+
+host-suffix, gate.io, proxy
+host-suffix, gatedata.org, proxy
+host-suffix, gateimg.com, proxy
+host-suffix, gateio.live, proxy
+host-suffix, gateio.services, proxy

@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/adguard
+
+# Behavior: domain
+
+payload:
+  - "+.adguard-dns.com"
+  - "+.adguard-dns.io"
+  - "+.adguard-vpn.com"
+  - "+.adguard-vpn.online"
+  - "+.adguard.app"
+  - "+.adguard.com"
+  - "+.adguard.info"
+  - "+.adguard.io"
+  - "+.adguard.org"
+  - "+.adguardvpn.com"
+  - "+.adtidy.net"
+  - "+.adtidy.org"
+  - "+.agrd.io"

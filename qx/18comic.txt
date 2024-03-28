@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/18comic
+
+host-suffix, 18comic-god.cc, proxy
+host-suffix, 18comic-god.club, proxy
+host-suffix, 18comic-god.xyz, proxy
+host-suffix, 18comic.cc, proxy
+host-suffix, 18comic.company, proxy
+host-suffix, 18comic.org, proxy
+host-suffix, 18comic.vip, proxy
+host-suffix, jmcomic.ltd, proxy
+host-suffix, jmcomic.me, proxy
+host-suffix, jmcomic.mobi, proxy
+host-suffix, jmcomic.moe, proxy
+host-suffix, jmcomic1.city, proxy
+host-suffix, jmcomic1.me, proxy
+host-suffix, jmcomic1.mobi, proxy
+host-suffix, jmcomic2.moe, proxy

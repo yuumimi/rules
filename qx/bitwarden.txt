@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bitwarden
+
+host-suffix, bitwarden.com, proxy
+host-suffix, bitwarden.eu, proxy
+host-suffix, bitwarden.net, proxy

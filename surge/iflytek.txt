@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/iflytek
+
+.changyan.com
+.ets100.com
+.iflytek.com
+.xunfei.cn
+.xunfeixxj.com
+.zhixue.com

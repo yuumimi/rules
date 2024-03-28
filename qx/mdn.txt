@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mdn
+
+host, mdn.mozillademos.org, proxy
+host-suffix, developer.allizom.org, proxy
+host-suffix, developer.mozilla.org, proxy
+host-suffix, mdn.allizom.net, proxy
+host-suffix, mdn.dev, proxy
+host-suffix, mdn.mozilla.net, proxy
+host-suffix, mdn.mozit.cloud, proxy
+host-suffix, mdnplay.dev, proxy
+host-suffix, mdnyalp.dev, proxy

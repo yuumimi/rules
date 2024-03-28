@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jiguang
+
+host-suffix, 42r.cn, proxy
+host-suffix, 5566ua.com, proxy
+host-suffix, aurorapush.cn, proxy
+host-suffix, e0n.cn, proxy
+host-suffix, japps.cn, proxy
+host-suffix, jchat.io, proxy
+host-suffix, jiguang.cn, proxy
+host-suffix, jmlk.co, proxy
+host-suffix, jpush.cn, proxy
+host-suffix, jpush.io, proxy
+host-suffix, jpushoa.com, proxy
+host-suffix, jsurvey.cn, proxy
+host-suffix, jvoice.cn, proxy
+host-suffix, kc9.cn, proxy
+host-suffix, n0q.cn, proxy
+host-suffix, pushcfg.com, proxy
+host-suffix, s0n.cn, proxy

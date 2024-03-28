@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/adguard
+
+host-suffix, adguard-dns.com, proxy
+host-suffix, adguard-dns.io, proxy
+host-suffix, adguard-vpn.com, proxy
+host-suffix, adguard-vpn.online, proxy
+host-suffix, adguard.app, proxy
+host-suffix, adguard.com, proxy
+host-suffix, adguard.info, proxy
+host-suffix, adguard.io, proxy
+host-suffix, adguard.org, proxy
+host-suffix, adguardvpn.com, proxy
+host-suffix, adtidy.net, proxy
+host-suffix, adtidy.org, proxy
+host-suffix, agrd.io, proxy

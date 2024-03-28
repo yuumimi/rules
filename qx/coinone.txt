@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/coinone
+
+host-suffix, coinone.co.kr, proxy
+host-suffix, coinonecore.com, proxy
+host-suffix, coinonecorp.com, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/akamai
+
+host-suffix, accdn.com.cn, proxy
+host-suffix, akamai.com, proxy
+host-suffix, akcdn.com.cn, proxy
+host-suffix, aptdn.net, proxy
+host-suffix, janrain.biz, proxy
+host-suffix, janrainservices.com, proxy
+host-suffix, skycdn.com.cn, proxy

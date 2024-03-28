@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/seasun
+
+DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,testplus.cn
+DOMAIN-SUFFIX,xishanju.com
+DOMAIN-SUFFIX,xoyo.com

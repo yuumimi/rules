@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/itunes
+
+.apple-itunes.cn
+.itunes-apple.cn
+.itunesapple.cn
+.itunesradio.cn
+.itunesradio.com.cn

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/atlassian
+
+.atlassian.com
+.atlassian.net
+.bitbucket.io
+.bitbucket.org
+.statuspage.io
+.trello.com
+.trellocdn.com

@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tiktok
+
+host, p16-tiktokcdn-com.akamaized.net, proxy
+host-suffix, byteoversea.com, proxy
+host-suffix, muscdn.com, proxy
+host-suffix, musical.ly, proxy
+host-suffix, tik-tokapi.com, proxy
+host-suffix, tiktok.com, proxy
+host-suffix, tiktokcdn-us.com, proxy
+host-suffix, tiktokcdn.com, proxy
+host-suffix, tiktokd.net, proxy
+host-suffix, tiktokd.org, proxy
+host-suffix, tiktokv.com, proxy
+host-suffix, tiktokv.us, proxy
+host-suffix, tiktokw.us, proxy
+host-suffix, ttwstatic.com, proxy

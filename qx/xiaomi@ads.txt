@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi
+
+host-suffix, a.market.xiaomi.com, proxy
+host-suffix, ad.intl.xiaomi.com, proxy
+host-suffix, ad.mi.com, proxy
+host-suffix, ad.xiaomi.com, proxy
+host-suffix, ad1.xiaomi.com, proxy
+host-suffix, admob.xiaomi.com, proxy
+host-suffix, adv.sec.intl.miui.com, proxy
+host-suffix, adv.sec.miui.com, proxy
+host-suffix, misc.in.duokanbox.com, proxy
+host-suffix, mistat.xiaomi.com, proxy
+host-suffix, sentry.d.mi.com, proxy
+host-suffix, sentry.d.xiaomi.net, proxy
+host-suffix, tjqonline.cn, proxy
+host-suffix, tracker.ai.xiaomi.com, proxy
+host-suffix, tracking.miui.com, proxy

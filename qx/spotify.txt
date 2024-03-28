@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/spotify
+
+host, audio-ak-spotify-com.akamaized.net, proxy
+host, audio4-ak-spotify-com.akamaized.net, proxy
+host, cdn-spotify-experiments.conductrics.com, proxy
+host, heads-ak-spotify-com.akamaized.net, proxy
+host, heads4-ak-spotify-com.akamaized.net, proxy
+host, spotify.com.edgesuite.net, proxy
+host, spotify.map.fastly.net, proxy
+host, spotify.map.fastlylb.net, proxy
+host-suffix, byspotify.com, proxy
+host-suffix, pscdn.co, proxy
+host-suffix, scdn.co, proxy
+host-suffix, spoti.fi, proxy
+host-suffix, spotify-everywhere.com, proxy
+host-suffix, spotify.com, proxy
+host-suffix, spotify.design, proxy
+host-suffix, spotifycdn.com, proxy
+host-suffix, spotifycdn.net, proxy
+host-suffix, spotifycharts.com, proxy
+host-suffix, spotifycodes.com, proxy
+host-suffix, spotifyforbrands.com, proxy
+host-suffix, spotifyjobs.com, proxy

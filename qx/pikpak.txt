@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pikpak
+
+host, o4504926511693824.ingest.sentry.io, proxy
+host-suffix, mypikpak.com, proxy
+host-suffix, mypikpak.net, proxy
+host-suffix, pikpak.me, proxy
+host-suffix, pikpakdrive.com, proxy

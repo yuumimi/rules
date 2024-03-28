@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tesla
+
+host, tesla-cdn.thron.cn, proxy
+host-suffix, tesla.cn, proxy
+host-suffix, tesla.com.cn, proxy
+host-suffix, teslamotors.cn, proxy
+host-suffix, teslamotors.com.cn, proxy

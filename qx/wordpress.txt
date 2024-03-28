@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wordpress
+
+host-suffix, videopress.com, proxy
+host-suffix, w.org, proxy
+host-suffix, wordpress.com, proxy
+host-suffix, wordpress.org, proxy
+host-suffix, wordpress.tv, proxy
+host-suffix, wp-themes.com, proxy
+host-suffix, wp.com, proxy
+host-suffix, wpvip.com, proxy

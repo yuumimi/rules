@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sxl
+
+DOMAIN-SUFFIX,mysxl.cn
+DOMAIN-SUFFIX,sxl.cn
+DOMAIN-SUFFIX,sxlcdn.cn

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/avmoo
+
+host-suffix, avmoo.click, proxy
+host-suffix, avmoo.com, proxy
+host-suffix, tellme.pw, proxy

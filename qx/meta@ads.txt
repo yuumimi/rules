@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meta
+
+host-suffix, b-graph-fallback.facebook.com, proxy
+host-suffix, b-graph.facebook.com, proxy
+host-suffix, connect.facebook.com, proxy
+host-suffix, connect.facebook.net, proxy
+host-suffix, graph-fallback.facebook.com, proxy
+host-suffix, graph-fallback.instagram.com, proxy
+host-suffix, graph.facebook.com, proxy
+host-suffix, graph.fbpigeon.com, proxy
+host-suffix, graph.instagram.com, proxy
+host-suffix, graph.whatsapp.com, proxy
+host-suffix, graph.whatsapp.net, proxy
+host-suffix, mqtt-mini.facebook.com, proxy
+host-suffix, z-m-graph.facebook.com, proxy

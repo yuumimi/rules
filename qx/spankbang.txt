@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/spankbang
+
+host-suffix, sb-cd.com, proxy
+host-suffix, spankbang.com, proxy
+host-suffix, spankbang.party, proxy

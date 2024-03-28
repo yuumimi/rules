@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chatwhores
+
+host-suffix, chatwhores.com, proxy
+host-suffix, chatwhores.net, proxy
+host-suffix, chatwhores.org, proxy
+host-suffix, chatwhores.sex, proxy
+host-suffix, chatwhores.tv, proxy

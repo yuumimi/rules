@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/csdn
+
+# Behavior: domain
+
+payload:
+  - "+.codechina.net"
+  - "+.csdn.com"
+  - "+.csdn.net"
+  - "+.csdn.net.cn"
+  - "+.csdnimg.cn"
+  - "+.csto.com"
+  - "+.datasea.cn"
+  - "+.gitbook.cn"
+  - "+.gitchat.cn"
+  - "+.gitcode.com"
+  - "+.gitcode.net"
+  - "+.iteye.com"
+  - "+.kaifayun.com"
+  - "+.programmer.com.cn"
+  - "+.programmer.net.cn"

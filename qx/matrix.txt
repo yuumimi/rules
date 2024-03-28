@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/matrix
+
+host-suffix, arewereadyyet.com, proxy
+host-suffix, element.io, proxy
+host-suffix, matrix.org, proxy
+host-suffix, matrix.to, proxy
+host-suffix, modular.im, proxy
+host-suffix, riot.im, proxy
+host-suffix, vector.im, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnki
+
+DOMAIN-SUFFIX,cnki.com.cn
+DOMAIN-SUFFIX,cnki.net

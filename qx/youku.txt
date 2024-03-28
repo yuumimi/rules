@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youku
+
+host-suffix, cibntv.net, proxy
+host-suffix, kumiao.com, proxy
+host-suffix, mmstat.com, proxy
+host-suffix, soku.com, proxy
+host-suffix, ykimg.com, proxy
+host-suffix, youku.com, proxy

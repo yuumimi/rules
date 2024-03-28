@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaishou
+
+host-suffix, gifshow.com, proxy
+host-suffix, ksapisrv.com, proxy
+host-suffix, kuaishou.com, proxy
+host-suffix, kuaishouzt.com, proxy
+host-suffix, kwaizt.com, proxy
+host-suffix, yximgs.com, proxy

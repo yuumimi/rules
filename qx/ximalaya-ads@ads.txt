@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ximalaya-ads
+
+host-suffix, adbehavior.ximalaya.com, proxy
+host-suffix, adse.wsa.ximalaya.com, proxy
+host-suffix, adse.ximalaya.com, proxy

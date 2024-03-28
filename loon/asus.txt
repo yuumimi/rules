@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/asus
+
+DOMAIN-SUFFIX,asus.com
+DOMAIN-SUFFIX,asus.com.cn

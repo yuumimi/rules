@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/taylorfrancis
+
+host-suffix, tandf.co.uk, proxy
+host-suffix, tandfonline.com, proxy
+host-suffix, taylorandfrancis.com, proxy
+host-suffix, taylorfrancis.com, proxy

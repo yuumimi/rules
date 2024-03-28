@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/symantec
+
+host-suffix, managedpki.com, proxy
+host-suffix, symantec.com, proxy
+host-suffix, symcb.com, proxy
+host-suffix, symcd.com, proxy

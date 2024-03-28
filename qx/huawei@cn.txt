@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/huawei
+
+host-suffix, bisheng.cn, proxy
+host-suffix, bishengcompiler.cn, proxy
+host-suffix, devui.design, proxy
+host-suffix, gneec.com, proxy
+host-suffix, gneec.com.cn, proxy
+host-suffix, gneec3.com, proxy
+host-suffix, gneec4.com, proxy
+host-suffix, gneec7.com, proxy
+host-suffix, harmonyos.com, proxy
+host-suffix, hiascend.cn, proxy
+host-suffix, hiascend.com, proxy
+host-suffix, hiclc.com, proxy
+host-suffix, hikunpeng.cn, proxy
+host-suffix, hikunpeng.com, proxy
+host-suffix, hikunpeng.com.cn, proxy
+host-suffix, hikunpeng.net, proxy
+host-suffix, hisilicon.com, proxy
+host-suffix, hisilicon.com.cn, proxy
+host-suffix, huaweiapaas.com, proxy
+host-suffix, mindspore.cn, proxy
+host-suffix, owsgo.com, proxy
+host-suffix, saasops.tech, proxy
+host-suffix, teleows.com, proxy

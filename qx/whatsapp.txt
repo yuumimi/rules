@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/whatsapp
+
+host-suffix, wa.me, proxy
+host-suffix, whatsapp-plus.info, proxy
+host-suffix, whatsapp-plus.me, proxy
+host-suffix, whatsapp-plus.net, proxy
+host-suffix, whatsapp.cc, proxy
+host-suffix, whatsapp.com, proxy
+host-suffix, whatsapp.info, proxy
+host-suffix, whatsapp.net, proxy
+host-suffix, whatsapp.org, proxy
+host-suffix, whatsapp.tv, proxy
+host-suffix, whatsappbrand.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/momo
+
+host-suffix, momo.dm, proxy
+host-suffix, momo5188.com, proxy
+host-suffix, momomall.com.tw, proxy
+host-suffix, momoshop.com.tw, proxy

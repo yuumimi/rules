@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/115
+
+# Behavior: domain
+
+payload:
+  - "+.115.com"
+  - "+.115cdn.com"
+  - "+.115cdn.net"
+  - "+.115img.com"
+  - "+.116cd.cn"
+  - "+.116cd.com"
+  - "+.116cd.net"
+  - "+.anxia.com"
+  - "+.sq.cc"

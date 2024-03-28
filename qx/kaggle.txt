@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kaggle
+
+host-suffix, kaggle.com, proxy
+host-suffix, kaggle.io, proxy
+host-suffix, kaggle.net, proxy
+host-suffix, kaggleusercontent.com, proxy

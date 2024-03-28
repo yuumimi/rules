@@ -1,0 +1,30 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-browser-!cn
+
+host-suffix, basilisk-browser.org, proxy
+host-suffix, brave.com, proxy
+host-suffix, bromite.org, proxy
+host-suffix, browser.kagi.com, proxy
+host-suffix, censorship.no, proxy
+host-suffix, chrome, proxy
+host-suffix, chrome.com, proxy
+host-suffix, chromium.org, proxy
+host-suffix, cromite.org, proxy
+host-suffix, decentr.net, proxy
+host-suffix, dothq.org, proxy
+host-suffix, epicbrowser.com, proxy
+host-suffix, firefox.com, proxy
+host-suffix, firefoxusercontent.com, proxy
+host-suffix, floorp.app, proxy
+host-suffix, iridiumbrowser.de, proxy
+host-suffix, kiwibrowser.com, proxy
+host-suffix, kmeleonbrowser.org, proxy
+host-suffix, librewolf.net, proxy
+host-suffix, minbrowser.org, proxy
+host-suffix, netsurf-browser.org, proxy
+host-suffix, opera.com, proxy
+host-suffix, palemoon.org, proxy
+host-suffix, pulsebrowser.app, proxy
+host-suffix, qutebrowser.org, proxy
+host-suffix, torproject.org, proxy
+host-suffix, vivaldi.com, proxy
+host-suffix, waterfox.net, proxy

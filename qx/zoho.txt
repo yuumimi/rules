@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zoho
+
+host-suffix, zoho.com, proxy
+host-suffix, zoho.com.au, proxy
+host-suffix, zoho.eu, proxy
+host-suffix, zoho.in, proxy
+host-suffix, zohocdn.com, proxy
+host-suffix, zohomeetups.com, proxy
+host-suffix, zohomerchandise.com, proxy
+host-suffix, zohopublic.com, proxy
+host-suffix, zohoschools.com, proxy
+host-suffix, zohostatic.com, proxy
+host-suffix, zohostatic.in, proxy
+host-suffix, zohouniversity.com, proxy
+host-suffix, zohowebstatic.com, proxy

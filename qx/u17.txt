@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/u17
+
+host-suffix, u17.com, proxy
+host-suffix, u17i.com, proxy
+host-suffix, u17t.com, proxy

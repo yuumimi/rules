@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ifast
+
+host-suffix, fsmone.com, proxy
+host-suffix, fsmone.com.hk, proxy
+host-suffix, fsmone.com.my, proxy
+host-suffix, fundsupermart.com, proxy
+host-suffix, ifastcapital.com.my, proxy
+host-suffix, ifastcorp.com, proxy
+host-suffix, ifastfinancial.co.in, proxy
+host-suffix, ifastfinancial.com.hk, proxy
+host-suffix, ifastgb.com, proxy
+host-suffix, ifastgp.com, proxy
+host-suffix, ifastgp.com.hk, proxy
+host-suffix, ifastnetwork.com, proxy
+host-suffix, ifastps.com.cn, proxy
+host-suffix, ifasttv.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sogou
+
+.go2map.com
+.sogo.com
+.sogou.com
+.sogoucdn.com

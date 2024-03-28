@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/twitter
+
+host-suffix, ads-twitter.com, proxy
+host-suffix, cms-twdigitalassets.com, proxy
+host-suffix, periscope.tv, proxy
+host-suffix, pscp.tv, proxy
+host-suffix, t.co, proxy
+host-suffix, tellapart.com, proxy
+host-suffix, tweetdeck.com, proxy
+host-suffix, twimg.com, proxy
+host-suffix, twitpic.com, proxy
+host-suffix, twitter.biz, proxy
+host-suffix, twitter.com, proxy
+host-suffix, twitter.jp, proxy
+host-suffix, twittercommunity.com, proxy
+host-suffix, twitterflightschool.com, proxy
+host-suffix, twitterinc.com, proxy
+host-suffix, twitteroauth.com, proxy
+host-suffix, twitterstat.us, proxy
+host-suffix, twtrdns.net, proxy
+host-suffix, twttr.com, proxy
+host-suffix, twttr.net, proxy
+host-suffix, twvid.com, proxy
+host-suffix, vine.co, proxy
+host-suffix, x.com, proxy

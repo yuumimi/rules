@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pugpig
+
+host-suffix, pugpig-dev.com, proxy
+host-suffix, pugpig-stage.com, proxy
+host-suffix, pugpig.com, proxy

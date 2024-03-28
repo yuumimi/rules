@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kodi
+
+DOMAIN-SUFFIX,kodi.tv
+DOMAIN-SUFFIX,kodi.wiki

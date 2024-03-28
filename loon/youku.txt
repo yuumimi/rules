@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youku
+
+DOMAIN-SUFFIX,cibntv.net
+DOMAIN-SUFFIX,kumiao.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com

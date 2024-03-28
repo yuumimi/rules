@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-travel-ir
+
+host-suffix, alibaba.ir, proxy
+host-suffix, flightio.com, proxy
+host-suffix, mrbilit.com, proxy
+host-suffix, tapsi.ir, proxy

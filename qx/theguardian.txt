@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/theguardian
+
+host-suffix, dev-guardianapis.com, proxy
+host-suffix, dev-theguardian.com, proxy
+host-suffix, gu-web.net, proxy
+host-suffix, guardianapis.com, proxy
+host-suffix, guardianapps.co.uk, proxy
+host-suffix, guim.co.uk, proxy
+host-suffix, guimcode.co.uk, proxy
+host-suffix, theguardian, proxy
+host-suffix, theguardian.com, proxy
+host-suffix, theguardiandns.com, proxy

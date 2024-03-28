@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/8btc
+
+host-suffix, 8btc.com, proxy
+host-suffix, bystack.com, proxy
+host-suffix, chainnode.com, proxy
+host-suffix, matpool.com, proxy
+host-suffix, matpool.net, proxy

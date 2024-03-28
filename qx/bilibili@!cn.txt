@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili
+
+host-suffix, bilibili.tv, proxy
+host-suffix, biliintl.com, proxy

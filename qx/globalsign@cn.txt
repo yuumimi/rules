@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/globalsign
+
+host, cdn.globalsigncdn.com.cdn.cloudflare.net, proxy
+host-suffix, alphassl.com, proxy
+host-suffix, easy-signing.com, proxy
+host-suffix, globalsign.cn, proxy
+host-suffix, globalsign.com, proxy
+host-suffix, globalsigncdn.com, proxy

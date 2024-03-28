@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/unionpay
+
+host-suffix, 95516.com, proxy
+host-suffix, 95516.net, proxy
+host-suffix, chinaunionpay.com, proxy
+host-suffix, chinaunionpay.com.cn, proxy
+host-suffix, chinaunionpay.net, proxy
+host-suffix, cup.com.cn, proxy
+host-suffix, cup62.cn, proxy
+host-suffix, unionpay.com, proxy
+host-suffix, unionpay.net, proxy
+host-suffix, unionpayintl.cn, proxy
+host-suffix, unionpayintl.com, proxy
+host-suffix, unionpaysecure.com, proxy

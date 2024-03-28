@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tesla
+
+# Behavior: domain
+
+payload:
+  - "+.solarcity.com"
+  - "+.tesla.cn"
+  - "+.tesla.com"
+  - "+.tesla.com.cn"
+  - "+.tesla.services"
+  - "+.teslaenergy.services"
+  - "+.teslamotors.cn"
+  - "+.teslamotors.com"
+  - "+.teslamotors.com.cn"
+  - "+.teslazta.net"
+  - "+.ts.la"
+  - "tesla-cdn.thron.cn"
+  - "tesla-cdn.thron.com"

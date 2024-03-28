@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-acg
+
+# Behavior: domain
+
+payload:
+  - "+.bowlroll.net"
+  - "+.colorfulstage.com"
+  - "+.crypton.co.jp"
+  - "+.lapriere.jp"
+  - "+.magicalmirai.com"
+  - "+.mikuexpo.com"
+  - "+.piapro.net"
+  - "+.snowmiku.com"

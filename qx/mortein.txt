@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mortein
+
+host-suffix, mortein.cn, proxy
+host-suffix, mortein.co.in, proxy
+host-suffix, mortein.co.nz, proxy
+host-suffix, mortein.co.za, proxy
+host-suffix, mortein.com, proxy
+host-suffix, mortein.com.au, proxy
+host-suffix, mortein.com.br, proxy
+host-suffix, mortein.com.ng, proxy
+host-suffix, mortein.com.pk, proxy
+host-suffix, morteincam.com, proxy
+host-suffix, pifpafarabia.com, proxy

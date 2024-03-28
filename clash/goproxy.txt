@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/goproxy
+
+# Behavior: domain
+
+payload:
+  - "+.goproxy.cn"
+  - "+.goproxy.io"

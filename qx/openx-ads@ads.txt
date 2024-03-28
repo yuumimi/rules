@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openx-ads
+
+host-suffix, openx.net, proxy
+host-suffix, openxadexchange.com, proxy
+host-suffix, openxcdn.net, proxy
+host-suffix, openxenterprise.com, proxy
+host-suffix, openxmarket.asia, proxy

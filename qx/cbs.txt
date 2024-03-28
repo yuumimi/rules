@@ -1,0 +1,33 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cbs
+
+host, cbsi.live.ott.irdeto.com, proxy
+host, cbsplaylistserver.aws.syncbak.com, proxy
+host, cbsservice.aws.syncbak.com, proxy
+host, link.theplatform.com, proxy
+host-suffix, amlg.io, proxy
+host-suffix, cbs, proxy
+host-suffix, cbs.com, proxy
+host-suffix, cbsaavideo.com, proxy
+host-suffix, cbscorporation.com, proxy
+host-suffix, cbsi.com, proxy
+host-suffix, cbsi.video, proxy
+host-suffix, cbsiam.com, proxy
+host-suffix, cbsig.net, proxy
+host-suffix, cbsimg.net, proxy
+host-suffix, cbsinteractive.com, proxy
+host-suffix, cbsistatic.com, proxy
+host-suffix, cbsivideo.com, proxy
+host-suffix, cbsnews.com, proxy
+host-suffix, cbspressexpress.com, proxy
+host-suffix, cbssports.com, proxy
+host-suffix, cbsstatic.com, proxy
+host-suffix, cbssvideo.com, proxy
+host-suffix, mtvnservices.com, proxy
+host-suffix, paramount.com, proxy
+host-suffix, paramountplus.com, proxy
+host-suffix, pplusstatic.com, proxy
+host-suffix, showtime, proxy
+host-suffix, viacbs.com, proxy
+host-suffix, viacom.com, proxy
+host-suffix, viacomcbs.com, proxy
+host-suffix, viacomcbspressexpress.com, proxy

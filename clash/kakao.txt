@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kakao
+
+# Behavior: domain
+
+payload:
+  - "+.kakao.com"
+  - "+.kakaocdn.net"
+  - "+.kakaocorp.com"
+  - "+.kakaotalk.jp"

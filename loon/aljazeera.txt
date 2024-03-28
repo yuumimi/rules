@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aljazeera
+
+DOMAIN-SUFFIX,ajplus.net
+DOMAIN-SUFFIX,aljazeera.com
+DOMAIN-SUFFIX,aljazeera.net
+DOMAIN-SUFFIX,palestineremix.com
+DOMAIN-SUFFIX,sarajevopodopsadom.com
+DOMAIN-SUFFIX,srebrenica360.com
+DOMAIN-SUFFIX,syhacked.com

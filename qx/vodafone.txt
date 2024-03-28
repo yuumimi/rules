@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vodafone
+
+host-suffix, myvodafone.com.au, proxy
+host-suffix, myvodafone.com.ws, proxy
+host-suffix, vodafone.co.uk, proxy
+host-suffix, vodafone.com, proxy
+host-suffix, vodafone.com.au, proxy
+host-suffix, vodafone.com.tr, proxy
+host-suffix, vodafone.de, proxy
+host-suffix, vodafone.it, proxy

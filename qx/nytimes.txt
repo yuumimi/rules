@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nytimes
+
+host-suffix, nyt.com, proxy
+host-suffix, nyt.net, proxy
+host-suffix, nytchina.com, proxy
+host-suffix, nytcn.me, proxy
+host-suffix, nytco.com, proxy
+host-suffix, nyti.ms, proxy
+host-suffix, nytimes.com, proxy
+host-suffix, nytstyle.com, proxy
+host-suffix, timestalks.com, proxy

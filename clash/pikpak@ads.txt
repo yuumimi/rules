@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pikpak
+
+# Behavior: domain
+
+payload:
+  - "o4504926511693824.ingest.sentry.io"

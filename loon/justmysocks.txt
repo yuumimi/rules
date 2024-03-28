@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/justmysocks
+
+DOMAIN-SUFFIX,justmysocks.net
+DOMAIN-SUFFIX,justmysocks1.net
+DOMAIN-SUFFIX,justmysocks2.net
+DOMAIN-SUFFIX,justmysocks4.net

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/giffgaff
+
+host-suffix, giffgaff.com, proxy
+host-suffix, giffgaff.design, proxy

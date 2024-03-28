@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xnxx
+
+DOMAIN-SUFFIX,xnxx-cdn.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xnxx.net
+DOMAIN-SUFFIX,xnxx.tv
+DOMAIN-SUFFIX,xnxx3.com

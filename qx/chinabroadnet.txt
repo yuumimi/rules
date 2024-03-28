@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinabroadnet
+
+host-suffix, 10099.com.cn, proxy
+host-suffix, ahitv.com, proxy
+host-suffix, chn.cn, proxy
+host-suffix, cqccn.com, proxy
+host-suffix, gcable.com.cn, proxy
+host-suffix, isxtv.com, proxy
+host-suffix, sc96655.com, proxy
+host-suffix, sdgdwljt.com, proxy

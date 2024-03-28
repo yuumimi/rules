@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xd
+
+.ro.com
+.tapimg.com
+.tapimg.net
+.taptap.cn
+.taptap.com
+.taptap.io
+.taptapdada.com
+.xd.cn
+.xd.com
+.xdcdn.net
+.xindong.com

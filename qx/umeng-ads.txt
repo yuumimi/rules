@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/umeng-ads
+
+host-suffix, alog.umeng.com, proxy
+host-suffix, alog.umengcloud.com, proxy
+host-suffix, w.cnzz.com, proxy
+host-suffix, z.gds.cnzz.com, proxy

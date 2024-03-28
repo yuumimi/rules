@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/verizon
+
+.ads.yahoo.com
+.gemini.yahoo.com
+.ysm.yahoo.com

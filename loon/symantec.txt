@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/symantec
+
+DOMAIN-SUFFIX,managedpki.com
+DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com

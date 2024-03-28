@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/atlassian
+
+host-suffix, atlassian.com, proxy
+host-suffix, atlassian.net, proxy
+host-suffix, bitbucket.io, proxy
+host-suffix, bitbucket.org, proxy
+host-suffix, statuspage.io, proxy
+host-suffix, trello.com, proxy
+host-suffix, trellocdn.com, proxy

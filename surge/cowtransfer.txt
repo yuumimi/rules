@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cowtransfer
+
+.c-t.work
+.cowtransfer.com

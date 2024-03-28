@@ -1,0 +1,28 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kingsoft
+
+host-suffix, 51dzt.com, proxy
+host-suffix, cmcm.com, proxy
+host-suffix, cmcmcdn.com, proxy
+host-suffix, docer.com, proxy
+host-suffix, duba.com, proxy
+host-suffix, duba.net, proxy
+host-suffix, iciba.com, proxy
+host-suffix, ijinshan.com, proxy
+host-suffix, kdocs.cn, proxy
+host-suffix, kimg.cn, proxy
+host-suffix, kingsoft.com, proxy
+host-suffix, ks-cdn.com, proxy
+host-suffix, ks-cdn1.com, proxy
+host-suffix, ksmobile.com, proxy
+host-suffix, ksyun.com, proxy
+host-suffix, ksyuncdn.com, proxy
+host-suffix, ksyungslb.com, proxy
+host-suffix, liebao.cn, proxy
+host-suffix, papocket.com, proxy
+host-suffix, seasungames.com, proxy
+host-suffix, testplus.cn, proxy
+host-suffix, wps.cn, proxy
+host-suffix, wps.com, proxy
+host-suffix, wpspdf.cn, proxy
+host-suffix, xishanju.com, proxy
+host-suffix, xoyo.com, proxy

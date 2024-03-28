@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-documents-cn
+
+host-suffix, doc88.com, proxy
+host-suffix, docin.com, proxy
+host-suffix, douding.cn, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-education-ir
+
+.done.ir
+.faradars.org
+.git.ir
+.iranlms.org
+.learnby.ir
+.toplearn.com
+.webinarplus.online

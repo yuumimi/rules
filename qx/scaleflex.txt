@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/scaleflex
+
+host-suffix, cloudimage.io, proxy
+host-suffix, cloudimg.io, proxy
+host-suffix, scaleflex.com, proxy

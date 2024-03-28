@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cabletv
+
+host-suffix, cabletv.com.hk, proxy
+host-suffix, i-cable.com, proxy

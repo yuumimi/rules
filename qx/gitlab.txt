@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gitlab
+
+host, gitlab-assets.oss-cn-hongkong.aliyuncs.com, proxy
+host-suffix, gitlab-static.net, proxy
+host-suffix, gitlab.com, proxy
+host-suffix, gitlab.io, proxy
+host-suffix, gitlab.net, proxy

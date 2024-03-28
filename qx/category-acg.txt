@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-acg
+
+host-suffix, bowlroll.net, proxy
+host-suffix, colorfulstage.com, proxy
+host-suffix, crypton.co.jp, proxy
+host-suffix, lapriere.jp, proxy
+host-suffix, magicalmirai.com, proxy
+host-suffix, mikuexpo.com, proxy
+host-suffix, piapro.net, proxy
+host-suffix, snowmiku.com, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/slideshare
+
+DOMAIN-SUFFIX,slideshare.com
+DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,slidesharecdn.com

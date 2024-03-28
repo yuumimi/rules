@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/51job
+
+.51job.com
+.51jobcdn.com
+.yingjiesheng.com
+.yingjiesheng.net
+.zhiding.com.cn

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/primevideo
+
+.aiv-cdn.net
+.amazonprimevideo.cn
+.amazonprimevideo.com.cn
+.amazonprimevideos.com
+.amazonvideo.cc
+.amazonvideo.com
+.prime-video.com
+.primevideo.cc
+.primevideo.com
+.primevideo.info
+.primevideo.org
+.primevideo.tv

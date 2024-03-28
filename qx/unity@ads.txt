@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/unity
+
+host-suffix, ads.unitychina.cn, proxy
+host-suffix, splash-ads.cdn.unity.cn, proxy
+host-suffix, splash-ads.unitychina.cn, proxy
+host-suffix, unityads.unity.cn, proxy
+host-suffix, unityads.unity3d.com, proxy
+host-suffix, unityads.unitychina.cn, proxy

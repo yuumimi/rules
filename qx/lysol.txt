@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lysol
+
+host-suffix, lizol.co.in, proxy
+host-suffix, lysol.ca, proxy
+host-suffix, lysol.cl, proxy
+host-suffix, lysol.cn, proxy
+host-suffix, lysol.co.cr, proxy
+host-suffix, lysol.com, proxy
+host-suffix, lysol.com.cn, proxy
+host-suffix, lysol.com.mx, proxy
+host-suffix, lysol.net, proxy

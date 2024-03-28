@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-game-accelerator-cn
+
+DOMAIN-SUFFIX,bohejiasuqi.com
+DOMAIN-SUFFIX,jiasu.bohe.com
+DOMAIN-SUFFIX,leigod.com
+DOMAIN-SUFFIX,tmjiasuqi.com
+DOMAIN-SUFFIX,uu.163.com
+DOMAIN-SUFFIX,xunyou.com

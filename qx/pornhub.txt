@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pornhub
+
+host-suffix, gaytube.com, proxy
+host-suffix, phncdn.com, proxy
+host-suffix, phprcdn.com, proxy
+host-suffix, porngub.com, proxy
+host-suffix, pornhub-deutsch.net, proxy
+host-suffix, pornhub.com, proxy
+host-suffix, pornhub.org, proxy
+host-suffix, pornhubapparel.com, proxy
+host-suffix, pornhubpremium.com, proxy

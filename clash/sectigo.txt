@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sectigo
+
+# Behavior: domain
+
+payload:
+  - "+.aoc.cat"
+  - "+.catcert.cat"
+  - "+.enterprisessl.com"
+  - "+.hackerguardian.com"
+  - "+.incommon-rsa.org"
+  - "+.instantssl.com"
+  - "+.netsolssl.com"
+  - "+.oemssl.cn"
+  - "+.oemssl.cn.cdn.cloudflare.net"
+  - "+.optimumssl.com"
+  - "+.positivessl.com"
+  - "+.sectigo.com"
+  - "+.sectigochina.com"
+  - "+.sectigochina.com.cdn.cloudflare.net"
+  - "+.trust-provider.cn"
+  - "+.trust-provider.com"
+  - "+.usertrust.com"

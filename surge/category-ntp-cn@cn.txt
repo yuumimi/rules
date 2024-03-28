@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ntp-cn
+
+.cn.pool.ntp.org
+.ntp.neu.edu.cn
+.ntp.ntsc.ac.cn
+.ntp.org.cn

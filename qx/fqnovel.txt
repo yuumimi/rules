@@ -1,0 +1,37 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fqnovel
+
+host, ads3-normal-hl.zijieapi.com, proxy
+host, ads5-normal-hl.zijieapi.com, proxy
+host, p3-ad-sign.byteimg.com, proxy
+host, p3-novel.byteimg.com, proxy
+host, p6-ad-sign.byteimg.com, proxy
+host, p6-novel.byteimg.com, proxy
+host, p9-ad-sign.byteimg.com, proxy
+host-suffix, activity-zhendingtech.com, proxy
+host-suffix, changdunovel.com, proxy
+host-suffix, fanqienovel.com, proxy
+host-suffix, fanqieopen.com, proxy
+host-suffix, fanqieopenpic.com, proxy
+host-suffix, fanqieopenstatic.com, proxy
+host-suffix, fanqieopenvod.com, proxy
+host-suffix, fanqiesdk.com, proxy
+host-suffix, fanqiesdkpic.com, proxy
+host-suffix, fanqiesdkstatic.com, proxy
+host-suffix, fanqiesdkvod.com, proxy
+host-suffix, fqnovel-op.com, proxy
+host-suffix, fqnovel.com, proxy
+host-suffix, fqnovelim.com, proxy
+host-suffix, fqnovelop.com, proxy
+host-suffix, fqnovelpic.com, proxy
+host-suffix, fqnovelstatic.com, proxy
+host-suffix, fqnovelvod.com, proxy
+host-suffix, ihaohaoxuexi.com, proxy
+host-suffix, muyewx.com, proxy
+host-suffix, novelfm.com, proxy
+host-suffix, novelfmpic.com, proxy
+host-suffix, novelfmstatic.com, proxy
+host-suffix, novelfmvod.com, proxy
+host-suffix, qznovel.com, proxy
+host-suffix, qznovelpic.com, proxy
+host-suffix, qznovelstatic.com, proxy
+host-suffix, qznovelvod.com, proxy

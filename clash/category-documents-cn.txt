@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-documents-cn
+
+# Behavior: domain
+
+payload:
+  - "+.doc88.com"
+  - "+.docin.com"
+  - "+.douding.cn"

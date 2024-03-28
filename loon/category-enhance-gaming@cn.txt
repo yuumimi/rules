@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-enhance-gaming
+
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,lsplayer.com
+DOMAIN-SUFFIX,rpglogs.cn
+DOMAIN-SUFFIX,steampp.net
+DOMAIN-SUFFIX,yeshen.com

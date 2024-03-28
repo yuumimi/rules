@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/abc
+
+DOMAIN-SUFFIX,abc-studios.com
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,edgedatg.com

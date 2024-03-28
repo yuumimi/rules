@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fqnovel
+
+host, ads3-normal-hl.zijieapi.com, proxy
+host, ads5-normal-hl.zijieapi.com, proxy
+host, log3-applog-hl.fqnovel.com, proxy
+host, log5-applog-hl.fqnovel.com, proxy
+host, p3-ad-sign.byteimg.com, proxy
+host, p6-ad-sign.byteimg.com, proxy
+host, p9-ad-sign.byteimg.com, proxy
+host, rtlog3-applog-hl.fqnovel.com, proxy
+host, rtlog5-applog-hl.fqnovel.com, proxy

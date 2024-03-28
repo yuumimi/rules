@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/globalsign
+
+# Behavior: domain
+
+payload:
+  - "+.alphassl.com"
+  - "+.easy-signing.com"
+  - "+.globalsign.cn"
+  - "+.globalsign.com"
+  - "+.globalsigncdn.com"
+  - "cdn.globalsigncdn.com.cdn.cloudflare.net"

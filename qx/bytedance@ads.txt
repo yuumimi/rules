@@ -1,0 +1,30 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bytedance
+
+host, ads3-normal-hl.zijieapi.com, proxy
+host, ads5-normal-hl.zijieapi.com, proxy
+host, log3-applog-hl.fqnovel.com, proxy
+host, log5-applog-hl.fqnovel.com, proxy
+host, p3-ad-sign.byteimg.com, proxy
+host, p6-ad-sign.byteimg.com, proxy
+host, p9-ad-sign.byteimg.com, proxy
+host, rtlog3-applog-hl.fqnovel.com, proxy
+host, rtlog5-applog-hl.fqnovel.com, proxy
+host-suffix, bds.snssdk.com, proxy
+host-suffix, ctobsnssdk.com, proxy
+host-suffix, dig.bdurl.net, proxy
+host-suffix, extlog.snssdk.com, proxy
+host-suffix, i.snssdk.com, proxy
+host-suffix, mcs.snssdk.com, proxy
+host-suffix, pangolin-dsp-toutiao-b.com, proxy
+host-suffix, pangolin-dsp-toutiao.com, proxy
+host-suffix, pangolin-sdk-toutiao-b.com, proxy
+host-suffix, pangolin-sdk-toutiao.com, proxy
+host-suffix, pangolin-sdk-toutiao1.com, proxy
+host-suffix, pangolin.snssdk.com, proxy
+host-suffix, panplayable-toutiao-b.com, proxy
+host-suffix, panplayable-toutiao.com, proxy
+host-suffix, pglstatp-sdk-toutiao.com, proxy
+host-suffix, pglstatp-snssdk-toutiao.com, proxy
+host-suffix, pglstatp-toutiao-b.com, proxy
+host-suffix, pglstatp-toutiao.com, proxy
+host-suffix, sf3-ttcdn-tos.pstatp.com, proxy

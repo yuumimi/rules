@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/akamai
+
+# Behavior: domain
+
+payload:
+  - "+.accdn.com.cn"
+  - "+.akamai.com"
+  - "+.akcdn.com.cn"
+  - "+.aptdn.net"
+  - "+.janrain.biz"
+  - "+.janrainservices.com"
+  - "+.skycdn.com.cn"

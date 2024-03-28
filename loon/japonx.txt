@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/japonx
+
+DOMAIN-SUFFIX,x18r.co
+DOMAIN-SUFFIX,x18r.com
+DOMAIN-SUFFIX,z18r.co
+DOMAIN-SUFFIX,z18r.com

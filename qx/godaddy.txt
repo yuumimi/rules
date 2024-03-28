@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/godaddy
+
+host-suffix, godaddy, proxy
+host-suffix, godaddy.com, proxy
+host-suffix, x.co, proxy

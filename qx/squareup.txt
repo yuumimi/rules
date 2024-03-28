@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/squareup
+
+host-suffix, cash.app, proxy
+host-suffix, cashbycashapp.com, proxy
+host-suffix, gosq.co, proxy
+host-suffix, gosq.com, proxy
+host-suffix, issquaredown.com, proxy
+host-suffix, issquareup.com, proxy
+host-suffix, mkt.com, proxy
+host-suffix, sellercommunity.com, proxy
+host-suffix, squarecapital.com, proxy
+host-suffix, squarecdn.com, proxy
+host-suffix, squarecloudservices.com, proxy
+host-suffix, squareup.com, proxy

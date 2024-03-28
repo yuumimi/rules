@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pixiv
+
+.ads-pixiv.net
+.booth.pm
+.fanbox.cc
+.pixiv.co.jp
+.pixiv.me
+.pixiv.net
+.pixiv.org
+.pximg.net

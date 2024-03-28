@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/landian
+
+host-suffix, lancdn.com, proxy
+host-suffix, landian.vip, proxy
+host-suffix, landian.xyz, proxy
+host-suffix, landiannews.com, proxy
+host-suffix, ourl.co, proxy
+host-suffix, wsoso.com, proxy

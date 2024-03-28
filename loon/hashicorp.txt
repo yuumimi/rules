@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hashicorp
+
+DOMAIN-SUFFIX,consul.io
+DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,nomadproject.io
+DOMAIN-SUFFIX,packer.io
+DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
+DOMAIN-SUFFIX,vagrantup.com
+DOMAIN-SUFFIX,vaultproject.io

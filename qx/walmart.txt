@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/walmart
+
+host-suffix, w-mt.co, proxy
+host-suffix, wal-mart.com, proxy
+host-suffix, wal.co, proxy
+host-suffix, walmart, proxy
+host-suffix, walmart-content.com, proxy
+host-suffix, walmart.cn, proxy
+host-suffix, walmart.com, proxy
+host-suffix, walmart.pharmacy, proxy
+host-suffix, walmartimages.com, proxy
+host-suffix, wmt.co, proxy

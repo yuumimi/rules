@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/firebase
+
+host, firebase-settings.crashlytics.com, proxy
+host, firebase.google.com, proxy
+host, firebase.googleapis.com, proxy
+host, firebaseappcheck.googleapis.com, proxy
+host, firebasedynamiclinks-ipv4.googleapis.com, proxy
+host, firebasedynamiclinks-ipv6.googleapis.com, proxy
+host, firebasedynamiclinks.googleapis.com, proxy
+host, firebaseinappmessaging.googleapis.com, proxy
+host, firebaseinstallations.googleapis.com, proxy
+host, firebaselogging-pa.googleapis.com, proxy
+host, firebaselogging.googleapis.com, proxy
+host, firebaseperusertopics-pa.googleapis.com, proxy
+host, firebaseremoteconfig.googleapis.com, proxy
+host-suffix, firebase.com, proxy
+host-suffix, firebase.io, proxy
+host-suffix, firebaseapp.com, proxy
+host-suffix, firebaseio.com, proxy

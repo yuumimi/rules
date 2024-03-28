@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-payment-ir
+
+host-suffix, asanpardakht.com, proxy
+host-suffix, asanpardakht.net, proxy
+host-suffix, behpardakht.com, proxy
+host-suffix, iranicard.ir, proxy
+host-suffix, mydigipay.com, proxy
+host-suffix, pay.ir, proxy
+host-suffix, payping.ir, proxy
+host-suffix, pec.ir, proxy
+host-suffix, pep.co.ir, proxy
+host-suffix, sadadpsp.ir, proxy
+host-suffix, sep.ir, proxy
+host-suffix, shaparak.ir, proxy
+host-suffix, weswap.digital, proxy
+host-suffix, zarinpal.com, proxy

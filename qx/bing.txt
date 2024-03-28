@@ -1,0 +1,32 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bing
+
+host, location.microsoft.com, proxy
+host-suffix, bing, proxy
+host-suffix, bing.com, proxy
+host-suffix, bing.com.cn, proxy
+host-suffix, bing.net, proxy
+host-suffix, bing123.com, proxy
+host-suffix, bingads.com, proxy
+host-suffix, bingagencyawards.com, proxy
+host-suffix, bingapis.com, proxy
+host-suffix, bingapistatistics.com, proxy
+host-suffix, bingparachute.com, proxy
+host-suffix, bingsandbox.com, proxy
+host-suffix, bingvisualsearch.com, proxy
+host-suffix, bingworld.com, proxy
+host-suffix, bluehatnights.com, proxy
+host-suffix, dictate.ms, proxy
+host-suffix, ditu.live.com, proxy
+host-suffix, flipwithsurface.com, proxy
+host-suffix, masalladeloslimites.com, proxy
+host-suffix, microsoft-give.com, proxy
+host-suffix, microsoftcloudsummit.com, proxy
+host-suffix, microsoftdiplomados.com, proxy
+host-suffix, microsoftlatamholiday.com, proxy
+host-suffix, microsoftmxfilantropia.com, proxy
+host-suffix, microsoftpartnersolutions.com, proxy
+host-suffix, msunlimitedcloudsummit.com, proxy
+host-suffix, office365love.com, proxy
+host-suffix, office365tw.com, proxy
+host-suffix, renovacionoffice.com, proxy
+host-suffix, sprinklesapp.com, proxy

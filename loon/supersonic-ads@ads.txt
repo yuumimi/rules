@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/supersonic-ads
+
+DOMAIN-SUFFIX,ssacdn.com
+DOMAIN-SUFFIX,supersonic.com
+DOMAIN-SUFFIX,supersonicads-a.akamaihd.net
+DOMAIN-SUFFIX,supersonicads.com

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openx-ads
+
+# Behavior: domain
+
+payload:
+  - "+.openx.net"
+  - "+.openxadexchange.com"
+  - "+.openxcdn.net"
+  - "+.openxenterprise.com"
+  - "+.openxmarket.asia"

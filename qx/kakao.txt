@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kakao
+
+host-suffix, kakao.com, proxy
+host-suffix, kakaocdn.net, proxy
+host-suffix, kakaocorp.com, proxy
+host-suffix, kakaotalk.jp, proxy

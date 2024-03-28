@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ssrcloud
+
+host-suffix, airport-gov-cn.com, proxy
+host-suffix, cnix-gov-cn.com, proxy
+host-suffix, xn--d4ty0ojsqzfd.com, proxy

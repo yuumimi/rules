@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/digicert
+
+.dcocsp.cn
+.digicert-cn.com
+.digicert-validation.com
+.digicert.cn
+.digicert.com
+.digitalcertvalidation.com
+.freessl.com
+.geotrust.com
+.public-trust.com
+.quovadisglobal.com
+.rapidssl.com
+.thawte.com
+.thawte.de
+.thawte.fr

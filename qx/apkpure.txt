@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apkpure
+
+host-suffix, apkpure.com, proxy
+host-suffix, apkpure.net, proxy
+host-suffix, cdnpure.com, proxy
+host-suffix, pureapk.com, proxy
+host-suffix, winudf.com, proxy

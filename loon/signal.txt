@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/signal
+
+DOMAIN-SUFFIX,signal.art
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,signalusers.org
+DOMAIN-SUFFIX,whispersystems.org

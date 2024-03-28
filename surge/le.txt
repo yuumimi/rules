@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/le
+
+.le.com
+.lecloud.com
+.lemall.com
+.letv.com
+.letvcdn.com
+.letvimg.com

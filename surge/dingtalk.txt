@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dingtalk
+
+.ddurl.to
+.dingding.xin
+.dingtalk.cn
+.dingtalk.com
+.dingtalk.net
+.dingtalkapps.com
+.laiwang.com
+.lwurl.to

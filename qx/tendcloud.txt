@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tendcloud
+
+host-suffix, cpatrk.net, proxy
+host-suffix, talkingdata.com, proxy
+host-suffix, talkinggame.com, proxy
+host-suffix, tendcloud.com, proxy

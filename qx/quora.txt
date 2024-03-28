@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/quora
+
+host-suffix, poe.com, proxy
+host-suffix, poecdn.net, proxy
+host-suffix, qr.ae, proxy
+host-suffix, quora.com, proxy
+host-suffix, quoracdn.net, proxy

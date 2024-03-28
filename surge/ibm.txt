@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ibm
+
+.appdomain.cloud
+.bluemix.com
+.bluemix.net
+.ibm
+.ibm.com
+.ibm.eu
+.ibm.net
+.ibm.us
+.s-bluemix.net
+.s81c.com
+.weather
+.weatherchannel

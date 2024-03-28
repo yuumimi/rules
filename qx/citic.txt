@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/citic
+
+host-suffix, chinaamc.com, proxy
+host-suffix, citic, proxy
+host-suffix, citic-prudential.com.cn, proxy
+host-suffix, citicbank.com, proxy
+host-suffix, citiccapital.com, proxy
+host-suffix, citiciam.com, proxy
+host-suffix, citicifh.com, proxy
+host-suffix, citicprufunds.com.cn, proxy
+host-suffix, citics.com.hk, proxy
+host-suffix, citicsf.com, proxy
+host-suffix, clsa.com, proxy
+host-suffix, cncbinternational.com, proxy
+host-suffix, csc108.com, proxy
+host-suffix, csci.hk, proxy
+host-suffix, ecitic.com, proxy

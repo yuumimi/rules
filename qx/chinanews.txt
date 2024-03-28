@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinanews
+
+host-suffix, chinanews.com, proxy
+host-suffix, chinanews.com.cn, proxy
+host-suffix, cns.com.cn, proxy
+host-suffix, ecns.cn, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mojang
+
+host-suffix, callersbane.com, proxy
+host-suffix, minecraft.net, proxy
+host-suffix, minecraftshop.com, proxy
+host-suffix, mojang.com, proxy

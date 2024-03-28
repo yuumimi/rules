@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/blizzard
+
+host, blizzard.nefficient.co.kr, proxy
+host, blizzcon-a.akamaihd.net, proxy
+host, blzddist1-a.akamaihd.net, proxy
+host, blzddistkr1-a.akamaihd.net, proxy
+host, blzmedia-a.akamaihd.net, proxy
+host, blznav.akamaized.net, proxy
+host, bnetcmsus-a.akamaihd.net, proxy
+host, bnetproduct-a.akamaihd.net, proxy
+host, bnetshopus.akamaized.net, proxy
+host-suffix, battle.net, proxy
+host-suffix, blizzard.com, proxy
+host-suffix, blizzardgearstore.com, proxy
+host-suffix, blz-contentstack.com, proxy
+host-suffix, diablo3.com, proxy
+host-suffix, diabloimmortal.com, proxy
+host-suffix, firesidegatherings.com, proxy
+host-suffix, heroesofthestorm.com, proxy
+host-suffix, playhearthstone.com, proxy
+host-suffix, playoverwatch.com, proxy
+host-suffix, playwarcraft3.com, proxy
+host-suffix, starcraft.com, proxy
+host-suffix, starcraft2.com, proxy
+host-suffix, worldofwarcraft.com, proxy

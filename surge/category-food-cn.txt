@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-food-cn
+
+.3songshu.com
+.517lppz.com
+.haidilao.com
+.heytea.com
+.lppz.com
+.lppzimg.com

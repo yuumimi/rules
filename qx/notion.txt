@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/notion
+
+host-suffix, notion-static.com, proxy
+host-suffix, notion.com, proxy
+host-suffix, notion.new, proxy
+host-suffix, notion.site, proxy
+host-suffix, notion.so, proxy

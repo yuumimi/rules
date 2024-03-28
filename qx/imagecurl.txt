@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imagecurl
+
+host-suffix, imagecurl.com, proxy
+host-suffix, imagecurl.org, proxy
+host-suffix, imgcrl.org, proxy

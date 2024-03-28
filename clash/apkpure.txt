@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apkpure
+
+# Behavior: domain
+
+payload:
+  - "+.apkpure.com"
+  - "+.apkpure.net"
+  - "+.cdnpure.com"
+  - "+.pureapk.com"
+  - "+.winudf.com"

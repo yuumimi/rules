@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rakuten
+
+host-suffix, r10s.com, proxy
+host-suffix, r10s.jp, proxy
+host-suffix, rakuten-static.com, proxy
+host-suffix, rakuten.ca, proxy
+host-suffix, rakuten.co.jp, proxy
+host-suffix, rakuten.com, proxy
+host-suffix, rakuten.com.tw, proxy
+host-suffix, rakuten.ne.jp, proxy
+host-suffix, rakuten.tw, proxy
+host-suffix, rclon.com, proxy
+host-suffix, rebates.jp, proxy

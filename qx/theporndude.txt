@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/theporndude
+
+host-suffix, porndude2.com, proxy
+host-suffix, porndudecasting.com, proxy
+host-suffix, pornsites.com, proxy
+host-suffix, pornwebmasters.com, proxy
+host-suffix, theporndude.cc, proxy
+host-suffix, theporndude.com, proxy
+host-suffix, theporndude.vip, proxy

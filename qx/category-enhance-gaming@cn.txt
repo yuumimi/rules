@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-enhance-gaming
+
+host-suffix, heavenlywind.cc, proxy
+host-suffix, lsplayer.com, proxy
+host-suffix, rpglogs.cn, proxy
+host-suffix, steampp.net, proxy
+host-suffix, yeshen.com, proxy

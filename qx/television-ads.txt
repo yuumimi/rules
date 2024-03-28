@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/television-ads
+
+host-suffix, ad.hpplay.cn, proxy
+host-suffix, adeng.hpplay.cn, proxy
+host-suffix, ads-uo.api.leiniao.com, proxy
+host-suffix, ads-ut.api.leiniao.com, proxy
+host-suffix, ads.api.my7v.com, proxy
+host-suffix, ads.huan.tv, proxy
+host-suffix, ads.huantest.com, proxy
+host-suffix, advapi.joyplus.tv, proxy
+host-suffix, advapikj.joyplus.tv, proxy
+host-suffix, euads-o.api.leiniao.com, proxy
+host-suffix, hwads-t.api.my7v.com, proxy
+host-suffix, kuyun.com, proxy
+host-suffix, testads.api.my7v.com, proxy

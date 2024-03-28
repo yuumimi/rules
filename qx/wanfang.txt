@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wanfang
+
+host-suffix, wanfangdata.com.cn, proxy
+host-suffix, wf.pub, proxy

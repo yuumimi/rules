@@ -1,0 +1,3 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/0x0
+
+host-suffix, 0x0.st, proxy

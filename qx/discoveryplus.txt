@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/discoveryplus
+
+host-suffix, content-ause1-ur-discovery1.uplynk.com, proxy
+host-suffix, disco-api.com, proxy
+host-suffix, discoveryplus.com, proxy

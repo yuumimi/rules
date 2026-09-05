@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cursor
+
+# Behavior: domain
+
+payload:
+  - "+.cursor-cdn.com"
+  - "+.cursor.com"
+  - "+.cursor.sh"
+  - "+.cursorapi.com"

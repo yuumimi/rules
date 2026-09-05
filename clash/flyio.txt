@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/flyio
+
+# Behavior: domain
+
+payload:
+  - "+.fly.dev"
+  - "+.fly.io"
+  - "+.flyio.net"

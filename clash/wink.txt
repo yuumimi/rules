@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wink
+
+# Behavior: domain
+
+payload:
+  - "+.more.tv"
+  - "+.restream-media.net"
+  - "+.restream.ru"
+  - "+.wink.am"
+  - "+.wink.ru"

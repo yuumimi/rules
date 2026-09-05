@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/picsee
+
+host-suffix, pics.ee, proxy
+host-suffix, picsee.co, proxy
+host-suffix, picsee.pro, proxy
+host-suffix, pise.pw, proxy
+host-suffix, pros.ee, proxy
+host-suffix, pse.is, proxy

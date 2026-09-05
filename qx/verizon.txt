@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/verizon
+
+host-suffix, oath.cloud, proxy
+host-suffix, oath.com, proxy
+host-suffix, ouroath.com, proxy
+host-suffix, static-verizon.com, proxy
+host-suffix, uplynk.com, proxy
+host-suffix, verizon.com, proxy
+host-suffix, verizon.net, proxy
+host-suffix, verizonbusinessfios.com, proxy
+host-suffix, verizondigitalmedia.com, proxy
+host-suffix, verizonenterprise.com, proxy
+host-suffix, verizonfios.com, proxy
+host-suffix, verizonmedia.com, proxy
+host-suffix, verizonwireless.com, proxy
+host-suffix, vzw.com, proxy
+host-suffix, xo.com, proxy

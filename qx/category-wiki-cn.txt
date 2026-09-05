@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-wiki-cn
+
+host-suffix, allhistory.com, proxy
+host-suffix, chaz.fun, proxy
+host-suffix, fgo.wiki, proxy
+host-suffix, huijistatic.com, proxy
+host-suffix, huijiwiki.com, proxy
+host-suffix, jikipedia.com, proxy
+host-suffix, mbalib.com, proxy
+host-suffix, mcmod.cn, proxy
+host-suffix, moegirl.org, proxy
+host-suffix, moegirl.org.cn, proxy
+host-suffix, pwsannong.com, proxy
+host-suffix, qiuwen.wiki, proxy
+host-suffix, qiuwenbaike.cn, proxy
+host-suffix, sec-wiki.com, proxy
+host-suffix, shidianbaike.com, proxy
+host-suffix, zdic.net, proxy

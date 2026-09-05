@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mikrotik
+
+host-suffix, mikrotik.com, proxy
+host-suffix, mt.lv, proxy
+host-suffix, mynetname.net, proxy
+host-suffix, routerboard.com, proxy

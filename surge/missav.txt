@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/missav
+
+.missav.ai
+.missav.com
+.missav.live
+.missav.uno
+.missav.vip
+.missav.ws
+.missav123.com

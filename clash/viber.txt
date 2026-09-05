@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/viber
+
+# Behavior: domain
+
+payload:
+  - "+.s-bid.rmp.rakuten.com"
+  - "+.vbcdn.com"
+  - "+.vbcdn.net"
+  - "+.viber.co"
+  - "+.viber.com"
+  - "+.viber.me"

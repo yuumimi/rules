@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/metabrainz
+
+host-suffix, acousticbrainz.org, proxy
+host-suffix, bookbrainz.org, proxy
+host-suffix, coverartarchive.org, proxy
+host-suffix, critiquebrainz.org, proxy
+host-suffix, listenbrainz.org, proxy
+host-suffix, messybrainz.org, proxy
+host-suffix, metabrainz.org, proxy
+host-suffix, musicbrainz.org, proxy

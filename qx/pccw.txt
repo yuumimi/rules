@@ -1,0 +1,29 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pccw
+
+host, d1k2us671qcoau.cloudfront.net, proxy
+host, d2anahhhmp1ffz.cloudfront.net, proxy
+host, dfp6rglgjqszk.cloudfront.net, proxy
+host-suffix, 1010.com.hk, proxy
+host-suffix, esmarthealth.com, proxy
+host-suffix, hkcsl.com, proxy
+host-suffix, hkt-enterprise.com, proxy
+host-suffix, hkt-eye.com, proxy
+host-suffix, hkt.com, proxy
+host-suffix, hkteducation.com, proxy
+host-suffix, hktpremier.com, proxy
+host-suffix, hktshop.com, proxy
+host-suffix, moov.hk, proxy
+host-suffix, netvigator.com, proxy
+host-suffix, now-ashare.com, proxy
+host-suffix, now-tv.com, proxy
+host-suffix, now.com, proxy
+host-suffix, now.com.hk, proxy
+host-suffix, nowe.com, proxy
+host-suffix, nowe.hk, proxy
+host-suffix, pccw.com, proxy
+host-suffix, pccwglobal.com, proxy
+host-suffix, pccwsolutions.com, proxy
+host-suffix, theclub.com.hk, proxy
+host-suffix, uhub.com, proxy
+host-suffix, viu.com, proxy
+host-suffix, viu.tv, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lastfm
+
+host, lastfm.freetls.fastly.net, proxy
+host, ws.audioscrobbler.com, proxy
+host-suffix, last.fm, proxy

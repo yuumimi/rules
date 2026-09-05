@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bestbuy
+
+host-suffix, bestbuy.cn, proxy
+host-suffix, bestbuy.com.cn, proxy
+host-suffix, magnoliaav.com.cn, proxy

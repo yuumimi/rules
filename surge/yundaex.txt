@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yundaex
+
+.udalogistic.cn
+.udalogistic.com
+.ydsys.cn
+.yunda56.com
+.yundaex.cn
+.yundaex.com
+.yundalog.com
+.yundaltl.com
+.yundasys.com

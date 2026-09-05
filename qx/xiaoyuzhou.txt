@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaoyuzhou
+
+host-suffix, podcast.xyz, proxy
+host-suffix, xiaoyuzhoufm.com, proxy
+host-suffix, xyzcdn.net, proxy
+host-suffix, xyzfm.link, proxy
+host-suffix, xyzfm.space, proxy

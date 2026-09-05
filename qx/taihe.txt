@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/taihe
+
+host-suffix, 91q.com, proxy
+host-suffix, dmhmusic.com, proxy
+host-suffix, showstart.com, proxy
+host-suffix, taihe.com, proxy
+host-suffix, taihemusic.cn, proxy
+host-suffix, th-music.com, proxy

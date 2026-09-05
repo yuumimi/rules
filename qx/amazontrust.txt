@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amazontrust
+
+host-suffix, amazontrust.com, proxy
+host-suffix, awstrust.com, proxy
+host-suffix, ss2.us, proxy

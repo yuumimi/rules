@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jinshuju
+
+host-suffix, jinshuju.net, proxy
+host-suffix, jinshujucdn.com, proxy
+host-suffix, jsj.top, proxy

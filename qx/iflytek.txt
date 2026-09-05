@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/iflytek
+
+host-suffix, changyan.com, proxy
+host-suffix, ets100.com, proxy
+host-suffix, iflyink.com, proxy
+host-suffix, iflyrec.com, proxy
+host-suffix, iflysec.com, proxy
+host-suffix, iflytek.com, proxy
+host-suffix, voicecloud.cn, proxy
+host-suffix, xfyun.cn, proxy
+host-suffix, xunfei.cn, proxy
+host-suffix, xunfeixxj.com, proxy
+host-suffix, zhixue.com, proxy

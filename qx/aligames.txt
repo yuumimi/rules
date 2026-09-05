@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aligames
+
+host-suffix, 9game.cn, proxy
+host-suffix, aligames.com, proxy
+host-suffix, jiaoyimao.cn, proxy
+host-suffix, jiaoyimao.com, proxy
+host-suffix, lingxigames.com, proxy

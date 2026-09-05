@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rutube
+
+DOMAIN-SUFFIX,rtbcdn.ru
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutube.sport
+DOMAIN-SUFFIX,rutubelist.ru

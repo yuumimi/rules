@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/timeweb
+
+host-suffix, timeweb.cloud, proxy
+host-suffix, timeweb.com, proxy
+host-suffix, twcstorage.ru, proxy

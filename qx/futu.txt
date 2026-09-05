@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/futu
+
+host-suffix, futu.cn, proxy
+host-suffix, futu.link, proxy
+host-suffix, futu5.com, proxy
+host-suffix, futuau.com, proxy
+host-suffix, futuesop.com, proxy
+host-suffix, futufin.com, proxy
+host-suffix, futuhk.com, proxy
+host-suffix, futuhk1.com, proxy
+host-suffix, futuhk2.com, proxy
+host-suffix, futuhkapp.com, proxy
+host-suffix, futuhn.com, proxy
+host-suffix, futuholdings.com, proxy
+host-suffix, futuniuniu.com, proxy
+host-suffix, futunn.com, proxy
+host-suffix, futuoa.com, proxy
+host-suffix, futusg.com, proxy
+host-suffix, futustatic.com, proxy
+host-suffix, fututrade.com, proxy
+host-suffix, moomoo.com, proxy
+host-suffix, moomooequity.com, proxy
+host-suffix, moomootrustee.com, proxy

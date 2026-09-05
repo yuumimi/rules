@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pinkcore
+
+# Behavior: domain
+
+payload:
+  - "+.pinkcore.com"
+  - "+.pinkcore.net"

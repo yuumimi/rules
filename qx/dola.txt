@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dola
+
+host-suffix, cici.com, proxy
+host-suffix, ciciai.com, proxy
+host-suffix, ciciaicdn.com, proxy
+host-suffix, dola.com, proxy

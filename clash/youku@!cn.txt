@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youku
+
+# Behavior: domain
+
+payload:
+  - "+.youku.tv"
+  - "+.youkuplay.com"

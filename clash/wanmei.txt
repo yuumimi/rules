@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wanmei
+
+# Behavior: domain
+
+payload:
+  - "+.111.com"
+  - "+.88.com"
+  - "+.88y.cn"
+  - "+.allhistory.com"
+  - "+.chengjiaxiangqin.cn"
+  - "+.email.cn"
+  - "+.laohu.com"
+  - "+.perfectlingo.com"
+  - "+.pwcinema.com"
+  - "+.pwesports.cn"
+  - "+.pwrd.com"
+  - "+.wanmei.com"
+  - "+.wmsj.cn"
+  - "+.wmupd.com"

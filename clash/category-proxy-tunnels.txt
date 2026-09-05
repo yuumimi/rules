@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-proxy-tunnels
+
+# Behavior: domain
+
+payload:
+  - "+.equinox.io"
+  - "+.ngrok-agent.com"
+  - "+.ngrok-free.app"
+  - "+.ngrok-free.dev"
+  - "+.ngrok-free.pizza"
+  - "+.ngrok.app"
+  - "+.ngrok.com"
+  - "+.ngrok.dev"
+  - "+.ngrok.io"
+  - "+.ngrok.pizza"
+  - "+.ngrok.pro"
+  - "+.pinggy.io"
+  - "+.pinggy.link"
+  - "+.tailscale.com"
+  - "+.tailscale.io"
+  - "+.ts.net"

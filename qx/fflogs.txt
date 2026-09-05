@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fflogs
+
+host-suffix, fflogs.com, proxy
+host-suffix, rpglogs.cn, proxy
+host-suffix, rpglogs.com, proxy

@@ -1,0 +1,33 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ubisoft
+
+host, ubisoft-orbit-savegames.s3.amazonaws.com, proxy
+host, ubisoft-uplay-savegames.s3.amazonaws.com, proxy
+host, ubisoft.siteintercept.qualtrics.com, proxy
+host, ubistatic1-a.akamaihd.net, proxy
+host, ubistatic10-a.akamaihd.net, proxy
+host, ubistatic11-a.akamaihd.net, proxy
+host, ubistatic12-a.akamaihd.net, proxy
+host, ubistatic13-a.akamaihd.net, proxy
+host, ubistatic14-a.akamaihd.net, proxy
+host, ubistatic15-a.akamaihd.net, proxy
+host, ubistatic16-a.akamaihd.net, proxy
+host, ubistatic17-a.akamaihd.net, proxy
+host, ubistatic18-a.akamaihd.net, proxy
+host, ubistatic19-a.akamaihd.net, proxy
+host, ubistatic2-a.akamaihd.net, proxy
+host, ubistatic20-a.akamaihd.net, proxy
+host, ubistatic21-a.akamaihd.net, proxy
+host, ubistatic22-a.akamaihd.net, proxy
+host, ubistatic23-a.akamaihd.net, proxy
+host, ubistatic24-a.akamaihd.net, proxy
+host, ubistatic3-a.akamaihd.net, proxy
+host, ubistatic4-a.akamaihd.net, proxy
+host, ubistatic5-a.akamaihd.net, proxy
+host, ubistatic6-a.akamaihd.net, proxy
+host, ubistatic7-a.akamaihd.net, proxy
+host, ubistatic8-a.akamaihd.net, proxy
+host, ubistatic9-a.akamaihd.net, proxy
+host-suffix, ubi.com, proxy
+host-suffix, ubisoft.com, proxy
+host-suffix, ubisoftconnect.com, proxy
+host-suffix, uplay.com, proxy

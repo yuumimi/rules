@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/haier
+
+host-suffix, ehaier.com, proxy
+host-suffix, haier.com, proxy
+host-suffix, haier.net, proxy
+host-suffix, haiersmarthomes.com, proxy

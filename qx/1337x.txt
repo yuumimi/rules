@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/1337x
+
+host-suffix, 1337x.gd, proxy
+host-suffix, 1337x.is, proxy
+host-suffix, 1337x.st, proxy
+host-suffix, 1337x.to, proxy
+host-suffix, 1337x.tw, proxy
+host-suffix, 1337xto.to, proxy
+host-suffix, 1337xx.to, proxy
+host-suffix, x1337x.eu, proxy
+host-suffix, x1337x.se, proxy
+host-suffix, x1337x.ws, proxy

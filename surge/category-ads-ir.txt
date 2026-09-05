@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ads-ir
+
+.adivery.com
+.adivery.ir
+.kaprila.com
+.najva.com
+.sabavision.com
+.tapsell.ir
+.yektanet.com

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/heroku
+
+host-suffix, codei.sh, proxy
+host-suffix, codeish.co, proxy
+host-suffix, codeish.io, proxy
+host-suffix, heroku-app.com, proxy
+host-suffix, heroku-charge.com, proxy
+host-suffix, heroku.co, proxy
+host-suffix, heroku.com, proxy
+host-suffix, heroku.me, proxy
+host-suffix, herokuapp.com, proxy
+host-suffix, herokucdn.com, proxy
+host-suffix, herokucharge.com, proxy
+host-suffix, herokussl.com, proxy

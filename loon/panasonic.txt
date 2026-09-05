@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/panasonic
+
+DOMAIN-SUFFIX,panasonic
+DOMAIN-SUFFIX,panasonic.cn
+DOMAIN-SUFFIX,panasonic.com
+DOMAIN-SUFFIX,panasonic.jp
+DOMAIN-SUFFIX,technics.com

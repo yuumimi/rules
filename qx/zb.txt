@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zb
+
+host-suffix, zb.app, proxy
+host-suffix, zb.com, proxy
+host-suffix, zb.io, proxy
+host-suffix, zb.live, proxy

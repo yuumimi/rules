@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/launchpad
+
+.launchpad.net
+.launchpadcontent.net
+.launchpadlibrarian.com
+.launchpadlibrarian.net
+.launchpadlibrarian.org

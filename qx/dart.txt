@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dart
+
+host-suffix, dart.dev, proxy
+host-suffix, dartlang.org, proxy
+host-suffix, dartpad.dev, proxy

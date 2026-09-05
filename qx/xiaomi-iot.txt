@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi-iot
+
+host-suffix, account.xiaomi.com, proxy
+host-suffix, cn-ha.mqtt.io.mi.com, proxy
+host-suffix, ha.api.io.mi.com, proxy
+host-suffix, miot-spec.org, proxy

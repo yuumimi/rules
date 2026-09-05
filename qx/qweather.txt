@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qweather
+
+host-suffix, hecdn.net, proxy
+host-suffix, heweather.net, proxy
+host-suffix, qweather.com, proxy
+host-suffix, qweather.net, proxy
+host-suffix, qweatherapi.com, proxy

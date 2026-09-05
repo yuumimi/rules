@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/buypass
+
+host-suffix, buypass-ssl.com, proxy
+host-suffix, buypass.com, proxy
+host-suffix, buypass.no, proxy
+host-suffix, buypass.se, proxy
+host-suffix, minid.no, proxy

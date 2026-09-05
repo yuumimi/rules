@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/blender
+
+host-suffix, bigbuckbunny.org, proxy
+host-suffix, blender.org, proxy
+host-suffix, elephantsdream.org, proxy

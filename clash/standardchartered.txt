@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/standardchartered
+
+# Behavior: domain
+
+payload:
+  - "+.sc.com"
+  - "+.standardchartered.com"
+  - "standchartbank.sc.omtrdc.net"
+  - "standchartbank.tt.omtrdc.net"

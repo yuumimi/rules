@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aamgame
+
+DOMAIN-SUFFIX,aamgame.com
+DOMAIN-SUFFIX,aamgame.mobi
+DOMAIN-SUFFIX,aamgame.net
+DOMAIN-SUFFIX,aamsmart.com
+DOMAIN-SUFFIX,singworld.net

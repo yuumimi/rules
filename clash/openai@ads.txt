@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openai
+
+# Behavior: domain
+
+payload:
+  - "browser-intake-datadoghq.com"
+  - "o33249.ingest.sentry.io"
+  - "openai.qualtrics.com"

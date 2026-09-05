@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/thetype
+
+DOMAIN-SUFFIX,thetype.cloud
+DOMAIN-SUFFIX,thetype.com
+DOMAIN-SUFFIX,typeisbeautiful.com

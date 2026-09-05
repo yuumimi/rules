@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cloudflare-ipfs
+
+host-suffix, cf-ipfs.com, proxy
+host-suffix, cloudflare-ipfs.com, proxy

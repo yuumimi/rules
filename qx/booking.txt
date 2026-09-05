@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/booking
+
+host-suffix, booking.cn, proxy
+host-suffix, booking.com, proxy
+host-suffix, bstatic.com, proxy

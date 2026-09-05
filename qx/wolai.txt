@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wolai
+
+host-suffix, wol.tv, proxy
+host-suffix, wolai.com, proxy
+host-suffix, wostatic.cn, proxy

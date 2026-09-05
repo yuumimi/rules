@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/copymanga
+
+host-suffix, 2025copy.com, proxy
+host-suffix, copy-manga.com, proxy
+host-suffix, copy20.com, proxy
+host-suffix, copy2000.online, proxy
+host-suffix, mangacopy.com, proxy
+host-suffix, mangafuna.xyz, proxy
+host-suffix, mangafunb.fun, proxy

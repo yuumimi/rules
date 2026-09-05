@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amap
+
+# Behavior: domain
+
+payload:
+  - "+.adashx.ut.amap.com"
+  - "+.dualstack-logs.amap.com"
+  - "+.logs.amap.com"
+  - "+.optimus-ads.amap.com"
+  - "+.v6-adashx.ut.amap.com"

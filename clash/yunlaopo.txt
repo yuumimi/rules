@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yunlaopo
+
+# Behavior: domain
+
+payload:
+  - "+.doure.net"
+  - "+.kuaipa.net"
+  - "+.miaopa.net"
+  - "+.yunlaopo.cc"
+  - "+.yunlaopo.com"
+  - "+.yunlaopo.net"

@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ai-ru
+
+# Behavior: domain
+
+payload:
+  - "+.aiesa.ru"
+  - "+.alice.yandex.net"
+  - "+.alice.yandex.ru"
+  - "+.alicepro.yandex.ru"
+  - "+.copymonkey.app"
+  - "+.gerwin.io"
+  - "+.giga.chat"
+  - "+.gptunnel.ru"
+  - "+.polza.ai"
+  - "+.robotext.io"
+  - "+.rugpt.io"
+  - "+.tokenator.top"

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cdn77
+
+host-suffix, cdn77.com, proxy
+host-suffix, cdn77.org, proxy

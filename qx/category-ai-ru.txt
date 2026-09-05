@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ai-ru
+
+host-suffix, aiesa.ru, proxy
+host-suffix, alice.yandex.net, proxy
+host-suffix, alice.yandex.ru, proxy
+host-suffix, alicepro.yandex.ru, proxy
+host-suffix, copymonkey.app, proxy
+host-suffix, gerwin.io, proxy
+host-suffix, giga.chat, proxy
+host-suffix, gptunnel.ru, proxy
+host-suffix, polza.ai, proxy
+host-suffix, robotext.io, proxy
+host-suffix, rugpt.io, proxy
+host-suffix, tokenator.top, proxy

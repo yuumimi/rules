@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tokyo-toshokan
+
+DOMAIN-SUFFIX,tokyo-tosho.net
+DOMAIN-SUFFIX,tokyotosho.info
+DOMAIN-SUFFIX,tokyotosho.se

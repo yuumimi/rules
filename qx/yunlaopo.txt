@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yunlaopo
+
+host-suffix, doure.net, proxy
+host-suffix, kuaipa.net, proxy
+host-suffix, miaopa.net, proxy
+host-suffix, yunlaopo.cc, proxy
+host-suffix, yunlaopo.com, proxy
+host-suffix, yunlaopo.net, proxy

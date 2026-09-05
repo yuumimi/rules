@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/moji
+
+host-suffix, airnut.com, proxy
+host-suffix, moji.com, proxy
+host-suffix, moji001.com, proxy
+host-suffix, moji002.com, proxy
+host-suffix, mojicdn.com, proxy
+host-suffix, mojichina.com, proxy

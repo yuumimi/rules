@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ubuntukylin
+
+# Behavior: domain
+
+payload:
+  - "+.openkylin.top"
+  - "+.ubuntukylin.com"

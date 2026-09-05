@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bandcamp
+
+host-suffix, bandcamp.com, proxy
+host-suffix, bcbits.com, proxy

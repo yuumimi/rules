@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/baishancloud
+
+# Behavior: domain
+
+payload:
+  - "+.bsclink.cn"
+  - "+.qingcdn.com"
+  - "+.trpcdn.net"

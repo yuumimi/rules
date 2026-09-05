@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wistia
+
+DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
+DOMAIN-SUFFIX,wistia.com
+DOMAIN-SUFFIX,wistia.net

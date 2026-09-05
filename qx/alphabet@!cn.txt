@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/alphabet
+
+host, alt1-mtalk.google.com, proxy
+host, alt2-mtalk.google.com, proxy
+host, alt3-mtalk.google.com, proxy
+host, alt4-mtalk.google.com, proxy
+host, alt5-mtalk.google.com, proxy
+host, alt6-mtalk.google.com, proxy
+host, mtalk.google.com, proxy

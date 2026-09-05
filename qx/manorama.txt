@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/manorama
+
+host-suffix, malayalamanorama.com, proxy
+host-suffix, manorama.com, proxy
+host-suffix, manoramanews.com, proxy
+host-suffix, manoramaonline.com, proxy
+host-suffix, manoramayearbook.in, proxy
+host-suffix, onmanorama.com, proxy
+host-suffix, radiomango.fm, proxy
+host-suffix, theman.in, proxy
+host-suffix, theweek.in, proxy
+host-suffix, vanitaonline.com, proxy
+host-suffix, vanitha.in, proxy
+host-suffix, vanithaveedu.com, proxy

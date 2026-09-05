@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/4plebs
+
+host-suffix, 4pcdn.org, proxy
+host-suffix, 4plebs.org, proxy

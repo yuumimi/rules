@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fflogs
+
+DOMAIN-SUFFIX,fflogs.com
+DOMAIN-SUFFIX,rpglogs.cn
+DOMAIN-SUFFIX,rpglogs.com

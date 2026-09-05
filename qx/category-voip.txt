@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-voip
+
+host-suffix, agkn.com, proxy
+host-suffix, cohere.com, proxy
+host-suffix, inmobi.com, proxy
+host-suffix, ip-api.com, proxy
+host-suffix, kochava.com, proxy
+host-suffix, mobilefuse.com, proxy
+host-suffix, talkatone.com, proxy
+host-suffix, tktn.at, proxy
+host-suffix, tktn.be, proxy

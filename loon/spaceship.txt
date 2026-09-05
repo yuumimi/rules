@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/spaceship
+
+DOMAIN-SUFFIX,spacemail.com
+DOMAIN-SUFFIX,spaceship.com

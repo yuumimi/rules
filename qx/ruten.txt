@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ruten
+
+host-suffix, rimg.com.tw, proxy
+host-suffix, ruten.com.tw, proxy

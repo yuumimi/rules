@@ -1,0 +1,37 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tiktok
+
+host, p16-tiktokcdn-com.akamaized.net, proxy
+host, roovza-launches.appsflyersdk.com, proxy
+host, roovza.inapps.appsflyersdk.com, proxy
+host, roovza.launches.appsflyersdk.com, proxy
+host, roovza.skadsdk.appsflyersdk.com, proxy
+host-suffix, bytedapm.com, proxy
+host-suffix, muscdn.com, proxy
+host-suffix, musical.ly, proxy
+host-suffix, tik-tokapi.com, proxy
+host-suffix, tiktok-minis.com, proxy
+host-suffix, tiktok-row.net, proxy
+host-suffix, tiktok.com, proxy
+host-suffix, tiktokcdn-eu.com, proxy
+host-suffix, tiktokcdn-us.com, proxy
+host-suffix, tiktokcdn-us.com.edgesuite.net, proxy
+host-suffix, tiktokcdn.com, proxy
+host-suffix, tiktokcdn.com.akamaized.net, proxy
+host-suffix, tiktokcdn.com.edgesuite.net, proxy
+host-suffix, tiktokd.net, proxy
+host-suffix, tiktokd.org, proxy
+host-suffix, tiktokeu-cdn.com, proxy
+host-suffix, tiktokglobalshopv.com, proxy
+host-suffix, tiktokminis.us, proxy
+host-suffix, tiktokrow-cdn.com, proxy
+host-suffix, tiktokv.com, proxy
+host-suffix, tiktokv.com.edgekey.net, proxy
+host-suffix, tiktokv.com.edgesuite.net, proxy
+host-suffix, tiktokv.eu, proxy
+host-suffix, tiktokv.us, proxy
+host-suffix, tiktokw.eu, proxy
+host-suffix, tiktokw.us, proxy
+host-suffix, ttcdn-us.com, proxy
+host-suffix, ttlivecdn.com, proxy
+host-suffix, ttoverseaus.net, proxy
+host-suffix, ttwstatic.com, proxy

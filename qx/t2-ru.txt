@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/t2-ru
+
+host-suffix, b2c-digest.ru, proxy
+host-suffix, t2.ru, proxy
+host-suffix, tele2.ru, proxy

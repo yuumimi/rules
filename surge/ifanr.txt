@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ifanr
+
+.coolbuy.com
+.ifanr.cn
+.ifanr.com
+.ifanr.in
+.ifanrusercontent.com
+.ifanrx.com
+.minapp.com

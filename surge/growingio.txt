@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/growingio
+
+.datayi.cn
+.gio.ren
+.giocdn.com
+.growin.cn
+.growingio.cn
+.growingio.com

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fastlane
+
+host-suffix, fastlane.ci, proxy
+host-suffix, fastlane.tools, proxy

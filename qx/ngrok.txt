@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ngrok
+
+host-suffix, equinox.io, proxy
+host-suffix, ngrok-agent.com, proxy
+host-suffix, ngrok-free.app, proxy
+host-suffix, ngrok-free.dev, proxy
+host-suffix, ngrok-free.pizza, proxy
+host-suffix, ngrok.app, proxy
+host-suffix, ngrok.com, proxy
+host-suffix, ngrok.dev, proxy
+host-suffix, ngrok.io, proxy
+host-suffix, ngrok.pizza, proxy
+host-suffix, ngrok.pro, proxy

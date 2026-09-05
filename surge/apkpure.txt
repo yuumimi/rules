@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apkpure
+
+.apkpure.com
+.apkpure.net
+.apkpures.xyz
+.cdnpure.com
+.pureapk.com
+.winudf.com

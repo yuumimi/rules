@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ipfs
+
+host-suffix, 4everland.io, proxy
+host-suffix, c4rex.co, proxy
+host-suffix, cf-ipfs.com, proxy
+host-suffix, cloudflare-ipfs.com, proxy
+host-suffix, crustwebsites.net, proxy
+host-suffix, dweb.link, proxy
+host-suffix, gateway.pinata.cloud, proxy
+host-suffix, ipfs-gateway.cloud, proxy
+host-suffix, ipfs.anonymize.com, proxy
+host-suffix, ipfs.best-practice.se, proxy
+host-suffix, ipfs.eternum.io, proxy
+host-suffix, ipfs.eth.aragon.network, proxy
+host-suffix, ipfs.fleek.co, proxy
+host-suffix, ipfs.io, proxy
+host-suffix, ipfs.lain.la, proxy
+host-suffix, ipfs.runfission.com, proxy
+host-suffix, ipfs.tech, proxy
+host-suffix, ipns.co, proxy
+host-suffix, jorropo.net, proxy
+host-suffix, nftstorage.link, proxy
+host-suffix, via0.com, proxy

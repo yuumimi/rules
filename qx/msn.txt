@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/msn
+
+host-suffix, microsoftnews.cc, proxy
+host-suffix, microsoftnews.cn, proxy
+host-suffix, microsoftnews.com, proxy
+host-suffix, microsoftnews.net, proxy
+host-suffix, microsoftnews.org, proxy
+host-suffix, microsoftnewsforkids.com, proxy
+host-suffix, microsoftnewsforkids.net, proxy
+host-suffix, microsoftnewsforkids.org, proxy
+host-suffix, microsoftnewskids.com, proxy
+host-suffix, microsoftnewskids.net, proxy
+host-suffix, microsoftnewskids.org, proxy
+host-suffix, microsoftstart.com, proxy
+host-suffix, msn.cn, proxy
+host-suffix, msn.com, proxy
+host-suffix, msnewskids.com, proxy
+host-suffix, msnewskids.net, proxy
+host-suffix, msnewskids.org, proxy
+host-suffix, msnkids.com, proxy
+host-suffix, start.com, proxy

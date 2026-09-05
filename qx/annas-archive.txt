@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/annas-archive
+
+host-suffix, annas-archive.gd, proxy
+host-suffix, annas-archive.gl, proxy
+host-suffix, annas-archive.in, proxy
+host-suffix, annas-archive.li, proxy
+host-suffix, annas-archive.org, proxy
+host-suffix, annas-archive.pk, proxy
+host-suffix, annas-archive.pm, proxy
+host-suffix, annas-archive.se, proxy

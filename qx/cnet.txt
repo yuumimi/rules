@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnet
+
+host-suffix, cnet.co.kr, proxy
+host-suffix, cnet.com, proxy
+host-suffix, cnet.de, proxy
+host-suffix, cnetfrance.fr, proxy
+host-suffix, download.com, proxy

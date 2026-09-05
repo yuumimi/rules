@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/olevod
+
+host-suffix, haiwaikan.com, proxy
+host-suffix, iole.tv, proxy
+host-suffix, olehd.com, proxy
+host-suffix, olelive.com, proxy
+host-suffix, olemovienews.com, proxy
+host-suffix, olevod.com, proxy
+host-suffix, olevod.io, proxy
+host-suffix, olevod.tv, proxy
+host-suffix, olevodtv.com, proxy

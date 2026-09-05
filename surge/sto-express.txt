@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sto-express
+
+.sto-express.cn
+.sto-express.com
+.sto-express.com.cn
+.sto.cn
+.stointl.com
+.stosolution.com

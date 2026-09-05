@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pocketcasts
+
+DOMAIN-SUFFIX,pca.st
+DOMAIN-SUFFIX,pocketcasts.com

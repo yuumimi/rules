@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/928plus
+
+host-suffix, 928.plus, proxy
+host-suffix, zind.cloud, proxy

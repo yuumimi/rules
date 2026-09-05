@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hsbc-cn
+
+host-suffix, hsbc.com.cn, proxy
+host-suffix, hsbcinsurance.com.cn, proxy
+host-suffix, hsbcqh.com.cn, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/perplexity
+
+host, ppl-ai-file-upload.s3.amazonaws.com, proxy
+host, pplx-res.cloudinary.com, proxy
+host-suffix, perplexity.ai, proxy
+host-suffix, perplexity.com, proxy
+host-suffix, pplx.ai, proxy

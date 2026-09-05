@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/funpay
+
+host-suffix, funpay.com, proxy
+host-suffix, funpay.ru, proxy
+host-suffix, sfunpay.com, proxy

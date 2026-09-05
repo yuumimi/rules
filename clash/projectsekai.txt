@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/projectsekai
+
+# Behavior: domain
+
+payload:
+  - "+.pjsekai.sega.jp"
+  - "+.sekai.colorfulpalette.org"

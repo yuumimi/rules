@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-social-media-cn
+
+host-suffix, hk.weibo.com, proxy
+host-suffix, my.weibo.com, proxy
+host-suffix, overseas.weibo.com, proxy
+host-suffix, rednote.com, proxy
+host-suffix, rednote.com.my, proxy
+host-suffix, rednotecdn.com, proxy
+host-suffix, sg.weibo.com, proxy
+host-suffix, th.weibo.com, proxy
+host-suffix, tw.weibo.com, proxy
+host-suffix, us.weibo.com, proxy

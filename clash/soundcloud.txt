@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/soundcloud
+
+# Behavior: domain
+
+payload:
+  - "+.sndcdn.com"
+  - "+.soundcloud.cloud"
+  - "+.soundcloud.com"

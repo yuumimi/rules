@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/carrotquest
+
+host, api-eu.carrotquest.app, proxy
+host, api-eu.carrotquest.io, proxy
+host, api-ru.carrotquest.app, proxy
+host, api-ru.carrotquest.io, proxy
+host, api-secure.carrotquest.app, proxy
+host, api-secure.carrottrack.app, proxy
+host, api.carrotquest.app, proxy
+host, api.carrotquest.io, proxy
+host, api.carrottrack.app, proxy
+host, api.dashly.app, proxy
+host, api.dashlytrack.app, proxy

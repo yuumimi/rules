@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/divar
+
+host-suffix, divar.cloud, proxy
+host-suffix, divar.ir, proxy
+host-suffix, divarcdn.com, proxy

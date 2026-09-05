@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/synology
+
+host-suffix, diskstation.me, proxy
+host-suffix, dscloud.biz, proxy
+host-suffix, dscloud.me, proxy
+host-suffix, dscloud.mobi, proxy
+host-suffix, dsmynas.com, proxy
+host-suffix, dsmynas.net, proxy
+host-suffix, dsmynas.org, proxy
+host-suffix, familyds.com, proxy
+host-suffix, familyds.net, proxy
+host-suffix, familyds.org, proxy
+host-suffix, gofile.me, proxy
+host-suffix, i234.me, proxy
+host-suffix, myds.me, proxy
+host-suffix, quickconnect.cn, proxy
+host-suffix, quickconnect.to, proxy
+host-suffix, synology.cn, proxy
+host-suffix, synology.com, proxy
+host-suffix, synology.me, proxy
+host-suffix, synologydownload.com, proxy
+host-suffix, synologyupdate.com, proxy

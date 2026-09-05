@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cmb
+
+DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmbwinglungbank.com

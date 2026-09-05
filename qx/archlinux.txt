@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/archlinux
+
+host-suffix, archlinux.de, proxy
+host-suffix, archlinux.org, proxy
+host-suffix, archlinux.page, proxy
+host-suffix, archlinuxarm.org, proxy
+host-suffix, archlinuxcn.org, proxy
+host-suffix, pkgbuild.com, proxy

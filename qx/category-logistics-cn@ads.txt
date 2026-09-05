@@ -1,0 +1,3 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-logistics-cn
+
+host-suffix, v6-adashx.ut.cainiao.com, proxy

@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wikimedia
+
+host-suffix, mediawiki.org, proxy
+host-suffix, toolforge.org, proxy
+host-suffix, w.wiki, proxy
+host-suffix, wikibooks.org, proxy
+host-suffix, wikidata.org, proxy
+host-suffix, wikimedia.org, proxy
+host-suffix, wikimediacloud.org, proxy
+host-suffix, wikimediafoundation.org, proxy
+host-suffix, wikinews.org, proxy
+host-suffix, wikipedia.org, proxy
+host-suffix, wikiquote.org, proxy
+host-suffix, wikisource.org, proxy
+host-suffix, wikiversity.org, proxy
+host-suffix, wikivoyage.org, proxy
+host-suffix, wiktionary.org, proxy
+host-suffix, wmcloud.org, proxy
+host-suffix, wmflabs.org, proxy
+host-suffix, wmfusercontent.org, proxy

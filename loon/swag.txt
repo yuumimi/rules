@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/swag
+
+DOMAIN-SUFFIX,5w.ag
+DOMAIN-SUFFIX,swag-live.co
+DOMAIN-SUFFIX,swag.live

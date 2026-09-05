@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aligames
+
+# Behavior: domain
+
+payload:
+  - "+.9game.cn"
+  - "+.aligames.com"
+  - "+.jiaoyimao.cn"
+  - "+.jiaoyimao.com"
+  - "+.lingxigames.com"

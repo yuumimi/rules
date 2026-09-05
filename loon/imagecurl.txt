@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imagecurl
+
+DOMAIN-SUFFIX,imagecurl.com
+DOMAIN-SUFFIX,imagecurl.org
+DOMAIN-SUFFIX,imgcrl.org

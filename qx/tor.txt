@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tor
+
+host-suffix, exit, proxy
+host-suffix, onion, proxy
+host-suffix, tor, proxy

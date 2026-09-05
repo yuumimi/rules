@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jd
+
+host-suffix, jd.co.th, proxy
+host-suffix, jd.hk, proxy
+host-suffix, jd.id, proxy
+host-suffix, jd.ru, proxy

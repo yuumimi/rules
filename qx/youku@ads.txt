@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youku
+
+host-suffix, ad.api.3g.youku.com, proxy
+host-suffix, ad.api.mobile.youku.com, proxy
+host-suffix, ad.mobile.youku.com, proxy
+host-suffix, adashx.ut.youku.com, proxy
+host-suffix, atm.youku.com, proxy
+host-suffix, e.stat.ykimg.com, proxy
+host-suffix, ems.youku.com, proxy
+host-suffix, guanggaoad.youku.com, proxy
+host-suffix, h-adashx.ut.youku.com, proxy
+host-suffix, lstat.youku.com, proxy
+host-suffix, mobilemsg.youku.com, proxy
+host-suffix, msg.youku.com, proxy
+host-suffix, p-log.ykimg.com, proxy
+host-suffix, passport-log.youku.com, proxy
+host-suffix, pl.youku.com, proxy
+host-suffix, s-adashx.ut.youku.com, proxy
+host-suffix, stat.youku.com, proxy
+host-suffix, statis.api.3g.youku.com, proxy
+host-suffix, v6-adashx.ut.youku.com, proxy
+host-suffix, yk-ssp.ad.youku.com, proxy
+host-suffix, ykad-data.youku.com, proxy

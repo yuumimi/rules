@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/voxmedia
+
+host-suffix, cstatic.net, proxy
+host-suffix, curbed.com, proxy
+host-suffix, eater.com, proxy
+host-suffix, funnyordie.com, proxy
+host-suffix, meridian.net, proxy
+host-suffix, polygon.com, proxy
+host-suffix, racked.com, proxy
+host-suffix, recode.net, proxy
+host-suffix, sbnation.com, proxy
+host-suffix, theverge.com, proxy
+host-suffix, vox-cdn.com, proxy
+host-suffix, vox.com, proxy
+host-suffix, voxcreative.com, proxy
+host-suffix, voxfieldguide.com, proxy
+host-suffix, voxmedia.com, proxy
+host-suffix, voxops.net, proxy

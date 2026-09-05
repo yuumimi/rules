@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/comfy
+
+.comfy.org
+.comfyci.org
+.comfyregistry.org
+.oystermercury.top

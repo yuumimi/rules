@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/928plus
+
+DOMAIN-SUFFIX,928.plus
+DOMAIN-SUFFIX,zind.cloud

@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openai
+
+host, browser-intake-datadoghq.com, proxy
+host, o33249.ingest.sentry.io, proxy
+host, openai.qualtrics.com, proxy
+host, openaiapi-site.azureedge.net, proxy
+host, openaiassets.blob.core.windows.net, proxy
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net, proxy
+host, openaicom.imgix.net, proxy
+host, openaicomproductionae4b.blob.core.windows.net, proxy
+host, production-openaicom-storage.azureedge.net, proxy
+host-suffix, chat.com, proxy
+host-suffix, chatgpt.com, proxy
+host-suffix, chatgpt.livekit.cloud, proxy
+host-suffix, chatgpt.site, proxy
+host-suffix, crixet.com, proxy
+host-suffix, host.livekit.cloud, proxy
+host-suffix, oaistatic.com, proxy
+host-suffix, oaistatsig.com, proxy
+host-suffix, oaiusercontent.com, proxy
+host-suffix, openai.com, proxy
+host-suffix, openai.com.cdn.cloudflare.net, proxy
+host-suffix, sora.com, proxy
+host-suffix, turn.livekit.cloud, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/borneoschematics
+
+host-suffix, borneo.world, proxy
+host-suffix, borneoasia.com, proxy
+host-suffix, borneoschematic.com, proxy
+host-suffix, bosharso.net, proxy
+host-suffix, hostborneo.org, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-games-!cn
+
+.insights-collector.gog.com
+.log-upload-os.hoyoverse.com

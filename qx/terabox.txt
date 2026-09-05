@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/terabox
+
+host-suffix, 1024terabox.com, proxy
+host-suffix, bestclouddrive.com, proxy
+host-suffix, freeterabox.com, proxy
+host-suffix, nephobox.com, proxy
+host-suffix, terabox.com, proxy
+host-suffix, terabox1024.com, proxy
+host-suffix, teraboxcdn.com, proxy

@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mediachinesegroup
+
+host-suffix, chinapress.com.my, proxy
+host-suffix, enanyang.my, proxy
+host-suffix, guangming.com.my, proxy
+host-suffix, mediachinese.com, proxy
+host-suffix, mingpao.com, proxy
+host-suffix, mingpaocanada.com, proxy
+host-suffix, mingpaomonthly.com, proxy
+host-suffix, mingpaotor.com, proxy
+host-suffix, mingpaovan.com, proxy
+host-suffix, mings-fashion.com, proxy
+host-suffix, mings.hk, proxy
+host-suffix, mingshengbao.com, proxy
+host-suffix, mingwatch.com, proxy
+host-suffix, mpfinance.com, proxy
+host-suffix, mpweekly.com, proxy
+host-suffix, mysinchew.com, proxy
+host-suffix, omghk.com, proxy
+host-suffix, sinchew.com.my, proxy
+host-suffix, sinchew.my, proxy
+host-suffix, soccerfanz.com.my, proxy
+host-suffix, yzzk.com, proxy

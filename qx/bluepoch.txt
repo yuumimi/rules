@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bluepoch
+
+host-suffix, bluepoch.com, proxy
+host-suffix, sl916.com, proxy

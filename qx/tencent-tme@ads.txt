@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tencent-tme
+
+host-suffix, ad.tencentmusic.com, proxy
+host-suffix, adbehavior.ximalaya.com, proxy
+host-suffix, ads.service.kugou.com, proxy
+host-suffix, adse.wsa.ximalaya.com, proxy
+host-suffix, adse.ximalaya.com, proxy
+host-suffix, adserviceretry.kglink.cn, proxy
+host-suffix, adserviceretry.kugou.com, proxy
+host-suffix, adstats.tencentmusic.com, proxy
+host-suffix, monitor.music.qq.com, proxy
+host-suffix, report.tencentmusic.com, proxy
+host-suffix, stat.y.qq.com, proxy
+host-suffix, tmead.y.qq.com, proxy
+host-suffix, tmeadcomm.y.qq.com, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/trello
+
+host-suffix, trello.com, proxy
+host-suffix, trellocdn.com, proxy

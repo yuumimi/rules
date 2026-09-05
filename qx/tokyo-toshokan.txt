@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tokyo-toshokan
+
+host-suffix, tokyo-tosho.net, proxy
+host-suffix, tokyotosho.info, proxy
+host-suffix, tokyotosho.se, proxy

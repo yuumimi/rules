@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dingdatech
+
+host-suffix, diiing.cn, proxy
+host-suffix, dingdachuxing.com, proxy
+host-suffix, dingdatech.com, proxy
+host-suffix, jintdev.com, proxy
+host-suffix, xiangbababus.com, proxy

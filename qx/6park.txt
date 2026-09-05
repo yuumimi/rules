@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/6park
+
+host-suffix, 6park.com, proxy
+host-suffix, 6parkbbs.com, proxy
+host-suffix, 6parknews.com, proxy
+host-suffix, cool18.com, proxy
+host-suffix, parkvv.com, proxy
+host-suffix, popo8.com, proxy
+host-suffix, xwbo.com, proxy

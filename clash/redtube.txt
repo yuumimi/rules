@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/redtube
+
+# Behavior: domain
+
+payload:
+  - "+.livehdcams.com"
+  - "+.rdtcdn.com"
+  - "+.redtube.com"
+  - "+.redtube.com.br"
+  - "+.redtubepremium.com"

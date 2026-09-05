@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mastercard
+
+host-suffix, mastercard.cn, proxy
+host-suffix, mastercard.com.cn, proxy
+host-suffix, priceless.com.cn, proxy
+host-suffix, pricelessbeijing.cn, proxy
+host-suffix, pricelessbeijing.com.cn, proxy
+host-suffix, travelex.com.cn, proxy

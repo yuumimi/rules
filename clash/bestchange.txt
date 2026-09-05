@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bestchange
+
+# Behavior: domain
+
+payload:
+  - "+.bestchange.com"
+  - "+.bestchange.net"
+  - "+.bestchange.ru"

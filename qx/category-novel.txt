@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-novel
+
+host-suffix, ptzwx.com, proxy
+host-suffix, quanben-xiaoshuo.com, proxy
+host-suffix, quanben.io, proxy

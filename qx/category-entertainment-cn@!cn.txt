@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-entertainment-cn
+
+host, upos-hz-mirrorakam.akamaized.net, proxy
+host-suffix, aki-game.net, proxy
+host-suffix, aki-game2.net, proxy
+host-suffix, bilibili.tv, proxy
+host-suffix, biliintl.com, proxy
+host-suffix, dreamcast.hk, proxy
+host-suffix, iq.com, proxy
+host-suffix, kurogame-service.com, proxy
+host-suffix, kurogame.net, proxy
+host-suffix, kurogames.net, proxy
+host-suffix, taptap.io, proxy
+host-suffix, webnovel.com, proxy
+host-suffix, youku.tv, proxy
+host-suffix, youkuplay.com, proxy

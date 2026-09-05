@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cdek
+
+# Behavior: domain
+
+payload:
+  - "+.ad-cdek.ru"
+  - "+.cdek.ru"
+  - "+.cdek.shopping"

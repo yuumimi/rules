@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/citic
+
+host-suffix, citics.com.hk, proxy
+host-suffix, cncbinternational.com, proxy
+host-suffix, csci.hk, proxy

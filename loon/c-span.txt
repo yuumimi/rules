@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/c-span
+
+DOMAIN-SUFFIX,c-span.org
+DOMAIN-SUFFIX,c-spanvideo.org

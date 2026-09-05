@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/adidas
+
+host-suffix, adidas.cn, proxy
+host-suffix, adidas.com.cn, proxy
+host-suffix, adidasspecialtysports.cn, proxy

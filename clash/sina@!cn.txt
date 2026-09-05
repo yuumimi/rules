@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sina
+
+# Behavior: domain
+
+payload:
+  - "+.hk.weibo.com"
+  - "+.my.weibo.com"
+  - "+.overseas.weibo.com"
+  - "+.sg.weibo.com"
+  - "+.th.weibo.com"
+  - "+.tw.weibo.com"
+  - "+.us.weibo.com"

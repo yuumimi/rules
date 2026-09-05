@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/realitykings
+
+host-suffix, realitykings.com, proxy
+host-suffix, rk.com, proxy

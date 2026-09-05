@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/stripe
+
+host-suffix, link.com, proxy
+host-suffix, stripe-terminal-local-reader.net, proxy
+host-suffix, stripe.com, proxy
+host-suffix, stripe.network, proxy
+host-suffix, stripecdn.com, proxy

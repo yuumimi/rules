@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaoyuzhou
+
+# Behavior: domain
+
+payload:
+  - "+.podcast.xyz"
+  - "+.xiaoyuzhoufm.com"
+  - "+.xyzcdn.net"
+  - "+.xyzfm.link"
+  - "+.xyzfm.space"

@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wholefoodsmarket
+
+# Behavior: domain
+
+payload:
+  - "+.wfm.com"
+  - "+.wholecitiesfoundation.org"
+  - "+.wholefoods.com"
+  - "+.wholefoodsmarket.co.uk"
+  - "+.wholefoodsmarket.com"
+  - "+.wholekidsfoundation.org"
+  - "+.wholeplanetfoundation.org"

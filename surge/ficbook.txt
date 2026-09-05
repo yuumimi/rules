@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ficbook
+
+.fanfictionero.com
+.fic.fan
+.ficador.com
+.ficbook.net
+.ficmania.com
+.teinon.net

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/magnit
+
+host-suffix, kazanexpress.ru, proxy
+host-suffix, magnit.com, proxy
+host-suffix, magnit.ru, proxy
+host-suffix, mm.ru, proxy

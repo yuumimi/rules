@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-travel-ru
+
+host, arenda.yandex.ru, proxy
+host, bilet.nspk.ru, proxy
+host, metro.spb.ru, proxy
+host, mos.transport.vtb.ru, proxy
+host, podorozhnik.spb.ru, proxy
+host, taxi.yandex.ru, proxy
+host, transport.mos.ru, proxy
+host-suffix, 2gis.ru, proxy
+host-suffix, aviasales.com, proxy
+host-suffix, aviasales.ru, proxy
+host-suffix, avs.io, proxy
+host-suffix, avtovokzaly.ru, proxy
+host-suffix, blablacar.ru, proxy
+host-suffix, fasten.ru, proxy
+host-suffix, gorodpay.ru, proxy
+host-suffix, greywallpass.com, proxy
+host-suffix, mosmetro.ru, proxy
+host-suffix, mosmetro.tech, proxy
+host-suffix, ostrovok.ru, proxy
+host-suffix, otello.ru, proxy
+host-suffix, rrtp.ru, proxy
+host-suffix, rzd-bonus.ru, proxy
+host-suffix, rzd.ru, proxy
+host-suffix, sber.ru, proxy
+host-suffix, tutu.ru, proxy

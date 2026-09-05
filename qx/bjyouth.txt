@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bjyouth
+
+host-suffix, bjyouth.gov.cn, proxy
+host-suffix, bjyouth.net, proxy
+host-suffix, sqqnh.cn, proxy
+host-suffix, sqqnh.org, proxy

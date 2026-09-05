@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hashicorp
+
+# Behavior: domain
+
+payload:
+  - "+.consul.io"
+  - "+.hashicorp.com"
+  - "+.nomadproject.io"
+  - "+.packer.io"
+  - "+.terraform.io"
+  - "+.vagrantcloud.com"
+  - "+.vagrantup.com"
+  - "+.vaultproject.io"

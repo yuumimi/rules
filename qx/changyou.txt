@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/changyou
+
+host-suffix, 17173.com, proxy
+host-suffix, 17173cdn.com, proxy
+host-suffix, changyou.com, proxy
+host-suffix, cy.com, proxy
+host-suffix, playcool.com, proxy
+host-suffix, yeyou.com, proxy
+host-suffix, yeyoucdn.com, proxy

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/golang
+
+host-suffix, go-lang.com, proxy
+host-suffix, go-lang.net, proxy
+host-suffix, go-lang.org, proxy
+host-suffix, go.dev, proxy
+host-suffix, godoc.org, proxy
+host-suffix, golang.com, proxy
+host-suffix, golang.net, proxy
+host-suffix, golang.org, proxy

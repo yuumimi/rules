@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-vpnservices
+
+DOMAIN,api.bitbroker.cc
+DOMAIN,api.inforun.work
+DOMAIN,repo.o2cdn.icu
+DOMAIN,repo.ou-er.click
+DOMAIN-SUFFIX,ausu.autos
+DOMAIN-SUFFIX,ausu.beauty
+DOMAIN-SUFFIX,ausu.hair
+DOMAIN-SUFFIX,ausu.lol
+DOMAIN-SUFFIX,ausu.mom
+DOMAIN-SUFFIX,ausu.pics
+DOMAIN-SUFFIX,ausu.quest
+DOMAIN-SUFFIX,ausu.shop
+DOMAIN-SUFFIX,ausu.skin
+DOMAIN-SUFFIX,ausvc.link
+DOMAIN-SUFFIX,iijj.sbs
+DOMAIN-SUFFIX,splashtop.com

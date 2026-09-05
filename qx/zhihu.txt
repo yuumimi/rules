@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zhihu
+
+host-suffix, laiyagushi.com, proxy
+host-suffix, vzuu.com, proxy
+host-suffix, zhihu.com, proxy
+host-suffix, zhimg.com, proxy

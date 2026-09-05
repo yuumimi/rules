@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/duolingo
+
+host-suffix, duolingo.cn, proxy
+host-suffix, duolingo.com, proxy

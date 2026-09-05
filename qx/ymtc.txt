@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ymtc
+
+host-suffix, ymtc.cn, proxy
+host-suffix, ymtc.com, proxy
+host-suffix, ymtc.com.cn, proxy

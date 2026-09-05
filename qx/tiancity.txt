@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tiancity
+
+host-suffix, tiancity.com, proxy
+host-suffix, tiancitycdn.com, proxy

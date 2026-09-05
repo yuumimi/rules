@@ -1,0 +1,3 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hoyoverse
+
+host-suffix, log-upload-os.hoyoverse.com, proxy

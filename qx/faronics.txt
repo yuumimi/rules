@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/faronics
+
+host, faronics.kayako.com, proxy
+host-suffix, clickedu.co.uk, proxy
+host-suffix, deepfreeze.co.uk, proxy
+host-suffix, deepfreeze.com, proxy
+host-suffix, deepfreeze.com.br, proxy
+host-suffix, deepfreeze.eu, proxy
+host-suffix, deepfreeze.net, proxy
+host-suffix, deepfreeze.tech, proxy
+host-suffix, faronics.ca, proxy
+host-suffix, faronics.co.uk, proxy
+host-suffix, faronics.com, proxy
+host-suffix, faronics.com.au, proxy
+host-suffix, faronics.com.sg, proxy
+host-suffix, faronics.eu, proxy
+host-suffix, faronics.tech, proxy
+host-suffix, faronicslabs.com, proxy
+host-suffix, faronicswise.co.uk, proxy
+host-suffix, faronicswise.com, proxy

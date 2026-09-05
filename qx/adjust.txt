@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/adjust
+
+host-suffix, adjust.com, proxy
+host-suffix, adjust.io, proxy
+host-suffix, adjust.net.in, proxy
+host-suffix, adjust.world, proxy

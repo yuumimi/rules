@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qimao
+
+# Behavior: domain
+
+payload:
+  - "+.jiuyue919.com"
+  - "+.qimao.com"
+  - "+.qm989.com"
+  - "+.qmniu.com"
+  - "+.quehu.com"
+  - "+.wtzw.com"

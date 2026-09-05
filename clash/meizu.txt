@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meizu
+
+# Behavior: domain
+
+payload:
+  - "+.flyme.cn"
+  - "+.flyme.com"
+  - "+.flymeauto.com"
+  - "+.meizu.cn"
+  - "+.meizu.com"
+  - "+.mzres.com"

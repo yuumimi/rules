@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/instagram
+
+host-suffix, graph-fallback.instagram.com, proxy
+host-suffix, graph.instagram.com, proxy

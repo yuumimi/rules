@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/line
+
+host-suffix, gcld-line.com, proxy
+host-suffix, lin.ee, proxy
+host-suffix, line-apps-beta.com, proxy
+host-suffix, line-apps-rc.com, proxy
+host-suffix, line-apps.com, proxy
+host-suffix, line-beta.me, proxy
+host-suffix, line-cdn.net, proxy
+host-suffix, line-scdn.net, proxy
+host-suffix, line.biz, proxy
+host-suffix, line.me, proxy
+host-suffix, line.naver.jp, proxy
+host-suffix, linecorp.com, proxy
+host-suffix, linefriends.com, proxy
+host-suffix, linefriends.com.tw, proxy
+host-suffix, linegame.jp, proxy
+host-suffix, linemobile.com, proxy
+host-suffix, linemyshop.com, proxy
+host-suffix, lineshoppingseller.com, proxy
+host-suffix, linetv.tw, proxy
+host-suffix, nhncorp.jp, proxy

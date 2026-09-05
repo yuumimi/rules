@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-mobile-repair
+
+host-suffix, androidfilehost.com, proxy
+host-suffix, borneo.world, proxy
+host-suffix, borneoasia.com, proxy
+host-suffix, borneoschematic.com, proxy
+host-suffix, bosharso.net, proxy
+host-suffix, easy-jtag.com, proxy
+host-suffix, hostborneo.org, proxy
+host-suffix, unlocktool.net, proxy
+host-suffix, z3x-team.com, proxy

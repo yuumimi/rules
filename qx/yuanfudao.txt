@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yuanfudao
+
+host-suffix, banmaaike.com, proxy
+host-suffix, fbstatic.cn, proxy
+host-suffix, fenbi.com, proxy
+host-suffix, fenbike.cn, proxy
+host-suffix, fenbike.com, proxy
+host-suffix, fenbilantian.cn, proxy
+host-suffix, fenbilantian.com, proxy
+host-suffix, xiaoyuankousuan.com, proxy
+host-suffix, ybccode.com, proxy
+host-suffix, yuanfudao.com, proxy
+host-suffix, yuansouti.com, proxy
+host-suffix, yuantiku.com, proxy

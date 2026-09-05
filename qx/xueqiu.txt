@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xueqiu
+
+host-suffix, aiganggu.com, proxy
+host-suffix, danjuanfunds.com, proxy
+host-suffix, imedao.com, proxy
+host-suffix, snowballsecurities.com, proxy
+host-suffix, xueqiu.com, proxy

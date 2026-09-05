@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/creativecommons
+
+host-suffix, ccstatic.org, proxy
+host-suffix, creativecommons.engineering, proxy
+host-suffix, creativecommons.org, proxy
+host-suffix, licensebuttons.net, proxy

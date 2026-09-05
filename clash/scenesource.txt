@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/scenesource
+
+# Behavior: domain
+
+payload:
+  - "+.predb.me"
+  - "+.scenesource.me"
+  - "+.scnsrc.me"

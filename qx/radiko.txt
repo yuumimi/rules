@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/radiko
+
+host-suffix, radiko-cf.com, proxy
+host-suffix, radiko.jp, proxy
+host-suffix, smartstream.ne.jp, proxy

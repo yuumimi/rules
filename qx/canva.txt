@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/canva
+
+host-suffix, affinity-beta.s3.amazonaws.com, proxy
+host-suffix, affinity-lessons.s3.amazonaws.com, proxy
+host-suffix, affinity.api.serifservices.com, proxy
+host-suffix, affinity.studio, proxy
+host-suffix, canva.com, proxy
+host-suffix, canvastatus.com, proxy

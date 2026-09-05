@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-olympiad-in-informatics
+
+host-suffix, 51nod.com, proxy
+host-suffix, acwing.com, proxy
+host-suffix, adacpp.com, proxy
+host-suffix, hihocoder.com, proxy
+host-suffix, jisuanke.com, proxy
+host-suffix, kidsccshow.com, proxy
+host-suffix, leetcode-cn.com, proxy
+host-suffix, leetcode.cn, proxy
+host-suffix, lingkou.cn, proxy
+host-suffix, lingkou.com, proxy
+host-suffix, lingkou.xyz, proxy
+host-suffix, luogu.com.cn, proxy
+host-suffix, oi-wiki.com, proxy
+host-suffix, openjudge.cn, proxy
+host-suffix, rqnoj.cn, proxy
+host-suffix, uoj.ac, proxy
+host-suffix, vijos.org, proxy
+host-suffix, xmoj.tech, proxy

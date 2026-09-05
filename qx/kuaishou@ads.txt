@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaishou
+
+host, apilog-web.acfun.cn, proxy
+host, log-sdk.gifshow.com, proxy
+host, wlog.kuaishou.com, proxy
+host-suffix, adbkwai.com, proxy
+host-suffix, adkwai.com, proxy
+host-suffix, adukwai.com, proxy
+host-suffix, e.kuaishou.cn, proxy
+host-suffix, e.kuaishou.com, proxy

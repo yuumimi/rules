@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/b3log
+
+host-suffix, b3log.org, proxy
+host-suffix, b3logfile.com, proxy
+host-suffix, hacpai.com, proxy
+host-suffix, ld246.com, proxy

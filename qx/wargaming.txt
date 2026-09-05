@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wargaming
+
+host-suffix, masteroforion.com, proxy
+host-suffix, wargaming.com, proxy
+host-suffix, wargaming.net, proxy
+host-suffix, wgcdn.co, proxy
+host-suffix, wgcrowd.io, proxy
+host-suffix, worldoftanks.com, proxy
+host-suffix, worldoftanks.eu, proxy
+host-suffix, worldofwarplanes.com, proxy
+host-suffix, worldofwarships.com, proxy
+host-suffix, wotblitz.com, proxy
+host-suffix, wowsblitz.com, proxy

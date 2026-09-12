@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anker
+
+host-suffix, anker-in.com, proxy
+host-suffix, anker.com, proxy
+host-suffix, anker.com.cn, proxy
+host-suffix, ankersolix.com, proxy
+host-suffix, ankerwork.cn, proxy
+host-suffix, eufy.com, proxy
+host-suffix, eufycn.com, proxy
+host-suffix, eufylife.com, proxy
+host-suffix, eufymake.com, proxy
+host-suffix, eufymake.com.cn, proxy
+host-suffix, soundcore.com, proxy
+host-suffix, soundcore.com.cn, proxy

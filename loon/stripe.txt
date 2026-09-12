@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/stripe
+
+DOMAIN-SUFFIX,link.com
+DOMAIN-SUFFIX,stripe-terminal-local-reader.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com

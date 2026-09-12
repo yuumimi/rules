@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sentry
+
+# Behavior: domain
+
+payload:
+  - "+.getsentry.com"
+  - "+.sentry-cdn.com"
+  - "+.sentry.dev"
+  - "+.sentry.io"

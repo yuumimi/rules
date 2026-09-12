@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/radiko
+
+DOMAIN-SUFFIX,radiko-cf.com
+DOMAIN-SUFFIX,radiko.jp
+DOMAIN-SUFFIX,smartstream.ne.jp

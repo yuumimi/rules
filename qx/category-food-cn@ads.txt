@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-food-cn
+
+host-suffix, logger.qmai.cn, proxy
+host-suffix, tracking.mcdonalds.com.cn, proxy
+host-suffix, trackingprd.hwwt8.com, proxy
+host-suffix, trackserver.shuxinyc.com, proxy

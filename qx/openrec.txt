@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openrec
+
+host, dqd0jw5gvbchn.cloudfront.net, proxy
+host-suffix, openrec.tv, proxy

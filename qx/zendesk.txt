@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zendesk
+
+host-suffix, outbound.io, proxy
+host-suffix, zdassets.com, proxy
+host-suffix, zdusercontent.com, proxy
+host-suffix, zendesk.com, proxy
+host-suffix, zndsk.com, proxy
+host-suffix, zopim.com, proxy

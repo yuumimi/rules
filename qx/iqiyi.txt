@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/iqiyi
+
+host-suffix, 71.am, proxy
+host-suffix, 71edge.com, proxy
+host-suffix, iq.com, proxy
+host-suffix, iqiyi.com, proxy
+host-suffix, iqiyipic.com, proxy
+host-suffix, pps.tv, proxy
+host-suffix, ppsimg.com, proxy
+host-suffix, qiyi.com, proxy
+host-suffix, qiyipic.com, proxy
+host-suffix, qy.net, proxy

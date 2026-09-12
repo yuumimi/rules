@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/alibabacloud
+
+host-suffix, alibabacloud.co.in, proxy
+host-suffix, alibabacloud.com, proxy
+host-suffix, alibabacloud.com.au, proxy
+host-suffix, alibabacloud.com.hk, proxy
+host-suffix, alibabacloud.com.my, proxy
+host-suffix, alibabacloud.com.sg, proxy
+host-suffix, alibabacloud.com.tw, proxy
+host-suffix, alicloud.com, proxy

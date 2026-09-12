@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/firefox
+
+host, mozilla-ohttp.fastly-edge.com, proxy
+host, mozilla.map.fastly.net, proxy
+host-suffix, extendfirefox.com, proxy
+host-suffix, firefox.com, proxy
+host-suffix, firefox.hu, proxy
+host-suffix, firefoxtweetmachine.com, proxy
+host-suffix, firefoxusercontent.com, proxy

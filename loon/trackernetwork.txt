@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/trackernetwork
+
+DOMAIN-SUFFIX,thetrackernetwork.com
+DOMAIN-SUFFIX,tracker.gg
+DOMAIN-SUFFIX,tracker.network

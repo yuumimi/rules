@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ishumei
+
+# Behavior: domain
+
+payload:
+  - "+.fengkongbao.com"
+  - "+.fengkongcloud.cn"
+  - "+.fengkongcloud.com"
+  - "+.ishumei.com"
+  - "+.portal101.cn"
+  - "+.portal102.cn"
+  - "+.portal201.cn"
+  - "+.portal301.cn"
+  - "+.tebiefuza.cloud"
+  - "+.tebiefuza.cn"

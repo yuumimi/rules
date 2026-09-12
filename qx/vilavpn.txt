@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vilavpn
+
+host-suffix, vilavpn.com, proxy
+host-suffix, vilavpn.xyz, proxy
+host-suffix, vilavpn1.xyz, proxy
+host-suffix, vilavpn2.xyz, proxy
+host-suffix, vilavpn3.xyz, proxy
+host-suffix, vilavpn4.xyz, proxy
+host-suffix, vilavpn5.xyz, proxy
+host-suffix, vilavpn6.xyz, proxy
+host-suffix, vilavpn7.xyz, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nic-ru
+
+.nic.ru
+.nichost.ru
+.r01.ru
+.sweb.ru

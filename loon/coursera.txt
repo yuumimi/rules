@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/coursera
+
+DOMAIN-SUFFIX,coursera-for-business.org
+DOMAIN-SUFFIX,coursera.community
+DOMAIN-SUFFIX,coursera.help
+DOMAIN-SUFFIX,coursera.org

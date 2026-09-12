@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/otpbank
+
+.ckb.me
+.dskbank.bg
+.ipotekabank.uz
+.mobiasbanca.md
+.otpbank.al
+.otpbank.com.ua
+.otpbank.hu
+.otpbank.ru
+.otpbanka.hr
+.otpbanka.rs
+.otpbanka.si
+.otpgroup.info

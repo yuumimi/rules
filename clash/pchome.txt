@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pchome
+
+# Behavior: domain
+
+payload:
+  - "+.ecimg.tw"
+  - "+.pchome.com.tw"
+  - "+.pchomeec.tw"
+  - "+.pchomeonline.com.tw"
+  - "+.pchomepay.com.tw"
+  - "+.pcloud.tw"
+  - "+.pcstore.com.tw"
+  - "+.piapp.com.tw"
+  - "+.rakuya.com.tw"
+  - "+.tagapie.com.tw"
+  - "+.toget.com.tw"
+  - "ecapi-pchome.cdn.hinet.net"

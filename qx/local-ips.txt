@@ -1,0 +1,6 @@
+# Generated from https://gist.githubusercontent.com/Kr328/927492746f728ac0b1c5e4b1660ca260/raw/local-ip-list.txt
+
+ip-cidr, 127.0.0.0/8, direct
+ip-cidr, 10.0.0.0/8, direct
+ip-cidr, 172.16.0.0/12, direct
+ip-cidr, 192.168.0.0/16, direct

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fansta
+
+host, misa-prod.s3.ap-northeast-1.amazonaws.com, proxy
+host-suffix, 2023aga.oen.tw, proxy
+host-suffix, aga-expo.com, proxy
+host-suffix, cosfans-tw.com, proxy
+host-suffix, fansta.me, proxy

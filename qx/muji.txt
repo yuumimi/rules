@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/muji
+
+host-suffix, muji.com, proxy
+host-suffix, muji.com.cn, proxy
+host-suffix, muji.com.hk, proxy
+host-suffix, muji.eu, proxy
+host-suffix, muji.net, proxy
+host-suffix, muji.tw, proxy
+host-suffix, muji.us, proxy
+host-suffix, mujikorea.net, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/collabora
+
+DOMAIN-SUFFIX,collabora.co.uk
+DOMAIN-SUFFIX,collabora.com
+DOMAIN-SUFFIX,collabora.org
+DOMAIN-SUFFIX,collaboraoffice.com

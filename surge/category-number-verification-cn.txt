@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-number-verification-cn
+
+.cmpassport.com
+enrichgw.10010.com
+hap.10010.com
+hs.wosms.cn
+id6.me
+opencloud.wostore.cn

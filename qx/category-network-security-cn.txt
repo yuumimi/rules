@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-network-security-cn
+
+host-suffix, cnmstl.net, proxy
+host-suffix, fofa.so, proxy
+host-suffix, t00ls.cc, proxy
+host-suffix, t00ls.net, proxy
+host-suffix, tools.team, proxy

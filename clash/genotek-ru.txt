@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/genotek-ru
+
+# Behavior: domain
+
+payload:
+  - "+.eligens.cl"
+  - "+.eligens.com.br"
+  - "+.eligens.io"
+  - "+.genetic-technologies.am"
+  - "+.genotek.am"
+  - "+.genotek.es"
+  - "+.genotek.eu"
+  - "+.genotek.health"
+  - "+.genotek.ru"

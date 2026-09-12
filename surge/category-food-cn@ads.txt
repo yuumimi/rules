@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-food-cn
+
+.logger.qmai.cn
+.tracking.mcdonalds.com.cn
+.trackingprd.hwwt8.com
+.trackserver.shuxinyc.com

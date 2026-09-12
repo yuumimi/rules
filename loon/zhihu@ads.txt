@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zhihu
+
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

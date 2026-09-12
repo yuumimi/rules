@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/snapp
+
+# Behavior: domain
+
+payload:
+  - "+.cdnsnapptrip.com"
+  - "+.snapp-box.com"
+  - "+.snapp.cab"
+  - "+.snapp.doctor"
+  - "+.snapp.express"
+  - "+.snapp.ir"
+  - "+.snapp.ninja"
+  - "+.snapp.site"
+  - "+.snapp.supply"
+  - "+.snapp.taxi"
+  - "+.snapp.tech"
+  - "+.snappcloud.io"
+  - "+.snappfood.dev"
+  - "+.snappfood.ir"
+  - "+.snappmaps.ir"
+  - "+.snapproom.com"
+  - "+.snappshop.ir"
+  - "+.snapptrip.com"

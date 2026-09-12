@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bitsquare
+
+host-suffix, bisq.io, proxy
+host-suffix, bisq.network, proxy
+host-suffix, bitsquare.io, proxy

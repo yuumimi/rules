@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/faceit
+
+DOMAIN-SUFFIX,faceit-cdn.net
+DOMAIN-SUFFIX,faceit.com

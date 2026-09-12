@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/samsung
+
+host-suffix, samsung.com.cn, proxy
+host-suffix, samsungcloudcn.com, proxy
+host-suffix, samsungeshop.com.cn, proxy
+host-suffix, samsunghealthcn.com, proxy

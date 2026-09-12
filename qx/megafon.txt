@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/megafon
+
+host-suffix, inplat.ru, proxy
+host-suffix, megafon.com, proxy
+host-suffix, megafon.ru, proxy
+host-suffix, megafonpro.ru, proxy
+host-suffix, mgfn.ru, proxy
+host-suffix, report-megafon.ru, proxy
+host-suffix, scartel.ru, proxy
+host-suffix, xn--80a9a4b.xn--p1ai, proxy
+host-suffix, xn--80aj3b.xn--p1ai, proxy
+host-suffix, xn--80arpq.xn--p1ai, proxy
+host-suffix, yota.ru, proxy
+host-suffix, yotagamer.ru, proxy

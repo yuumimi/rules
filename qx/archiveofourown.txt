@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/archiveofourown
+
+host-suffix, ao3.org, proxy
+host-suffix, archiveofourown.com, proxy
+host-suffix, archiveofourown.net, proxy
+host-suffix, archiveofourown.org, proxy

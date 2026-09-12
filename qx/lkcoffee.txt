@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lkcoffee
+
+host-suffix, lkcoffee.com, proxy
+host-suffix, luckincoffeecdn.com, proxy
+host-suffix, yyds.co, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/2ch
+
+host-suffix, 2ch.hk, proxy
+host-suffix, 2ch.life, proxy
+host-suffix, 2ch.org, proxy
+host-suffix, 2ch.su, proxy

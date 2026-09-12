@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinanews
+
+host-suffix, chinanews.com, proxy
+host-suffix, chinanews.com.cn, proxy
+host-suffix, chinaqw.com, proxy
+host-suffix, cns.com.cn, proxy
+host-suffix, cnsimg.net, proxy
+host-suffix, ecns.cn, proxy
+host-suffix, inewsweek.cn, proxy
+host-suffix, jwview.com, proxy
+host-suffix, xinmeng.info, proxy

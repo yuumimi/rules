@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ubuntu
+
+host-suffix, ubuntu-touch.io, proxy
+host-suffix, ubuntu.com, proxy
+host-suffix, ubuntu.net, proxy
+host-suffix, ubuntuforums.org, proxy

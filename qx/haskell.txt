@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/haskell
+
+host-suffix, haskell.org, proxy
+host-suffix, haskellstack.org, proxy
+host-suffix, stackage.org, proxy

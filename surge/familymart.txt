@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/familymart
+
+.famifun.com.tw
+.family.co.jp
+.family.com.tw
+.familymart.com.cn
+.familymart.com.my
+.familymart.com.ph
+.famima.vn

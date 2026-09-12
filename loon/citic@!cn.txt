@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/citic
+
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,csci.hk

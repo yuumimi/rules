@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/disqus
+
+DOMAIN-SUFFIX,disq.us
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,disqusservice.com

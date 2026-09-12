@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jushuitan
+
+host-suffix, 315dian.com, proxy
+host-suffix, doucang.cn, proxy
+host-suffix, doucang.com, proxy
+host-suffix, drp321.com, proxy
+host-suffix, erp.cn, proxy
+host-suffix, erp321.cn, proxy
+host-suffix, erp321.com, proxy
+host-suffix, erp321.net, proxy
+host-suffix, jsterp.cn, proxy
+host-suffix, jugongdan.com, proxy
+host-suffix, jushuitan-inc.com, proxy
+host-suffix, jushuitan.cn, proxy
+host-suffix, jushuitan.com, proxy
+host-suffix, jushuitan.net, proxy
+host-suffix, juxieyun.com, proxy
+host-suffix, scm121.cn, proxy
+host-suffix, scm121.com, proxy
+host-suffix, shopss.com, proxy
+host-suffix, shuiyaohuo.cn, proxy
+host-suffix, shuiyaohuo.com, proxy
+host-suffix, surerp.cn, proxy
+host-suffix, surerp.com, proxy
+host-suffix, sursung.cn, proxy
+host-suffix, sursung.com, proxy

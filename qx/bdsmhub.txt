@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bdsmhub
+
+host-suffix, bdsm123.xyz, proxy
+host-suffix, bondagesm.xyz, proxy

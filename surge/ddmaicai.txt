@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ddmaicai
+
+.100.me
+.ddcorp.net
+.ddfresh.net
+.ddimg.mobi
+.ddmaicai.net
+.ddmc.mobi
+.dduser.mobi
+.ddxq.mobi
+.imaicai.mobi

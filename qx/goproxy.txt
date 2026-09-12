@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/goproxy
+
+host-suffix, goproxy.cn, proxy
+host-suffix, goproxy.io, proxy

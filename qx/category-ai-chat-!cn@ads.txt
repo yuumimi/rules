@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ai-chat-!cn
+
+host, browser-intake-datadoghq.com, proxy
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy
+host, o33249.ingest.sentry.io, proxy
+host, openai.qualtrics.com, proxy

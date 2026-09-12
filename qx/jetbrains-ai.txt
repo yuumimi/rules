@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jetbrains-ai
+
+host-suffix, grazie.ai, proxy
+host-suffix, grazie.aws.intellij.net, proxy
+host-suffix, jetbrains.ai, proxy

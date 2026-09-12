@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hkbu
+
+# Behavior: domain
+
+payload:
+  - "+.hkbu.edu.hk"
+  - "+.hkbu.hk"
+  - "+.xn--fiqs8s1bxp3anr7a.hk"
+  - "+.xn--fiqs8s1bxp3anr7a.xn--j6w193g"
+  - "+.xn--gdt08a.hk"
+  - "+.xn--gdt08a.xn--j6w193g"
+  - "+.xn--pssu7cv61ahw8aq79bztd.hk"
+  - "+.xn--pssu7cv61ahw8aq79bztd.xn--j6w193g"

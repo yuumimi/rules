@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ft
+
+host-suffix, agendaweek.com, proxy
+host-suffix, excedo.com, proxy
+host-suffix, exec-appointments.com, proxy
+host-suffix, fdiintelligence.com, proxy
+host-suffix, financialadvisoriq.com, proxy
+host-suffix, ft.com, proxy
+host-suffix, ftadviser.com, proxy
+host-suffix, ftchinese.com, proxy
+host-suffix, ftiecla.com, proxy
+host-suffix, fundfire.com, proxy
+host-suffix, gisplanning.com, proxy
+host-suffix, globalriskregulator.com, proxy
+host-suffix, ignites.com, proxy
+host-suffix, ignitesasia.com, proxy
+host-suffix, igniteseurope.com, proxy
+host-suffix, investorschronicle.co.uk, proxy
+host-suffix, mandatewire.com, proxy
+host-suffix, pensions-expert.com, proxy
+host-suffix, pwmnet.com, proxy
+host-suffix, thebanker.com, proxy
+host-suffix, thebankerdatabase.com, proxy
+host-suffix, thenextweb.com, proxy

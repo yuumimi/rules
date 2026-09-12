@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ip-geo-detect
+
+.ipify.cn
+.iplark.com
+.ipw.cn
+.testipv6.cn
+.whois.pconline.com.cn

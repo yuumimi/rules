@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/funpay
+
+# Behavior: domain
+
+payload:
+  - "+.funpay.com"
+  - "+.funpay.ru"
+  - "+.sfunpay.com"

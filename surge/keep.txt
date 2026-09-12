@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/keep
+
+.calorietech.com
+.gotokeep.com
+.keep.com
+.keep.com.cn
+.keepcdn.com

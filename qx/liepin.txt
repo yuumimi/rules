@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/liepin
+
+host-suffix, liepin.com, proxy
+host-suffix, lietou-static.com, proxy
+host-suffix, lietou.com, proxy

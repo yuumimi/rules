@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/focuschina
+
+host-suffix, focuschina.com, proxy
+host-suffix, made-in-china.com, proxy
+host-suffix, micstatic.com, proxy
+host-suffix, trademessenger.com, proxy
+host-suffix, vemic.com, proxy

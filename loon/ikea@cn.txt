@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ikea
+
+DOMAIN-SUFFIX,ikea.cn
+DOMAIN-SUFFIX,ingka-dt.cn
+DOMAIN-SUFFIX,ingka-internal.cn
+DOMAIN-SUFFIX,ingka-system.cn

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/baltamatica
+
+# Behavior: domain
+
+payload:
+  - "+.baltamatica.cn"
+  - "+.baltamatica.com"
+  - "+.baltamatica.net"
+  - "+.baltamatica.org.cn"

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nga
+
+host-suffix, 178.com, proxy
+host-suffix, nga.cn, proxy
+host-suffix, ngabbs.com, proxy
+host-suffix, ngacn.cc, proxy

@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/test-ipv6
+
+host-suffix, sixte.st, proxy
+host-suffix, test-ipv6.alpinedc.ch, proxy
+host-suffix, test-ipv6.arauc.br, proxy
+host-suffix, test-ipv6.belwue.net, proxy
+host-suffix, test-ipv6.carnet.hr, proxy
+host-suffix, test-ipv6.cl, proxy
+host-suffix, test-ipv6.com, proxy
+host-suffix, test-ipv6.cs.umd.edu, proxy
+host-suffix, test-ipv6.csclub.uwaterloo.ca, proxy
+host-suffix, test-ipv6.cz, proxy
+host-suffix, test-ipv6.epic.network, proxy
+host-suffix, test-ipv6.fratec.net, proxy
+host-suffix, test-ipv6.freerangecloud.com, proxy
+host-suffix, test-ipv6.go6.si, proxy
+host-suffix, test-ipv6.hu, proxy
+host-suffix, test-ipv6.is, proxy
+host-suffix, test-ipv6.iu13.net, proxy
+host-suffix, test-ipv6.ke.liquidtelecom.net, proxy
+host-suffix, test-ipv6.noroutetohost.net, proxy
+host-suffix, test-ipv6.roedu.net, proxy
+host-suffix, test-ipv6.se, proxy
+host-suffix, test-ipv6.sin.vr.org, proxy
+host-suffix, test-ipv6.ttk.ru, proxy
+host-suffix, testipv6.cn, proxy
+host-suffix, testipv6.de, proxy

@@ -1,0 +1,28 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-social-media-cn
+
+host-suffix, ad.sina.com.cn, proxy
+host-suffix, ad.us.sinaimg.cn, proxy
+host-suffix, adbox.sina.com.cn, proxy
+host-suffix, adimg.mobile.sina.cn, proxy
+host-suffix, adimg.uve.weibo.com, proxy
+host-suffix, ads.sina.com, proxy
+host-suffix, alitui.weibo.com, proxy
+host-suffix, beacon.sina.com.cn, proxy
+host-suffix, biz.weibo.com, proxy
+host-suffix, click.uve.mobile.sina.cn, proxy
+host-suffix, click.uve.weibo.com, proxy
+host-suffix, crash2.zhihu.com, proxy
+host-suffix, log.mix.sina.com.cn, proxy
+host-suffix, log.sina.cn, proxy
+host-suffix, log2.sina.cn, proxy
+host-suffix, mixer.sina.cn, proxy
+host-suffix, p4p.sina.com.cn, proxy
+host-suffix, rs.sinajs.cn, proxy
+host-suffix, sa.sina.cn, proxy
+host-suffix, sbeacon.sina.com.cn, proxy
+host-suffix, sdkclick.mobile.sina.cn, proxy
+host-suffix, slog.sina.cn, proxy
+host-suffix, slog.sina.com.cn, proxy
+host-suffix, wapwbclick.mobile.sina.cn, proxy
+host-suffix, wbclick.mobile.sina.cn, proxy
+host-suffix, zhihu-web-analytics.zhihu.com, proxy

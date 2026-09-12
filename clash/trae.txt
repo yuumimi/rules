@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/trae
+
+# Behavior: domain
+
+payload:
+  - "+.doudou.com"
+  - "+.marscode.cn"
+  - "+.marscode.com.cn"
+  - "+.mcbaas.work"
+  - "+.mcdemo.show"
+  - "+.mchost.guru"
+  - "+.mcprev.cn"
+  - "+.tcwqqdy.guru"
+  - "+.trae.cn"
+  - "+.trae.com.cn"
+  - "+.trae.guru"
+  - "+.yoma.cn"

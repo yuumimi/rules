@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dyna
+
+host-suffix, dynacw.co.jp, proxy
+host-suffix, dynacw.com, proxy
+host-suffix, dynacw.com.cn, proxy
+host-suffix, dynacw.com.hk, proxy
+host-suffix, dynacw.com.tw, proxy

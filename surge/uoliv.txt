@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/uoliv
+
+.liv.ac.uk
+.liverpool.ac.uk
+.livinno.org
+.opac-project.eu

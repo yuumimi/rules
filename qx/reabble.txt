@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/reabble
+
+host-suffix, reabble.cn, proxy
+host-suffix, reabble.com, proxy

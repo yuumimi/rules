@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/neowin
+
+host-suffix, neow.in, proxy
+host-suffix, neowin.net, proxy

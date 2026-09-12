@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/unitychina
+
+# Behavior: domain
+
+payload:
+  - "+.u3d.cn"
+  - "+.unity.cn"
+  - "+.unity3dcloud.cn"
+  - "+.unitychina.cn"

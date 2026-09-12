@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ficbook
+
+host-suffix, fanfictionero.com, proxy
+host-suffix, fic.fan, proxy
+host-suffix, ficador.com, proxy
+host-suffix, ficbook.net, proxy
+host-suffix, ficmania.com, proxy
+host-suffix, teinon.net, proxy

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/idg
+
+DOMAIN-SUFFIX,idg.com
+DOMAIN-SUFFIX,idgcommunications.net
+DOMAIN-SUFFIX,idgconnect-direct.com
+DOMAIN-SUFFIX,idgconnect-resources.com
+DOMAIN-SUFFIX,idgconnect.com
+DOMAIN-SUFFIX,idgesg.net
+DOMAIN-SUFFIX,idginc.com
+DOMAIN-SUFFIX,idginsiderpro.com

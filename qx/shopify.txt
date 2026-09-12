@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/shopify
+
+host-suffix, myshopify.com, proxy
+host-suffix, shop.app, proxy
+host-suffix, shopify.com, proxy
+host-suffix, shopify.dev, proxy
+host-suffix, shopifycdn.com, proxy
+host-suffix, shopifycloud.com, proxy
+host-suffix, shopifystatus.com, proxy
+host-suffix, shopifysvc.com, proxy

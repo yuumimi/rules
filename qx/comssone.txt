@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/comssone
+
+host-suffix, comss.club, proxy
+host-suffix, comss.info, proxy
+host-suffix, comss.me, proxy
+host-suffix, comss.net, proxy
+host-suffix, comss.news, proxy
+host-suffix, comss.one, proxy
+host-suffix, comss.online, proxy
+host-suffix, comss.org, proxy
+host-suffix, comss.ru, proxy

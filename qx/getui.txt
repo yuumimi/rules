@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/getui
+
+host-suffix, gepush.com, proxy
+host-suffix, getui.cn, proxy
+host-suffix, getui.com, proxy
+host-suffix, getui.net, proxy
+host-suffix, igehuo.com, proxy
+host-suffix, igetui.com, proxy
+host-suffix, igexin.com, proxy

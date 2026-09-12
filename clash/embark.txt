@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/embark
+
+# Behavior: domain
+
+payload:
+  - "+.arcraiders.com"
+  - "+.embark-studios.com"
+  - "+.embark.games"
+  - "+.reachthefinals.com"

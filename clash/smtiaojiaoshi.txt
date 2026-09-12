@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/smtiaojiaoshi
+
+# Behavior: domain
+
+payload:
+  - "+.jhxl.org"
+  - "+.xn--sgt856gbjl.cc"

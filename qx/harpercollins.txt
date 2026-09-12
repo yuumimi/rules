@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/harpercollins
+
+host-suffix, bookclubgirl.com, proxy
+host-suffix, collins.co.uk, proxy
+host-suffix, collins.in, proxy
+host-suffix, egmontbooks.co.uk, proxy
+host-suffix, epicreads.com, proxy
+host-suffix, harperacademic.com, proxy
+host-suffix, harperapps.com, proxy
+host-suffix, harpercollins.ca, proxy
+host-suffix, harpercollins.co.in, proxy
+host-suffix, harpercollins.co.uk, proxy
+host-suffix, harpercollins.com, proxy
+host-suffix, harpercollins.com.au, proxy
+host-suffix, harpercollinsadvantage.com, proxy
+host-suffix, harpercollinschildrensbooks.co.uk, proxy
+host-suffix, harpercollinschristian.com, proxy
+host-suffix, harpercollinsspeakersbureau.com, proxy
+host-suffix, hcpdts.com, proxy
+host-suffix, librarylovefest.com, proxy
+host-suffix, natgeokidsbooks.co.uk, proxy
+host-suffix, shelfstuff.com, proxy

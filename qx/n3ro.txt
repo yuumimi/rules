@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/n3ro
+
+host-suffix, n3ro.lol, proxy
+host-suffix, n3ro.net, proxy
+host-suffix, n3ro.wtf, proxy

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/soundofhope
+
+host-suffix, bayvoice.net, proxy
+host-suffix, ozvoice.org, proxy
+host-suffix, sohcradio.com, proxy
+host-suffix, sohfrance.org, proxy
+host-suffix, soundofhope.eu, proxy
+host-suffix, soundofhope.kr, proxy
+host-suffix, soundofhope.org, proxy
+host-suffix, wanokokorosoh.com, proxy

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/archlinux
+
+.archlinux.de
+.archlinux.org
+.archlinux.page
+.archlinuxarm.org
+.archlinuxcn.org
+.pkgbuild.com

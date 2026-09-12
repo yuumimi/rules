@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/samsung
+
+.samsung.com.cn
+.samsungcloudcn.com
+.samsungeshop.com.cn
+.samsunghealthcn.com

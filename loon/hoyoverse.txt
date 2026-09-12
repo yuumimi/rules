@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hoyoverse
+
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,zenlesszonezero.com

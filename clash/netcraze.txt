@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netcraze
+
+# Behavior: domain
+
+payload:
+  - "+.crazedns.ru"
+  - "+.netcraze.club"
+  - "+.netcraze.link"
+  - "+.netcraze.pro"
+  - "+.netcraze.ru"

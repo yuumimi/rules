@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/facebook
+
+host-suffix, analytics.facebook.com, proxy
+host-suffix, facebookads.com, proxy
+host-suffix, pixel.facebook.com, proxy

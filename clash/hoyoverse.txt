@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hoyoverse
+
+# Behavior: domain
+
+payload:
+  - "+.genshinimpact.com"
+  - "+.honkaiimpact3.com"
+  - "+.honkaistarrail.com"
+  - "+.hoyo.link"
+  - "+.hoyolab.com"
+  - "+.hoyoverse.com"
+  - "+.n0vadesktop.com"
+  - "+.zenlesszonezero.com"

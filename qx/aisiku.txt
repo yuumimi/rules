@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aisiku
+
+host-suffix, 1tyy.cn, proxy
+host-suffix, bbdc.cn, proxy
+host-suffix, beingfine.cn, proxy
+host-suffix, beingfine.com.cn, proxy
+host-suffix, bubei.com.cn, proxy
+host-suffix, coolab.top, proxy
+host-suffix, is-cool.cn, proxy
+host-suffix, is-cool.com.cn, proxy
+host-suffix, langeasy.cn, proxy
+host-suffix, langeasy.com.cn, proxy
+host-suffix, learnywhere.cn, proxy
+host-suffix, learnywhere.com.cn, proxy
+host-suffix, qlisten.cn, proxy
+host-suffix, qtyy.cn, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/truyen-hentai
+
+DOMAIN-SUFFIX,truyen-hentai.com
+DOMAIN-SUFFIX,truyen-hentai.fr
+DOMAIN-SUFFIX,truyen-hentai.ru

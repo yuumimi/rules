@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/symantec-pki
+
+.pki.symantec.com
+.symauth.com
+.symcb.com
+.symcd.com
+.ws.symantec.com

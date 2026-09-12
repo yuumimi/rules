@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/haitang
+
+host-suffix, haitangbook.com, proxy
+host-suffix, haitbook.com, proxy
+host-suffix, htlvbooks.com, proxy
+host-suffix, htnewbooks.com, proxy
+host-suffix, htwhbook.com, proxy
+host-suffix, lmbooks.com, proxy
+host-suffix, lmebooks.com, proxy
+host-suffix, longmabook.com, proxy
+host-suffix, longmabookcn.com, proxy
+host-suffix, lovehtbooks.com, proxy
+host-suffix, lvhtebook.com, proxy
+host-suffix, mybookinlm.com, proxy
+host-suffix, myhtebook.com, proxy
+host-suffix, myhtebooks.com, proxy
+host-suffix, myhtlmebook.com, proxy
+host-suffix, newhtbook.com, proxy
+host-suffix, urhtbooks.com, proxy

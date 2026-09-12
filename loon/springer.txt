@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/springer
+
+DOMAIN-SUFFIX,apress.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,wkap.nl

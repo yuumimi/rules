@@ -1,0 +1,30 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bbc
+
+host, aod-pod-uk-live.akamaized.net, proxy
+host, as-dash-uk-live.akamaized.net, proxy
+host, as-hls-uk-live.akamaized.net, proxy
+host, ve-dash-uk-live.akamaized.net, proxy
+host, ve-uhd-push-uk-live.akamaized.net, proxy
+host, vod-dash-uk-live.akamaized.net, proxy
+host, vod-dash-ww-live.akamaized.net, proxy
+host, vod-hls-uk-live.akamaized.net, proxy
+host, vod-sub-uk-live.akamaized.net, proxy
+host, vod-thumb-uk-live.akamaized.net, proxy
+host, vod-thumb-ww-live.akamaized.net, proxy
+host, vs-cmaf-push-uk-live.akamaized.net, proxy
+host, vs-cmaf-pushb-ww-live.akamaized.net, proxy
+host, vs-hls-push-uk-live.akamaized.net, proxy
+host, vs-hls-pushb-uk-live.akamaized.net, proxy
+host-suffix, bbc, proxy
+host-suffix, bbc-reporting-api.app, proxy
+host-suffix, bbc.co.uk, proxy
+host-suffix, bbc.com, proxy
+host-suffix, bbc.in, proxy
+host-suffix, bbc.mp-pxcdn.com, proxy
+host-suffix, bbc.net.uk, proxy
+host-suffix, bbcfmt.s.llnwi.net, proxy
+host-suffix, bbci.co.uk, proxy
+host-suffix, bbcmedia.co.uk, proxy
+host-suffix, bbcpersian.com, proxy
+host-suffix, bbcverticals.com, proxy
+host-suffix, bidi.net.uk, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi-ai
+
+host-suffix, miaibox.com, proxy
+host-suffix, xiaoaiassist.com, proxy
+host-suffix, xiaomimimo.com, proxy

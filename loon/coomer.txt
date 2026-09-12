@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/coomer
+
+DOMAIN-SUFFIX,coomer.party
+DOMAIN-SUFFIX,coomer.st
+DOMAIN-SUFFIX,coomer.su

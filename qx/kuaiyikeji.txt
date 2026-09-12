@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaiyikeji
+
+host-suffix, dengguobi.com, proxy
+host-suffix, houyicaiji.com, proxy
+host-suffix, jinglingbiaozhu.com, proxy

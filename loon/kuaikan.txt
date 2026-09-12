@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaikan
+
+DOMAIN-SUFFIX,kkmh.com
+DOMAIN-SUFFIX,kuaikanmanhua.com
+DOMAIN-SUFFIX,v3mh.com

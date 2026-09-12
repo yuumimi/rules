@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/redtube
+
+.livehdcams.com
+.rdtcdn.com
+.redtube.com
+.redtube.com.br
+.redtubepremium.com

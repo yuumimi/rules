@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ntp-cn
+
+host, izattime.qcomgeo2.com, proxy
+host, ntp.aliyun.com, proxy
+host, ntp.tencent.com, proxy
+host, ntp1.aliyun.com, proxy
+host, ntp1.tencent.com, proxy
+host, ntp2.aliyun.com, proxy
+host, ntp2.tencent.com, proxy
+host, ntp3.aliyun.com, proxy
+host, ntp3.tencent.com, proxy
+host, ntp4.aliyun.com, proxy
+host, ntp4.tencent.com, proxy
+host, ntp5.aliyun.com, proxy
+host, ntp5.tencent.com, proxy
+host, ntp6.aliyun.com, proxy
+host, ntp7.aliyun.com, proxy
+host, time.amazonaws.cn, proxy
+host, time.izatcloud.net, proxy
+host, time.xtracloud.net, proxy
+host, xtratime.qcomgeo2.com, proxy
+host-suffix, cn.pool.ntp.org, proxy
+host-suffix, ntp.neu.edu.cn, proxy
+host-suffix, ntp.ntsc.ac.cn, proxy
+host-suffix, ntp.org.cn, proxy

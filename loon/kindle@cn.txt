@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kindle
+
+DOMAIN-SUFFIX,kindle.cn
+DOMAIN-SUFFIX,kindleoasis.cn
+DOMAIN-SUFFIX,kindleoasis.com.cn

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/clearasil
+
+DOMAIN-SUFFIX,clearasil.cn
+DOMAIN-SUFFIX,clearasil.com.cn
+DOMAIN-SUFFIX,clearasil.us

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ynet
+
+host-suffix, ynet.cn, proxy
+host-suffix, ynet.com, proxy
+host-suffix, ynet.com.cn, proxy

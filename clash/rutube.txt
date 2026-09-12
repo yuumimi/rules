@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rutube
+
+# Behavior: domain
+
+payload:
+  - "+.rtbcdn.ru"
+  - "+.rutube.ru"
+  - "+.rutube.sport"
+  - "+.rutubelist.ru"

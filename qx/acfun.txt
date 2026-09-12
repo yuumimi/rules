@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/acfun
+
+host-suffix, ac.fun, proxy
+host-suffix, acfun.cn, proxy
+host-suffix, acfun.net, proxy
+host-suffix, acfunchina.cn, proxy
+host-suffix, acfunchina.com, proxy
+host-suffix, acfunchina.net, proxy
+host-suffix, aixifan.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wisekey
+
+DOMAIN-SUFFIX,wisecoin.com
+DOMAIN-SUFFIX,wiseid.com
+DOMAIN-SUFFIX,wisekey.com
+DOMAIN-SUFFIX,wisekey.com.hk

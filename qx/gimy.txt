@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gimy
+
+host-suffix, gimy.cc, proxy
+host-suffix, gimy.co, proxy
+host-suffix, gimy.to, proxy
+host-suffix, gimy.tv, proxy

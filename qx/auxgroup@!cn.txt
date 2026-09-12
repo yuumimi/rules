@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/auxgroup
+
+host-suffix, aufit-air.com, proxy
+host-suffix, aux-global.com, proxy
+host-suffix, auxair.com, proxy
+host-suffix, auxcac.cn, proxy
+host-suffix, auxsmart.com, proxy
+host-suffix, sanxingelectric.com, proxy
+host-suffix, shinflow.com, proxy

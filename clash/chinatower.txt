@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinatower
+
+# Behavior: domain
+
+payload:
+  - "+.china-tower.com"
+  - "+.chinatowercom.cn"
+  - "+.tower.com.cn"
+  - "+.tower0788.cn"
+  - "+.tower0788.com"

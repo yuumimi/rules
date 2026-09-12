@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mxroute
+
+# Behavior: domain
+
+payload:
+  - "+.mxlogin.com"
+  - "+.mxroute.com"
+  - "+.mxroutedocs.com"
+  - "+.mxroutehelp.com"
+  - "+.mxrouting.net"

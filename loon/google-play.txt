@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google-play
+
+DOMAIN-SUFFIX,googleplay.com
+DOMAIN-SUFFIX,play-fe.googleapis.com
+DOMAIN-SUFFIX,play-games.googleusercontent.com
+DOMAIN-SUFFIX,play-lh.googleusercontent.com
+DOMAIN-SUFFIX,play.google.com
+DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com

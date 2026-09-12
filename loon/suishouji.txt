@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/suishouji
+
+DOMAIN-SUFFIX,feidee.cn
+DOMAIN-SUFFIX,feidee.com
+DOMAIN-SUFFIX,feidee.net
+DOMAIN-SUFFIX,ssjlicai.com
+DOMAIN-SUFFIX,sui.com

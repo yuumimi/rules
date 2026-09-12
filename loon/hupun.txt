@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hupun
+
+DOMAIN-SUFFIX,hupun.com
+DOMAIN-SUFFIX,hupun.com.cn
+DOMAIN-SUFFIX,kata.com.cn
+DOMAIN-SUFFIX,newniu.com
+DOMAIN-SUFFIX,wanliniu.com

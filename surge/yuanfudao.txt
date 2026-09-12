@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yuanfudao
+
+.banmaaike.com
+.fbstatic.cn
+.fenbi.com
+.fenbike.cn
+.fenbike.com
+.fenbilantian.cn
+.fenbilantian.com
+.xiaoyuankousuan.com
+.ybccode.com
+.yuanfudao.com
+.yuansouti.com
+.yuantiku.com

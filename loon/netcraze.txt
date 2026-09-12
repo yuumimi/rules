@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netcraze
+
+DOMAIN-SUFFIX,crazedns.ru
+DOMAIN-SUFFIX,netcraze.club
+DOMAIN-SUFFIX,netcraze.link
+DOMAIN-SUFFIX,netcraze.pro
+DOMAIN-SUFFIX,netcraze.ru

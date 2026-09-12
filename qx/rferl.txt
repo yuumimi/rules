@@ -1,0 +1,32 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rferl
+
+host-suffix, azadiradio.com, proxy
+host-suffix, azadliq.org, proxy
+host-suffix, azathabar.com, proxy
+host-suffix, azatliq.org, proxy
+host-suffix, azattyk.org, proxy
+host-suffix, azattyq.org, proxy
+host-suffix, azatutyun.am, proxy
+host-suffix, currenttime.tv, proxy
+host-suffix, ekhokavkaza.com, proxy
+host-suffix, europalibera.org, proxy
+host-suffix, evropaelire.org, proxy
+host-suffix, factograph.info, proxy
+host-suffix, idelreal.org, proxy
+host-suffix, kavkazr.com, proxy
+host-suffix, krymr.com, proxy
+host-suffix, mashaalradio.com, proxy
+host-suffix, ozodi.org, proxy
+host-suffix, ozodlik.org, proxy
+host-suffix, radiofarda.com, proxy
+host-suffix, radiomarsho.com, proxy
+host-suffix, radiosvoboda.org, proxy
+host-suffix, radiotavisupleba.ge, proxy
+host-suffix, rferl.org, proxy
+host-suffix, severreal.org, proxy
+host-suffix, sibreal.org, proxy
+host-suffix, slobodnaevropa.mk, proxy
+host-suffix, svaboda.org, proxy
+host-suffix, svoboda.org, proxy
+host-suffix, svobodnaevropa.bg, proxy
+host-suffix, szabadeuropa.hu, proxy

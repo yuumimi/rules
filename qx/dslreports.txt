@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dslreports
+
+host-suffix, broadbandreports.com, proxy
+host-suffix, dslr.net, proxy
+host-suffix, dslreports.com, proxy

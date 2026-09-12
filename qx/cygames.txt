@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cygames
+
+host-suffix, cygames.co.jp, proxy
+host-suffix, cygames.jp, proxy
+host-suffix, umamusume.akamaized.net, proxy
+host-suffix, worldflipper.akamaized.net, proxy
+host-suffix, worldflipper.jp, proxy

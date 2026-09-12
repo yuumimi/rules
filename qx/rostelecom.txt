@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rostelecom
+
+host-suffix, azbukainterneta.ru, proxy
+host-suffix, more.tv, proxy
+host-suffix, restream-media.net, proxy
+host-suffix, restream.ru, proxy
+host-suffix, rostelecom.ru, proxy
+host-suffix, rt.ru, proxy
+host-suffix, wink.am, proxy
+host-suffix, wink.ru, proxy

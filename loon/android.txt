@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/android
+
+DOMAIN,android.googlesource.com
+DOMAIN-SUFFIX,android
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com

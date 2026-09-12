@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/picacg
+
+host, ad-channel.diwodiwo.xyz, proxy
+host, ad-display.diwodiwo.xyz, proxy

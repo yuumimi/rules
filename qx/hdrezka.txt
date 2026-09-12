@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hdrezka
+
+host-suffix, hdrezka-home.tv, proxy
+host-suffix, hdrezka.ac, proxy
+host-suffix, hdrezka.ag, proxy
+host-suffix, hdrezka.cm, proxy
+host-suffix, hdrezka.co, proxy
+host-suffix, hdrezka.me, proxy
+host-suffix, hdrezka.org, proxy
+host-suffix, hdrezka.site, proxy
+host-suffix, hdrzk.org, proxy
+host-suffix, rezka.ag, proxy
+host-suffix, stream.voidboost.cc, proxy

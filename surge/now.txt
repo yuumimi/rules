@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/now
+
+.now-ashare.com
+.now-tv.com
+.now.com
+.now.com.hk
+.nowe.com
+.nowe.hk

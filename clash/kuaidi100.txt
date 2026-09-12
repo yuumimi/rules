@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaidi100
+
+# Behavior: domain
+
+payload:
+  - "+.ckd.im"
+  - "+.kd100.com"
+  - "+.kuaidi100.com"
+  - "+.kuaidilab.com"

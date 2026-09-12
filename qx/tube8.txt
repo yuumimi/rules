@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tube8
+
+host-suffix, tube8.com, proxy
+host-suffix, tube8.fr, proxy

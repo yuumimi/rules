@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wistia
+
+.embedwistia-a.akamaihd.net
+.wistia.com
+.wistia.net

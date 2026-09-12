@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tver
+
+DOMAIN-SUFFIX,dogatch.jp
+DOMAIN-SUFFIX,gorin.jp
+DOMAIN-SUFFIX,screens-lab.jp
+DOMAIN-SUFFIX,tver.co.jp
+DOMAIN-SUFFIX,tver.jp

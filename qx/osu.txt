@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/osu
+
+host, a.ppy.sh, proxy
+host, assets.ppy.sh, proxy
+host, c.ppy.sh, proxy
+host, lazer.ppy.sh, proxy
+host, m1.ppy.sh, proxy
+host, notify.ppy.sh, proxy
+host, osu.ppy.sh, proxy
+host, sentry.ppy.sh, proxy
+host, spectator.ppy.sh, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dailymotion
+
+host-suffix, dailymotion.com, proxy
+host-suffix, dm-event.net, proxy
+host-suffix, dmcdn.net, proxy

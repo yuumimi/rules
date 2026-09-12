@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fflogs
+
+# Behavior: domain
+
+payload:
+  - "+.fflogs.com"
+  - "+.rpglogs.cn"
+  - "+.rpglogs.com"

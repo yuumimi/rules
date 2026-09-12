@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tokyo-sports
+
+DOMAIN-SUFFIX,tokyo-sports.co.jp
+DOMAIN-SUFFIX,tospo-keiba.jp

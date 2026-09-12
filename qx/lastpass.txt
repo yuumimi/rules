@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lastpass
+
+host-suffix, lastpass.com, proxy
+host-suffix, lastpass.eu, proxy
+host-suffix, lputil.com, proxy

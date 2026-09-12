@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/synology
+
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,synology.cn

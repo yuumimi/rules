@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili
+
+# Behavior: domain
+
+payload:
+  - "+.bilibili.tv"
+  - "+.biliintl.com"
+  - "+.dreamcast.hk"
+  - "upos-hz-mirrorakam.akamaized.net"

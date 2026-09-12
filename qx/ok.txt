@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ok
+
+host, st-ok-pts.cdn-vk.ru, proxy
+host, st-ok.cdn-vk.ru, proxy
+host-suffix, apiok.ru, proxy
+host-suffix, insideok.ru, proxy
+host-suffix, odkl.ru, proxy
+host-suffix, odnoklasniki.by, proxy
+host-suffix, odnoklasniki.ua, proxy
+host-suffix, odnoklassniki.am, proxy
+host-suffix, odnoklassniki.by, proxy
+host-suffix, odnoklassniki.co.ee, proxy
+host-suffix, odnoklassniki.eu, proxy
+host-suffix, odnoklassniki.lv, proxy
+host-suffix, odnoklassniki.ru, proxy
+host-suffix, odnoklassniki.tj, proxy
+host-suffix, ok.me, proxy
+host-suffix, ok.ru, proxy
+host-suffix, okcdn.ru, proxy
+host-suffix, okl.lt, proxy
+host-suffix, oktech.ru, proxy

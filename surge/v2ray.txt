@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/v2ray
+
+.v2fly.org
+.v2ray.com
+.v2ray.cool

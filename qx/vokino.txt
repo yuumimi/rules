@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vokino
+
+host-suffix, 85b6b2.ws, proxy
+host-suffix, ashdi.vip, proxy
+host-suffix, cdn2cdn.com, proxy
+host-suffix, cdn2site.com, proxy
+host-suffix, cdnsqu.com, proxy
+host-suffix, cdntogo.net, proxy
+host-suffix, digital-cdn.net, proxy
+host-suffix, fotpro135alto.com, proxy
+host-suffix, interkh.com, proxy
+host-suffix, loadbox.ws, proxy
+host-suffix, rstprgapipt.com, proxy
+host-suffix, rtbcdn.cloud, proxy
+host-suffix, showvid.ws, proxy
+host-suffix, srvkp.com, proxy
+host-suffix, stream-balancer-allo-1.live, proxy
+host-suffix, stream-balancer-allo-1.site, proxy
+host-suffix, videobase.biz, proxy
+host-suffix, vkvideo.cloud, proxy
+host-suffix, vokino.org, proxy
+host-suffix, vokino.pro, proxy
+host-suffix, vokino.tv, proxy
+host-suffix, werkecdn.me, proxy

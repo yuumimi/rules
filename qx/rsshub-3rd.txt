@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rsshub-3rd
+
+host, holoxx.f5.si, proxy
+host, hub.slarker.me, proxy
+host, rss.4040940.xyz, proxy
+host, rss.datuan.dev, proxy
+host, rss.littlebaby.life, proxy
+host, rss.owo.nz, proxy
+host, rss.wudifeixue.com, proxy
+host, rsshub.asailor.org, proxy
+host, rsshub.email-once.com, proxy
+host, rsshub.henry.wang, proxy
+host, rsshub.isrss.com, proxy
+host, rsshub.ktachibana.party, proxy
+host, rsshub.pseudoyu.com, proxy
+host, rsshub.rss.tips, proxy
+host, rsshub.rssforever.com, proxy
+host, rsshub.umzzz.com, proxy
+host, rsshub.woodland.cafe, proxy
+host, rsshub2.asailor.org, proxy
+host, yangzhi.app, proxy

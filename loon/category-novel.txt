@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-novel
+
+DOMAIN-SUFFIX,ptzwx.com
+DOMAIN-SUFFIX,quanben-xiaoshuo.com
+DOMAIN-SUFFIX,quanben.io

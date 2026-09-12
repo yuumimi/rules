@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/uoliv
+
+DOMAIN-SUFFIX,liv.ac.uk
+DOMAIN-SUFFIX,liverpool.ac.uk
+DOMAIN-SUFFIX,livinno.org
+DOMAIN-SUFFIX,opac-project.eu

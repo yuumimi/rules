@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/github1s
+
+DOMAIN-SUFFIX,github1s.com
+DOMAIN-SUFFIX,sourcegraph.com

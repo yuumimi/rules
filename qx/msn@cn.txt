@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/msn
+
+host-suffix, microsoftnews.cn, proxy
+host-suffix, msn.cn, proxy

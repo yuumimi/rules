@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nudevista
+
+host-suffix, nudevista.com, proxy
+host-suffix, nudevista.es, proxy
+host-suffix, nudevista.net, proxy
+host-suffix, nudevista.vip, proxy

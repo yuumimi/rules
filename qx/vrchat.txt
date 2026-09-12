@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vrchat
+
+host-suffix, vrchat.cloud, proxy
+host-suffix, vrchat.com, proxy
+host-suffix, vrchat.net, proxy

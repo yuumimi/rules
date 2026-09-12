@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ptt
+
+host-suffix, ptt.cc, proxy
+host-suffix, ptt2.cc, proxy
+host-suffix, ptt3.cc, proxy

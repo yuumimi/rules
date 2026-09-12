@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-music
+
+host, amp-api-edge.music.apple.com, proxy
+host, amp-api.music.apple.com, proxy
+host, js-cdn.music.apple.com, proxy
+host, music.apple.com, proxy
+host, musicstatus.music.apple.com, proxy
+host, play.music.apple.com, proxy
+host, speedysub.music.apple.com, proxy

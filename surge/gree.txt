@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gree
+
+.gree.cn
+.gree.com
+.gree.com.cn
+.greeyun.com
+.kinghomechina.com
+.tosot.com.cn
+.zhlyen.com

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yuketang
+
+host-suffix, rainclassroom.com, proxy
+host-suffix, yuketang.cn, proxy

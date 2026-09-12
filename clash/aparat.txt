@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aparat
+
+# Behavior: domain
+
+payload:
+  - "+.aparat.com"
+  - "+.aparatkids.com"
+  - "+.aparatsport.com"

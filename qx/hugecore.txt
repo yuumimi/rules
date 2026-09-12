@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hugecore
+
+host-suffix, hugecore.net, proxy
+host-suffix, mojidict.com, proxy
+host-suffix, shareintelli.com, proxy

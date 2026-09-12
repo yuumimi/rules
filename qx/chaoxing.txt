@@ -1,0 +1,35 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chaoxing
+
+host-suffix, 16q.cn, proxy
+host-suffix, 5read.com, proxy
+host-suffix, aichaoxing.com, proxy
+host-suffix, chaoxing.cc, proxy
+host-suffix, chaoxing.com, proxy
+host-suffix, chaoxingv.com, proxy
+host-suffix, cxbiji.com, proxy
+host-suffix, dayainfo.com, proxy
+host-suffix, hongbo100.com, proxy
+host-suffix, lnlib.net, proxy
+host-suffix, mndqlib.net, proxy
+host-suffix, mti100.com, proxy
+host-suffix, nihaoafrica.org, proxy
+host-suffix, nihaorwanda.cn, proxy
+host-suffix, sslawy.com, proxy
+host-suffix, sslibrary.com, proxy
+host-suffix, ssreader.cn, proxy
+host-suffix, ssreader.com.cn, proxy
+host-suffix, ssvideo.cn, proxy
+host-suffix, ssvideo.com.cn, proxy
+host-suffix, study360.com.cn, proxy
+host-suffix, superlib.com, proxy
+host-suffix, superlib.net, proxy
+host-suffix, uonline-sh.com, proxy
+host-suffix, uonline-sh.net, proxy
+host-suffix, xuexi365.com, proxy
+host-suffix, xuexi365.com.cn, proxy
+host-suffix, xuexi365.net, proxy
+host-suffix, xxtmail.com, proxy
+host-suffix, ylike.net, proxy
+host-suffix, zaifan.com, proxy
+host-suffix, zaifan.com.cn, proxy
+host-suffix, zhihang100.com, proxy

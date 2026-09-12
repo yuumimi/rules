@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/economist
+
+host-suffix, economist.com, proxy
+host-suffix, economistgroup.com, proxy
+host-suffix, economistgroupcareers.com, proxy
+host-suffix, eiu.com, proxy

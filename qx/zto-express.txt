@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zto-express
+
+host-suffix, 95311.com, proxy
+host-suffix, izto.com, proxy
+host-suffix, izto.com.cn, proxy
+host-suffix, mlzt.com.cn, proxy
+host-suffix, tuxi.com, proxy
+host-suffix, zt-express.com, proxy
+host-suffix, zto.cn, proxy
+host-suffix, zto.com, proxy
+host-suffix, zto.net, proxy
+host-suffix, ztoapp.com, proxy
+host-suffix, ztoglobal.com, proxy
+host-suffix, ztogroup.com, proxy
+host-suffix, ztoyh.com, proxy

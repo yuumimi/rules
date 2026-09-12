@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tcl
+
+# Behavior: domain
+
+payload:
+  - "+.leiniao.com"
+  - "+.my7v.com"
+  - "+.tcl.com"
+  - "+.tcl.com.cn"
+  - "+.tclai.top"
+  - "+.tcltech.com"

@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-mooc-cn
+
+.chinesemooc.org
+.cnmooc.org
+.icourse163.org
+.icourses.cn
+.icve.com.cn
+.mooc.cn
+.openlearning.com
+.pmphmooc.com
+moocs.unipus.cn
+opencourse.pku.edu.cn
+study.163.com

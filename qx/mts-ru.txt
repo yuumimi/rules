@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mts-ru
+
+host-suffix, dbo-dengi.online, proxy
+host-suffix, kion.ru, proxy
+host-suffix, mts-ws.net, proxy
+host-suffix, mts.ru, proxy
+host-suffix, mtsbank.ru, proxy
+host-suffix, mtsdengi.ru, proxy
+host-suffix, mtsmedia.ru, proxy
+host-suffix, mymts.ru, proxy
+host-suffix, on-media.ru, proxy
+host-suffix, tvoyodbo.online, proxy

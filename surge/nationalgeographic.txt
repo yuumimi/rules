@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nationalgeographic
+
+.natgeomaps.com
+.nationalgeographic.com
+.nationalgeographicpartners.com
+.ngeo.com

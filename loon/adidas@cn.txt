@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/adidas
+
+DOMAIN-SUFFIX,adidas.cn
+DOMAIN-SUFFIX,adidas.com.cn
+DOMAIN-SUFFIX,adidasspecialtysports.cn

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/onekey
+
+DOMAIN,onekey.zendesk.com
+DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekeycn.com

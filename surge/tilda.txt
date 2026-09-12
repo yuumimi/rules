@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tilda
+
+.tilda.cc
+.tilda.ru
+.tilda.ws
+.tildaapi.com
+.tildacdn.com
+.tildacdn.net

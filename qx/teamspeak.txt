@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/teamspeak
+
+host-suffix, myteamspeak.com, proxy
+host-suffix, teamspeak-services.com, proxy
+host-suffix, teamspeak.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/matters
+
+host-suffix, matters.news, proxy
+host-suffix, matters.one, proxy
+host-suffix, matters.town, proxy
+host-suffix, mattersprotocol.io, proxy

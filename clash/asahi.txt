@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/asahi
+
+# Behavior: domain
+
+payload:
+  - "+.aiasahi.jp"
+  - "+.asagaku.com"
+  - "+.asahi.com"
+  - "+.asahicom.jp"
+  - "+.asakonet.co.jp"
+  - "+.nikkansports.com"
+  - "asahishimbun.sc.omtrdc.net"

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/uc
+
+host-suffix, ads.uc.cn, proxy
+host-suffix, adslot.uc.cn, proxy

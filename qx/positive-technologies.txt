@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/positive-technologies
+
+host-suffix, ptcloud.ru, proxy
+host-suffix, ptsecurity.com, proxy
+host-suffix, standoff365.com, proxy

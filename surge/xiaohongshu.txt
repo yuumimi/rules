@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaohongshu
+
+.askdiandian.com
+.diandianlife.top
+.redelight.cn
+.rednote.com
+.rednote.com.my
+.rednotecdn.com
+.xhscdn.com
+.xhscdn.net
+.xhslink.com
+.xhsrcdn.com
+.xiaohongshu.com

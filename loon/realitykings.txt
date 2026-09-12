@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/realitykings
+
+DOMAIN-SUFFIX,realitykings.com
+DOMAIN-SUFFIX,rk.com

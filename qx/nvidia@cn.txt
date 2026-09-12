@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nvidia
+
+host, cn.download.nvidia.com, proxy
+host-suffix, geforce.cn, proxy
+host-suffix, gputechconf.cn, proxy
+host-suffix, nvidia.cn, proxy

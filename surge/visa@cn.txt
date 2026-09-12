@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/visa
+
+.financialsoccer.com.cn
+.practicalmoneyskills.cn
+.practicalmoneyskills.com.cn
+.visa.cn
+.visa.com.cn
+.visainfinite.cn
+.visapay.cn
+.visaplatinum.cn
+.visaplatinum.com.cn

@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-dev
+
+host, cdn-cn.apple-mapkit.com, proxy
+host, cdn-cn1.apple-mapkit.com, proxy
+host, cdn-cn2.apple-mapkit.com, proxy
+host, cdn-cn3.apple-mapkit.com, proxy
+host, cdn-cn4.apple-mapkit.com, proxy
+host, cdn.ampproject.org, proxy
+host, cdn.apple-mapkit.com, proxy
+host, cdn1.apple-mapkit.com, proxy
+host, cdn2.apple-mapkit.com, proxy
+host, cdn3.apple-mapkit.com, proxy
+host, cdn4.apple-mapkit.com, proxy
+host, crashlyticsreports-pa.googleapis.com, proxy
+host, download.visualstudio.microsoft.com, proxy
+host, firebase-settings.crashlytics.com, proxy
+host, update.crashlytics.com, proxy
+host-suffix, cdn.jetbrains.com, proxy
+host-suffix, jetbrains.com.cn, proxy
+host-suffix, microsoftreactor.cn, proxy
+host-suffix, microsoftreactor.com.cn, proxy
+host-suffix, reactorms.com.cn, proxy
+host-suffix, researchkit.cn, proxy
+host-suffix, researchkit.com.cn, proxy
+host-suffix, swiftui.cn, proxy
+host-suffix, swiftui.com.cn, proxy

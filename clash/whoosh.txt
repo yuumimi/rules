@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/whoosh
+
+# Behavior: domain
+
+payload:
+  - "+.whoosh-bike.ru"
+  - "+.whoosh.bike"

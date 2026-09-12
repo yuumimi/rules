@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fcbox
+
+host-suffix, fcbox.com, proxy
+host-suffix, fcboxmall.com, proxy

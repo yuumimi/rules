@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jwplayer
+
+host-suffix, jwpcdn.com, proxy
+host-suffix, jwplatform.com, proxy
+host-suffix, jwplayer.com, proxy
+host-suffix, jwpltx.com, proxy
+host-suffix, jwpsrv.com, proxy
+host-suffix, longtailvideo.com, proxy

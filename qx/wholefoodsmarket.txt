@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wholefoodsmarket
+
+host-suffix, wfm.com, proxy
+host-suffix, wholecitiesfoundation.org, proxy
+host-suffix, wholefoods.com, proxy
+host-suffix, wholefoodsmarket.co.uk, proxy
+host-suffix, wholefoodsmarket.com, proxy
+host-suffix, wholekidsfoundation.org, proxy
+host-suffix, wholeplanetfoundation.org, proxy

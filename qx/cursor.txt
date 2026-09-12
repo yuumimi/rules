@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cursor
+
+host-suffix, cursor-cdn.com, proxy
+host-suffix, cursor.com, proxy
+host-suffix, cursor.sh, proxy
+host-suffix, cursorapi.com, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/duyaoss
+
+host-suffix, duyaoss.com, proxy
+host-suffix, duyaossr.com, proxy

@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yomiuri
+
+host-suffix, chuokoron.jp, proxy
+host-suffix, fujinkoron.jp, proxy
+host-suffix, hochi.news, proxy
+host-suffix, ryokoyomiuri.co.jp, proxy
+host-suffix, the-japan-news.com, proxy
+host-suffix, ync.ne.jp, proxy
+host-suffix, yomikyo.or.jp, proxy
+host-suffix, yomilogi.com, proxy
+host-suffix, yomiuri-johkai.co.jp, proxy
+host-suffix, yomiuri-ryokou.co.jp, proxy
+host-suffix, yomiuri-shimbun.pressreader.com, proxy
+host-suffix, yomiuri-systec.co.jp, proxy
+host-suffix, yomiuri.co.jp, proxy

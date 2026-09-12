@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/icloud
+
+# Behavior: domain
+
+payload:
+  - "+.apple-icloud.cn"
+  - "+.appleicloud.cn"
+  - "+.icloud-apple.cn"
+  - "+.icloud-content.com.cn"
+  - "+.icloud.cn"
+  - "+.icloud.com.cn"
+  - "+.icloud.net.cn"
+  - "+.icloudapple.cn"

@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/monotype
+
+host, fontshop-prod-responsive-images.s3.amazonaws.com, proxy
+host-suffix, bitstream.com, proxy
+host-suffix, fontbook.com, proxy
+host-suffix, fontexplorerx.com, proxy
+host-suffix, fonts.com, proxy
+host-suffix, fonts.net, proxy
+host-suffix, fontshop.com, proxy
+host-suffix, fstopimages.com, proxy
+host-suffix, itcfonts.com, proxy
+host-suffix, linotype.com, proxy
+host-suffix, monotype.com, proxy
+host-suffix, monotypeimaging.com, proxy
+host-suffix, myfonts.com, proxy
+host-suffix, myfonts.net, proxy

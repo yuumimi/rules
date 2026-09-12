@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-entertainment-cn
+
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,aki-game.net
+DOMAIN-SUFFIX,aki-game2.net
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,dreamcast.hk
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,kurogame-service.com
+DOMAIN-SUFFIX,kurogame.net
+DOMAIN-SUFFIX,kurogames.net
+DOMAIN-SUFFIX,taptap.io
+DOMAIN-SUFFIX,webnovel.com
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,youkuplay.com

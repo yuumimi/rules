@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hinet-eca
+
+host-suffix, eca.hinet.net, proxy
+host-suffix, gtlsca.nat.gov.tw, proxy
+host-suffix, pki.hinet.net, proxy
+host-suffix, publicca.hinet.net, proxy
+host-suffix, tls.hinet.net, proxy

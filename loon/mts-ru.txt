@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mts-ru
+
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,kion.ru
+DOMAIN-SUFFIX,mts-ws.net
+DOMAIN-SUFFIX,mts.ru
+DOMAIN-SUFFIX,mtsbank.ru
+DOMAIN-SUFFIX,mtsdengi.ru
+DOMAIN-SUFFIX,mtsmedia.ru
+DOMAIN-SUFFIX,mymts.ru
+DOMAIN-SUFFIX,on-media.ru
+DOMAIN-SUFFIX,tvoyodbo.online

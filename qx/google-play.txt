@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google-play
+
+host-suffix, googleplay.com, proxy
+host-suffix, play-fe.googleapis.com, proxy
+host-suffix, play-games.googleusercontent.com, proxy
+host-suffix, play-lh.googleusercontent.com, proxy
+host-suffix, play.google.com, proxy
+host-suffix, play.googleapis.com, proxy
+host-suffix, xn--ngstr-lra8j.com, proxy

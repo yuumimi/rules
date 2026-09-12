@@ -1,0 +1,30 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/airchina
+
+host-suffix, airchina.ae, proxy
+host-suffix, airchina.at, proxy
+host-suffix, airchina.ca, proxy
+host-suffix, airchina.ch, proxy
+host-suffix, airchina.co.id, proxy
+host-suffix, airchina.co.in, proxy
+host-suffix, airchina.co.th, proxy
+host-suffix, airchina.co.uk, proxy
+host-suffix, airchina.com.au, proxy
+host-suffix, airchina.com.br, proxy
+host-suffix, airchina.com.my, proxy
+host-suffix, airchina.com.ph, proxy
+host-suffix, airchina.com.tw, proxy
+host-suffix, airchina.de, proxy
+host-suffix, airchina.dk, proxy
+host-suffix, airchina.es, proxy
+host-suffix, airchina.fr, proxy
+host-suffix, airchina.gr, proxy
+host-suffix, airchina.hk, proxy
+host-suffix, airchina.hu, proxy
+host-suffix, airchina.it, proxy
+host-suffix, airchina.jp, proxy
+host-suffix, airchina.kr, proxy
+host-suffix, airchina.nz, proxy
+host-suffix, airchina.se, proxy
+host-suffix, airchina.sg, proxy
+host-suffix, airchina.us, proxy
+host-suffix, airchina.vn, proxy

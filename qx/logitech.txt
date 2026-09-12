@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/logitech
+
+host-suffix, logi.com, proxy
+host-suffix, logicool.co.jp, proxy
+host-suffix, logicoolg.com, proxy
+host-suffix, logitech.biz, proxy
+host-suffix, logitech.com, proxy
+host-suffix, logitech.com.cn, proxy
+host-suffix, logitech.fr, proxy
+host-suffix, logitech.io, proxy
+host-suffix, logitechg.com, proxy
+host-suffix, logitechg.com.cn, proxy
+host-suffix, logitechg.fr, proxy
+host-suffix, logitechio.com.cn, proxy
+host-suffix, worldsfastestgamer.net, proxy

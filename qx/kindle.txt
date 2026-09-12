@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kindle
+
+host-suffix, kindle, proxy
+host-suffix, kindle.cn, proxy
+host-suffix, kindle.co.jp, proxy
+host-suffix, kindle.co.uk, proxy
+host-suffix, kindle.com, proxy
+host-suffix, kindle.de, proxy
+host-suffix, kindle.es, proxy
+host-suffix, kindle.fr, proxy
+host-suffix, kindle.in, proxy
+host-suffix, kindle.it, proxy
+host-suffix, kindle.jp, proxy
+host-suffix, kindleoasis.cn, proxy
+host-suffix, kindleoasis.com, proxy
+host-suffix, kindleoasis.com.cn, proxy
+host-suffix, kindleoasis.info, proxy
+host-suffix, kindleoasis.jp, proxy
+host-suffix, kindleoasis.org, proxy
+host-suffix, kindleoasis.us, proxy
+host-suffix, kindleoasisnews.com, proxy
+host-suffix, kindleproject.com, proxy

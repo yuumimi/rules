@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/microsoft-pki
+
+host, crl.microsoft.com, proxy
+host, mscrl.microsoft.com, proxy
+host, ocsp.microsoft.com, proxy
+host, oneocsp.microsoft.com, proxy
+host, www.microsoft.com, proxy
+host-suffix, msocsp.com, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aviasales
+
+host-suffix, aviasales.com, proxy
+host-suffix, aviasales.ru, proxy
+host-suffix, avs.io, proxy

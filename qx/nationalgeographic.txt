@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nationalgeographic
+
+host-suffix, natgeomaps.com, proxy
+host-suffix, nationalgeographic.com, proxy
+host-suffix, nationalgeographicpartners.com, proxy
+host-suffix, ngeo.com, proxy

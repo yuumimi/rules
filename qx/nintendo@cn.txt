@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nintendo
+
+host-suffix, legendofzelda.cn, proxy
+host-suffix, legendofzelda.com.cn, proxy
+host-suffix, mariokart.cn, proxy
+host-suffix, mariokart.com.cn, proxy
+host-suffix, miitomo.com.cn, proxy
+host-suffix, nintendolabo.cn, proxy
+host-suffix, nintendoswitch.cn, proxy
+host-suffix, nintendoswitch.com.cn, proxy
+host-suffix, supermariobros.com.cn, proxy
+host-suffix, supersmashbros.cn, proxy
+host-suffix, supersmashbros.com.cn, proxy
+host-suffix, xn--mts47c3w9b1qr.cn, proxy

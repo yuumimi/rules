@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/volvo
+
+host-suffix, vfsco.com.cn, proxy
+host-suffix, volvo.cn, proxy
+host-suffix, volvo.com.cn, proxy
+host-suffix, volvogroup.cn, proxy
+host-suffix, volvogroup.com.cn, proxy
+host-suffix, volvotrucks.com.cn, proxy

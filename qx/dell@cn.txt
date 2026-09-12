@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dell
+
+host-suffix, dell-alw.com, proxy
+host-suffix, dell-brand.com, proxy
+host-suffix, dell.com.cn, proxy
+host-suffix, dellemc.com.cn, proxy
+host-suffix, dellmobile.cn, proxy
+host-suffix, delltechnologies.com.cn, proxy
+host-suffix, platform.dell.com, proxy

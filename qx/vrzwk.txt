@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vrzwk
+
+host-suffix, vrzwk.cn, proxy
+host-suffix, vrzwk.com, proxy
+host-suffix, vrzwk.net, proxy
+host-suffix, vrzwk.top, proxy

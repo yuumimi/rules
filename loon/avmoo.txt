@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/avmoo
+
+DOMAIN-SUFFIX,avmoo.click
+DOMAIN-SUFFIX,avmoo.com
+DOMAIN-SUFFIX,tellme.pw

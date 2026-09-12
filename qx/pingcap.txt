@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pingcap
+
+host-suffix, asktug.com, proxy
+host-suffix, pingcap.cn, proxy
+host-suffix, pingcap.com, proxy
+host-suffix, tidb.ai, proxy
+host-suffix, tidb.net, proxy
+host-suffix, tidbcloud.com, proxy
+host-suffix, tikv.org, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/embl
+
+host-suffix, ebi.ac.uk, proxy
+host-suffix, embl-hamburg.de, proxy
+host-suffix, embl.de, proxy
+host-suffix, embl.fr, proxy
+host-suffix, embl.it, proxy
+host-suffix, embl.org, proxy
+host-suffix, emblstatic.net, proxy

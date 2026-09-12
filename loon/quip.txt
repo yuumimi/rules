@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/quip
+
+DOMAIN-SUFFIX,quip-cdn.com
+DOMAIN-SUFFIX,quip.com
+DOMAIN-SUFFIX,quipelements.com

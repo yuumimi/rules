@@ -1,0 +1,29 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/connectivity-check
+
+host, conn1.oppomobile.com, proxy
+host, conn2.oppomobile.com, proxy
+host, connect.rom.miui.com, proxy
+host, connectivity-check.ubuntu.com, proxy
+host, connectivity.samsung.com.cn, proxy
+host, connectivitycheck.gstatic.com, proxy
+host, connectivitycheck.platform.hicloud.com, proxy
+host, connectivitycheck.platform.hihonorcloud.com, proxy
+host, edge-http.microsoft.com, proxy
+host, networkcheck.kde.org, proxy
+host, nmcheck.gnome.org, proxy
+host, ping.archlinux.org, proxy
+host, redirect.archlinux.org, proxy
+host, wifi.vivo.com.cn, proxy
+host, www.gstatic.com, proxy
+host, www.qualcomm.cn, proxy
+host, www.qualcomm.com, proxy
+host-suffix, captive.apple.com, proxy
+host-suffix, cp.cloudflare.com, proxy
+host-suffix, detectportal.firefox.com, proxy
+host-suffix, ipv6check-http.steamserver.net, proxy
+host-suffix, ipv6check-udp.steamserver.net, proxy
+host-suffix, kuketz.de, proxy
+host-suffix, msftconnecttest.com, proxy
+host-suffix, msftncsi.com, proxy
+host-suffix, network-test.debian.org, proxy
+host-suffix, test.steampowered.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bjyouth
+
+DOMAIN-SUFFIX,bjyouth.gov.cn
+DOMAIN-SUFFIX,bjyouth.net
+DOMAIN-SUFFIX,sqqnh.cn
+DOMAIN-SUFFIX,sqqnh.org

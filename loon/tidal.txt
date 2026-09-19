@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tidal
+
+DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tidalhifi.com
+DOMAIN-SUFFIX,wimpmusic.com

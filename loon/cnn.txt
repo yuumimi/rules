@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnn
+
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
+DOMAIN-SUFFIX,cnnarabic.com
+DOMAIN-SUFFIX,cnnlabs.com
+DOMAIN-SUFFIX,cnnmoney.ch
+DOMAIN-SUFFIX,cnnmoney.com
+DOMAIN-SUFFIX,cnnmoneystream.com
+DOMAIN-SUFFIX,cnnpolitics.com

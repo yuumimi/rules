@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/target
+
+DOMAIN-SUFFIX,target
+DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,targetimg1.com

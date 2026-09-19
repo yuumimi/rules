@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anker
+
+DOMAIN-SUFFIX,anker-in.com
+DOMAIN-SUFFIX,anker.com
+DOMAIN-SUFFIX,ankersolix.com
+DOMAIN-SUFFIX,eufy.com
+DOMAIN-SUFFIX,eufylife.com
+DOMAIN-SUFFIX,eufymake.com
+DOMAIN-SUFFIX,soundcore.com

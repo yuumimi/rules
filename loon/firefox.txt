@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/firefox
+
+DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net
+DOMAIN-SUFFIX,extendfirefox.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.hu
+DOMAIN-SUFFIX,firefoxtweetmachine.com
+DOMAIN-SUFFIX,firefoxusercontent.com

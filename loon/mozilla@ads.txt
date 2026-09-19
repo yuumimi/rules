@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mozilla
+
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org

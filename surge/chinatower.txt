@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinatower
+
+.china-tower.com
+.chinatowercom.cn
+.tower.com.cn
+.tower0788.cn
+.tower0788.com

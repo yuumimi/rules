@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/agilebits
+
+# Behavior: domain
+
+payload:
+  - "+.1infra.net"
+  - "+.1password.ca"
+  - "+.1password.co"
+  - "+.1password.com"
+  - "+.1password.community"
+  - "+.1password.eu"
+  - "+.1password.io"
+  - "+.1passwordservices.com"
+  - "+.1passwordusercontent.ca"
+  - "+.1passwordusercontent.com"
+  - "+.1passwordusercontent.eu"
+  - "+.agilebits.com"
+  - "+.passage.id"
+  - "1password.drift.click"

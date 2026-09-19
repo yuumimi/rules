@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dlercloud
+
+host-suffix, dlercloud.com, proxy
+host-suffix, dlercloud.me, proxy
+host-suffix, dlercloud.org, proxy
+host-suffix, dleris.best, proxy

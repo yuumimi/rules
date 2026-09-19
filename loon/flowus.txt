@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/flowus
+
+DOMAIN-SUFFIX,allflow.cn
+DOMAIN-SUFFIX,flowus.cn

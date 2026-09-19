@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/viber
+
+host-suffix, s-bid.rmp.rakuten.com, proxy
+host-suffix, vbcdn.com, proxy
+host-suffix, vbcdn.net, proxy
+host-suffix, viber.co, proxy
+host-suffix, viber.com, proxy
+host-suffix, viber.me, proxy

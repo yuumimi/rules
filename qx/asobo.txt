@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/asobo
+
+host, flightsimulator.azureedge.net, proxy
+host-suffix, asobostudio.com, proxy
+host-suffix, flightsimulator.com, proxy

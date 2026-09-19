@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tld-ru
+
+host-suffix, moscow, proxy
+host-suffix, ru, proxy
+host-suffix, su, proxy
+host-suffix, tatar, proxy
+host-suffix, xn--80adxhks, proxy
+host-suffix, xn--80asehdb, proxy
+host-suffix, xn--80aswg, proxy
+host-suffix, xn--c1avg, proxy
+host-suffix, xn--d1acj3b, proxy
+host-suffix, xn--p1acf, proxy
+host-suffix, xn--p1ai, proxy

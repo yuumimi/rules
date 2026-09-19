@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-game-platforms-download
+
+host, alibaba.cdn.steampipe.steamcontent.com, proxy
+host, assets1.xboxlive.cn, proxy
+host, assets2.xboxlive.cn, proxy
+host, blzdist-d3.necdn.leihuo.netease.com, proxy
+host, blzdist-di.necdn.leihuo.netease.com, proxy
+host, blzdist-hs.necdn.leihuo.netease.com, proxy
+host, blzdist-ow.necdn.leihuo.netease.com, proxy
+host, blzdist-phx.necdn.leihuo.netease.com, proxy
+host, blzdist-wow.necdn.leihuo.netease.com, proxy
+host, cdn-ali.content.steamchina.com, proxy
+host, cdn-qc.content.steamchina.com, proxy
+host, cdn-ws.content.steamchina.com, proxy
+host, dl.delivery.mp.microsoft.com, proxy
+host, dl.steam.clngaa.com, proxy
+host, epicgames-download1-1251447533.file.myqcloud.com, proxy
+host, lv.queniujq.cn, proxy
+host, st-bak.viv.wanwang.space, proxy
+host, st.dl.bscstorage.net, proxy
+host, st.dl.eccdnx.com, proxy
+host, tlu.dl.delivery.mp.microsoft.com, proxy
+host, trts.baishancdnx.cn, proxy
+host, ubisoftconnect.eo-edgefunctions7.com, proxy
+host, uplaypc-s-ubisoft.cdn.ubionline.com.cn, proxy
+host, xz.pphimalayanrt.com, proxy

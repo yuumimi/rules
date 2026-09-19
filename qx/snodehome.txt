@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/snodehome
+
+host-suffix, snodehome.cn, proxy
+host-suffix, snodehome.com, proxy
+host-suffix, szbdyd.com, proxy

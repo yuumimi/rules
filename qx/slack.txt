@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/slack
+
+host-suffix, slack-core.com, proxy
+host-suffix, slack-edge.com, proxy
+host-suffix, slack-files.com, proxy
+host-suffix, slack-imgs.com, proxy
+host-suffix, slack-msgs.com, proxy
+host-suffix, slack-redir.net, proxy
+host-suffix, slack.com, proxy
+host-suffix, slackb.com, proxy
+host-suffix, slackcertified.com, proxy
+host-suffix, slackdemo.com, proxy
+host-suffix, slackhq.com, proxy

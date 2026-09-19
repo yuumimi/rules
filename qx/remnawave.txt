@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/remnawave
+
+host-suffix, docs.rw, proxy
+host-suffix, log.rw, proxy
+host-suffix, remna.st, proxy
+host-suffix, try.rw, proxy

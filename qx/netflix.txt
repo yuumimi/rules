@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netflix
+
+host, netflix.com.edgesuite.net, proxy
+host-suffix, fast.com, proxy
+host-suffix, netflix.ca, proxy
+host-suffix, netflix.com, proxy
+host-suffix, netflix.net, proxy
+host-suffix, netflixdnstest0.com, proxy
+host-suffix, netflixdnstest1.com, proxy
+host-suffix, netflixdnstest10.com, proxy
+host-suffix, netflixdnstest2.com, proxy
+host-suffix, netflixdnstest3.com, proxy
+host-suffix, netflixdnstest4.com, proxy
+host-suffix, netflixdnstest5.com, proxy
+host-suffix, netflixdnstest6.com, proxy
+host-suffix, netflixdnstest7.com, proxy
+host-suffix, netflixdnstest8.com, proxy
+host-suffix, netflixdnstest9.com, proxy
+host-suffix, netflixinvestor.com, proxy
+host-suffix, netflixtechblog.com, proxy
+host-suffix, nflxext.com, proxy
+host-suffix, nflximg.com, proxy
+host-suffix, nflximg.net, proxy
+host-suffix, nflxsearch.net, proxy
+host-suffix, nflxso.net, proxy
+host-suffix, nflxvideo.net, proxy

@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/verizon
+
+# Behavior: domain
+
+payload:
+  - "+.oath.cloud"
+  - "+.oath.com"
+  - "+.ouroath.com"
+  - "+.static-verizon.com"
+  - "+.uplynk.com"
+  - "+.verizon.com"
+  - "+.verizon.net"
+  - "+.verizonbusinessfios.com"
+  - "+.verizondigitalmedia.com"
+  - "+.verizonenterprise.com"
+  - "+.verizonfios.com"
+  - "+.verizonmedia.com"
+  - "+.verizonwireless.com"
+  - "+.vzw.com"
+  - "+.xo.com"

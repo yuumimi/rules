@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jianshu
+
+host-suffix, jianshu.com, proxy
+host-suffix, jianshu.io, proxy
+host-suffix, jianshuapi.com, proxy

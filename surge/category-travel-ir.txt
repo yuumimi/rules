@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-travel-ir
+
+.alibaba.ir
+.flightio.com
+.mrbilit.com
+.tap30.services
+.tap33.me
+.tapsi.cab
+.tapsi.ir

@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-social-media-cn
+
+# Behavior: domain
+
+payload:
+  - "+.hk.weibo.com"
+  - "+.my.weibo.com"
+  - "+.overseas.weibo.com"
+  - "+.rednote.com"
+  - "+.rednote.com.my"
+  - "+.rednotecdn.com"
+  - "+.sg.weibo.com"
+  - "+.th.weibo.com"
+  - "+.tw.weibo.com"
+  - "+.us.weibo.com"

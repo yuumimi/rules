@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/eleme
+
+# Behavior: domain
+
+payload:
+  - "+.doservice.com"
+  - "+.ele.me"
+  - "+.ele.to"
+  - "+.eleme.cn"
+  - "+.eleme.io"
+  - "+.elemecdn.cn"
+  - "+.elemecdn.com"
+  - "+.elenet.me"
+  - "+.fengniaojipei.net"

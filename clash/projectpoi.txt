@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/projectpoi
+
+# Behavior: domain
+
+payload:
+  - "+.poi.icu"
+  - "+.poi6.net"
+  - "+.poihub.com"
+  - "+.project-poi.com"

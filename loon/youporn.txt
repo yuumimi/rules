@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youporn
+
+DOMAIN-SUFFIX,extremetube.com
+DOMAIN-SUFFIX,keezmovies.com
+DOMAIN-SUFFIX,yopornshop.com
+DOMAIN-SUFFIX,youporn.com
+DOMAIN-SUFFIX,youporngay.com
+DOMAIN-SUFFIX,youpornpremium.com
+DOMAIN-SUFFIX,youpornru.com
+DOMAIN-SUFFIX,ypncdn.com

@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili-cdn
+
+# Behavior: domain
+
+payload:
+  - "+.bilicdn1.com"
+  - "+.bilicdn2.com"
+  - "+.bilicdn3.com"
+  - "+.bilicdn4.com"
+  - "+.bilicdn5.com"
+  - "+.biliimg.com"
+  - "+.bilivideo.cn"
+  - "+.bilivideo.com"
+  - "+.bilivideo.net"
+  - "+.hdslb.com"
+  - "+.hdslb.org"
+  - "+.maoercdn.com"
+  - "+.mincdn.com"
+  - "upos-hz-mirrorakam.akamaized.net"

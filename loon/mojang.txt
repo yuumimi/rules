@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mojang
+
+DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftservices.com
+DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,mojang.com

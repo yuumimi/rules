@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gitee
+
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/taikang
+
+.taikang.com
+.taikanglife.com
+.taikangzhijia.com
+.tkhealthcare.com

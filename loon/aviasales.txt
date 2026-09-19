@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aviasales
+
+DOMAIN-SUFFIX,aviasales.com
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,avs.io

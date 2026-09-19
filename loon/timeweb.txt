@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/timeweb
+
+DOMAIN-SUFFIX,timeweb.cloud
+DOMAIN-SUFFIX,timeweb.com
+DOMAIN-SUFFIX,twcstorage.ru

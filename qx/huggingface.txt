@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/huggingface
+
+host-suffix, hf.co, proxy
+host-suffix, hf.space, proxy
+host-suffix, huggingface.co, proxy

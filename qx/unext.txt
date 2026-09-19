@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/unext
+
+host-suffix, nxtv.jp, proxy
+host-suffix, unext-info.jp, proxy
+host-suffix, unext.co.jp, proxy
+host-suffix, unext.jp, proxy

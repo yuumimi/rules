@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gettyimages
+
+host-suffix, gettyimages.ae, proxy
+host-suffix, gettyimages.at, proxy
+host-suffix, gettyimages.be, proxy
+host-suffix, gettyimages.ca, proxy
+host-suffix, gettyimages.ch, proxy
+host-suffix, gettyimages.co.jp, proxy
+host-suffix, gettyimages.co.nz, proxy
+host-suffix, gettyimages.co.uk, proxy
+host-suffix, gettyimages.com, proxy
+host-suffix, gettyimages.com.au, proxy
+host-suffix, gettyimages.com.br, proxy
+host-suffix, gettyimages.com.mx, proxy
+host-suffix, gettyimages.de, proxy
+host-suffix, gettyimages.dk, proxy
+host-suffix, gettyimages.es, proxy
+host-suffix, gettyimages.fi, proxy
+host-suffix, gettyimages.fr, proxy
+host-suffix, gettyimages.hk, proxy
+host-suffix, gettyimages.ie, proxy
+host-suffix, gettyimages.in, proxy
+host-suffix, gettyimages.it, proxy
+host-suffix, gettyimages.nl, proxy
+host-suffix, gettyimages.no, proxy
+host-suffix, gettyimages.pt, proxy
+host-suffix, gettyimages.se, proxy

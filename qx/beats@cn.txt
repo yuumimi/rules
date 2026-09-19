@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/beats
+
+host-suffix, beats1.cn, proxy
+host-suffix, beats1.com.cn, proxy
+host-suffix, beats2.com.cn, proxy
+host-suffix, beats4.cn, proxy
+host-suffix, beatsbydre.com, proxy
+host-suffix, beatsbydre.com.cn, proxy
+host-suffix, beatsep.cn, proxy

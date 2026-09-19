@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hkbu
+
+host-suffix, hkbu.edu.hk, proxy
+host-suffix, hkbu.hk, proxy
+host-suffix, xn--fiqs8s1bxp3anr7a.hk, proxy
+host-suffix, xn--fiqs8s1bxp3anr7a.xn--j6w193g, proxy
+host-suffix, xn--gdt08a.hk, proxy
+host-suffix, xn--gdt08a.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61ahw8aq79bztd.hk, proxy
+host-suffix, xn--pssu7cv61ahw8aq79bztd.xn--j6w193g, proxy

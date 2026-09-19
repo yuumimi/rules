@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinatelecom
+
+host-suffix, 189.cn, proxy
+host-suffix, 189smarthome.com, proxy
+host-suffix, 21cn.com, proxy
+host-suffix, bestpay.cn, proxy
+host-suffix, bestpay.com.cn, proxy
+host-suffix, chinatelecom-h.com, proxy
+host-suffix, chinatelecom.com.cn, proxy
+host-suffix, chinatelecomglobal.com, proxy
+host-suffix, chinatelecomhk.com, proxy
+host-suffix, chntel.com, proxy
+host-suffix, ctexcel.ca, proxy
+host-suffix, ctexcel.com, proxy
+host-suffix, ctexcel.com.hk, proxy
+host-suffix, ctexcel.fr, proxy
+host-suffix, ctexcel.us, proxy
+host-suffix, dlife.cn, proxy
+host-suffix, play.cn, proxy
+host-suffix, vnet.cn, proxy

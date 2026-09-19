@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sumkoo
+
+host-suffix, gongqingyun.cn, proxy
+host-suffix, jzfz.net, proxy
+host-suffix, sumkoo.cn, proxy
+host-suffix, sumkoo.com, proxy
+host-suffix, sumkoo.net, proxy
+host-suffix, veeqi.net, proxy
+host-suffix, wenmingban.com, proxy
+host-suffix, zhiyuanhe.cn, proxy
+host-suffix, zhiyuanyun.com.cn, proxy
+host-suffix, zyhe.com.cn, proxy

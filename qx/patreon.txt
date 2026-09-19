@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/patreon
+
+host, live-patreon-marketing.pantheonsite.io, proxy
+host-suffix, patreon.com, proxy
+host-suffix, patreoncommunity.com, proxy
+host-suffix, patreonusercontent.com, proxy

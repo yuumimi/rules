@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/teamspeak
+
+DOMAIN-SUFFIX,myteamspeak.com
+DOMAIN-SUFFIX,teamspeak-services.com
+DOMAIN-SUFFIX,teamspeak.com

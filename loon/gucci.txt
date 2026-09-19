@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gucci
+
+DOMAIN-SUFFIX,chimeforchange.org
+DOMAIN-SUFFIX,gucci
+DOMAIN-SUFFIX,gucci.cn
+DOMAIN-SUFFIX,gucci.com
+DOMAIN-SUFFIX,guccimuseo.com
+DOMAIN-SUFFIX,guccitimeless.com
+DOMAIN-SUFFIX,regiongold.com

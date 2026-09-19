@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/reagroup
+
+host-suffix, flatmates.com.au, proxy
+host-suffix, hackday.com.au, proxy
+host-suffix, hometrack.com.au, proxy
+host-suffix, housing.com, proxy
+host-suffix, housingcdn.com, proxy
+host-suffix, inventorship.com.au, proxy
+host-suffix, ippstatic.com, proxy
+host-suffix, iproperty.com, proxy
+host-suffix, iproperty.com.my, proxy
+host-suffix, iproperty.com.sg, proxy
+host-suffix, makaan.com, proxy
+host-suffix, move.com, proxy
+host-suffix, moveaws.com, proxy
+host-suffix, myfun.com, proxy
+host-suffix, property.com.au, proxy
+host-suffix, proptiger.com, proxy
+host-suffix, rea-asia.com, proxy
+host-suffix, rea-group.com, proxy
+host-suffix, rea.design, proxy
+host-suffix, rea.global, proxy
+host-suffix, rea.io, proxy
+host-suffix, rea.tech, proxy
+host-suffix, realcommercial.com.au, proxy
+host-suffix, realestate.com.au, proxy
+host-suffix, realtor.com, proxy
+host-suffix, reastatic.net, proxy
+host-suffix, rumah123.com, proxy
+host-suffix, smartexpos.com, proxy
+host-suffix, smartline.com.au, proxy
+host-suffix, spacely.com.au, proxy
+host-suffix, squarefoot.com.hk, proxy
+host-suffix, thinkofliving.com, proxy

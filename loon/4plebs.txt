@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/4plebs
+
+DOMAIN-SUFFIX,4pcdn.org
+DOMAIN-SUFFIX,4plebs.org

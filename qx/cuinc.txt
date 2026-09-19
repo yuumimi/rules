@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cuinc
+
+host-suffix, cuinc.oen.tw, proxy
+host-suffix, cuinc.tw, proxy

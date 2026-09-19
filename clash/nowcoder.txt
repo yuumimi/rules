@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nowcoder
+
+# Behavior: domain
+
+payload:
+  - "+.newcoder.com"
+  - "+.nowcoder.com"
+  - "+.nowcoder.net"
+  - "+.nowcoder.org"

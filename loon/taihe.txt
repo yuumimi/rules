@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/taihe
+
+DOMAIN-SUFFIX,91q.com
+DOMAIN-SUFFIX,dmhmusic.com
+DOMAIN-SUFFIX,showstart.com
+DOMAIN-SUFFIX,taihe.com
+DOMAIN-SUFFIX,taihemusic.cn
+DOMAIN-SUFFIX,th-music.com

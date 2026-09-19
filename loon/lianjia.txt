@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lianjia
+
+DOMAIN-SUFFIX,beckyroom.com
+DOMAIN-SUFFIX,bkzhibo.com
+DOMAIN-SUFFIX,ke.com
+DOMAIN-SUFFIX,lianjia.com
+DOMAIN-SUFFIX,ljcdn.com

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fonbet
+
+DOMAIN-SUFFIX,bk6bba-resources.com
+DOMAIN-SUFFIX,bk6bba-resources.ru
+DOMAIN-SUFFIX,fon.bet
+DOMAIN-SUFFIX,fon.promo

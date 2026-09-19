@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amap
+
+# Behavior: domain
+
+payload:
+  - "+.a-map.cn"
+  - "+.a-map.co"
+  - "+.a-map.link"
+  - "+.a-map.vip"
+  - "+.acloudrender.com"
+  - "+.amap.com"
+  - "+.amap.net"
+  - "+.amapauto.com"
+  - "+.anav.com"
+  - "+.autonavi.com"
+  - "+.gaode.com"

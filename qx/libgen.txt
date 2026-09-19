@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/libgen
+
+host-suffix, gen.lib.rus.ec, proxy
+host-suffix, libgen.fun, proxy
+host-suffix, libgen.is, proxy
+host-suffix, libgen.life, proxy
+host-suffix, libgen.me, proxy
+host-suffix, libgen.rs, proxy
+host-suffix, libgen.st, proxy
+host-suffix, library.lol, proxy

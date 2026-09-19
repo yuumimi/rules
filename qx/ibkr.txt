@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ibkr
+
+host-suffix, ibkr.ca, proxy
+host-suffix, ibkr.co.in, proxy
+host-suffix, ibkr.co.uk, proxy
+host-suffix, ibkr.com, proxy
+host-suffix, ibkr.com.au, proxy
+host-suffix, ibkr.com.hk, proxy
+host-suffix, ibkr.com.sg, proxy
+host-suffix, ibkr.eu, proxy
+host-suffix, ibkr.ie, proxy
+host-suffix, ibkrguides.com, proxy
+host-suffix, ibllc.com, proxy
+host-suffix, interactivebrokers.ca, proxy
+host-suffix, interactivebrokers.co.in, proxy
+host-suffix, interactivebrokers.co.jp, proxy
+host-suffix, interactivebrokers.co.uk, proxy
+host-suffix, interactivebrokers.com, proxy
+host-suffix, interactivebrokers.com.au, proxy
+host-suffix, interactivebrokers.com.hk, proxy
+host-suffix, interactivebrokers.com.sg, proxy
+host-suffix, interactivebrokers.eu, proxy
+host-suffix, interactivebrokers.ie, proxy

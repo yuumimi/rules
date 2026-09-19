@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/midea
+
+host-suffix, irsnp.com, proxy
+host-suffix, mdcdn.cn, proxy
+host-suffix, midea.cn, proxy
+host-suffix, midea.com, proxy
+host-suffix, midea.com.cn, proxy
+host-suffix, mideaepayuat.com, proxy
+host-suffix, msmartlife.cn, proxy
+host-suffix, msmartlife.com, proxy
+host-suffix, smartmidea.net, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zoom
+
+host-suffix, zoom.com, proxy
+host-suffix, zoom.com.cn, proxy
+host-suffix, zoom.us, proxy

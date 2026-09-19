@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-mobile-repair
+
+# Behavior: domain
+
+payload:
+  - "+.androidfilehost.com"
+  - "+.borneo.world"
+  - "+.borneoasia.com"
+  - "+.borneoschematic.com"
+  - "+.bosharso.net"
+  - "+.easy-jtag.com"
+  - "+.hostborneo.org"
+  - "+.unlocktool.net"
+  - "+.z3x-team.com"

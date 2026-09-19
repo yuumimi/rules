@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/espn
+
+host, espn.api.edge.bamgrid.com, proxy
+host, espn.hb.omtrdc.net, proxy
+host, espndotcom.tt.omtrdc.net, proxy
+host-suffix, dtci.co, proxy
+host-suffix, dtci.technology, proxy
+host-suffix, espn.co.uk, proxy
+host-suffix, espn.com, proxy
+host-suffix, espn.net, proxy
+host-suffix, espncdn.com, proxy
+host-suffix, espnqa.com, proxy
+host-suffix, watchespn.com, proxy

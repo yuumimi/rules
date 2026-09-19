@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/autoru
+
+.apiauto.ru
+.auto.ru
+.autoru.me
+.avto.ru
+.cm.expert

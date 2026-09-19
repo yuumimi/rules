@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/starplus
+
+# Behavior: domain
+
+payload:
+  - "+.star.api.edge.bamgrid.com"
+  - "+.star.connections.edge.bamgrid.com"
+  - "+.star.content.edge.bamgrid.com"
+  - "+.star.playback.edge.bamgrid.com"
+  - "+.starott.com"
+  - "+.starplus.com"

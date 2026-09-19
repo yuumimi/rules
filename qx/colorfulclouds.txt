@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/colorfulclouds
+
+host-suffix, caiyunai.com, proxy
+host-suffix, caiyunapp.com, proxy
+host-suffix, caiyuncdn.com, proxy
+host-suffix, colorfulclouds.com, proxy
+host-suffix, colorfulclouds.net, proxy
+host-suffix, xiaomengai.com, proxy

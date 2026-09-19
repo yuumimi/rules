@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaoheihe
+
+# Behavior: domain
+
+payload:
+  - "+.1xhh.cn"
+  - "+.accxiaoheihe.com"
+  - "+.chat.top"
+  - "+.debugmode.cn"
+  - "+.max-c.com"
+  - "+.maxadmin.cn"
+  - "+.maxjia.com"
+  - "+.xiaoheihe.cn"

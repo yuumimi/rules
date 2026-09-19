@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/unitychina
+
+DOMAIN-SUFFIX,u3d.cn
+DOMAIN-SUFFIX,unity.cn
+DOMAIN-SUFFIX,unity3dcloud.cn
+DOMAIN-SUFFIX,unitychina.cn

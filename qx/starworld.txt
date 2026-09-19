@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/starworld
+
+host-suffix, 360-api.cn, proxy
+host-suffix, 360-g.cn, proxy
+host-suffix, 360-g.net, proxy
+host-suffix, 360-game.net, proxy
+host-suffix, 360pay.cn, proxy
+host-suffix, 360sjyh.cn, proxy
+host-suffix, gamepack.cn, proxy
+host-suffix, qftexpay.cn, proxy
+host-suffix, qikoo.com, proxy
+host-suffix, qiku.com, proxy
+host-suffix, qikucdn.com, proxy
+host-suffix, starworldgames.com, proxy
+host-suffix, theworld.cn, proxy
+host-suffix, warsaga.cn, proxy
+host-suffix, wggames.cn, proxy
+host-suffix, worldofship.cn, proxy
+host-suffix, worldoftank.cn, proxy
+host-suffix, worldoftanks.cn, proxy
+host-suffix, worldoftanks.com.cn, proxy
+host-suffix, wotgame.cn, proxy
+host-suffix, wowsgame.cn, proxy
+host-suffix, woxihuan.com, proxy
+host-suffix, wztsy.cn, proxy
+host-suffix, wztsy.com, proxy
+host-suffix, yiwanzhushou.com, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cuinc
+
+# Behavior: domain
+
+payload:
+  - "+.cuinc.oen.tw"
+  - "+.cuinc.tw"

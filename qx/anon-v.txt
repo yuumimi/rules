@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anon-v
+
+host-suffix, anon-v.com, proxy
+host-suffix, anon-v.lol, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rutube
+
+host-suffix, rtbcdn.ru, proxy
+host-suffix, rutube.ru, proxy
+host-suffix, rutube.sport, proxy
+host-suffix, rutubelist.ru, proxy

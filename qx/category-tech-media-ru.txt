@@ -1,0 +1,36 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-tech-media-ru
+
+host-suffix, 3dnews.ru, proxy
+host-suffix, cnconf.ru, proxy
+host-suffix, cnews.ru, proxy
+host-suffix, cnewsforum.ru, proxy
+host-suffix, durovscode.com, proxy
+host-suffix, ferra.ru, proxy
+host-suffix, hacksoft.ru, proxy
+host-suffix, hardware.ru, proxy
+host-suffix, iguides.ru, proxy
+host-suffix, ixbt.com, proxy
+host-suffix, ixbt.games, proxy
+host-suffix, ixbt.market, proxy
+host-suffix, ixbt.media, proxy
+host-suffix, ixbt.pro, proxy
+host-suffix, ixbt.ru, proxy
+host-suffix, ixbt.shop, proxy
+host-suffix, ixbt.site, proxy
+host-suffix, ixbt.video, proxy
+host-suffix, kod.ru, proxy
+host-suffix, ovcl.ru, proxy
+host-suffix, overclock.ru, proxy
+host-suffix, overclocker.ru, proxy
+host-suffix, overclockers.ru, proxy
+host-suffix, overclocking.ru, proxy
+host-suffix, overi.ru, proxy
+host-suffix, seclab.lat, proxy
+host-suffix, securitylab.ru, proxy
+host-suffix, servernews.ru, proxy
+host-suffix, xn--80AGLFYFK.xn--p1ai, proxy
+host-suffix, xn--80aglzei.xn--p1ai, proxy
+host-suffix, xn--b1agatafrepfl.xn--p1ai, proxy
+host-suffix, xn--b1agpaeoen.xn--p1ai, proxy
+host-suffix, xn--b1agzk.xn--p1ai, proxy
+host-suffix, xn--b1agzk9c.xn--p1ai, proxy

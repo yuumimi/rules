@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ymtc
+
+# Behavior: domain
+
+payload:
+  - "+.ymtc.cn"
+  - "+.ymtc.com"
+  - "+.ymtc.com.cn"

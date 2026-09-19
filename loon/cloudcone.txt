@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cloudcone
+
+DOMAIN-SUFFIX,clco.cc
+DOMAIN-SUFFIX,cloudc.one
+DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,cloudcone.net

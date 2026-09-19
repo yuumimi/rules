@@ -1,0 +1,37 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/intuit
+
+host-suffix, creditkarma.com, proxy
+host-suffix, gopayment.com, proxy
+host-suffix, gopayments.com, proxy
+host-suffix, intuit, proxy
+host-suffix, intuit-gopayment.com, proxy
+host-suffix, intuit.ca, proxy
+host-suffix, intuit.co.uk, proxy
+host-suffix, intuit.com, proxy
+host-suffix, intuit.com.au, proxy
+host-suffix, intuit.fr, proxy
+host-suffix, intuitaffiliate.com, proxy
+host-suffix, intuitbenefits.com, proxy
+host-suffix, intuitcdn.net, proxy
+host-suffix, intuitfullservicepayroll.com, proxy
+host-suffix, intuitinnovationday.com, proxy
+host-suffix, intuitlabs.com, proxy
+host-suffix, intuitpayments.com, proxy
+host-suffix, mailchimp.com, proxy
+host-suffix, myproseries.com, proxy
+host-suffix, payroll.com, proxy
+host-suffix, proseries.com, proxy
+host-suffix, quickbook.com.br, proxy
+host-suffix, quickbooks.co.uk, proxy
+host-suffix, quickbooks.co.za, proxy
+host-suffix, quickbooks.com, proxy
+host-suffix, quickbooks.com.au, proxy
+host-suffix, quickbooks.com.br, proxy
+host-suffix, quickbooks.fr, proxy
+host-suffix, quickbooks.in, proxy
+host-suffix, quickbooks2000.com, proxy
+host-suffix, quickbooksenligne.ca, proxy
+host-suffix, quickbooksgetconnected.co.za, proxy
+host-suffix, quickbooksonline.com, proxy
+host-suffix, turbo.com, proxy
+host-suffix, turbotax.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fontshop
+
+.fontbook.com
+.fontshop.com
+.fstopimages.com
+fontshop-prod-responsive-images.s3.amazonaws.com

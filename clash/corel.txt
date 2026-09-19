@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/corel
+
+# Behavior: domain
+
+payload:
+  - "+.corel.com"
+  - "+.corel.net"
+  - "+.coreldraw.app"
+  - "+.coreldraw.com"
+  - "+.corelstore.com"

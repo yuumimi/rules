@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mts-ru
+
+# Behavior: domain
+
+payload:
+  - "+.dbo-dengi.online"
+  - "+.kion.ru"
+  - "+.mts-ws.net"
+  - "+.mts.ru"
+  - "+.mtsbank.ru"
+  - "+.mtsdengi.ru"
+  - "+.mtsmedia.ru"
+  - "+.mymts.ru"
+  - "+.on-media.ru"
+  - "+.tvoyodbo.online"

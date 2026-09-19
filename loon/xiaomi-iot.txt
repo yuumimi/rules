@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi-iot
+
+DOMAIN-SUFFIX,account.xiaomi.com
+DOMAIN-SUFFIX,cn-ha.mqtt.io.mi.com
+DOMAIN-SUFFIX,ha.api.io.mi.com
+DOMAIN-SUFFIX,miot-spec.org

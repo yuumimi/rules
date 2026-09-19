@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaohongshu
+
+host-suffix, askdiandian.com, proxy
+host-suffix, diandianlife.top, proxy
+host-suffix, redelight.cn, proxy
+host-suffix, rednote.com, proxy
+host-suffix, rednote.com.my, proxy
+host-suffix, rednotecdn.com, proxy
+host-suffix, xhscdn.com, proxy
+host-suffix, xhscdn.net, proxy
+host-suffix, xhslink.com, proxy
+host-suffix, xhsrcdn.com, proxy
+host-suffix, xiaohongshu.com, proxy

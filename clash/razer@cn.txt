@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/razer
+
+# Behavior: domain
+
+payload:
+  - "+.razerapi.com"
+  - "+.razersynapse.com"
+  - "+.razerzone.com"

@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-education-ru
+
+host-suffix, altaiobr04.ru, proxy
+host-suffix, chelyabinsk-sgo-edu-74.ru, proxy
+host-suffix, gramotei.online, proxy
+host-suffix, kakpishem.ru, proxy
+host-suffix, kartaslov.ru, proxy
+host-suffix, mel.fm, proxy
+host-suffix, melfm.ru, proxy
+host-suffix, obr03.ru, proxy
+host-suffix, pishi-pravilno.ru, proxy
+host-suffix, pravilno-pishem.ru, proxy
+host-suffix, setevoygorodkrasnodar.ru, proxy
+host-suffix, sgo-egov66.ru, proxy
+host-suffix, sgo.tvobr.ru, proxy
+host-suffix, sgo12.ru, proxy
+host-suffix, sgo171.ru, proxy
+host-suffix, sgo41.ru, proxy
+host-suffix, sgoedu74.ru, proxy
+host-suffix, tak-pravilno.com, proxy
+host-suffix, ulyanovsk-sgo-cit73.ru, proxy

@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/litv
+
+host, ntdfreemobile-tgc.cdn.hinet.net, proxy
+host, ntdfreepc-tgc.cdn.hinet.net, proxy
+host, ntdfreetv-tgc.cdn.hinet.net, proxy
+host, ntdfreevcpc-tgc.cdn.hinet.net, proxy
+host, ntdofifreemobile-tgc.cdn.hinet.net, proxy
+host, ntdofifreepc-tgc.cdn.hinet.net, proxy
+host, ntdofifreetv-tgc.cdn.hinet.net, proxy
+host, ntdofifreevcpc-tgc.cdn.hinet.net, proxy
+host-suffix, litv.tv, proxy
+host-suffix, litvfreepc.akamaized.net, proxy
+host-suffix, ofiii.com, proxy

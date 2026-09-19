@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imgix
+
+host-suffix, imgix.com, proxy
+host-suffix, imgix.net, proxy

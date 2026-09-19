@@ -1,0 +1,32 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sina
+
+# Behavior: domain
+
+payload:
+  - "+.97973.com"
+  - "+.krcom.cn"
+  - "+.picself.cn"
+  - "+.sina"
+  - "+.sina.cn"
+  - "+.sina.com"
+  - "+.sina.com.cn"
+  - "+.sina.net"
+  - "+.sinaapp.com"
+  - "+.sinaedge.com"
+  - "+.sinaimg.cn"
+  - "+.sinaimg.com"
+  - "+.sinajs.cn"
+  - "+.sinajs.com"
+  - "+.t.cn"
+  - "+.videoself.cn"
+  - "+.wbimg.cn"
+  - "+.wbimg.com"
+  - "+.wcdn.cn"
+  - "+.weibo"
+  - "+.weibo.cn"
+  - "+.weibo.com"
+  - "+.weibo.com.cn"
+  - "+.weibocdn.com"
+  - "+.weibopay.com"
+  - "+.xhaiwai.com"
+  - "+.xn--9krt00a"

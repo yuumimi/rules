@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chesscom
+
+host-suffix, chess.com, proxy
+host-suffix, chesscomfiles.com, proxy

@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meta
+
+# Behavior: domain
+
+payload:
+  - "+.analytics.facebook.com"
+  - "+.facebookads.com"
+  - "+.graph-fallback.instagram.com"
+  - "+.graph.instagram.com"
+  - "+.graph.whatsapp.com"
+  - "+.graph.whatsapp.net"
+  - "+.pixel.facebook.com"

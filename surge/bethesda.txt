@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bethesda
+
+.beth.games
+.bethesda.net
+.bethesdagamestudios.com
+.bethsoft.com
+.doom.com
+.elderscrolls.com

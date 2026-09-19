@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/firefox
+
+# Behavior: domain
+
+payload:
+  - "+.extendfirefox.com"
+  - "+.firefox.com"
+  - "+.firefox.hu"
+  - "+.firefoxtweetmachine.com"
+  - "+.firefoxusercontent.com"
+  - "mozilla-ohttp.fastly-edge.com"
+  - "mozilla.map.fastly.net"

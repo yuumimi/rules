@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hunantv
+
+DOMAIN-SUFFIX,hifuntv.com
+DOMAIN-SUFFIX,hitv.com
+DOMAIN-SUFFIX,hnbntv.com
+DOMAIN-SUFFIX,hunaniptv.com
+DOMAIN-SUFFIX,hunantv.com
+DOMAIN-SUFFIX,imgo.tv
+DOMAIN-SUFFIX,mgtv.com

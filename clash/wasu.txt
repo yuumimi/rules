@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wasu
+
+# Behavior: domain
+
+payload:
+  - "+.aichongzoo.cn"
+  - "+.hzdtv.tv"
+  - "+.hzman.net"
+  - "+.wasu.cn"
+  - "+.wasu.tv"
+  - "+.wasumedia.cn"

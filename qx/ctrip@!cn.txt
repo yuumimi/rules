@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ctrip
+
+host-suffix, ak-p.tripcdn.com, proxy
+host-suffix, ak-s-cw.tripcdn.com, proxy
+host-suffix, ak-s.tripcdn.com, proxy
+host-suffix, akatest.tripcdn.com, proxy
+host-suffix, aw-d.tripcdn.com, proxy
+host-suffix, aw-p.tripcdn.com, proxy
+host-suffix, aw-s.tripcdn.com, proxy
+host-suffix, ctrip.co.id, proxy
+host-suffix, ctrip.co.kr, proxy
+host-suffix, ctrip.co.th, proxy
+host-suffix, ctrip.com.hk, proxy
+host-suffix, ctrip.my, proxy
+host-suffix, ctrip.sg, proxy
+host-suffix, ctripbuy.hk, proxy
+host-suffix, hhtravel.com.tw, proxy
+host-suffix, trip.com, proxy

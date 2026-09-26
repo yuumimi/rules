@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/avaxhome
+
+host-suffix, avh.world, proxy
+host-suffix, avxde.org, proxy
+host-suffix, avxhm.is, proxy
+host-suffix, avxhm.se, proxy
+host-suffix, avxlive.icu, proxy
+host-suffix, xsava.xyz, proxy
+host-suffix, zavat.pw, proxy

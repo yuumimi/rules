@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/udemy
+
+host-suffix, udemy.com, proxy
+host-suffix, udemycdn.com, proxy

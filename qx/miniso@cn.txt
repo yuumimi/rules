@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/miniso
+
+host-suffix, miniso.cn, proxy
+host-suffix, minisohome.cn, proxy
+host-suffix, minsio.cn, proxy

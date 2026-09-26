@@ -1,0 +1,32 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-bank-mm
+
+host-suffix, abank.com.mm, proxy
+host-suffix, ablmm.com, proxy
+host-suffix, agdbank.com, proxy
+host-suffix, ayabank.com, proxy
+host-suffix, cbbank.com.mm, proxy
+host-suffix, cbm.com.mm, proxy
+host-suffix, chid.com.mm, proxy
+host-suffix, firstprivatebank.com.mm, proxy
+host-suffix, gbank.com.mm, proxy
+host-suffix, kbzbank.com, proxy
+host-suffix, kbzpay.com, proxy
+host-suffix, mabbank.com, proxy
+host-suffix, mcb.com.mm, proxy
+host-suffix, mdbankpublic.com, proxy
+host-suffix, meb.gov.mm, proxy
+host-suffix, micb.gov.mm, proxy
+host-suffix, mmbbank.com.mm, proxy
+host-suffix, mmftb.gov.mm, proxy
+host-suffix, mminsurance.gov.mm, proxy
+host-suffix, mmtourismbank.com, proxy
+host-suffix, mobmyanmar.com, proxy
+host-suffix, mwdbank.com, proxy
+host-suffix, nptsibinbank.com, proxy
+host-suffix, shwebank.com, proxy
+host-suffix, smedevelopmentbank.com.mm, proxy
+host-suffix, tuncommercialbank.com, proxy
+host-suffix, uab.com.mm, proxy
+host-suffix, waveomoney.com.mm, proxy
+host-suffix, yomabank.com, proxy
+host-suffix, ysx-mm.com, proxy

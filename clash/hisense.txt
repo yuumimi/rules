@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hisense
+
+# Behavior: domain
+
+payload:
+  - "+.hisense-home.com"
+  - "+.hisense.com"
+  - "+.hisensehitachi.com"
+  - "+.hisensekf.com"
+  - "+.hismarttv.com"
+  - "+.juhaokan.org"

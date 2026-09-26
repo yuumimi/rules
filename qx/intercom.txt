@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/intercom
+
+host-suffix, intercom.com, proxy
+host-suffix, intercom.io, proxy
+host-suffix, intercomassets.com, proxy
+host-suffix, intercomcdn.com, proxy

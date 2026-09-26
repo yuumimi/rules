@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/picsee
+
+DOMAIN-SUFFIX,pics.ee
+DOMAIN-SUFFIX,picsee.co
+DOMAIN-SUFFIX,picsee.pro
+DOMAIN-SUFFIX,pise.pw
+DOMAIN-SUFFIX,pros.ee
+DOMAIN-SUFFIX,pse.is

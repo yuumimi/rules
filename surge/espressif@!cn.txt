@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/espressif
+
+.esp32.com
+.esp8266.com
+.espressif.com

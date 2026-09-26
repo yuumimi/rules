@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hupun
+
+host-suffix, hupun.com, proxy
+host-suffix, hupun.com.cn, proxy
+host-suffix, kata.com.cn, proxy
+host-suffix, newniu.com, proxy
+host-suffix, wanliniu.com, proxy

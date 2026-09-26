@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/marvel
+
+host-suffix, marvel.com, proxy
+host-suffix, marvel10thanniversary.com, proxy
+host-suffix, marveldimensionofheroes.com, proxy
+host-suffix, marvelparty.net, proxy
+host-suffix, marvelpinball.com, proxy
+host-suffix, marvelsdoubleagent.com, proxy
+host-suffix, marvelspotlightplays.com, proxy
+host-suffix, marvelsuperheroseptember.com, proxy
+host-suffix, marvelsuperwar.com, proxy
+host-suffix, themarvelexperiencetour.com, proxy

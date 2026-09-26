@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaoheihe
+
+host-suffix, 1xhh.cn, proxy
+host-suffix, accxiaoheihe.com, proxy
+host-suffix, chat.top, proxy
+host-suffix, debugmode.cn, proxy
+host-suffix, max-c.com, proxy
+host-suffix, maxadmin.cn, proxy
+host-suffix, maxjia.com, proxy
+host-suffix, xiaoheihe.cn, proxy

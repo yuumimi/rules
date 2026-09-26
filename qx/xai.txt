@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xai
+
+host-suffix, grok.com, proxy
+host-suffix, grok.x.com, proxy
+host-suffix, grokipedia.com, proxy
+host-suffix, x.ai, proxy

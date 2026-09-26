@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/internet-archive
+
+DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,openlibrary.org

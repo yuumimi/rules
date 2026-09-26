@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xnxx
+
+host-suffix, xnxx-cdn.com, proxy
+host-suffix, xnxx.com, proxy
+host-suffix, xnxx.net, proxy
+host-suffix, xnxx.tv, proxy
+host-suffix, xnxx3.com, proxy

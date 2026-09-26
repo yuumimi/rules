@@ -1,0 +1,29 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/samsung
+
+host-suffix, galaxyappstore.com, proxy
+host-suffix, galaxymobile.jp, proxy
+host-suffix, game-platform.net, proxy
+host-suffix, knoxemm.com, proxy
+host-suffix, ospserver.net, proxy
+host-suffix, samsung, proxy
+host-suffix, samsung.com, proxy
+host-suffix, samsung.com.cn, proxy
+host-suffix, samsungadhub.com, proxy
+host-suffix, samsungads.com, proxy
+host-suffix, samsungapps.com, proxy
+host-suffix, samsungcloud.com, proxy
+host-suffix, samsungcloudcn.com, proxy
+host-suffix, samsungconsent.com, proxy
+host-suffix, samsungdm.com, proxy
+host-suffix, samsungeshop.com.cn, proxy
+host-suffix, samsunggalaxyfriends.com, proxy
+host-suffix, samsunghealth.com, proxy
+host-suffix, samsunghealthcn.com, proxy
+host-suffix, samsungiotcloud.com, proxy
+host-suffix, samsungiots.com, proxy
+host-suffix, samsungknox.com, proxy
+host-suffix, samsungosp.com, proxy
+host-suffix, samsungqbe.com, proxy
+host-suffix, samsungrs.com, proxy
+host-suffix, smartthings.com, proxy
+host-suffix, xn--cg4bki, proxy

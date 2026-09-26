@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/umeng
+
+host-suffix, cnzz.com, proxy
+host-suffix, mobmore.com, proxy
+host-suffix, new-aaid.umeng.com.gds.alibabadns.com, proxy
+host-suffix, puata.info, proxy
+host-suffix, shujupie.com, proxy
+host-suffix, umeng.com, proxy
+host-suffix, umengcloud.com, proxy
+host-suffix, umsns.com, proxy
+host-suffix, umtrack.com, proxy
+host-suffix, uyunad.com, proxy
+host-suffix, whalecloud.com, proxy

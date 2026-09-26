@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/beget
+
+# Behavior: domain
+
+payload:
+  - "+.beget.com"
+  - "+.beget.ru"

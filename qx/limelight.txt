@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/limelight
+
+host-suffix, delvenetworks.com, proxy
+host-suffix, limelight.com, proxy
+host-suffix, lldns.net, proxy
+host-suffix, llnw-trials.com, proxy
+host-suffix, llnw.com, proxy
+host-suffix, llnw.net, proxy
+host-suffix, llnwd.net, proxy
+host-suffix, llnwi.net, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gog
+
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
+DOMAIN,gog-cdn.akamaized.net
+DOMAIN,gog.qtlglb.com
+DOMAIN-SUFFIX,gog-services.com
+DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gogalaxy.com

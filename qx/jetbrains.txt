@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jetbrains
+
+host-suffix, datalore.io, proxy
+host-suffix, grazie.ai, proxy
+host-suffix, intellij.com, proxy
+host-suffix, intellij.net, proxy
+host-suffix, intellij.org, proxy
+host-suffix, jb.gg, proxy
+host-suffix, jetbrains.ai, proxy
+host-suffix, jetbrains.cloud, proxy
+host-suffix, jetbrains.com, proxy
+host-suffix, jetbrains.com.cn, proxy
+host-suffix, jetbrains.dev, proxy
+host-suffix, jetbrains.net, proxy
+host-suffix, jetbrains.org, proxy
+host-suffix, jetbrains.ru, proxy
+host-suffix, jetbrains.space, proxy
+host-suffix, jetbrains.team, proxy
+host-suffix, kotl.in, proxy
+host-suffix, kotlinconf.com, proxy
+host-suffix, kotlinlang.org, proxy
+host-suffix, ktor.io, proxy
+host-suffix, myjetbrains.com, proxy
+host-suffix, talkingkotlin.com, proxy
+host-suffix, youtrack.cloud, proxy

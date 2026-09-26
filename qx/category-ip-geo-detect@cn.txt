@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ip-geo-detect
+
+host-suffix, ipify.cn, proxy
+host-suffix, iplark.com, proxy
+host-suffix, ipw.cn, proxy
+host-suffix, testipv6.cn, proxy
+host-suffix, whois.pconline.com.cn, proxy

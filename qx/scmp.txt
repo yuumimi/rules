@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/scmp
+
+host-suffix, i-scmp.com, proxy
+host-suffix, scmp.com, proxy

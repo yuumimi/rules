@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/eset
+
+# Behavior: domain
+
+payload:
+  - "+.e5.sk"
+  - "+.eset.com"
+  - "+.eset.eu"
+  - "+.eset.sk"
+  - "+.eset.systems"
+  - "+.esetsoftware.com"
+  - "epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com"
+  - "eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com"

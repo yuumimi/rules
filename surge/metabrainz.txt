@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/metabrainz
+
+.acousticbrainz.org
+.bookbrainz.org
+.coverartarchive.org
+.critiquebrainz.org
+.listenbrainz.org
+.messybrainz.org
+.metabrainz.org
+.musicbrainz.org

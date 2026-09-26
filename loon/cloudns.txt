@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cloudns
+
+DOMAIN-SUFFIX,cloudns.nz
+DOMAIN-SUFFIX,cloudns.ph

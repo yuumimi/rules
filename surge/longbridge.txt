@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/longbridge
+
+.lbctrl.com
+.lbkrs.com
+.longbridge.cloud
+.longbridge.cn
+.longbridge.com
+.longbridge.global
+.longbridge.hk
+.longbridge.sg
+.longbridgeapp.com
+.longbridgehk.com
+.longportapp.com
+.wbrks.com

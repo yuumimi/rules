@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/github
+
+.collector.github.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com

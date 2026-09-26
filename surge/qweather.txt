@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qweather
+
+.hecdn.net
+.heweather.net
+.qweather.com
+.qweather.net
+.qweatherapi.com

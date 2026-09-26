@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/truyen-hentai
+
+host-suffix, truyen-hentai.com, proxy
+host-suffix, truyen-hentai.fr, proxy
+host-suffix, truyen-hentai.ru, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ikea
+
+host-suffix, ikea.cn, proxy
+host-suffix, ingka-dt.cn, proxy
+host-suffix, ingka-internal.cn, proxy
+host-suffix, ingka-system.cn, proxy

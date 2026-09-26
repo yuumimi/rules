@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/usersdrive
+
+host-suffix, userdrive.org, proxy
+host-suffix, usersdrive.com, proxy

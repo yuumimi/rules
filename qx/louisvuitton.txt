@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/louisvuitton
+
+host-suffix, louisvuitton.cn, proxy
+host-suffix, louisvuitton.com, proxy
+host-suffix, lvcampaign.com, proxy

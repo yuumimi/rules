@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/petrochina
+
+host-suffix, 95504.net, proxy
+host-suffix, 95504test.com, proxy
+host-suffix, cnpc.com.cn, proxy
+host-suffix, petrochina.com.cn, proxy

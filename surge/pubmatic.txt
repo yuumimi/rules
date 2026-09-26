@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pubmatic
+
+.pubmatic.co.jp
+.pubmatic.com

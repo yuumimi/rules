@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youku
+
+.9xsecndns.cn
+.kumiao.com
+.soku.com
+.tudou.com
+.ykimg.com
+.youku.com
+.youku.tv
+.youkuhonor.com
+.youkuplay.com
+ykimg.alicdn.com

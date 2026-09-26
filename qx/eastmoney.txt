@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/eastmoney
+
+host-suffix, 1234567.com.cn, proxy
+host-suffix, 18.cn, proxy
+host-suffix, 18.com.cn, proxy
+host-suffix, dfcfw.com, proxy
+host-suffix, eastmoney.com, proxy
+host-suffix, eastmoneyfutures.com, proxy
+host-suffix, emsec.hk, proxy
+host-suffix, guba.com.cn, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/camwhores
+
+# Behavior: domain
+
+payload:
+  - "+.camwhores.tv"
+  - "+.camwhores.video"

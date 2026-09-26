@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/akiko
+
+DOMAIN-SUFFIX,akikocorp.cn
+DOMAIN-SUFFIX,emoriko.com
+DOMAIN-SUFFIX,sukasuka.cn

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aliyun-drive
+
+DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,aliyundrive.cloud
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,yunpan.aliyun.com

@@ -1,0 +1,31 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/oup
+
+host-suffix, amamanualofstyle.com, proxy
+host-suffix, anb.org, proxy
+host-suffix, blackstonespoliceservice.com, proxy
+host-suffix, epigeum.com, proxy
+host-suffix, oed.com, proxy
+host-suffix, omscr.com, proxy
+host-suffix, oup.com, proxy
+host-suffix, ouplaw.com, proxy
+host-suffix, ox.ac.uk, proxy
+host-suffix, oxfordaasc.com, proxy
+host-suffix, oxfordartonline.com, proxy
+host-suffix, oxfordbibliographies.com, proxy
+host-suffix, oxfordclinicalpsych.com, proxy
+host-suffix, oxforddnb.com, proxy
+host-suffix, oxfordfirstsource.com, proxy
+host-suffix, oxfordhandbooks.com, proxy
+host-suffix, oxfordlawtrove.com, proxy
+host-suffix, oxfordmedicine.com, proxy
+host-suffix, oxfordmusiconline.com, proxy
+host-suffix, oxfordpoliticstrove.com, proxy
+host-suffix, oxfordre.com, proxy
+host-suffix, oxfordreference.com, proxy
+host-suffix, oxfordscholarlyeditions.com, proxy
+host-suffix, oxfordscholarship.com, proxy
+host-suffix, oxfordwesternmusic.com, proxy
+host-suffix, sipriyearbook.org, proxy
+host-suffix, ukwhoswho.com, proxy
+host-suffix, universitypressscholarship.com, proxy
+host-suffix, veryshortintroductions.com, proxy

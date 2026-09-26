@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tencent-dev
+
+host-suffix, cnb.cool, proxy
+host-suffix, coding.me, proxy
+host-suffix, coding.net, proxy
+host-suffix, openmidas.com, proxy
+host-suffix, qq.design, proxy
+host-suffix, qqgamedesign.com, proxy
+host-suffix, tencent-cloud.cn, proxy
+host-suffix, tencent-cloud.com, proxy
+host-suffix, tencent.design, proxy
+host-suffix, tencentcloud.com, proxy
+host-suffix, tjstats.com, proxy
+host-suffix, wegamedeveloper.com, proxy
+host-suffix, weixinbridge.com, proxy
+host-suffix, weui.io, proxy

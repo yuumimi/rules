@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bluesky
+
+# Behavior: domain
+
+payload:
+  - "+.bsky.app"
+  - "+.bsky.network"
+  - "+.bsky.social"

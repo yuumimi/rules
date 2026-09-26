@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ixbt
+
+.ixbt.com
+.ixbt.games
+.ixbt.market
+.ixbt.media
+.ixbt.pro
+.ixbt.ru
+.ixbt.shop
+.ixbt.site
+.ixbt.video

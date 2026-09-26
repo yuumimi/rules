@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tencent-tme
+
+host-suffix, 97ting.com, proxy
+host-suffix, fanxingliveshow.com, proxy
+host-suffix, kg.qq.com, proxy
+host-suffix, kgimg.com, proxy
+host-suffix, kglink.cn, proxy
+host-suffix, koowo.cn, proxy
+host-suffix, koowo.com, proxy
+host-suffix, ktv.com, proxy
+host-suffix, kugoo.com, proxy
+host-suffix, kugou.com, proxy
+host-suffix, kugou.net, proxy
+host-suffix, kugouaudio.com, proxy
+host-suffix, kugouipv6.com, proxy
+host-suffix, kugoukid.com, proxy
+host-suffix, kugouliveshow.com, proxy
+host-suffix, kugouringtone.com, proxy
+host-suffix, kugousenior.com, proxy
+host-suffix, kugoustore.com, proxy
+host-suffix, kugouvoice.com, proxy
+host-suffix, kugouyouth.com, proxy
+host-suffix, kuwo.cn, proxy
+host-suffix, lrts.me, proxy
+host-suffix, mting.info, proxy
+host-suffix, music.qq.com, proxy
+host-suffix, qqmusic.com, proxy
+host-suffix, tencentmusic.com, proxy
+host-suffix, tingmall.com, proxy
+host-suffix, ultimatemusic.cn, proxy
+host-suffix, wting.info, proxy
+host-suffix, ximalaya.com, proxy
+host-suffix, xmcdn.com, proxy
+host-suffix, y.qq.com, proxy

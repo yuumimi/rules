@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google-play
+
+# Behavior: domain
+
+payload:
+  - "+.googleplay.com"
+  - "+.play-fe.googleapis.com"
+  - "+.play-games.googleusercontent.com"
+  - "+.play-lh.googleusercontent.com"
+  - "+.play.google.com"
+  - "+.play.googleapis.com"
+  - "+.xn--ngstr-lra8j.com"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sonemic
+
+host-suffix, glitchwave.com, proxy
+host-suffix, rateyourmusic.com, proxy
+host-suffix, rym.fm, proxy
+host-suffix, snmc.io, proxy
+host-suffix, sonematic.net, proxy
+host-suffix, sonemic.com, proxy

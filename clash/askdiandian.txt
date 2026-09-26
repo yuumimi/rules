@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/askdiandian
+
+# Behavior: domain
+
+payload:
+  - "+.askdiandian.com"
+  - "+.diandianlife.top"

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-communication
+
+host-suffix, adsgram.ai, proxy
+host-suffix, graph.whatsapp.com, proxy
+host-suffix, graph.whatsapp.net, proxy

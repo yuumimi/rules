@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/le
+
+# Behavior: domain
+
+payload:
+  - "+.apple.www.letv.com"
+  - "+.ark.letv.com"
+  - "+.dc.letv.com"
+  - "+.g3.letv.com"

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/linakesi
+
+host-suffix, heiyu.space, proxy
+host-suffix, lazycat.cloud, proxy
+host-suffix, linakesi.cn, proxy
+host-suffix, linakesi.com, proxy

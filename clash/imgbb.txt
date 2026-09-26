@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imgbb
+
+# Behavior: domain
+
+payload:
+  - "+.ibb.co"
+  - "+.imgbb.com"
+  - "+.simgbb.com"

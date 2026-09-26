@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/51job
+
+DOMAIN-SUFFIX,51job.com
+DOMAIN-SUFFIX,51jobcdn.com
+DOMAIN-SUFFIX,yingjiesheng.com
+DOMAIN-SUFFIX,yingjiesheng.net
+DOMAIN-SUFFIX,zhiding.com.cn

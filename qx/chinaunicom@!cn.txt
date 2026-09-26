@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinaunicom
+
+host-suffix, chinaunicom.com.hk, proxy
+host-suffix, chinaunicomglobal.com, proxy
+host-suffix, cuguplus.com, proxy
+host-suffix, cuniq.com, proxy
+host-suffix, cuniq.sg, proxy

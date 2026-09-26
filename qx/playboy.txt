@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/playboy
+
+host-suffix, playboy.com, proxy
+host-suffix, playboy.com.uk, proxy

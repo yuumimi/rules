@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qianxin
+
+host-suffix, 95015.com, proxy
+host-suffix, ceati.org.cn, proxy
+host-suffix, datacon.org.cn, proxy
+host-suffix, qianxin.com, proxy
+host-suffix, qianxincdn.com, proxy
+host-suffix, seclab.online, proxy
+host-suffix, tianshucup.com, proxy

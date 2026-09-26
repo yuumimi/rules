@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wanmei
+
+host-suffix, 111.com, proxy
+host-suffix, 88.com, proxy
+host-suffix, 88y.cn, proxy
+host-suffix, allhistory.com, proxy
+host-suffix, chengjiaxiangqin.cn, proxy
+host-suffix, email.cn, proxy
+host-suffix, laohu.com, proxy
+host-suffix, perfectlingo.com, proxy
+host-suffix, pwcinema.com, proxy
+host-suffix, pwesports.cn, proxy
+host-suffix, pwrd.com, proxy
+host-suffix, wanmei.com, proxy
+host-suffix, wmsj.cn, proxy
+host-suffix, wmupd.com, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kucoin
+
+host-suffix, kucoin.com, proxy
+host-suffix, kucoin.plus, proxy

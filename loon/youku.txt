@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youku
+
+DOMAIN,ykimg.alicdn.com
+DOMAIN-SUFFIX,9xsecndns.cn
+DOMAIN-SUFFIX,kumiao.com
+DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,tudou.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,youkuhonor.com
+DOMAIN-SUFFIX,youkuplay.com

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/thesun
+
+host-suffix, dreamteamfc.com, proxy
+host-suffix, page3.com, proxy
+host-suffix, sunbingo.co.uk, proxy
+host-suffix, talksport.com, proxy
+host-suffix, thescottishsun.co.uk, proxy
+host-suffix, thesun.co.uk, proxy
+host-suffix, thesun.ie, proxy

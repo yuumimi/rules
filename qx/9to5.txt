@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/9to5
+
+host-suffix, 9to5google.com, proxy
+host-suffix, 9to5mac.com, proxy
+host-suffix, 9to5terminal.com, proxy
+host-suffix, 9to5toys.com, proxy
+host-suffix, dronedj.com, proxy
+host-suffix, electrek.co, proxy
+host-suffix, spaceexplored.com, proxy

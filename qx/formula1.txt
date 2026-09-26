@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/formula1
+
+host-suffix, f1.com, proxy
+host-suffix, f1tv.com, proxy
+host-suffix, formula1.com, proxy

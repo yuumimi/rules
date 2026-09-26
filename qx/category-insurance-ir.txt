@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-insurance-ir
+
+host-suffix, alborzinsurance.ir, proxy
+host-suffix, bimeh.com, proxy
+host-suffix, bimehasia.com, proxy
+host-suffix, bimeonline.com, proxy
+host-suffix, dana-insurance.com, proxy
+host-suffix, dayins.com, proxy
+host-suffix, hafezinsurance.ir, proxy
+host-suffix, ihio.gov.ir, proxy
+host-suffix, iraninsurance.ir, proxy
+host-suffix, karafarin-insurance.ir, proxy
+host-suffix, mellatinsurance.com, proxy
+host-suffix, novininsurance.com, proxy
+host-suffix, omid-insurance.ir, proxy
+host-suffix, parsianinsurance.ir, proxy
+host-suffix, razi-insurance.ir, proxy
+host-suffix, risc.ir, proxy
+host-suffix, sinainsurance.com, proxy
+host-suffix, tamin.ir, proxy
+host-suffix, tins.ir, proxy

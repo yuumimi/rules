@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/arphic
+
+host-suffix, arphic.com, proxy
+host-suffix, arphic.com.cn, proxy
+host-suffix, arphic.com.tw, proxy
+host-suffix, ifontcloud.com, proxy

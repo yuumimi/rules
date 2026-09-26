@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cainiao
+
+host-suffix, 56xiniao.com, proxy
+host-suffix, cainiao-inc.com, proxy
+host-suffix, cainiao.com, proxy
+host-suffix, cainiao.com.cn, proxy
+host-suffix, cainiaoyizhan.com, proxy
+host-suffix, danniao.com, proxy
+host-suffix, dianwoda.cn, proxy
+host-suffix, dianwoda.com, proxy
+host-suffix, guoguo-app.com, proxy

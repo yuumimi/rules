@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wisekey
+
+host-suffix, wisecoin.com, proxy
+host-suffix, wiseid.com, proxy
+host-suffix, wisekey.com, proxy
+host-suffix, wisekey.com.hk, proxy

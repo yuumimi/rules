@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/durex
+
+DOMAIN-SUFFIX,durex.com.cn
+DOMAIN-SUFFIX,durexchina.com.cn
+DOMAIN-SUFFIX,lovesexdurex.cn

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/scenesource
+
+host-suffix, predb.me, proxy
+host-suffix, scenesource.me, proxy
+host-suffix, scnsrc.me, proxy

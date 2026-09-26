@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mvideo
+
+DOMAIN,mvideo.edna.io
+DOMAIN-SUFFIX,acmvid.com
+DOMAIN-SUFFIX,mvideo.ru

@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/huffpost
+
+host-suffix, huffingtonpost.ca, proxy
+host-suffix, huffingtonpost.co.uk, proxy
+host-suffix, huffingtonpost.co.za, proxy
+host-suffix, huffingtonpost.com, proxy
+host-suffix, huffingtonpost.com.au, proxy
+host-suffix, huffingtonpost.com.mx, proxy
+host-suffix, huffingtonpost.de, proxy
+host-suffix, huffingtonpost.es, proxy
+host-suffix, huffingtonpost.fr, proxy
+host-suffix, huffingtonpost.gr, proxy
+host-suffix, huffingtonpost.in, proxy
+host-suffix, huffingtonpost.it, proxy
+host-suffix, huffingtonpost.jp, proxy
+host-suffix, huffingtonpost.kr, proxy
+host-suffix, huffpost.com, proxy
+host-suffix, huffpostarabi.com, proxy
+host-suffix, huffpostbrasil.com, proxy
+host-suffix, huffpostmaghreb.com, proxy

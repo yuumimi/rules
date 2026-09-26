@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-entertainment
+
+host, adeventtracker.spotify.com, proxy
+host, adstudio-assets.scdn.co, proxy
+host, bloodhound.spotify.com, proxy
+host, disney.my.sentry.io, proxy
+host-suffix, ads-pixiv.net, proxy
+host-suffix, ads.youtube.com, proxy
+host-suffix, analytics.tiktok.com, proxy
+host-suffix, insights-collector.gog.com, proxy
+host-suffix, log-upload-os.hoyoverse.com, proxy

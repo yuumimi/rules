@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vivo
+
+.blueos.com.cn
+.budingscan.com
+.iqoo.com
+.vivo.cn
+.vivo.com
+.vivo.com.cn
+.vivoglobal.com
+.vvstc.com

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/polyu
+
+# Behavior: domain
+
+payload:
+  - "+.cpce-polyu.edu.hk"
+  - "+.hkcc-polyu.edu.hk"
+  - "+.polyu.edu.hk"
+  - "+.polyu.hk"
+  - "+.speed-polyu.edu.hk"

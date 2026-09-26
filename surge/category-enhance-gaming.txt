@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-enhance-gaming
+
+.battleye.com
+.bluestacks.com
+.fflogs.com
+.heavenlywind.cc
+.ldmnq.com
+.lsplayer.com
+.maa.plus
+.playcover.io
+.playcover.workers.dev
+.poi.moe
+.prts.plus
+.rpglogs.cn
+.rpglogs.com
+.steampp.net
+.thetrackernetwork.com
+.tracker.gg
+.tracker.network
+.yeshen.com

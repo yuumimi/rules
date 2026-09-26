@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ideco-ru
+
+host-suffix, ideco.dev, proxy
+host-suffix, ideco.ru, proxy
+host-suffix, idecosoftware.ru, proxy

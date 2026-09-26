@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/samsung
+
+DOMAIN-SUFFIX,samsung.com.cn
+DOMAIN-SUFFIX,samsungcloudcn.com
+DOMAIN-SUFFIX,samsungeshop.com.cn
+DOMAIN-SUFFIX,samsunghealthcn.com

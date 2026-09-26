@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hpe
+
+host, hpefonts.s3.amazonaws.com, proxy
+host-suffix, greenlakeaas.com, proxy
+host-suffix, greenlakehybridcloud.com, proxy
+host-suffix, hewlett-packard.asia, proxy
+host-suffix, hewlett-packard.ch, proxy
+host-suffix, hewlett-packard.co, proxy
+host-suffix, hewlett-packard.co.il, proxy
+host-suffix, hewlett-packard.co.uk, proxy
+host-suffix, hewlett-packard.com.cn, proxy
+host-suffix, hewlett-packard.com.mx, proxy
+host-suffix, hewlett-packard.com.sg, proxy
+host-suffix, hewlett-packard.jp, proxy
+host-suffix, hewlett-packard.mobi, proxy
+host-suffix, hewlettpackard.enterprises, proxy
+host-suffix, hpe.com, proxy
+host-suffix, hpecyber.com, proxy

@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-olympiad-in-informatics
+
+# Behavior: domain
+
+payload:
+  - "+.51nod.com"
+  - "+.acwing.com"
+  - "+.adacpp.com"
+  - "+.hihocoder.com"
+  - "+.jisuanke.com"
+  - "+.kidsccshow.com"
+  - "+.leetcode-cn.com"
+  - "+.leetcode.cn"
+  - "+.lingkou.cn"
+  - "+.lingkou.com"
+  - "+.lingkou.xyz"
+  - "+.luogu.com.cn"
+  - "+.oi-wiki.com"
+  - "+.openjudge.cn"
+  - "+.rqnoj.cn"
+  - "+.uoj.ac"
+  - "+.vijos.org"
+  - "+.xmoj.tech"

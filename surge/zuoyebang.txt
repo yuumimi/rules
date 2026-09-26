@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zuoyebang
+
+.kuaiduizuoye.com
+.zuoyebang.cc
+.zuoyebang.com
+.zybang.com

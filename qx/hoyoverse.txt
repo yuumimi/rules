@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hoyoverse
+
+host-suffix, genshinimpact.com, proxy
+host-suffix, honkaiimpact3.com, proxy
+host-suffix, honkaistarrail.com, proxy
+host-suffix, hoyo.link, proxy
+host-suffix, hoyolab.com, proxy
+host-suffix, hoyoverse.com, proxy
+host-suffix, n0vadesktop.com, proxy
+host-suffix, zenlesszonezero.com, proxy

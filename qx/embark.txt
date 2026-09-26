@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/embark
+
+host-suffix, arcraiders.com, proxy
+host-suffix, embark-studios.com, proxy
+host-suffix, embark.games, proxy
+host-suffix, reachthefinals.com, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/musixmatch
+
+host-suffix, musixmatch.com, proxy
+host-suffix, mxmcdn.net, proxy

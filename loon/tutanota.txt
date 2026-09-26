@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tutanota
+
+DOMAIN-SUFFIX,keemail.me
+DOMAIN-SUFFIX,tuta.com
+DOMAIN-SUFFIX,tuta.io
+DOMAIN-SUFFIX,tutamail.com
+DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,tutanota.de

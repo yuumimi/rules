@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/supercell
+
+host, supercell.helpshift.com, proxy
+host, supercell.zendesk.com, proxy
+host-suffix, boombeach.com, proxy
+host-suffix, brawlstars.com, proxy
+host-suffix, brawlstarsgame.com, proxy
+host-suffix, clash.com, proxy
+host-suffix, clashmini.com, proxy
+host-suffix, clashofclans.com, proxy
+host-suffix, clashroyale.com, proxy
+host-suffix, clashroyaleapp.com, proxy
+host-suffix, gamesfirsthelsinki.com, proxy
+host-suffix, hayday.com, proxy
+host-suffix, haydaygame.com, proxy
+host-suffix, mo.co, proxy
+host-suffix, seeurlpcl.com, proxy
+host-suffix, squadbusters.com, proxy
+host-suffix, supercell.com, proxy
+host-suffix, supercell.net, proxy
+host-suffix, supercellcreators.com, proxy
+host-suffix, supercellgames.com, proxy
+host-suffix, supercellid.com, proxy
+host-suffix, supercellstore.com, proxy
+host-suffix, supr.cl, proxy

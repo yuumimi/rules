@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zuoyebang
+
+host-suffix, kuaiduizuoye.com, proxy
+host-suffix, zuoyebang.cc, proxy
+host-suffix, zuoyebang.com, proxy
+host-suffix, zybang.com, proxy

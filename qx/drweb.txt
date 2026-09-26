@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/drweb
+
+host-suffix, drweb-av.de, proxy
+host-suffix, drweb-av.es, proxy
+host-suffix, drweb-av.it, proxy
+host-suffix, drweb-av.pl, proxy
+host-suffix, drweb.by, proxy
+host-suffix, drweb.cn, proxy
+host-suffix, drweb.co.jp, proxy
+host-suffix, drweb.com, proxy
+host-suffix, drweb.fr, proxy
+host-suffix, drweb.kz, proxy
+host-suffix, drweb.ru, proxy
+host-suffix, drweb.uz, proxy

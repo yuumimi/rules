@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/huobi
+
+host-suffix, hbabit.com, proxy
+host-suffix, hbfile.net, proxy
+host-suffix, htx.com, proxy
+host-suffix, huobi.com, proxy
+host-suffix, huobi.me, proxy
+host-suffix, huobi.pro, proxy
+host-suffix, huobi.sc, proxy
+host-suffix, huobiasia.vip, proxy
+host-suffix, huobigroup.com, proxy
+host-suffix, huobitoken.com, proxy

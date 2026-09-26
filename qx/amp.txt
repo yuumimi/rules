@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amp
+
+host, amp.akamaized.net, proxy
+host-suffix, amp.dev, proxy
+host-suffix, ampproject.com, proxy
+host-suffix, ampproject.net, proxy
+host-suffix, ampproject.org, proxy

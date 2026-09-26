@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/2gis
+
+host-suffix, 2gis.ae, proxy
+host-suffix, 2gis.am, proxy
+host-suffix, 2gis.az, proxy
+host-suffix, 2gis.by, proxy
+host-suffix, 2gis.com, proxy
+host-suffix, 2gis.com.cy, proxy
+host-suffix, 2gis.cz, proxy
+host-suffix, 2gis.ge, proxy
+host-suffix, 2gis.kg, proxy
+host-suffix, 2gis.kz, proxy
+host-suffix, 2gis.ru, proxy
+host-suffix, 2gis.tech, proxy
+host-suffix, 2gis.tj, proxy
+host-suffix, 2gis.uz, proxy

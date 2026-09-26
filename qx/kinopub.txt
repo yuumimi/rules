@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kinopub
+
+host-suffix, ahc.ovh, proxy
+host-suffix, api.alador.space, proxy
+host-suffix, cdn-service.space, proxy
+host-suffix, cdn2cdn.com, proxy
+host-suffix, cdn2site.com, proxy
+host-suffix, gfw.ovh, proxy
+host-suffix, kino.pub, proxy
+host-suffix, kino.watch, proxy
+host-suffix, kinopub.online, proxy
+host-suffix, kpdl.link, proxy
+host-suffix, m.alador.space, proxy
+host-suffix, mos-gorsud.co, proxy
+host-suffix, pushbr.com, proxy
+host-suffix, smarttvcdn.online, proxy
+host-suffix, support-kp.com, proxy
+host-suffix, teleos.club, proxy
+host-suffix, tsx.ovh, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/schwab
+
+host-suffix, aboutschwab.com, proxy
+host-suffix, schwab.co.uk, proxy
+host-suffix, schwab.com, proxy
+host-suffix, schwab.com.hk, proxy
+host-suffix, schwab.com.sg, proxy
+host-suffix, schwabassetmanagement.com, proxy
+host-suffix, schwabplan.com, proxy

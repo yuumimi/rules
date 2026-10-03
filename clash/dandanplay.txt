@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dandanplay
+
+# Behavior: domain
+
+payload:
+  - "+.dandanplay.com"
+  - "+.dandanplay.net"

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinanews
+
+# Behavior: domain
+
+payload:
+  - "+.chinanews.com"
+  - "+.chinanews.com.cn"
+  - "+.chinaqw.com"
+  - "+.cns.com.cn"
+  - "+.cnsimg.net"
+  - "+.ecns.cn"
+  - "+.inewsweek.cn"
+  - "+.jwview.com"
+  - "+.xinmeng.info"

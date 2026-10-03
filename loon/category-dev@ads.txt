@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-dev
+
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
+DOMAIN-SUFFIX,iads.unity3d.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com
+DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
+DOMAIN-SUFFIX,unityads.unity3d.com

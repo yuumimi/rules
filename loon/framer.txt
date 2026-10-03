@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/framer
+
+DOMAIN-SUFFIX,framer.com
+DOMAIN-SUFFIX,framer.website
+DOMAIN-SUFFIX,framercanvas.com
+DOMAIN-SUFFIX,framerstatic.com
+DOMAIN-SUFFIX,framerusercontent.com

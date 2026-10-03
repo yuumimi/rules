@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaikan
+
+.kkmh.com
+.kuaikanmanhua.com
+.v3mh.com

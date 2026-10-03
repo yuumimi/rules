@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinamobile
+
+host-suffix, speedtest.hk.chinamobile.com, proxy
+host-suffix, speedtestbb.hk.chinamobile.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/alibabacloud
+
+DOMAIN,account-cn.alibabacloud.com
+DOMAIN,api.alibabacloud.com
+DOMAIN,cn.alibabacloud.com
+DOMAIN,status.alibabacloud.com

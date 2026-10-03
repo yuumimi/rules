@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-enterprise-query-platform-cn
+
+# Behavior: domain
+
+payload:
+  - "+.aiqicha.baidu.com"
+  - "+.aiqicha.cn"
+  - "+.aiqicha.com"
+  - "+.jindidata.com"
+  - "+.qcc.com"
+  - "+.qichacha.com"
+  - "+.qichamao.com"
+  - "+.qixin.com"
+  - "+.qyyjt.cn"
+  - "+.tianyancha.com"
+  - "+.x315.com"
+  - "+.xcc.cn"
+  - "+.xinchacha.com"

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hotstar
+
+host-suffix, hotstar-cdn.net, proxy
+host-suffix, hotstar-labs.com, proxy
+host-suffix, hotstar.com, proxy
+host-suffix, hotstarext.com, proxy
+host-suffix, hsprepack.akamaized.net, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anon-v
+
+# Behavior: domain
+
+payload:
+  - "+.anon-v.com"
+  - "+.anon-v.lol"

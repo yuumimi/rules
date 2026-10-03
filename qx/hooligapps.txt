@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hooligapps
+
+host-suffix, cuntempire.com, proxy
+host-suffix, cuntwars.com, proxy
+host-suffix, dirtyleague.com, proxy
+host-suffix, faptitans.com, proxy
+host-suffix, hooligapps.com, proxy
+host-suffix, slotbitches.com, proxy
+host-suffix, smutstone.com, proxy
+host-suffix, townofsins.com, proxy

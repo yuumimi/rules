@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youquan
+
+.aitcfw.com
+.aizgtc.com
+.hangzhouyq.cn
+.hangzhouyq.com
+.zgxytc.com
+.zgzsa.com
+.zhonshian.cn
+.zhonshian.com
+.zhonshian.com.cn
+.zjzsa.com

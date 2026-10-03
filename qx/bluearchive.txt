@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bluearchive
+
+host-suffix, bluearchive-cn.com, proxy
+host-suffix, bluearchive.jp, proxy
+host-suffix, bluearchive.nexon.com, proxy

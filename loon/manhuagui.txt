@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/manhuagui
+
+DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,mhgui.com

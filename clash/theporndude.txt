@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/theporndude
+
+# Behavior: domain
+
+payload:
+  - "+.porndude2.com"
+  - "+.porndudecasting.com"
+  - "+.pornsites.com"
+  - "+.pornwebmasters.com"
+  - "+.theporndude.cc"
+  - "+.theporndude.com"
+  - "+.theporndude.vip"

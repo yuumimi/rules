@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anaconda
+
+host-suffix, anaconda.cloud, proxy
+host-suffix, anaconda.com, proxy
+host-suffix, anaconda.org, proxy
+host-suffix, conda.io, proxy

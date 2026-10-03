@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lumion
+
+host-suffix, lumion-la.com, proxy
+host-suffix, lumion.com, proxy
+host-suffix, lumion3d.com.my, proxy
+host-suffix, lumion3d.net, proxy
+host-suffix, lumiontech.net, proxy
+host-suffix, mylumion.com, proxy

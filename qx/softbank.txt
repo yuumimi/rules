@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/softbank
+
+host-suffix, sb-mobile.jp, proxy
+host-suffix, sb-telecom.net, proxy
+host-suffix, softbank, proxy
+host-suffix, softbank-ipo.com, proxy
+host-suffix, softbank-jp.com, proxy
+host-suffix, softbank-robotics.com, proxy
+host-suffix, softbank-telecom.com, proxy
+host-suffix, softbank-telecom.net, proxy
+host-suffix, softbank.jp, proxy
+host-suffix, softbank.tv, proxy
+host-suffix, softbankbb.com, proxy
+host-suffix, softbankbb.net, proxy
+host-suffix, softbankci.com, proxy
+host-suffix, softbankhawksstore.jp, proxy
+host-suffix, softbankmobile.net, proxy
+host-suffix, softbankrobotics.com, proxy
+host-suffix, softbanktelecom.com, proxy
+host-suffix, softbankusa.net, proxy
+host-suffix, softbankventuresasia.com, proxy
+host-suffix, softbankworld.com, proxy

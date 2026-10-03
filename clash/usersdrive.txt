@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/usersdrive
+
+# Behavior: domain
+
+payload:
+  - "+.userdrive.org"
+  - "+.usersdrive.com"

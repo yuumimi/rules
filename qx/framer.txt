@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/framer
+
+host-suffix, framer.com, proxy
+host-suffix, framer.website, proxy
+host-suffix, framercanvas.com, proxy
+host-suffix, framerstatic.com, proxy
+host-suffix, framerusercontent.com, proxy

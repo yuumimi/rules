@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kodik
+
+.kodik-storage.com
+.kodik.biz
+.kodik.cc
+.kodik.info
+.kodikplayer.com

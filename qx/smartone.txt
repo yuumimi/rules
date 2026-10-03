@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/smartone
+
+host-suffix, barkadahansasmartone.com, proxy
+host-suffix, healthreach.hk, proxy
+host-suffix, hkcircleapp.com, proxy
+host-suffix, homephoneplus.com, proxy
+host-suffix, ip73.com, proxy
+host-suffix, s-cashonmobile.com, proxy
+host-suffix, s-rewards.hk, proxy
+host-suffix, sahabatsetiasmartone.com, proxy
+host-suffix, smartone.com, proxy
+host-suffix, smartoneholdings.com, proxy
+host-suffix, smartonerobotics.com, proxy
+host-suffix, smartonesolutions.com.hk, proxy
+host-suffix, smartonesolutions.hk, proxy
+host-suffix, valuegb.com, proxy
+host-suffix, wise-research.com, proxy

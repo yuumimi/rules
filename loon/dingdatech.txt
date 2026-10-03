@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dingdatech
+
+DOMAIN-SUFFIX,diiing.cn
+DOMAIN-SUFFIX,dingdachuxing.com
+DOMAIN-SUFFIX,dingdatech.com
+DOMAIN-SUFFIX,jintdev.com
+DOMAIN-SUFFIX,xiangbababus.com

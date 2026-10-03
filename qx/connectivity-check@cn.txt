@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/connectivity-check
+
+host, conn1.oppomobile.com, proxy
+host, conn2.oppomobile.com, proxy
+host, connect.rom.miui.com, proxy
+host, connectivity.samsung.com.cn, proxy
+host, connectivitycheck.platform.hicloud.com, proxy
+host, connectivitycheck.platform.hihonorcloud.com, proxy
+host, wifi.vivo.com.cn, proxy
+host, www.gstatic.com, proxy
+host, www.qualcomm.cn, proxy
+host-suffix, captive.apple.com, proxy

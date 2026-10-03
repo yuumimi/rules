@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aiqicha
+
+host-suffix, aiqicha.baidu.com, proxy
+host-suffix, aiqicha.cn, proxy
+host-suffix, aiqicha.com, proxy

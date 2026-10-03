@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vivo
+
+host-suffix, blueos.com.cn, proxy
+host-suffix, budingscan.com, proxy
+host-suffix, iqoo.com, proxy
+host-suffix, vivo.cn, proxy
+host-suffix, vivo.com, proxy
+host-suffix, vivo.com.cn, proxy
+host-suffix, vivoglobal.com, proxy
+host-suffix, vvstc.com, proxy

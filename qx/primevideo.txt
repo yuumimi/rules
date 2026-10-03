@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/primevideo
+
+host, d1v5ir2lpwr8os.cloudfront.net, proxy
+host, d22qjgkvxw22r6.cloudfront.net, proxy
+host, d25xi40x97liuc.cloudfront.net, proxy
+host, d27xxe7juh1us6.cloudfront.net, proxy
+host, dmqdd6hw24ucf.cloudfront.net, proxy
+host, images-eu.ssl-images-amazon.com, proxy
+host, images-fe.ssl-images-amazon.com, proxy
+host, images-na.ssl-images-amazon.com, proxy
+host, msh.amazon.co.uk, proxy
+host, static.siege-amazon.com, proxy
+host-suffix, aiv-cdn.net, proxy
+host-suffix, amazonprimevideo.cn, proxy
+host-suffix, amazonprimevideo.com.cn, proxy
+host-suffix, amazonprimevideos.com, proxy
+host-suffix, amazonvideo.cc, proxy
+host-suffix, amazonvideo.com, proxy
+host-suffix, prime-video.com, proxy
+host-suffix, primevideo.cc, proxy
+host-suffix, primevideo.com, proxy
+host-suffix, primevideo.info, proxy
+host-suffix, primevideo.org, proxy
+host-suffix, primevideo.tv, proxy
+host-suffix, prod.service.minerva.devices.a2z.com, proxy

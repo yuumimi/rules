@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-music
+
+.applemusic.berlin
+.applemusic.co
+.applemusic.com
+.applemusic.com.au
+.applemusic.hamburg
+.applemusic.wang
+.applemusicconnect.com
+.applemusicfestival.com
+.music.apple.com
+.musickit.net
+.wwwapplemusic.com

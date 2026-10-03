@@ -1,0 +1,35 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/strepsils
+
+host-suffix, cepacol.ca, proxy
+host-suffix, cepacol.com, proxy
+host-suffix, dobendan.de, proxy
+host-suffix, graneodin.com.mx, proxy
+host-suffix, repsils.no, proxy
+host-suffix, strepsils.at, proxy
+host-suffix, strepsils.ch, proxy
+host-suffix, strepsils.cn, proxy
+host-suffix, strepsils.co.kr, proxy
+host-suffix, strepsils.co.nz, proxy
+host-suffix, strepsils.co.za, proxy
+host-suffix, strepsils.com.ar, proxy
+host-suffix, strepsils.com.au, proxy
+host-suffix, strepsils.com.br, proxy
+host-suffix, strepsils.com.cn, proxy
+host-suffix, strepsils.com.co, proxy
+host-suffix, strepsils.com.hk, proxy
+host-suffix, strepsils.com.ph, proxy
+host-suffix, strepsils.com.tw, proxy
+host-suffix, strepsils.es, proxy
+host-suffix, strepsils.fi, proxy
+host-suffix, strepsils.fr, proxy
+host-suffix, strepsils.hr, proxy
+host-suffix, strepsils.hu, proxy
+host-suffix, strepsils.ie, proxy
+host-suffix, strepsils.net, proxy
+host-suffix, strepsils.pl, proxy
+host-suffix, strepsils.pt, proxy
+host-suffix, strepsils.ro, proxy
+host-suffix, strepsils.ru, proxy
+host-suffix, strepsils.si, proxy
+host-suffix, strepsils.us, proxy
+host-suffix, strepsilsarabia.com, proxy

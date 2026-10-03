@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/remnawave
+
+# Behavior: domain
+
+payload:
+  - "+.docs.rw"
+  - "+.log.rw"
+  - "+.remna.st"
+  - "+.try.rw"

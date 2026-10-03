@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yokaverse
+
+host-suffix, dobest.com, proxy
+host-suffix, langrenclub.com, proxy
+host-suffix, sanguosha.com, proxy
+host-suffix, xhlsgs.com, proxy
+host-suffix, xinwuji.com, proxy
+host-suffix, yokaverse.com, proxy
+host-suffix, zhuoyou.com, proxy

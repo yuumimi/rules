@@ -1,0 +1,28 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-tech-media
+
+host-suffix, 9to5google.com, proxy
+host-suffix, 9to5mac.com, proxy
+host-suffix, 9to5terminal.com, proxy
+host-suffix, 9to5toys.com, proxy
+host-suffix, androidauthority.com, proxy
+host-suffix, androidpolice.com, proxy
+host-suffix, appleinsider.com, proxy
+host-suffix, digitaltrends.com, proxy
+host-suffix, dronedj.com, proxy
+host-suffix, electrek.co, proxy
+host-suffix, engadget.com, proxy
+host-suffix, macrumors.com, proxy
+host-suffix, slashdot.org, proxy
+host-suffix, spaceexplored.com, proxy
+host-suffix, startupschool.org, proxy
+host-suffix, technews.tw, proxy
+host-suffix, techradar.com, proxy
+host-suffix, techspot.com, proxy
+host-suffix, thetype.cloud, proxy
+host-suffix, thetype.com, proxy
+host-suffix, theverge.com, proxy
+host-suffix, tomsguide.com, proxy
+host-suffix, typeisbeautiful.com, proxy
+host-suffix, ycombinator.com, proxy
+host-suffix, zdnet.com, proxy
+host-suffix, zdnet.redvideo.io, proxy

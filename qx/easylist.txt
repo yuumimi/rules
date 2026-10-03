@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/easylist
+
+host-suffix, easylist.to, proxy
+host-suffix, lanik.us, proxy

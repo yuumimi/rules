@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nic-ru
+
+host-suffix, nic.ru, proxy
+host-suffix, nichost.ru, proxy
+host-suffix, r01.ru, proxy
+host-suffix, sweb.ru, proxy

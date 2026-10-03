@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/n26
+
+# Behavior: domain
+
+payload:
+  - "+.n26.com"
+  - "+.number26.de"
+  - "+.tech26.de"

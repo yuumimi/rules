@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bmw
+
+host-suffix, alphabet.com.cn, proxy
+host-suffix, alphabet.net.cn, proxy
+host-suffix, bmw.com.cn, proxy

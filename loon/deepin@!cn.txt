@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/deepin
+
+DOMAIN-SUFFIX,deepin.io
+DOMAIN-SUFFIX,deepin.org

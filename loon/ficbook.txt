@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ficbook
+
+DOMAIN-SUFFIX,fanfictionero.com
+DOMAIN-SUFFIX,fic.fan
+DOMAIN-SUFFIX,ficador.com
+DOMAIN-SUFFIX,ficbook.net
+DOMAIN-SUFFIX,ficmania.com
+DOMAIN-SUFFIX,teinon.net

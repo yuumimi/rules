@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/uoliv
+
+host-suffix, liv.ac.uk, proxy
+host-suffix, liverpool.ac.uk, proxy
+host-suffix, livinno.org, proxy
+host-suffix, opac-project.eu, proxy

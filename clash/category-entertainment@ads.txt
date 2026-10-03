@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-entertainment
+
+# Behavior: domain
+
+payload:
+  - "+.ads-pixiv.net"
+  - "+.ads.youtube.com"
+  - "+.analytics.tiktok.com"
+  - "+.insights-collector.gog.com"
+  - "+.log-upload-os.hoyoverse.com"
+  - "adeventtracker.spotify.com"
+  - "adstudio-assets.scdn.co"
+  - "bloodhound.spotify.com"
+  - "disney.my.sentry.io"

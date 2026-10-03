@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lighter
+
+host-suffix, lighter.exchange, proxy
+host-suffix, lighter.xyz, proxy
+host-suffix, zklighter.elliot.ai, proxy

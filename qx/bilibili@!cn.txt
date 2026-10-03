@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili
+
+host, upos-hz-mirrorakam.akamaized.net, proxy
+host-suffix, bilibili.tv, proxy
+host-suffix, biliintl.com, proxy
+host-suffix, dreamcast.hk, proxy

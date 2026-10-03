@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mxroute
+
+DOMAIN-SUFFIX,mxlogin.com
+DOMAIN-SUFFIX,mxroute.com
+DOMAIN-SUFFIX,mxroutedocs.com
+DOMAIN-SUFFIX,mxroutehelp.com
+DOMAIN-SUFFIX,mxrouting.net

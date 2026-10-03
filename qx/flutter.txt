@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/flutter
+
+host-suffix, flutter.dev, proxy
+host-suffix, flutterapp.com, proxy
+host-suffix, pub.dev, proxy

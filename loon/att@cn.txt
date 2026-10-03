@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/att
+
+DOMAIN-SUFFIX,att.cn
+DOMAIN-SUFFIX,attcorp.cn

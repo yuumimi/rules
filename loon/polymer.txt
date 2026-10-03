@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/polymer
+
+DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,polymerproject.org

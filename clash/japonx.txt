@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/japonx
+
+# Behavior: domain
+
+payload:
+  - "+.x18r.co"
+  - "+.x18r.com"
+  - "+.z18r.co"
+  - "+.z18r.com"

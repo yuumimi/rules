@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lumion
+
+DOMAIN-SUFFIX,lumion-la.com
+DOMAIN-SUFFIX,lumion.com
+DOMAIN-SUFFIX,lumion3d.com.my
+DOMAIN-SUFFIX,lumion3d.net
+DOMAIN-SUFFIX,lumiontech.net
+DOMAIN-SUFFIX,mylumion.com

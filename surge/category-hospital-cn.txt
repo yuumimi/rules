@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-hospital-cn
+
+.ba-hospital.com
+.cd120.com
+.cd120.info
+.fuwai.com
+.hnxzctec.com
+.pkuh6.cn
+.puh3.net.cn
+.smuszh.com
+.yctdyy.com
+hospital.pku.edu.cn
+ss.bjmu.edu.cn

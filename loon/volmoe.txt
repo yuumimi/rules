@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/volmoe
+
+DOMAIN-SUFFIX,mox.moe
+DOMAIN-SUFFIX,vol.moe

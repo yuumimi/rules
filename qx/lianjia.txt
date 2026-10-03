@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lianjia
+
+host-suffix, beckyroom.com, proxy
+host-suffix, bkzhibo.com, proxy
+host-suffix, ke.com, proxy
+host-suffix, lianjia.com, proxy
+host-suffix, ljcdn.com, proxy

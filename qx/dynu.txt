@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dynu
+
+host-suffix, 1cooldns.com, proxy
+host-suffix, 4cloud.click, proxy
+host-suffix, accesscam.org, proxy
+host-suffix, bumbleshrimp.com, proxy
+host-suffix, camdvr.org, proxy
+host-suffix, casacam.net, proxy
+host-suffix, ddnsfree.com, proxy
+host-suffix, ddnsgeek.com, proxy
+host-suffix, ddnsguru.com, proxy
+host-suffix, dynuddns.com, proxy
+host-suffix, dynuddns.net, proxy
+host-suffix, freeddns.org, proxy
+host-suffix, giize.com, proxy
+host-suffix, gleeze.com, proxy
+host-suffix, kozow.com, proxy
+host-suffix, loseyourip.com, proxy
+host-suffix, mysynology.net, proxy
+host-suffix, mywire.org, proxy
+host-suffix, ooguy.com, proxy
+host-suffix, theworkpc.com, proxy
+host-suffix, webredirect.org, proxy

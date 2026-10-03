@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mit
+
+host-suffix, mit, proxy
+host-suffix, mit.edu, proxy
+host-suffix, mit.net, proxy
+host-suffix, mitpressjournals.org, proxy

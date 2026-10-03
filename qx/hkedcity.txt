@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hkedcity
+
+host-suffix, edcity.hk, proxy
+host-suffix, hkedcity.net, proxy
+host-suffix, hkreadingcity.net, proxy

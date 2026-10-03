@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/le
+
+host-suffix, le.com, proxy
+host-suffix, leautolink.com, proxy
+host-suffix, lecloud.com, proxy
+host-suffix, lecloudapi.com, proxy
+host-suffix, lemall.com, proxy
+host-suffix, leso.cn, proxy
+host-suffix, letv.com, proxy
+host-suffix, letvcdn.com, proxy
+host-suffix, letvimg.com, proxy

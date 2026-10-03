@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/discuz
+
+host-suffix, comsenz.com, proxy
+host-suffix, discuz.net, proxy
+host-suffix, discuz.org, proxy

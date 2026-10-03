@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ehentai
+
+host-suffix, e-hentai.org, proxy
+host-suffix, ehgt.org, proxy
+host-suffix, ehtracker.org, proxy
+host-suffix, ehwiki.org, proxy
+host-suffix, exhentai.org, proxy
+host-suffix, hath.network, proxy
+host-suffix, hentaiathome.net, proxy
+host-suffix, hentaiverse.org, proxy

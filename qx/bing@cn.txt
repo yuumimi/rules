@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bing
+
+host, bj1.api.bing.com, proxy
+host-suffix, bing.com.cn, proxy
+host-suffix, cn.bing.com, proxy
+host-suffix, cn.bing.net, proxy
+host-suffix, cn.mm.bing.net, proxy
+host-suffix, ditu.live.com, proxy
+host-suffix, r.bing.com, proxy
+host-suffix, th.bing.com, proxy

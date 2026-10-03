@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/escapefromtarkov
+
+DOMAIN-SUFFIX,eft-store.com
+DOMAIN-SUFFIX,escapefromtarkov.com
+DOMAIN-SUFFIX,tarkov.com

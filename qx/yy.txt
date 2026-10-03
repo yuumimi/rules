@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yy
+
+host-suffix, duowan.com, proxy
+host-suffix, dwstatic.com, proxy
+host-suffix, yy.com, proxy
+host-suffix, yystatic.com, proxy

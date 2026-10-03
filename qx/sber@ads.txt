@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sber
+
+host, error-tracking.megamarket.tech, proxy
+host, metrics.21-school.ru, proxy
+host, sentry.sberauto.com, proxy
+host, tracing-http.megamarket.tech, proxy
+host, visor.sberbank.ru, proxy
+host-suffix, ads.sber.ru, proxy
+host-suffix, clickstream.sberbank.ru, proxy
+host-suffix, neon.click, proxy
+host-suffix, sbermarketing.ru, proxy

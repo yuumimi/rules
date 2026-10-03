@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xtom
+
+# Behavior: domain
+
+payload:
+  - "+.v.ps"
+  - "+.vps.hosting"
+  - "+.xtom.au"
+  - "+.xtom.com"
+  - "+.xtom.de"
+  - "+.xtom.ee"
+  - "+.xtom.hk"
+  - "+.xtom.jp"
+  - "+.xtom.nl"
+  - "+.xtom.sg"
+  - "+.xtom.social"
+  - "+.xtom.us"

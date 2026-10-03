@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-dev-cn
+
+# Behavior: domain
+
+payload:
+  - "+.ads.unitychina.cn"
+  - "+.badjs.weixinbridge.com"
+  - "+.splash-ads.cdn.unity.cn"
+  - "+.splash-ads.unitychina.cn"
+  - "+.unityads.unity.cn"
+  - "+.unityads.unitychina.cn"

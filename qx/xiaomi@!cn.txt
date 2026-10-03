@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi
+
+host-suffix, c.mi.com, proxy
+host-suffix, global.market.xiaomi.com, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qwant
+
+# Behavior: domain
+
+payload:
+  - "+.qwant.com"
+  - "+.qwant.de"
+  - "+.qwant.fr"
+  - "+.qwant.it"

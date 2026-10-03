@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-network-security-cn
+
+# Behavior: domain
+
+payload:
+  - "+.cnmstl.net"
+  - "+.fofa.so"
+  - "+.t00ls.cc"
+  - "+.t00ls.net"
+  - "+.tools.team"

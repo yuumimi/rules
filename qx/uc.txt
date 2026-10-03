@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/uc
+
+host-suffix, open-uc.cn, proxy
+host-suffix, uc-engine.cn, proxy
+host-suffix, uc.cn, proxy
+host-suffix, uc123.com, proxy
+host-suffix, ucfly.com, proxy
+host-suffix, ucweb.com, proxy
+host-suffix, uczzd.cn, proxy

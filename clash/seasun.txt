@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/seasun
+
+# Behavior: domain
+
+payload:
+  - "+.cbjq.com"
+  - "+.seasungames.cn"
+  - "+.seasungames.com"
+  - "+.seasunwbl.com"
+  - "+.testplus.cn"
+  - "+.xishanju.com"
+  - "+.xoyo.com"
+  - "+.xoyocdn.com"

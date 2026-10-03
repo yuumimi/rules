@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/le
+
+host-suffix, apple.www.letv.com, proxy
+host-suffix, ark.letv.com, proxy
+host-suffix, dc.letv.com, proxy
+host-suffix, g3.letv.com, proxy

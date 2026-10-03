@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mihoyo-cn
+
+host-suffix, benghuai.com, proxy
+host-suffix, bh3.com, proxy
+host-suffix, bhsr.com, proxy
+host-suffix, juequling.com, proxy
+host-suffix, mhystatic.com, proxy
+host-suffix, mhyurl.cn, proxy
+host-suffix, mihayo.com, proxy
+host-suffix, mihayou.com, proxy
+host-suffix, mihoyo.com, proxy
+host-suffix, mihoyocg.com, proxy
+host-suffix, mihoyogift.com, proxy
+host-suffix, mihoyomall.com, proxy
+host-suffix, miyoushe.com, proxy
+host-suffix, themisweeps.com, proxy
+host-suffix, yuanshen.com, proxy

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/progress
+
+host-suffix, chef.io, proxy
+host-suffix, getfiddler.com, proxy
+host-suffix, kemptechnologies.com, proxy
+host-suffix, progress.com, proxy
+host-suffix, sharefile.com, proxy
+host-suffix, telerik.com, proxy

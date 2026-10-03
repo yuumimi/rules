@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/typekit
+
+host-suffix, typekit.com, proxy
+host-suffix, typekit.net, proxy

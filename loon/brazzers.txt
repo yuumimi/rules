@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/brazzers
+
+DOMAIN-SUFFIX,brazzer.com
+DOMAIN-SUFFIX,brazzers.com
+DOMAIN-SUFFIX,brazzers.xxx
+DOMAIN-SUFFIX,brazzersnetwork.com
+DOMAIN-SUFFIX,mofos.com

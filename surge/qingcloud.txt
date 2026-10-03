@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qingcloud
+
+.frontwize.com
+.qingcache.com
+.qingcloud.com
+.qingstor.com
+.routewize.com
+.yunify.com

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ganji
+
+DOMAIN-SUFFIX,58ganji-corp.com
+DOMAIN-SUFFIX,58ganji.com
+DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,ganjistatic1.com

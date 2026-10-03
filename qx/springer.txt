@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/springer
+
+host-suffix, apress.com, proxy
+host-suffix, springer.com, proxy
+host-suffix, springerlink.com, proxy
+host-suffix, springernature.com, proxy
+host-suffix, wkap.nl, proxy

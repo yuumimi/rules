@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apa
+
+host-suffix, apa.org, proxy
+host-suffix, psyccareers.com, proxy

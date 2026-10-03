@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bamtech
+
+# Behavior: domain
+
+payload:
+  - "+.bamgrid.com"
+  - "+.bamtech.net"
+  - "+.dmed.technology"

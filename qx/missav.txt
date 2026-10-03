@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/missav
+
+host-suffix, missav.ai, proxy
+host-suffix, missav.com, proxy
+host-suffix, missav.live, proxy
+host-suffix, missav.uno, proxy
+host-suffix, missav.vip, proxy
+host-suffix, missav.ws, proxy
+host-suffix, missav123.com, proxy

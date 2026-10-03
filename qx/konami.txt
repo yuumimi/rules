@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/konami
+
+host-suffix, 573.jp, proxy
+host-suffix, kgisystems.com, proxy
+host-suffix, kiwi.jp, proxy
+host-suffix, konami-igaming.online, proxy
+host-suffix, konami.co.jp, proxy
+host-suffix, konami.com, proxy
+host-suffix, konami.net, proxy
+host-suffix, konami.org, proxy
+host-suffix, konamicrossmedia.com, proxy
+host-suffix, konamigaming.com, proxy
+host-suffix, konamigaming.net, proxy
+host-suffix, konamigaming.online, proxy
+host-suffix, konamionline.com, proxy
+host-suffix, konamiopen.jp, proxy
+host-suffix, konamisportsclub.jp, proxy
+host-suffix, konamistyle.jp, proxy
+host-suffix, resella.jp, proxy
+host-suffix, resellablue.com, proxy
+host-suffix, yugioh-card.com, proxy

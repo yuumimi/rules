@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nixos
+
+host, nix-community.github.io, proxy
+host-suffix, builtwithnix.org, proxy
+host-suffix, mynixos.com, proxy
+host-suffix, nix-community.org, proxy
+host-suffix, nix.dev, proxy
+host-suffix, nix.store, proxy
+host-suffix, nixcon.org, proxy
+host-suffix, nixcon2017.org, proxy
+host-suffix, nixlang.com, proxy
+host-suffix, nixos.org, proxy
+host-suffix, nixos.wiki, proxy
+host-suffix, nixpkgs.org, proxy

@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-games
+
+# Behavior: domain
+
+payload:
+  - "+.aki-game.net"
+  - "+.aki-game2.net"
+  - "+.kurogame-service.com"
+  - "+.kurogame.net"
+  - "+.kurogames.net"
+  - "+.taptap.io"

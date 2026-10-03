@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dongjiao
+
+# Behavior: domain
+
+payload:
+  - "+.anmo.com"
+  - "+.djdjapp.com"
+  - "+.dongjiao.cc"
+  - "+.dongjiaoapp.com"

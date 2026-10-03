@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/54647
+
+host-suffix, 54647.global, proxy
+host-suffix, 54647.io, proxy
+host-suffix, 54647.online, proxy
+host-suffix, 54647.org, proxy

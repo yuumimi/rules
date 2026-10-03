@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qiniu
+
+host-suffix, qbox.me, proxy
+host-suffix, qiniu.com, proxy
+host-suffix, qiniucdn.com, proxy
+host-suffix, qiniudn.com, proxy
+host-suffix, qiniudns.com, proxy
+host-suffix, qiniup.com, proxy
+host-suffix, qnsdk.com, proxy
+host-suffix, qnssl.com, proxy
+host-suffix, staticfile.net, proxy
+host-suffix, staticfile.org, proxy

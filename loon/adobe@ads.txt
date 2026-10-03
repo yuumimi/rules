@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/adobe
+
+DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,tubemogul.com

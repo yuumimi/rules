@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bluesky
+
+host-suffix, bsky.app, proxy
+host-suffix, bsky.network, proxy
+host-suffix, bsky.social, proxy

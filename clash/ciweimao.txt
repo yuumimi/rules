@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ciweimao
+
+# Behavior: domain
+
+payload:
+  - "+.ciweimao.com"
+  - "+.hbooker.com"
+  - "+.kuangxiangit.com"

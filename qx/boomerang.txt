@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/boomerang
+
+host-suffix, boomerang.com, proxy
+host-suffix, wbdnbo.net, proxy

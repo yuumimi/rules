@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/funpay
+
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
+DOMAIN-SUFFIX,sfunpay.com

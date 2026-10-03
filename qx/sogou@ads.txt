@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sogou
+
+host-suffix, inte.sogou.com, proxy
+host-suffix, inte.sogoucdn.com, proxy
+host-suffix, lu.sogou.com, proxy
+host-suffix, lu.sogoucdn.com, proxy
+host-suffix, pb.i.sogou.com, proxy
+host-suffix, theta.sogoucdn.com, proxy
+host-suffix, uranus.sogou.com, proxy
+host-suffix, wuliao.epro.sogou.com, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/envato
+
+host-suffix, envato-static.com, proxy
+host-suffix, envato.com, proxy
+host-suffix, envatousercontent.com, proxy
+host-suffix, themeforest.net, proxy

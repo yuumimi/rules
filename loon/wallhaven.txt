@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wallhaven
+
+DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,whvn.cc

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/weathercn
+
+.hf-aw.cn
+.hf-aw.com
+.huafeng-accuweather.cn
+.huafengaw.com
+.weathercn.com

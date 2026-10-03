@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ligastavok
+
+.ligadobra.ru
+.ligastavok-csr.ru
+.ligastavok.ru
+.sozvezdie-dobra.ru

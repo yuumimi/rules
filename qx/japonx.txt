@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/japonx
+
+host-suffix, x18r.co, proxy
+host-suffix, x18r.com, proxy
+host-suffix, z18r.co, proxy
+host-suffix, z18r.com, proxy

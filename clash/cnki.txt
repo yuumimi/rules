@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnki
+
+# Behavior: domain
+
+payload:
+  - "+.chndoi.org"
+  - "+.cnki.com.cn"
+  - "+.cnki.net"

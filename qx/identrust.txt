@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/identrust
+
+host-suffix, identrust.co.uk, proxy
+host-suffix, identrust.com, proxy
+host-suffix, identrust.net, proxy

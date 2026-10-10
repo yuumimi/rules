@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wenshushu
+
+# Behavior: domain
+
+payload:
+  - "+.wenshushu.cn"
+  - "+.wenshushu.com"
+  - "+.wenxiaozhan.cn"
+  - "+.wenxiaozhan.com"
+  - "+.wenxiaozhan.net"
+  - "+.wss.cc"
+  - "+.wss.email"
+  - "+.wss.ink"
+  - "+.wss.pet"
+  - "+.wss.show"
+  - "+.wss.zone"
+  - "+.wss1.cn"

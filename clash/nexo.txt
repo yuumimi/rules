@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nexo
+
+# Behavior: domain
+
+payload:
+  - "+.nexo.com"
+  - "+.nexo.io"

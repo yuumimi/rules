@@ -1,0 +1,35 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinamobile
+
+host-suffix, 10086.cn, proxy
+host-suffix, 139.com, proxy
+host-suffix, 5gxcx.net, proxy
+host-suffix, andfx.cn, proxy
+host-suffix, andfx.net, proxy
+host-suffix, chinamobile.com, proxy
+host-suffix, chinamobiledevice.com, proxy
+host-suffix, chinamobileltd.com, proxy
+host-suffix, cmcc-cs.cn, proxy
+host-suffix, cmdcxls.com, proxy
+host-suffix, cmft.com.cn, proxy
+host-suffix, cmicapm.com, proxy
+host-suffix, cmicrwx.cn, proxy
+host-suffix, cmicvip.cn, proxy
+host-suffix, cmpassport.com, proxy
+host-suffix, cmpay.com, proxy
+host-suffix, cmread.com, proxy
+host-suffix, cmvideo.cn, proxy
+host-suffix, cxzx10086.cn, proxy
+host-suffix, cytxl.com.cn, proxy
+host-suffix, fetion-portal.com, proxy
+host-suffix, fetionpic.com, proxy
+host-suffix, fxltsbl.com, proxy
+host-suffix, hfx.net, proxy
+host-suffix, komect.com, proxy
+host-suffix, migu.cn, proxy
+host-suffix, migucloud.com, proxy
+host-suffix, migufun.com, proxy
+host-suffix, miguvideo.com, proxy
+host-suffix, mmarket.com, proxy
+host-suffix, mmarket6.com, proxy
+host-suffix, online-cmcc.cn, proxy
+host-suffix, zdsdp.com, proxy

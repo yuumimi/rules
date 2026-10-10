@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bytedance-ai-!cn
+
+host-suffix, cici.com, proxy
+host-suffix, ciciai.com, proxy
+host-suffix, ciciaicdn.com, proxy
+host-suffix, coze.com, proxy
+host-suffix, dola.com, proxy
+host-suffix, marscode.com, proxy
+host-suffix, trae.ai, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wjx
+
+host-suffix, sojump.com, proxy
+host-suffix, wjx.cn, proxy
+host-suffix, wjx.com, proxy
+host-suffix, wjx.top, proxy

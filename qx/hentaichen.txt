@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hentaichen
+
+host-suffix, h-chan.me, proxy
+host-suffix, hentai-chan.com, proxy
+host-suffix, hentai-chan.live, proxy
+host-suffix, hentaichan.live, proxy
+host-suffix, hentaichan.me, proxy
+host-suffix, imgschan.xyz, proxy

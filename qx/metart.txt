@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/metart
+
+host-suffix, metart.com, proxy
+host-suffix, metartnetwork.com, proxy
+host-suffix, metcams.com, proxy
+host-suffix, naiadsystems.com, proxy
+host-suffix, nsimg.net, proxy

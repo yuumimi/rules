@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hkust
+
+host-suffix, hkust.edu.hk, proxy
+host-suffix, hkust.hk, proxy
+host-suffix, xn--pssu7ci2j23mp9ny48b.hk, proxy
+host-suffix, xn--pssu7ci2j23mp9ny48b.xn--j6w193g, proxy

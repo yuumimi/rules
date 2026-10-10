@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuwo
+
+DOMAIN-SUFFIX,koowo.cn
+DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,kuwo.cn

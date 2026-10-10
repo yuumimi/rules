@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/paofuyun
+
+DOMAIN-SUFFIX,paofu.cloud
+DOMAIN-SUFFIX,paofuyun.me

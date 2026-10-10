@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinaunicom
+
+# Behavior: domain
+
+payload:
+  - "+.chinaunicom.com.hk"
+  - "+.chinaunicomglobal.com"
+  - "+.cuguplus.com"
+  - "+.cuniq.com"
+  - "+.cuniq.sg"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sci-hub
+
+host-suffix, sci-hub.ee, proxy
+host-suffix, sci-hub.it.nf, proxy
+host-suffix, sci-hub.mksa.top, proxy
+host-suffix, sci-hub.se, proxy
+host-suffix, sci-hub.st, proxy
+host-suffix, sci.hubg.org, proxy

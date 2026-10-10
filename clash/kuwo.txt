@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuwo
+
+# Behavior: domain
+
+payload:
+  - "+.koowo.cn"
+  - "+.koowo.com"
+  - "+.kuwo.cn"

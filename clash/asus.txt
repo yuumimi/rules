@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/asus
+
+# Behavior: domain
+
+payload:
+  - "+.asus.com"
+  - "+.asus.com.cn"
+  - "+.asuscloud.com"
+  - "+.asuswebstorage.com"

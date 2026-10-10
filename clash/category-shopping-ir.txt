@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-shopping-ir
+
+# Behavior: domain
+
+payload:
+  - "+.digi-kala.com"
+  - "+.digikala.com"
+  - "+.digikalabusiness.com"
+  - "+.digikalajet.com"
+  - "+.digistyle.com"
+  - "+.divar.cloud"
+  - "+.divar.ir"
+  - "+.divarcdn.com"
+  - "+.emalls.ir"
+  - "+.esam.ir"
+  - "+.janebi.com"
+  - "+.janebi.ir"
+  - "+.sheypoor.com"
+  - "+.torob.com"
+  - "+.zanbil.ir"

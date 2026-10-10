@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cainiao
+
+# Behavior: domain
+
+payload:
+  - "+.56xiniao.com"
+  - "+.cainiao-inc.com"
+  - "+.cainiao.com"
+  - "+.cainiao.com.cn"
+  - "+.cainiaoyizhan.com"
+  - "+.danniao.com"
+  - "+.dianwoda.cn"
+  - "+.dianwoda.com"
+  - "+.guoguo-app.com"

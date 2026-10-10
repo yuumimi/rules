@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qimao
+
+host-suffix, jiuyue919.com, proxy
+host-suffix, qimao.com, proxy
+host-suffix, qm989.com, proxy
+host-suffix, qmniu.com, proxy
+host-suffix, quehu.com, proxy
+host-suffix, wtzw.com, proxy

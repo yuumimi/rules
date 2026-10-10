@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/justmysocks
+
+host-suffix, justmysocks.net, proxy
+host-suffix, justmysocks1.net, proxy
+host-suffix, justmysocks2.net, proxy
+host-suffix, justmysocks4.net, proxy

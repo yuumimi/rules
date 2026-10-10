@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ccb
+
+host-suffix, ccb-life.com.cn, proxy
+host-suffix, ccb.cn, proxy
+host-suffix, ccb.com, proxy
+host-suffix, ccb.com.cn, proxy
+host-suffix, ccbcos.com, proxy
+host-suffix, ccbfund.cn, proxy
+host-suffix, ccbfund.com, proxy
+host-suffix, ccbfund.com.cn, proxy
+host-suffix, ccbfutures.cn, proxy
+host-suffix, ccbfutures.com, proxy
+host-suffix, ccbintl.com.hk, proxy
+host-suffix, ccbleasing.com, proxy
+host-suffix, ccblife-test.com.cn, proxy
+host-suffix, ccbseoul.com, proxy
+host-suffix, ccbtrust.com.cn, proxy
+host-suffix, ccbxt.com, proxy

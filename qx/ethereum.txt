@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ethereum
+
+host-suffix, devcon.org, proxy
+host-suffix, ethereum.foundation, proxy
+host-suffix, ethereum.org, proxy
+host-suffix, etherscan.io, proxy

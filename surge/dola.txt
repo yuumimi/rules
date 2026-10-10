@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dola
+
+.cici.com
+.ciciai.com
+.ciciaicdn.com
+.dola.com

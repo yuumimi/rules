@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/terabox
+
+.1024terabox.com
+.bestclouddrive.com
+.freeterabox.com
+.nephobox.com
+.terabox.com
+.terabox1024.com
+.teraboxcdn.com

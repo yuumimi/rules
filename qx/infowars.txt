@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/infowars
+
+host-suffix, banned.video, proxy
+host-suffix, infowars.com, proxy
+host-suffix, infowarsmedia.com, proxy

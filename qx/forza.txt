@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/forza
+
+host, prodforza.blob.core.windows.net, proxy
+host-suffix, forza.net, proxy
+host-suffix, forzamotorsport.net, proxy
+host-suffix, forzaracingchampionship.com, proxy
+host-suffix, forzarc.com, proxy

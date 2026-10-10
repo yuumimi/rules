@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wink
+
+.more.tv
+.restream-media.net
+.restream.ru
+.wink.am
+.wink.ru

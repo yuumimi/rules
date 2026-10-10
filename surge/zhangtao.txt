@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zhangtao
+
+.accuratead.cn
+.dutils.com
+.hiaiabc.com
+.mob.com
+.mobsdks.com
+.sharesdk.cn
+.tec73.com
+.yksdks.com

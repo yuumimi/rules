@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaidi100
+
+DOMAIN-SUFFIX,ckd.im
+DOMAIN-SUFFIX,kd100.com
+DOMAIN-SUFFIX,kuaidi100.com
+DOMAIN-SUFFIX,kuaidilab.com

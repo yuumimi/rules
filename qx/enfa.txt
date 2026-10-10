@@ -1,0 +1,33 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/enfa
+
+host-suffix, bebepremium3.com.bo, proxy
+host-suffix, enfa.co.id, proxy
+host-suffix, enfa.com.vn, proxy
+host-suffix, enfaaplus.com, proxy
+host-suffix, enfababy.com, proxy
+host-suffix, enfabebe.com, proxy
+host-suffix, enfabebe.com.br, proxy
+host-suffix, enfabebe.com.co, proxy
+host-suffix, enfabebe.com.do, proxy
+host-suffix, enfabebe.com.ec, proxy
+host-suffix, enfabebe.com.mx, proxy
+host-suffix, enfabebe.com.pe, proxy
+host-suffix, enfabebe.com.ve, proxy
+host-suffix, enfabebe3.com.ar, proxy
+host-suffix, enfagrow.co.in, proxy
+host-suffix, enfagrow.com.bn, proxy
+host-suffix, enfagrow.com.my, proxy
+host-suffix, enfagrow.com.ph, proxy
+host-suffix, enfagrow.com.sg, proxy
+host-suffix, enfagrow4.com, proxy
+host-suffix, enfamama.com.ar, proxy
+host-suffix, enfamama.com.ph, proxy
+host-suffix, enfamil.ca, proxy
+host-suffix, enfamil.com, proxy
+host-suffix, enfamil.es, proxy
+host-suffix, enfamil.pl, proxy
+host-suffix, enfamil.pt, proxy
+host-suffix, enfasmart.com, proxy
+host-suffix, enspireformula.com, proxy
+host-suffix, nutramigen.net, proxy
+host-suffix, nutramigen.pl, proxy

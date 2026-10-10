@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kodik
+
+host-suffix, kodik-storage.com, proxy
+host-suffix, kodik.biz, proxy
+host-suffix, kodik.cc, proxy
+host-suffix, kodik.info, proxy
+host-suffix, kodikplayer.com, proxy

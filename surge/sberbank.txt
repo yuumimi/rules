@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sberbank
+
+.bps-sberbank.by
+.cplsb.ru
+.sber-bank.by
+.sber.ru
+.sberbank.com
+.sberbank.ru
+.sberspasibo.ru
+.sbrf.ru
+.spasibo.digital
+.spasibo.market
+.spasibobonus.ru
+.spasibosb.ru
+.spasibosberbank.ru
+.yookassa.ru
+.yoomoney.ru

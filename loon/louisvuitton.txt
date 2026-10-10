@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/louisvuitton
+
+DOMAIN-SUFFIX,louisvuitton.cn
+DOMAIN-SUFFIX,louisvuitton.com
+DOMAIN-SUFFIX,lvcampaign.com

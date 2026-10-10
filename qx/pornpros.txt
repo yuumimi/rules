@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pornpros
+
+host-suffix, pornpros.com, proxy
+host-suffix, pornprosnetwork.com, proxy

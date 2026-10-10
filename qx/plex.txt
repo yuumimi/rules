@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/plex
+
+host-suffix, plex.com, proxy
+host-suffix, plex.services, proxy
+host-suffix, plex.tv, proxy
+host-suffix, plexapp.com, proxy

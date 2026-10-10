@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/scp
+
+DOMAIN-SUFFIX,scp-wiki.net
+DOMAIN-SUFFIX,scpdb.org
+DOMAIN-SUFFIX,scpwiki.com

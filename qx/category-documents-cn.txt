@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-documents-cn
+
+host-suffix, 1ppt.com, proxy
+host-suffix, 360doc.com, proxy
+host-suffix, 51pptmoban.com, proxy
+host-suffix, 51wendang.com, proxy
+host-suffix, 52ppt.com, proxy
+host-suffix, 777ppt.com, proxy
+host-suffix, badou.com, proxy
+host-suffix, book118.com, proxy
+host-suffix, daodoc.com, proxy
+host-suffix, doc88.com, proxy
+host-suffix, docin.com, proxy
+host-suffix, douding.cn, proxy
+host-suffix, goldhoe.com, proxy
+host-suffix, haohaodoc.com, proxy
+host-suffix, jinchutou.com, proxy
+host-suffix, lazyer.net, proxy
+host-suffix, renrendoc.com, proxy
+host-suffix, safewk.com, proxy
+host-suffix, taodocs.com, proxy
+host-suffix, wenkeju.com, proxy
+host-suffix, wenkub.com, proxy
+host-suffix, ypppt.com, proxy
+host-suffix, zhijidoc.com, proxy

@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rutracker
+
+host-suffix, maintracker.org, proxy
+host-suffix, rutracker.cc, proxy
+host-suffix, rutracker.cr, proxy
+host-suffix, rutracker.me, proxy
+host-suffix, rutracker.net, proxy
+host-suffix, rutracker.nl, proxy
+host-suffix, rutracker.org, proxy
+host-suffix, rutracker.wiki, proxy
+host-suffix, rutrk.org, proxy

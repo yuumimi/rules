@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/scp
+
+host-suffix, scp-wiki.net, proxy
+host-suffix, scpdb.org, proxy
+host-suffix, scpwiki.com, proxy

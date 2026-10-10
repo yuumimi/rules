@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/honor
+
+host-suffix, hihonor.cn, proxy
+host-suffix, hihonor.com, proxy
+host-suffix, hihonorcdn.com, proxy
+host-suffix, hihonorcloud.com, proxy
+host-suffix, honor.cn, proxy
+host-suffix, honor.com, proxy
+host-suffix, honor.com.cn, proxy
+host-suffix, honorfile.com, proxy

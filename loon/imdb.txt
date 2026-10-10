@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imdb
+
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,imdb
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,media-imdb.com

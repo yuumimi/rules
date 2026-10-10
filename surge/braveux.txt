@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/braveux
+
+.braventures.com
+.braveux.com
+.compass.is
+.fightforux.com
+.forthebadge.com
+.stockagainstphotography.com

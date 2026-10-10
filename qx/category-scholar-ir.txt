@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-scholar-ir
+
+host-suffix, ac.ir, proxy
+host-suffix, edu.ir, proxy
+host-suffix, iranlms.ir, proxy
+host-suffix, jtt.ir, proxy
+host-suffix, sanjesh.org, proxy
+host-suffix, sharif.edu, proxy
+host-suffix, sharif.ir, proxy
+host-suffix, srttu.edu, proxy

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sky
+
+DOMAIN-SUFFIX,sky
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,skyassets.com
+DOMAIN-SUFFIX,skymansion.net
+DOMAIN-SUFFIX,skyoceanrescue.com
+DOMAIN-SUFFIX,skyoceanrescue.de
+DOMAIN-SUFFIX,skyoceanrescue.it
+DOMAIN-SUFFIX,skysports.com
+DOMAIN-SUFFIX,skysports.fr
+DOMAIN-SUFFIX,skysports.ie
+DOMAIN-SUFFIX,skysportsonline.com
+DOMAIN-SUFFIX,skysportsracing.com

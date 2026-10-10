@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/messenger
+
+host-suffix, fbmessenger.com, proxy
+host-suffix, m.me, proxy
+host-suffix, messenger.com, proxy
+host-suffix, nbabot.net, proxy

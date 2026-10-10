@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinatower
+
+host-suffix, china-tower.com, proxy
+host-suffix, chinatowercom.cn, proxy
+host-suffix, tower.com.cn, proxy
+host-suffix, tower0788.cn, proxy
+host-suffix, tower0788.com, proxy

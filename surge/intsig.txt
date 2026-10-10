@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/intsig
+
+.camcard.com
+.camscanner.com
+.intsig.com
+.intsig.net
+.qixin.com

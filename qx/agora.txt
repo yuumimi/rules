@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/agora
+
+host-suffix, agora.io, proxy
+host-suffix, agoraio.cn, proxy
+host-suffix, agoralab.co, proxy

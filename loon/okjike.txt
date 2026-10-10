@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/okjike
+
+DOMAIN-SUFFIX,jike.city
+DOMAIN-SUFFIX,jikecdn.com
+DOMAIN-SUFFIX,okjike.com
+DOMAIN-SUFFIX,okjk.co
+DOMAIN-SUFFIX,ruguoapp.com

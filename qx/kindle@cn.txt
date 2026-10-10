@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kindle
+
+host-suffix, kindle.cn, proxy
+host-suffix, kindleoasis.cn, proxy
+host-suffix, kindleoasis.com.cn, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/espressif
+
+DOMAIN-SUFFIX,esp32.com
+DOMAIN-SUFFIX,esp8266.com
+DOMAIN-SUFFIX,espressif.com

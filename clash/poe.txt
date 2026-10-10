@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/poe
+
+# Behavior: domain
+
+payload:
+  - "+.poe.com"
+  - "+.poecdn.net"

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hotstar
+
+.hotstar-cdn.net
+.hotstar-labs.com
+.hotstar.com
+.hotstarext.com
+.hsprepack.akamaized.net

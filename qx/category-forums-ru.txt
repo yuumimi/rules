@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-forums-ru
+
+host-suffix, dtf.ru, proxy
+host-suffix, opennet.dev, proxy
+host-suffix, opennet.ru, proxy
+host-suffix, pikabu.ru, proxy
+host-suffix, prodota.ru, proxy
+host-suffix, tischenko.su, proxy
+host-suffix, vc.ru, proxy
+host-suffix, yap.ru, proxy
+host-suffix, yapfiles.ru, proxy
+host-suffix, yaplakal.com, proxy

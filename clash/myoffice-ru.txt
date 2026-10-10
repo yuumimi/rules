@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/myoffice-ru
+
+# Behavior: domain
+
+payload:
+  - "+.myoffice.ru"
+  - "+.myoffice.team"

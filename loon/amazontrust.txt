@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amazontrust
+
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,awstrust.com
+DOMAIN-SUFFIX,ss2.us

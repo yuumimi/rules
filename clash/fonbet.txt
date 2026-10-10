@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fonbet
+
+# Behavior: domain
+
+payload:
+  - "+.bk6bba-resources.com"
+  - "+.bk6bba-resources.ru"
+  - "+.fon.bet"
+  - "+.fon.promo"

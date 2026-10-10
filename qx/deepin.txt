@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/deepin
+
+host-suffix, 51changxie.com, proxy
+host-suffix, 51jianxie.cn, proxy
+host-suffix, 91changxie.com, proxy
+host-suffix, changxie.com, proxy
+host-suffix, chinauos.com, proxy
+host-suffix, deepin.cn, proxy
+host-suffix, deepin.com, proxy
+host-suffix, deepin.io, proxy
+host-suffix, deepin.org, proxy
+host-suffix, deepin.org.cn, proxy
+host-suffix, linglong.space, proxy
+host-suffix, linyaps.org.cn, proxy
+host-suffix, sndu.cn, proxy
+host-suffix, uniontech.cn, proxy
+host-suffix, uniontech.com, proxy

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tutanota
+
+host-suffix, keemail.me, proxy
+host-suffix, tuta.com, proxy
+host-suffix, tuta.io, proxy
+host-suffix, tutamail.com, proxy
+host-suffix, tutanota.com, proxy
+host-suffix, tutanota.de, proxy

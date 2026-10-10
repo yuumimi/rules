@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lastfm
+
+DOMAIN,lastfm-img.freetls.fastly.net
+DOMAIN,lastfm.freetls.fastly.net
+DOMAIN,ws.audioscrobbler.com
+DOMAIN-SUFFIX,last.fm

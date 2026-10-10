@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnbc
+
+host-suffix, cnbc.com, proxy
+host-suffix, cnbcfm.com, proxy
+host-suffix, nbcudigitaladops.com, proxy
+host-suffix, nbcuni.com, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/moonvy
+
+DOMAIN-SUFFIX,moonvy.com
+DOMAIN-SUFFIX,moonvy.cool

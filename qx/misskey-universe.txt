@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/misskey-universe
+
+host-suffix, 9ineverse.com, proxy
+host-suffix, buicha.social, proxy
+host-suffix, gyutte.site, proxy
+host-suffix, labo.wovs.tk, proxy
+host-suffix, maniakey.homes, proxy
+host-suffix, mfmf.club, proxy
+host-suffix, mi.kochudaho.me, proxy
+host-suffix, mi.mashiro.site, proxy
+host-suffix, mi.nakn.jp, proxy
+host-suffix, misskey-square.net, proxy
+host-suffix, misskey.04.si, proxy
+host-suffix, misskey.always-we-need.games, proxy
+host-suffix, misskey.art, proxy
+host-suffix, misskey.cloud, proxy
+host-suffix, misskey.design, proxy
+host-suffix, misskey.flowers, proxy
+host-suffix, misskey.gamelore.fun, proxy
+host-suffix, misskey.gg, proxy
+host-suffix, misskey.noellabo.jp, proxy
+host-suffix, misskey.ranranhome.info, proxy
+host-suffix, misskey.stream, proxy
+host-suffix, misskey.yukineko.me, proxy
+host-suffix, mk.shrimpia.network, proxy
+host-suffix, mk.yopo.work, proxy
+host-suffix, mof.kemomi.me, proxy
+host-suffix, msk.ilnk.info, proxy
+host-suffix, msk.kitazawa.me, proxy
+host-suffix, nijimiss.moe, proxy
+host-suffix, oekakiskey.com, proxy
+host-suffix, submarin.online, proxy
+host-suffix, sushi.ski, proxy
+host-suffix, trpger.us, proxy

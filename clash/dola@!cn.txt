@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dola
+
+# Behavior: domain
+
+payload:
+  - "+.cici.com"
+  - "+.ciciai.com"
+  - "+.ciciaicdn.com"
+  - "+.dola.com"

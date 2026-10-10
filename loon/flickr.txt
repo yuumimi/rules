@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/flickr
+
+DOMAIN-SUFFIX,flic.kr
+DOMAIN-SUFFIX,flickr
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,staticflickr.com

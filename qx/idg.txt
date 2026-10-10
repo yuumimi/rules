@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/idg
+
+host-suffix, idg.com, proxy
+host-suffix, idgcommunications.net, proxy
+host-suffix, idgconnect-direct.com, proxy
+host-suffix, idgconnect-resources.com, proxy
+host-suffix, idgconnect.com, proxy
+host-suffix, idgesg.net, proxy
+host-suffix, idginc.com, proxy
+host-suffix, idginsiderpro.com, proxy

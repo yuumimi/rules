@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ifanr
+
+host-suffix, coolbuy.com, proxy
+host-suffix, ifanr.cn, proxy
+host-suffix, ifanr.com, proxy
+host-suffix, ifanr.in, proxy
+host-suffix, ifanrusercontent.com, proxy
+host-suffix, ifanrx.com, proxy
+host-suffix, minapp.com, proxy

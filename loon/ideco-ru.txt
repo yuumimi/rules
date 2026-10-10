@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ideco-ru
+
+DOMAIN-SUFFIX,ideco.dev
+DOMAIN-SUFFIX,ideco.ru
+DOMAIN-SUFFIX,idecosoftware.ru

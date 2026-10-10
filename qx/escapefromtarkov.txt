@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/escapefromtarkov
+
+host-suffix, eft-store.com, proxy
+host-suffix, escapefromtarkov.com, proxy
+host-suffix, tarkov.com, proxy

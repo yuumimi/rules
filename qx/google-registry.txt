@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google-registry
+
+host-suffix, charlestonroadregistry.com, proxy
+host-suffix, crr.com, proxy
+host-suffix, get.app, proxy
+host-suffix, get.dev, proxy
+host-suffix, get.how, proxy
+host-suffix, get.new, proxy
+host-suffix, get.page, proxy
+host-suffix, get.rsvp, proxy
+host-suffix, hey.boo, proxy
+host-suffix, iam.soy, proxy
+host-suffix, new.day, proxy
+host-suffix, registry.google, proxy
+host-suffix, xn--p8j9a0d9c9a.xn--q9jyb4c, proxy

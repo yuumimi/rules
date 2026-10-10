@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/uu-chat
+
+host-suffix, uug22.com, proxy
+host-suffix, uug23.com, proxy
+host-suffix, uug25.com, proxy
+host-suffix, uug26.com, proxy
+host-suffix, uug27.com, proxy
+host-suffix, uuk28.com, proxy
+host-suffix, uun78.com, proxy
+host-suffix, uun79.com, proxy
+host-suffix, uun82.com, proxy
+host-suffix, uun83.com, proxy
+host-suffix, uun85.com, proxy
+host-suffix, uun86.com, proxy
+host-suffix, uun87.com, proxy
+host-suffix, uun89.com, proxy
+host-suffix, uun92.com, proxy
+host-suffix, uun93.com, proxy
+host-suffix, uun95.com, proxy
+host-suffix, uun96.com, proxy
+host-suffix, uun97.com, proxy
+host-suffix, uun98.com, proxy
+host-suffix, uun99.com, proxy
+host-suffix, uux68.com, proxy

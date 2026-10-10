@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/itchio
+
+host-suffix, itch.io, proxy
+host-suffix, itch.zone, proxy

@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gaijin
+
+host-suffix, acesofthunder.net, proxy
+host-suffix, activematter.game, proxy
+host-suffix, artstorm.com, proxy
+host-suffix, crossout.net, proxy
+host-suffix, crsed.net, proxy
+host-suffix, cubicodyssey.game, proxy
+host-suffix, enlisted.net, proxy
+host-suffix, gaijin.net, proxy
+host-suffix, gaijinent.com, proxy
+host-suffix, modernwarships.com, proxy
+host-suffix, star-conflict.com, proxy
+host-suffix, warthunder.com, proxy
+host-suffix, wtmobile.com, proxy

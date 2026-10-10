@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kaggle
+
+# Behavior: domain
+
+payload:
+  - "+.kaggle.com"
+  - "+.kaggle.io"
+  - "+.kaggle.net"
+  - "+.kaggleusercontent.com"

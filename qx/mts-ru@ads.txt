@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mts-ru
+
+host-suffix, a.mts.ru, proxy
+host-suffix, obs.mts.ru, proxy

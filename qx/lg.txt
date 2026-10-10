@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lg
+
+host, lgelectronics.122.2o7.net, proxy
+host-suffix, lg.com, proxy
+host-suffix, lgappstv.com, proxy
+host-suffix, lge.co.kr, proxy
+host-suffix, lge.com, proxy
+host-suffix, lgecareers.com, proxy
+host-suffix, lghvac.com, proxy
+host-suffix, lghvacstory.com, proxy
+host-suffix, lgrecyclingprogram.com, proxy
+host-suffix, lgsalesportal.com, proxy

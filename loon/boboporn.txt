@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/boboporn
+
+DOMAIN-SUFFIX,boboporn.com
+DOMAIN-SUFFIX,boboporn.net
+DOMAIN-SUFFIX,bobovip.cc
+DOMAIN-SUFFIX,sesez.com

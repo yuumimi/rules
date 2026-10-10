@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/esri
+
+host-suffix, arcgis.com, proxy
+host-suffix, arcgisonline.com, proxy
+host-suffix, esri.com, proxy

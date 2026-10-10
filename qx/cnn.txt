@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnn
+
+host-suffix, cnn.com, proxy
+host-suffix, cnn.io, proxy
+host-suffix, cnn.it, proxy
+host-suffix, cnnarabic.com, proxy
+host-suffix, cnnlabs.com, proxy
+host-suffix, cnnmoney.ch, proxy
+host-suffix, cnnmoney.com, proxy
+host-suffix, cnnmoneystream.com, proxy
+host-suffix, cnnpolitics.com, proxy

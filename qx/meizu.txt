@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meizu
+
+host-suffix, flyme.cn, proxy
+host-suffix, flyme.com, proxy
+host-suffix, flymeauto.com, proxy
+host-suffix, meizu.cn, proxy
+host-suffix, meizu.com, proxy
+host-suffix, mzres.com, proxy

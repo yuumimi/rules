@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nationalgeographic
+
+DOMAIN-SUFFIX,natgeomaps.com
+DOMAIN-SUFFIX,nationalgeographic.com
+DOMAIN-SUFFIX,nationalgeographicpartners.com
+DOMAIN-SUFFIX,ngeo.com

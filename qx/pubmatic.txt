@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pubmatic
+
+host-suffix, pubmatic.co.jp, proxy
+host-suffix, pubmatic.com, proxy

@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-mooc-cn
+
+host, moocs.unipus.cn, proxy
+host, opencourse.pku.edu.cn, proxy
+host, study.163.com, proxy
+host-suffix, chinesemooc.org, proxy
+host-suffix, cnmooc.org, proxy
+host-suffix, icourse163.org, proxy
+host-suffix, icourses.cn, proxy
+host-suffix, icve.com.cn, proxy
+host-suffix, mooc.cn, proxy
+host-suffix, openlearning.com, proxy
+host-suffix, pmphmooc.com, proxy

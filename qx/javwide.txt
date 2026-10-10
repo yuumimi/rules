@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/javwide
+
+host-suffix, javwide.com, proxy
+host-suffix, javwide.tv, proxy

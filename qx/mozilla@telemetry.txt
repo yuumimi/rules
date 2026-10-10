@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mozilla
+
+host, incoming-telemetry.thunderbird.net, proxy
+host, incoming.telemetry.mozilla.org, proxy

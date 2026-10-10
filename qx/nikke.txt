@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nikke
+
+host-suffix, nikke-de.com, proxy
+host-suffix, nikke-en.com, proxy
+host-suffix, nikke-fr.com, proxy
+host-suffix, nikke-jp.com, proxy
+host-suffix, nikke-kr.com, proxy
+host-suffix, nikke-sea.com, proxy

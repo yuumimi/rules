@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-forums-ru
+
+.dtf.ru
+.opennet.dev
+.opennet.ru
+.pikabu.ru
+.prodota.ru
+.tischenko.su
+.vc.ru
+.yap.ru
+.yapfiles.ru
+.yaplakal.com

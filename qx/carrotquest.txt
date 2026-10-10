@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/carrotquest
+
+host-suffix, carrot-mail.io, proxy
+host-suffix, carrotquest-mail.io, proxy
+host-suffix, carrotquest.app, proxy
+host-suffix, carrotquest.io, proxy
+host-suffix, carrottrack.app, proxy
+host-suffix, dashly.app, proxy
+host-suffix, dashly.help, proxy
+host-suffix, dashly.io, proxy
+host-suffix, dashly.me, proxy
+host-suffix, dashlytrack.app, proxy
+host-suffix, mail-carrotquest.io, proxy
+host-suffix, pushgrow.io, proxy

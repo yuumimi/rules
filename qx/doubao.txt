@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/doubao
+
+host-suffix, api-building.fun, proxy
+host-suffix, building.fun, proxy
+host-suffix, butterfly-static.cn, proxy
+host-suffix, butterflyai.cn, proxy
+host-suffix, coze-dns-01.com, proxy
+host-suffix, coze.cn, proxy
+host-suffix, coze.email, proxy
+host-suffix, coze.site, proxy
+host-suffix, cozeapp.net, proxy
+host-suffix, cozebaas.cn, proxy
+host-suffix, cozebuild.com, proxy
+host-suffix, cozecdn.com, proxy
+host-suffix, cozedeploy.com, proxy
+host-suffix, cozefn.cn, proxy
+host-suffix, cozeide.cn, proxy
+host-suffix, cozesdk.com, proxy
+host-suffix, cozetest.cn, proxy
+host-suffix, cozetest2.cn, proxy
+host-suffix, cozetest3.cn, proxy
+host-suffix, dbbuilding.fun, proxy
+host-suffix, doubao-dev.com, proxy
+host-suffix, doubao.com, proxy
+host-suffix, doubaocdn.com, proxy
+host-suffix, hi-butterfly.cn, proxy
+host-suffix, instreet.com, proxy
+host-suffix, maoxiangai.com, proxy
+host-suffix, myparallelstory.com, proxy
+host-suffix, obriccloud.com, proxy
+host-suffix, obricclouddw.com, proxy
+host-suffix, oceancloudapi.com, proxy
+host-suffix, picpic-ai.cn, proxy
+host-suffix, pixeldance.com, proxy

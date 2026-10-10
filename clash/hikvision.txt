@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hikvision
+
+# Behavior: domain
+
+payload:
+  - "+.eziot.com"
+  - "+.ezviz.com"
+  - "+.hik-cloud.com"
+  - "+.hik-express.com"
+  - "+.hikiot.com"
+  - "+.hikmall.com"
+  - "+.hikvision.com"
+  - "+.ys7.com"

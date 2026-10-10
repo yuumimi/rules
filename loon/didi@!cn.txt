@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/didi
+
+DOMAIN-SUFFIX,didi-food.com
+DOMAIN-SUFFIX,didiaustralia.blog
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,didimobility.co.jp

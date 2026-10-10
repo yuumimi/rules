@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yundaex
+
+DOMAIN-SUFFIX,udalogistic.cn
+DOMAIN-SUFFIX,udalogistic.com
+DOMAIN-SUFFIX,ydsys.cn
+DOMAIN-SUFFIX,yunda56.com
+DOMAIN-SUFFIX,yundaex.cn
+DOMAIN-SUFFIX,yundaex.com
+DOMAIN-SUFFIX,yundalog.com
+DOMAIN-SUFFIX,yundaltl.com
+DOMAIN-SUFFIX,yundasys.com

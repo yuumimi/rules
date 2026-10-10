@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/inshot
+
+host-suffix, inshot.cc, proxy
+host-suffix, inshot.com, proxy
+host-suffix, inshotapp.com, proxy

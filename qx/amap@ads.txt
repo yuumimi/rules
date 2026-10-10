@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amap
+
+host-suffix, adashx.ut.amap.com, proxy
+host-suffix, dualstack-logs.amap.com, proxy
+host-suffix, logs.amap.com, proxy
+host-suffix, optimus-ads.amap.com, proxy
+host-suffix, v6-adashx.ut.amap.com, proxy

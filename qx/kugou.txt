@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kugou
+
+host-suffix, fanxingliveshow.com, proxy
+host-suffix, kgimg.com, proxy
+host-suffix, kglink.cn, proxy
+host-suffix, ktv.com, proxy
+host-suffix, kugoo.com, proxy
+host-suffix, kugou.com, proxy
+host-suffix, kugou.net, proxy
+host-suffix, kugouaudio.com, proxy
+host-suffix, kugouipv6.com, proxy
+host-suffix, kugoukid.com, proxy
+host-suffix, kugouliveshow.com, proxy
+host-suffix, kugouringtone.com, proxy
+host-suffix, kugousenior.com, proxy
+host-suffix, kugoustore.com, proxy
+host-suffix, kugouvoice.com, proxy
+host-suffix, kugouyouth.com, proxy

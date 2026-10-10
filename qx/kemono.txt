@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kemono
+
+host-suffix, kemono.cr, proxy
+host-suffix, kemono.party, proxy
+host-suffix, kemono.su, proxy

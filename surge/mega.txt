@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mega
+
+.mega.co.nz
+.mega.io
+.mega.nz
+.megaad.nz
+.megapay.nz
+.megas4.com
+.transfer.it

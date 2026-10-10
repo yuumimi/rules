@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sb
+
+host-suffix, dns.sb, proxy
+host-suffix, ip.gs, proxy
+host-suffix, ip.sb, proxy
+host-suffix, loli.net, proxy
+host-suffix, sb.sb, proxy
+host-suffix, sm.ms, proxy
+host-suffix, u.nu, proxy
+host-suffix, www.sb, proxy

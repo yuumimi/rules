@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qingcloud
+
+host-suffix, frontwize.com, proxy
+host-suffix, qingcache.com, proxy
+host-suffix, qingcloud.com, proxy
+host-suffix, qingstor.com, proxy
+host-suffix, routewize.com, proxy
+host-suffix, yunify.com, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tidal
+
+host-suffix, tidal.com, proxy
+host-suffix, tidalhifi.com, proxy
+host-suffix, wimpmusic.com, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/habr
+
+# Behavior: domain
+
+payload:
+  - "+.habr.com"
+  - "+.habrastorage.org"

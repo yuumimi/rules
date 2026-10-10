@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/internet-archive
+
+host-suffix, archive-it.org, proxy
+host-suffix, archive.org, proxy
+host-suffix, openlibrary.org, proxy

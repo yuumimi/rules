@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/singtaonewscorp
+
+host-suffix, bastillepost.com, proxy
+host-suffix, easttouch.com.hk, proxy
+host-suffix, eastweek.com.hk, proxy
+host-suffix, eduplus.hk, proxy
+host-suffix, headlinejobs.hk, proxy
+host-suffix, hkheadline.com, proxy
+host-suffix, jobmarket.com.hk, proxy
+host-suffix, my-magazine.me, proxy
+host-suffix, pcmarket.com.hk, proxy
+host-suffix, sing68.com, proxy
+host-suffix, singtao.com, proxy
+host-suffix, singtaobooks.com, proxy
+host-suffix, singtaola.com, proxy
+host-suffix, singtaonewscorp.com, proxy
+host-suffix, singtaoopo.com, proxy
+host-suffix, singtaousa.com, proxy
+host-suffix, stheadline.com, proxy
+host-suffix, thestandard.com.hk, proxy

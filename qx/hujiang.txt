@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hujiang
+
+host-suffix, cctalk.com, proxy
+host-suffix, hjapi.com, proxy
+host-suffix, hjfile.cn, proxy
+host-suffix, hujiang.com, proxy
+host-suffix, yeshj.com, proxy

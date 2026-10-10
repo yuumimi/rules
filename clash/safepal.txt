@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/safepal
+
+# Behavior: domain
+
+payload:
+  - "+.isafepal.com"
+  - "+.safepal.com"

@@ -1,0 +1,36 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/twitch
+
+host, d1g1f25tn8m2e6.cloudfront.net, proxy
+host, d1m7jfoe9zdc1j.cloudfront.net, proxy
+host, d1mhjrowxxagfy.cloudfront.net, proxy
+host, d1ndex63qxojbr.cloudfront.net, proxy
+host, d1oca24q5dwo6d.cloudfront.net, proxy
+host, d1w2poirtb3as9.cloudfront.net, proxy
+host, d1xhnb4ptk05mw.cloudfront.net, proxy
+host, d1ymi26ma8va5x.cloudfront.net, proxy
+host, d2aba1wr3818hz.cloudfront.net, proxy
+host, d2dylwb3shzel1.cloudfront.net, proxy
+host, d2e2de1etea730.cloudfront.net, proxy
+host, d2nvs31859zcd8.cloudfront.net, proxy
+host, d2um2qdswy1tb0.cloudfront.net, proxy
+host, d2vjef5jvl6bfs.cloudfront.net, proxy
+host, d2xmjdvx03ij56.cloudfront.net, proxy
+host, d36nr0u3xmc4mm.cloudfront.net, proxy
+host, d3aqoihi2n8ty8.cloudfront.net, proxy
+host, d3c27h4odz752x.cloudfront.net, proxy
+host, d3vd9lfkzbru3h.cloudfront.net, proxy
+host, d6d4ismr40iw.cloudfront.net, proxy
+host, d6tizftlrpuof.cloudfront.net, proxy
+host, ddacn6pr5v0tl.cloudfront.net, proxy
+host, dgeft87wbj63p.cloudfront.net, proxy
+host, dqrpb9wgowsf5.cloudfront.net, proxy
+host, ds0h3roq6wcgc.cloudfront.net, proxy
+host, dykkng5hnh52u.cloudfront.net, proxy
+host-suffix, ext-twitch.tv, proxy
+host-suffix, jtvnw.net, proxy
+host-suffix, live-video.net, proxy
+host-suffix, ttvnw.net, proxy
+host-suffix, twitch.tv, proxy
+host-suffix, twitchcdn.net, proxy
+host-suffix, twitchcon.com, proxy
+host-suffix, twitchsvc.net, proxy

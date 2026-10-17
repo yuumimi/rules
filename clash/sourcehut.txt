@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sourcehut
+
+# Behavior: domain
+
+payload:
+  - "+.sourcehut.org"
+  - "+.sr.ht"

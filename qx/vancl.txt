@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vancl
+
+host-suffix, vancl.com, proxy
+host-suffix, vanclimg.com, proxy
+host-suffix, vcimg.com, proxy

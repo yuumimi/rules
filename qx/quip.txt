@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/quip
+
+host-suffix, quip-cdn.com, proxy
+host-suffix, quip.com, proxy
+host-suffix, quipelements.com, proxy

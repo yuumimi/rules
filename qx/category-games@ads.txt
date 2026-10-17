@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-games
+
+host-suffix, insights-collector.gog.com, proxy
+host-suffix, kurogames-ads.com, proxy
+host-suffix, log-upload-os.hoyoverse.com, proxy
+host-suffix, log-upload.mihoyo.com, proxy

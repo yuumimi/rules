@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/flyio
+
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,fly.io
+DOMAIN-SUFFIX,flyio.net

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meadjohnson
+
+host-suffix, enfinitas.com.cn, proxy
+host-suffix, meadjohnson.com, proxy
+host-suffix, meadjohnson.com.cn, proxy
+host-suffix, meadjohnson.com.hk, proxy
+host-suffix, meadjohnson.com.tw, proxy
+host-suffix, meadjohnson.net, proxy

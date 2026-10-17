@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/beisen
+
+host-suffix, beisen.cn, proxy
+host-suffix, beisen.com, proxy
+host-suffix, beisenapp.com, proxy
+host-suffix, beisencloud.com, proxy
+host-suffix, beisenpaas.com, proxy
+host-suffix, bsurl.cc, proxy
+host-suffix, bsurl.cn, proxy
+host-suffix, zhiye.com, proxy

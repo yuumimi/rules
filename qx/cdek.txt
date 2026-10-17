@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cdek
+
+host-suffix, ad-cdek.ru, proxy
+host-suffix, cdek.ru, proxy
+host-suffix, cdek.shopping, proxy

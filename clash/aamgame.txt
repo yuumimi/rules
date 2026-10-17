@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aamgame
+
+# Behavior: domain
+
+payload:
+  - "+.aamgame.com"
+  - "+.aamgame.mobi"
+  - "+.aamgame.net"
+  - "+.aamsmart.com"
+  - "+.singworld.net"

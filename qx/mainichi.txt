@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mainichi
+
+host-suffix, machigoto.jp, proxy
+host-suffix, mainichi-athletepartners.jp, proxy
+host-suffix, mainichi.jp, proxy
+host-suffix, mainichibooks.com, proxy
+host-suffix, meijinsen.jp, proxy
+host-suffix, mirailab.tech, proxy
+host-suffix, mottainai.info, proxy
+host-suffix, newsgawakaru.com, proxy
+host-suffix, sponichi.co.jp, proxy
+host-suffix, weekly-economist.com, proxy

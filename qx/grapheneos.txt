@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/grapheneos
+
+host-suffix, attestation.app, proxy
+host-suffix, grapheneos.app, proxy
+host-suffix, grapheneos.ca, proxy
+host-suffix, grapheneos.com, proxy
+host-suffix, grapheneos.dev, proxy
+host-suffix, grapheneos.foundation, proxy
+host-suffix, grapheneos.info, proxy
+host-suffix, grapheneos.net, proxy
+host-suffix, grapheneos.network, proxy
+host-suffix, grapheneos.online, proxy
+host-suffix, grapheneos.org, proxy
+host-suffix, grapheneos.ovh, proxy
+host-suffix, grapheneos.page, proxy
+host-suffix, grapheneos.social, proxy
+host-suffix, seamlessupdate.app, proxy
+host-suffix, vanadium.app, proxy

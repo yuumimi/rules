@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hku
+
+# Behavior: domain
+
+payload:
+  - "+.hku.edu.hk"
+  - "+.hku.hk"
+  - "+.xn--pssu7cv61af44b.hk"
+  - "+.xn--pssu7cv61af44b.xn--j6w193g"

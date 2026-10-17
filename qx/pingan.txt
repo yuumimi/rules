@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pingan
+
+host-suffix, pingan.com, proxy
+host-suffix, pingan.com.cn, proxy
+host-suffix, pingan.com.hk, proxy
+host-suffix, yqb.com, proxy

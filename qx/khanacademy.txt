@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/khanacademy
+
+host-suffix, kastatic.org, proxy
+host-suffix, khanacademy.org, proxy

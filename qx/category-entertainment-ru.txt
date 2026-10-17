@@ -1,0 +1,33 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-entertainment-ru
+
+host-suffix, 24h.tv, proxy
+host-suffix, amediateka.ru, proxy
+host-suffix, beeline.tv, proxy
+host-suffix, cdnvideo.ru, proxy
+host-suffix, cdnvideohub.com, proxy
+host-suffix, ivi.ru, proxy
+host-suffix, ivicdn.tv, proxy
+host-suffix, kinescopecdn.net, proxy
+host-suffix, kinopoisk-ru.clstorage.net, proxy
+host-suffix, kinopoisk.ru, proxy
+host-suffix, kinorium.com, proxy
+host-suffix, more.tv, proxy
+host-suffix, okko.sport, proxy
+host-suffix, okko.tv, proxy
+host-suffix, okkoapi.tv, proxy
+host-suffix, playfamily.ru, proxy
+host-suffix, premier.one, proxy
+host-suffix, promodj.com, proxy
+host-suffix, restream-media.net, proxy
+host-suffix, restream.ru, proxy
+host-suffix, rtbcdn.ru, proxy
+host-suffix, rutube.ru, proxy
+host-suffix, rutube.sport, proxy
+host-suffix, rutubelist.ru, proxy
+host-suffix, smotreshka.tv, proxy
+host-suffix, start.ru, proxy
+host-suffix, trbcdn.net, proxy
+host-suffix, tvigle.ru, proxy
+host-suffix, viju.ru, proxy
+host-suffix, wink.am, proxy
+host-suffix, wink.ru, proxy

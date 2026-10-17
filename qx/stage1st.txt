@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/stage1st
+
+host-suffix, saraba1st.com, proxy
+host-suffix, stage1st.com, proxy

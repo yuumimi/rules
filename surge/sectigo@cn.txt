@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sectigo
+
+.oemssl.cn
+.oemssl.cn.cdn.cloudflare.net
+.sectigochina.com
+.sectigochina.com.cdn.cloudflare.net
+.trust-provider.cn

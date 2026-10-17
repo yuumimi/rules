@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/swag
+
+# Behavior: domain
+
+payload:
+  - "+.5w.ag"
+  - "+.swag-live.co"
+  - "+.swag.live"

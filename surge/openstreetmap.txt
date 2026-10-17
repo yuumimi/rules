@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openstreetmap
+
+.openmaps.org
+.openstreetmap.com
+.openstreetmap.net
+.openstreetmap.org
+.openstreetmaps.org
+.osm.org
+.osmfoundation.org
+.stateofthemap.com
+.stateofthemap.org

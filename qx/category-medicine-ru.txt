@@ -1,0 +1,36 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-medicine-ru
+
+host-suffix, apteka-april.ru, proxy
+host-suffix, apteka.ru, proxy
+host-suffix, aptekiplus.ru, proxy
+host-suffix, b17.ru, proxy
+host-suffix, emias.info, proxy
+host-suffix, emias.mos.ru, proxy
+host-suffix, emias.ru, proxy
+host-suffix, farmlend.ru, proxy
+host-suffix, gorzdrav.org, proxy
+host-suffix, gorzdrav.spb.ru, proxy
+host-suffix, klinikabudzdorov.ru, proxy
+host-suffix, medsi-premium.ru, proxy
+host-suffix, medsi.com, proxy
+host-suffix, medsi.pro, proxy
+host-suffix, medsi.ru, proxy
+host-suffix, megapteka.ru, proxy
+host-suffix, mgfoms.ru, proxy
+host-suffix, mofoms.ru, proxy
+host-suffix, mosgorzdrav.ru, proxy
+host-suffix, oms.karelia.ru, proxy
+host-suffix, planetazdorovo.ru, proxy
+host-suffix, polyclinika.ru, proxy
+host-suffix, pz.help, proxy
+host-suffix, reaviz.com, proxy
+host-suffix, reaviz.ru, proxy
+host-suffix, reso-med.com, proxy
+host-suffix, reso-med.ru, proxy
+host-suffix, smartmed.pro, proxy
+host-suffix, spboms.ru, proxy
+host-suffix, stolichki.ru, proxy
+host-suffix, uteka.ru, proxy
+host-suffix, vipmed.ru, proxy
+host-suffix, zdravcity.ru, proxy
+host-suffix, zub.ru, proxy

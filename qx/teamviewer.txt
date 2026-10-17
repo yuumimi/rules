@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/teamviewer
+
+host, client-teamviewer-com.trafficmanager.net, proxy
+host, teamviewer.com.cdn.cloudflare.net, proxy
+host-suffix, teamviewer.cn, proxy
+host-suffix, teamviewer.com, proxy
+host-suffix, teamviewer.us, proxy

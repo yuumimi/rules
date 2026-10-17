@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/redtube
+
+host-suffix, livehdcams.com, proxy
+host-suffix, rdtcdn.com, proxy
+host-suffix, redtube.com, proxy
+host-suffix, redtube.com.br, proxy
+host-suffix, redtubepremium.com, proxy

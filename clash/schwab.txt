@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/schwab
+
+# Behavior: domain
+
+payload:
+  - "+.aboutschwab.com"
+  - "+.schwab.co.uk"
+  - "+.schwab.com"
+  - "+.schwab.com.hk"
+  - "+.schwab.com.sg"
+  - "+.schwabassetmanagement.com"
+  - "+.schwabplan.com"

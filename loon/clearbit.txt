@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/clearbit
+
+DOMAIN-SUFFIX,clearbit.com
+DOMAIN-SUFFIX,clearbitjs.com
+DOMAIN-SUFFIX,clearbitscripts.com

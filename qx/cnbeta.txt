@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnbeta
+
+host-suffix, cnbeta.com, proxy
+host-suffix, cnbeta.com.tw, proxy
+host-suffix, cnbetacdn.com, proxy

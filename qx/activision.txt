@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/activision
+
+host-suffix, activision.com, proxy
+host-suffix, callofduty.com, proxy
+host-suffix, callofdutyendowment.com, proxy
+host-suffix, callofdutyendowment.org, proxy
+host-suffix, callofdutyleague.com, proxy
+host-suffix, callofdutymobile.com, proxy
+host-suffix, crashbandicoot.com, proxy
+host-suffix, demonware.net, proxy
+host-suffix, highmoonstudios.com, proxy
+host-suffix, infinityward.com, proxy
+host-suffix, ravensoftware.com, proxy
+host-suffix, sekirothegame.com, proxy
+host-suffix, sierragames.com, proxy
+host-suffix, skylanders.com, proxy
+host-suffix, sledgehammergames.com, proxy
+host-suffix, solidstate.com, proxy
+host-suffix, spyrothedragon.com, proxy
+host-suffix, tonyhawk.com, proxy
+host-suffix, tonyhawkthegame.com, proxy
+host-suffix, treyarch.com, proxy
+host-suffix, worldseriesofwarzone.com, proxy

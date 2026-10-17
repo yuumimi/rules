@@ -1,0 +1,31 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/illusion-nonofficial
+
+host-suffix, acgcf.com, proxy
+host-suffix, acgdg.com, proxy
+host-suffix, acgdv.com, proxy
+host-suffix, acgfabu.com, proxy
+host-suffix, acgfbw.com, proxy
+host-suffix, acgvipss.com, proxy
+host-suffix, acgwr.com, proxy
+host-suffix, aishegw.com, proxy
+host-suffix, fabuyemian.com, proxy
+host-suffix, illusion111.com, proxy
+host-suffix, illusionas.com, proxy
+host-suffix, illusionchn.com, proxy
+host-suffix, illusiongw.com, proxy
+host-suffix, illusionh.com, proxy
+host-suffix, illusionl.com, proxy
+host-suffix, illusionn2.com, proxy
+host-suffix, illusionn3.com, proxy
+host-suffix, illusionn4.com, proxy
+host-suffix, illusionn5.com, proxy
+host-suffix, illusionxz.com, proxy
+host-suffix, illusiony.com, proxy
+host-suffix, illusionze.com, proxy
+host-suffix, illusnoi.com, proxy
+host-suffix, isgame365.cc, proxy
+host-suffix, isheppc.com, proxy
+host-suffix, lliusno.com, proxy
+host-suffix, noisullifb.com, proxy
+host-suffix, wnoaissulli1.com, proxy
+host-suffix, zzycdz.com, proxy

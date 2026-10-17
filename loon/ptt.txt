@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ptt
+
+DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,ptt2.cc
+DOMAIN-SUFFIX,ptt3.cc

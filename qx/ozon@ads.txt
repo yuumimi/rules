@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ozon
+
+host, ad.ozone.ru, proxy
+host, adv.ozon.ru, proxy
+host, agency-adv.ozon.ru, proxy
+host, analytics-adv.ozon.ru, proxy
+host, beginners-adv.ozon.ru, proxy
+host, google-analytics-suite.ozon.ru, proxy
+host, loyalnost-adv.ozon.ru, proxy
+host, new-adv.ozon.ru, proxy
+host, prodvizhenie-adv.ozon.ru, proxy
+host, questions-adv.ozon.ru, proxy
+host, sentry.ozon.ru, proxy
+host, xapi.ozon.by, proxy
+host, xapi.ozon.com, proxy
+host, xapi.ozon.com.by, proxy
+host, xapi.ozon.com.kz, proxy
+host, xapi.ozon.kz, proxy
+host, xapi.ozon.ru, proxy
+host, xapi.ozonru.me, proxy

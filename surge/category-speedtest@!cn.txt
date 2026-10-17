@@ -1,0 +1,3 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-speedtest
+
+hk-global-bgp.hkg.speedtest.yecaoyun.com

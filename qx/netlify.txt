@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netlify
+
+host, acd89244c803f7181.awsglobalaccelerator.com, proxy
+host, afa7f374f51cc8991.awsglobalaccelerator.com, proxy
+host, d33wubrfki0l68.cloudfront.net, proxy
+host-suffix, bitballoon.com, proxy
+host-suffix, netlify.app, proxy
+host-suffix, netlify.com, proxy
+host-suffix, netlifydns.com, proxy
+host-suffix, netlifystatus.com, proxy
+host-suffix, netlifyusercontent.com, proxy
+host-suffix, ntl.fyi, proxy

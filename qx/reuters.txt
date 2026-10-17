@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/reuters
+
+host-suffix, reut.rs, proxy
+host-suffix, reuters.com, proxy
+host-suffix, reuters.tv, proxy
+host-suffix, reutersmedia.net, proxy

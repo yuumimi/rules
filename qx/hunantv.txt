@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hunantv
+
+host-suffix, hifuntv.com, proxy
+host-suffix, hitv.com, proxy
+host-suffix, hnbntv.com, proxy
+host-suffix, hunaniptv.com, proxy
+host-suffix, hunantv.com, proxy
+host-suffix, imgo.tv, proxy
+host-suffix, mgtv.com, proxy

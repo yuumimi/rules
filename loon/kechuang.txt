@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kechuang
+
+DOMAIN-SUFFIX,kechuang.org
+DOMAIN-SUFFIX,kexinshe.com

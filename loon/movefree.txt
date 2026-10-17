@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/movefree
+
+DOMAIN-SUFFIX,keepmovingwithmovefree.com
+DOMAIN-SUFFIX,move-free.net
+DOMAIN-SUFFIX,movefree.cn
+DOMAIN-SUFFIX,movefreeoffers.com
+DOMAIN-SUFFIX,movefreerewards.com
+DOMAIN-SUFFIX,movefrees.com
+DOMAIN-SUFFIX,schiffvitamins.com

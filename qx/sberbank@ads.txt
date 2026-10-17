@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sberbank
+
+host, visor.sberbank.ru, proxy
+host-suffix, ads.sber.ru, proxy
+host-suffix, clickstream.sberbank.ru, proxy

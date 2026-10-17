@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnn
+
+.cnn.com
+.cnn.io
+.cnn.it
+.cnnarabic.com
+.cnnlabs.com
+.cnnmoney.ch
+.cnnmoney.com
+.cnnmoneystream.com
+.cnnpolitics.com

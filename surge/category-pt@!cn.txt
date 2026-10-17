@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-pt
+
+.dmhy.best
+.dmhy.org
+.m-team.cc
+.m-team.io
+.mt.cc
+.myanonamouse.net
+.nebulance.io
+.skyey2.com
+.skyeysnow.com
+.torrentleech.cc
+.torrentleech.org

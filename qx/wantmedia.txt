@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wantmedia
+
+host-suffix, benliton.com, proxy
+host-suffix, chinatimes.com, proxy
+host-suffix, chinatimes.com.tw, proxy
+host-suffix, ctee.com.tw, proxy
+host-suffix, ctitv.com.tw, proxy
+host-suffix, ctv.com.tw, proxy
+host-suffix, ctwant.com, proxy
+host-suffix, infotimes.com.tw, proxy
+host-suffix, lecoin.cc, proxy
+host-suffix, loveparents.org, proxy
+host-suffix, superstation.com.tw, proxy
+host-suffix, want-media.com, proxy
+host-suffix, wantblogger.com, proxy
+host-suffix, zwtvusa.com, proxy

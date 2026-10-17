@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rossiyasegodnya
+
+host-suffix, 1prime.ru, proxy
+host-suffix, arctic.ru, proxy
+host-suffix, baltnews.com, proxy
+host-suffix, baltnews.lt, proxy
+host-suffix, inosmi.ru, proxy
+host-suffix, jinrieluosi.cn, proxy
+host-suffix, pressria.ru, proxy
+host-suffix, radiosputnik.ru, proxy
+host-suffix, ria.ru, proxy
+host-suffix, rossiyasegodnya.com, proxy
+host-suffix, sputnikglobe.com, proxy
+host-suffix, sputnikimages.com, proxy
+host-suffix, sputnikmediabank.com, proxy
+host-suffix, sputniknews.com, proxy
+host-suffix, tok.media, proxy
+host-suffix, ukraina.ru, proxy
+host-suffix, xn--c1acbl2abdlkab1og.xn--p1ai, proxy

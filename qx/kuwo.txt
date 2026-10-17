@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuwo
+
+host-suffix, koowo.cn, proxy
+host-suffix, koowo.com, proxy
+host-suffix, kuwo.cn, proxy

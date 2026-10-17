@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ai-!cn
+
+# Behavior: domain
+
+payload:
+  - "+.cici.com"
+  - "+.ciciai.com"
+  - "+.ciciaicdn.com"
+  - "+.coze.com"
+  - "+.dola.com"
+  - "+.marscode.com"
+  - "+.trae.ai"

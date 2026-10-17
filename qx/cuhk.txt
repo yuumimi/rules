@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cuhk
+
+host-suffix, cuhk.edu.hk, proxy
+host-suffix, cuhk.hk, proxy
+host-suffix, xn--fiqs8s1byzqyvl.hk, proxy
+host-suffix, xn--fiqs8s1byzqyvl.xn--j6w193g, proxy
+host-suffix, xn--mxtq18a.hk, proxy
+host-suffix, xn--mxtq18a.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61ahwcb1p2yk.hk, proxy
+host-suffix, xn--pssu7cv61ahwcb1p2yk.xn--j6w193g, proxy

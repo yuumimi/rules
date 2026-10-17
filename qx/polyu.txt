@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/polyu
+
+host-suffix, cpce-polyu.edu.hk, proxy
+host-suffix, hkcc-polyu.edu.hk, proxy
+host-suffix, polyu.edu.hk, proxy
+host-suffix, polyu.hk, proxy
+host-suffix, speed-polyu.edu.hk, proxy

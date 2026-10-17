@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lysol
+
+host-suffix, lysol.cn, proxy
+host-suffix, lysol.com.cn, proxy

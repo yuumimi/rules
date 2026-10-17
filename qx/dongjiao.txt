@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dongjiao
+
+host-suffix, anmo.com, proxy
+host-suffix, djdjapp.com, proxy
+host-suffix, dongjiao.cc, proxy
+host-suffix, dongjiaoapp.com, proxy

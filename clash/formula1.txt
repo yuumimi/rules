@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/formula1
+
+# Behavior: domain
+
+payload:
+  - "+.f1.com"
+  - "+.f1tv.com"
+  - "+.formula1.com"

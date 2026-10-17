@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/unity
+
+host-suffix, analytics.cloud.unity3d.com, proxy
+host-suffix, cdp.cloud.unity3d.com, proxy
+host-suffix, config.uca.cloud.unity3d.com, proxy
+host-suffix, iads.unity3d.com, proxy
+host-suffix, perf-events.cloud.unity3d.com, proxy
+host-suffix, perf.cloud.unity3d.com, proxy
+host-suffix, prd-lender.cdp.internal.unity3d.com, proxy
+host-suffix, unityads.unity3d.com, proxy

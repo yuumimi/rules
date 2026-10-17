@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bestv
+
+# Behavior: domain
+
+payload:
+  - "+.bbtv.cn"
+  - "+.bestv.com.cn"
+  - "+.bestvcdn.cn"
+  - "+.bestvcdn.com"
+  - "+.bestvcdn.com.cn"
+  - "+.bestvcdn.net"
+  - "+.smgbb.cn"

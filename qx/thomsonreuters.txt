@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/thomsonreuters
+
+host-suffix, aranzadi.es, proxy
+host-suffix, corepublishingsolutions.com, proxy
+host-suffix, elite.com, proxy
+host-suffix, legaltracker.com, proxy
+host-suffix, livrariart.com.br, proxy
+host-suffix, reut.rs, proxy
+host-suffix, reuters.com, proxy
+host-suffix, reuters.tv, proxy
+host-suffix, reutersagency.cn, proxy
+host-suffix, reutersmedia.net, proxy
+host-suffix, sweetandmaxwell.co.uk, proxy
+host-suffix, thomsonreuters.ca, proxy
+host-suffix, thomsonreuters.cn, proxy
+host-suffix, thomsonreuters.co.jp, proxy
+host-suffix, thomsonreuters.co.kr, proxy
+host-suffix, thomsonreuters.co.nz, proxy
+host-suffix, thomsonreuters.co.uk, proxy
+host-suffix, thomsonreuters.com, proxy
+host-suffix, thomsonreuters.com.ar, proxy
+host-suffix, thomsonreuters.com.au, proxy
+host-suffix, thomsonreuters.com.br, proxy
+host-suffix, thomsonreuters.com.hk, proxy
+host-suffix, thomsonreuters.com.my, proxy
+host-suffix, thomsonreuters.com.pe, proxy
+host-suffix, thomsonreuters.com.sg, proxy
+host-suffix, thomsonreuters.com.tr, proxy
+host-suffix, thomsonreuters.es, proxy
+host-suffix, thomsonreuters.in, proxy
+host-suffix, thomsonreuters.ru, proxy
+host-suffix, thomsonreutersmexico.com, proxy
+host-suffix, tmsnrt.rs, proxy
+host-suffix, tr.com, proxy

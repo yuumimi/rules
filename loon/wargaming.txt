@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wargaming
+
+DOMAIN-SUFFIX,masteroforion.com
+DOMAIN-SUFFIX,wargaming.com
+DOMAIN-SUFFIX,wargaming.net
+DOMAIN-SUFFIX,wgcdn.co
+DOMAIN-SUFFIX,wgcrowd.io
+DOMAIN-SUFFIX,worldoftanks.com
+DOMAIN-SUFFIX,worldoftanks.eu
+DOMAIN-SUFFIX,worldofwarplanes.com
+DOMAIN-SUFFIX,worldofwarships.com
+DOMAIN-SUFFIX,wotblitz.com
+DOMAIN-SUFFIX,wowsblitz.com

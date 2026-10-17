@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-scholar-hk
+
+host-suffix, cityu.hk, proxy
+host-suffix, cuhk.hk, proxy
+host-suffix, edu.hk, proxy
+host-suffix, eduhk.hk, proxy
+host-suffix, hkbu.hk, proxy
+host-suffix, hku.hk, proxy
+host-suffix, hkust.hk, proxy
+host-suffix, polyu.hk, proxy
+host-suffix, xn--fiqs8s1bxp3anr7a.hk, proxy
+host-suffix, xn--fiqs8s1bxp3anr7a.xn--j6w193g, proxy
+host-suffix, xn--fiqs8s1byzqyvl.hk, proxy
+host-suffix, xn--fiqs8s1byzqyvl.xn--j6w193g, proxy
+host-suffix, xn--gdt08a.hk, proxy
+host-suffix, xn--gdt08a.xn--j6w193g, proxy
+host-suffix, xn--mxtq18a.hk, proxy
+host-suffix, xn--mxtq18a.xn--j6w193g, proxy
+host-suffix, xn--pssu7ci2j23mp9ny48b.hk, proxy
+host-suffix, xn--pssu7ci2j23mp9ny48b.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61af1tcs59bnvd.hk, proxy
+host-suffix, xn--pssu7cv61af1tcs59bnvd.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61af44b.hk, proxy
+host-suffix, xn--pssu7cv61af44b.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61ahw8aq79bztd.hk, proxy
+host-suffix, xn--pssu7cv61ahw8aq79bztd.xn--j6w193g, proxy
+host-suffix, xn--pssu7cv61ahwcb1p2yk.hk, proxy
+host-suffix, xn--pssu7cv61ahwcb1p2yk.xn--j6w193g, proxy
+host-suffix, xn--uis44a.xn--j6w193g, proxy
+host-suffix, xn--wcv22d.hk, proxy
+host-suffix, xn--wcv22d.xn--j6w193g, proxy
+host-suffix, xn--wcvs22d.xn--j6w193g, proxy
+host-suffix, xn--wcvs22d1m.hk, proxy
+host-suffix, xn--wcvs22d1m.xn--j6w193g, proxy

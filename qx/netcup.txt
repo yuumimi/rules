@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netcup
+
+host-suffix, bestsrv.de, proxy
+host-suffix, customercontrolpanel.de, proxy
+host-suffix, dnsserver1.de, proxy
+host-suffix, dnsserver2.de, proxy
+host-suffix, goodsrv.de, proxy
+host-suffix, happysrv.de, proxy
+host-suffix, hotsrv.de, proxy
+host-suffix, luckysrv.de, proxy
+host-suffix, megasrv.de, proxy
+host-suffix, netcup-news.de, proxy
+host-suffix, netcup-sonderangebote.de, proxy
+host-suffix, netcup-wiki.de, proxy
+host-suffix, netcup.cafe, proxy
+host-suffix, netcup.com, proxy
+host-suffix, netcup.de, proxy
+host-suffix, netcup.eu, proxy
+host-suffix, netcup.net, proxy
+host-suffix, nicesrv.de, proxy
+host-suffix, powersrv.de, proxy
+host-suffix, quicksrv.de, proxy
+host-suffix, servercontrolpanel.de, proxy
+host-suffix, supersrv.de, proxy
+host-suffix, ultrasrv.de, proxy
+host-suffix, yourvserver.net, proxy

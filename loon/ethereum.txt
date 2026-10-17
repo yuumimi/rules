@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ethereum
+
+DOMAIN-SUFFIX,devcon.org
+DOMAIN-SUFFIX,ethereum.foundation
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,etherscan.io

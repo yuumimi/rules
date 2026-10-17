@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/thetype
+
+host-suffix, thetype.cloud, proxy
+host-suffix, thetype.com, proxy
+host-suffix, typeisbeautiful.com, proxy

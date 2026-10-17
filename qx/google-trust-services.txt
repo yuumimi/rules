@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google-trust-services
+
+host, clients1.google.com, proxy
+host, pki-goog.l.google.com, proxy
+host, pki.google.com, proxy
+host, preprod-publicca.googleapis.com, proxy
+host, publicca.googleapis.com, proxy
+host-suffix, pki.goog, proxy

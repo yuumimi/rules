@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/boc
+
+host-suffix, bank-of-china.com, proxy
+host-suffix, bankofchina.com, proxy
+host-suffix, boc.cn, proxy
+host-suffix, bocamchina.com, proxy
+host-suffix, bocaviation.com, proxy
+host-suffix, boccfc.cc, proxy
+host-suffix, boccfc.cn, proxy
+host-suffix, bocfullertonbank.com, proxy
+host-suffix, bocgi.com, proxy
+host-suffix, bocgins.com, proxy
+host-suffix, bochk.com, proxy
+host-suffix, bocichina.cn, proxy
+host-suffix, bocichina.com, proxy
+host-suffix, bocichina.com.cn, proxy
+host-suffix, bocifunds.cn, proxy
+host-suffix, bocifunds.com, proxy
+host-suffix, bocifunds.com.cn, proxy
+host-suffix, bocigroup.com, proxy
+host-suffix, bocim.com, proxy
+host-suffix, bocservices.com.cn, proxy

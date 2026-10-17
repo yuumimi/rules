@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-speedtest
+
+host-suffix, cnspeedtest.cn, proxy
+host-suffix, speed.neu6.edu.cn, proxy
+host-suffix, speed.nju.edu.cn, proxy
+host-suffix, speed.nuaa.edu.cn, proxy
+host-suffix, speed.qlu.edu.cn, proxy
+host-suffix, speed.ujs.edu.cn, proxy
+host-suffix, speed6.ujs.edu.cn, proxy
+host-suffix, speedtest.cn, proxy
+host-suffix, speedtest.mfcyun.com, proxy
+host-suffix, speedtest.shu.edu.cn, proxy
+host-suffix, speedtest.xaut.edu.cn, proxy
+host-suffix, speedtest6.shu.edu.cn, proxy
+host-suffix, test.nju.edu.cn, proxy
+host-suffix, test.ustc.edu.cn, proxy
+host-suffix, test6.nju.edu.cn, proxy
+host-suffix, test6.ustc.edu.cn, proxy
+host-suffix, xnfz.seu.edu.cn, proxy

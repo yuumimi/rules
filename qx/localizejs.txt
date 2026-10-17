@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/localizejs
+
+host-suffix, localizecdn.com, proxy
+host-suffix, localizejs.com, proxy
+host-suffix, localizestatus.com, proxy

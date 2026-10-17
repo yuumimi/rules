@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/internet-archive
+
+# Behavior: domain
+
+payload:
+  - "+.archive-it.org"
+  - "+.archive.org"
+  - "+.openlibrary.org"

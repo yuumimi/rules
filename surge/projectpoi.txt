@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/projectpoi
+
+.poi.icu
+.poi6.net
+.poihub.com
+.project-poi.com

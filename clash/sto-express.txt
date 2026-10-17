@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sto-express
+
+# Behavior: domain
+
+payload:
+  - "+.sto-express.cn"
+  - "+.sto-express.com"
+  - "+.sto-express.com.cn"
+  - "+.sto.cn"
+  - "+.stointl.com"
+  - "+.stosolution.com"

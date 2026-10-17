@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/acfun
+
+# Behavior: domain
+
+payload:
+  - "+.ac.fun"
+  - "+.acfun.cn"
+  - "+.acfun.net"
+  - "+.acfunchina.cn"
+  - "+.acfunchina.com"
+  - "+.acfunchina.net"
+  - "+.aixifan.com"

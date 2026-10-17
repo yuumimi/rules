@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ishumei
+
+host-suffix, fengkongbao.com, proxy
+host-suffix, fengkongcloud.cn, proxy
+host-suffix, fengkongcloud.com, proxy
+host-suffix, ishumei.com, proxy
+host-suffix, portal101.cn, proxy
+host-suffix, portal102.cn, proxy
+host-suffix, portal201.cn, proxy
+host-suffix, portal301.cn, proxy
+host-suffix, tebiefuza.cloud, proxy
+host-suffix, tebiefuza.cn, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fibank
+
+DOMAIN-SUFFIX,fibank.bg
+DOMAIN-SUFFIX,meawallet.app
+DOMAIN-SUFFIX,myfin.bg

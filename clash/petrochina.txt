@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/petrochina
+
+# Behavior: domain
+
+payload:
+  - "+.95504.net"
+  - "+.95504test.com"
+  - "+.cnpc.com.cn"
+  - "+.petrochina.com.cn"

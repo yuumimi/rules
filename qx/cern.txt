@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cern
+
+host-suffix, ams02.space, proxy
+host-suffix, cern, proxy
+host-suffix, cern.ch, proxy
+host-suffix, cixp.net, proxy
+host-suffix, dotcernpilot.info, proxy
+host-suffix, ippog.org, proxy
+host-suffix, linearcollider.org, proxy

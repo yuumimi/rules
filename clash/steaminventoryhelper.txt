@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/steaminventoryhelper
+
+# Behavior: domain
+
+payload:
+  - "+.sih-db.com"
+  - "+.sih.app"
+  - "+.steaminventoryhelper.com"

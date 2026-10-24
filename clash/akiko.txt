@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/akiko
+
+# Behavior: domain
+
+payload:
+  - "+.akikocorp.cn"
+  - "+.emoriko.com"
+  - "+.sukasuka.cn"

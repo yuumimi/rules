@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fzdm
+
+DOMAIN-SUFFIX,fffdm.com
+DOMAIN-SUFFIX,fzdm.com

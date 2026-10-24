@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bytedance-ai-!cn
+
+.cici.com
+.ciciai.com
+.ciciaicdn.com
+.coze.com
+.dola.com
+.marscode.com
+.trae.ai

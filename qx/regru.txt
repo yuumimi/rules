@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/regru
+
+host-suffix, reg.cloud, proxy
+host-suffix, reg.com, proxy
+host-suffix, reg.ru, proxy

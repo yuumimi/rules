@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili-game
+
+# Behavior: domain
+
+payload:
+  - "+.bilibiligame.cn"
+  - "+.bilibiligame.co"
+  - "+.bilibiligame.net"
+  - "+.biligame.co"
+  - "+.biligame.com"
+  - "+.biligame.net"

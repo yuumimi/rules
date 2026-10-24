@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hupu
+
+.hoopchina.com.cn
+.hupu.com
+.hupucdn.com
+.shihuo.cn

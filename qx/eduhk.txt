@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/eduhk
+
+host-suffix, eduhk.edu.hk, proxy
+host-suffix, eduhk.hk, proxy
+host-suffix, xn--pssu7cv61af1tcs59bnvd.hk, proxy
+host-suffix, xn--pssu7cv61af1tcs59bnvd.xn--j6w193g, proxy
+host-suffix, xn--wcv22d.hk, proxy
+host-suffix, xn--wcv22d.xn--j6w193g, proxy
+host-suffix, xn--wcvs22d1m.hk, proxy
+host-suffix, xn--wcvs22d1m.xn--j6w193g, proxy

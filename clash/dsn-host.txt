@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dsn-host
+
+# Behavior: domain
+
+payload:
+  - "+.ds-servers.com"
+  - "+.dsn.host"
+  - "+.dsncdn.net"

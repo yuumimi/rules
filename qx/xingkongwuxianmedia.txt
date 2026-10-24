@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xingkongwuxianmedia
+
+host-suffix, avstar01.me, proxy
+host-suffix, avstar02.me, proxy
+host-suffix, avstar03.me, proxy
+host-suffix, avstar04.com, proxy
+host-suffix, avstar04.me, proxy
+host-suffix, avstar05.me, proxy
+host-suffix, avstar06.me, proxy
+host-suffix, avstar07.com, proxy
+host-suffix, avstar07.me, proxy
+host-suffix, avstar09.com, proxy
+host-suffix, avstar09.me, proxy
+host-suffix, avstar1.com, proxy
+host-suffix, avstar2.com, proxy
+host-suffix, avstar3.com, proxy
+host-suffix, avstar4.com, proxy
+host-suffix, avstar5.com, proxy
+host-suffix, avstar6.com, proxy
+host-suffix, avstar8.com, proxy
+host-suffix, avstar9.com, proxy

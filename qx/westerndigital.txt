@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/westerndigital
+
+host-suffix, g-technology.com, proxy
+host-suffix, sandisk.ae, proxy
+host-suffix, sandisk.cn, proxy
+host-suffix, sandisk.co.jp, proxy
+host-suffix, sandisk.co.kr, proxy
+host-suffix, sandisk.co.uk, proxy
+host-suffix, sandisk.com, proxy
+host-suffix, sandisk.com.au, proxy
+host-suffix, sandisk.com.br, proxy
+host-suffix, sandisk.com.tr, proxy
+host-suffix, sandisk.com.tw, proxy
+host-suffix, sandisk.de, proxy
+host-suffix, sandisk.es, proxy
+host-suffix, sandisk.fr, proxy
+host-suffix, sandisk.hk, proxy
+host-suffix, sandisk.id, proxy
+host-suffix, sandisk.in, proxy
+host-suffix, sandisk.it, proxy
+host-suffix, sandisk.nl, proxy
+host-suffix, sandisk.sg, proxy
+host-suffix, wd.com, proxy
+host-suffix, wdc.com, proxy
+host-suffix, westerndigital.com, proxy

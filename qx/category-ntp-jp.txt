@@ -1,0 +1,30 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ntp-jp
+
+host-suffix, ats1.e-timing.ne.jp, proxy
+host-suffix, ntp-os01.ocn.ad.jp, proxy
+host-suffix, ntp-tk01.ocn.ad.jp, proxy
+host-suffix, ntp-tk02.ocn.ad.jp, proxy
+host-suffix, ntp.dnsbalance.ring.gr.jp, proxy
+host-suffix, ntp.jst.mfeed.ad.jp, proxy
+host-suffix, ntp.nc.u-tokyo.ac.jp, proxy
+host-suffix, ntp.nict.jp, proxy
+host-suffix, ntp.ring.gr.jp, proxy
+host-suffix, ntp.t.ring.gr.jp, proxy
+host-suffix, ntp.tohoku.ac.jp, proxy
+host-suffix, ntp.tut.ac.jp, proxy
+host-suffix, ntp0.ring.gr.jp, proxy
+host-suffix, ntp1.jst.mfeed.ad.jp, proxy
+host-suffix, ntp1.plala.or.jp, proxy
+host-suffix, ntp1.ring.gr.jp, proxy
+host-suffix, ntp1.tohoku.ac.jp, proxy
+host-suffix, ntp1.v6.mfeed.ad.jp, proxy
+host-suffix, ntp1.wakwak.com, proxy
+host-suffix, ntp2.jst.mfeed.ad.jp, proxy
+host-suffix, ntp2.plala.or.jp, proxy
+host-suffix, ntp2.ring.gr.jp, proxy
+host-suffix, ntp2.tohoku.ac.jp, proxy
+host-suffix, ntp2.v6.mfeed.ad.jp, proxy
+host-suffix, ntp2.wakwak.com, proxy
+host-suffix, ntp3.jst.mfeed.ad.jp, proxy
+host-suffix, ntp3.v6.mfeed.ad.jp, proxy
+host-suffix, s2csntp.miz.nao.ac.jp, proxy

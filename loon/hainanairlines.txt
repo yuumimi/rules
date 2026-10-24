@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hainanairlines
+
+DOMAIN-SUFFIX,10044.cn
+DOMAIN-SUFFIX,hainanairlines.com
+DOMAIN-SUFFIX,hnacargo.com
+DOMAIN-SUFFIX,hnair.com

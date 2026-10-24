@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/51job
+
+host-suffix, 51job.com, proxy
+host-suffix, 51jobcdn.com, proxy
+host-suffix, yingjiesheng.com, proxy
+host-suffix, yingjiesheng.net, proxy
+host-suffix, zhiding.com.cn, proxy

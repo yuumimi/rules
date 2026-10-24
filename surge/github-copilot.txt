@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/github-copilot
+
+.githubcopilot.com
+copilot-proxy.githubusercontent.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+copilot-workspace.githubnext.com
+copilotprodattachments.blob.core.windows.net

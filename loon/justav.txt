@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/justav
+
+DOMAIN-SUFFIX,hkporn.net
+DOMAIN-SUFFIX,justav.net
+DOMAIN-SUFFIX,twporn.net

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jetbrains-ai
+
+.grazie.ai
+.grazie.aws.intellij.net
+.jetbrains.ai

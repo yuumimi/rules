@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gaijin
+
+.acesofthunder.net
+.activematter.game
+.artstorm.com
+.crossout.net
+.crsed.net
+.cubicodyssey.game
+.enlisted.net
+.gaijin.net
+.gaijinent.com
+.modernwarships.com
+.star-conflict.com
+.warthunder.com
+.wtmobile.com

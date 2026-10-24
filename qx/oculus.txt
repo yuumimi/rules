@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/oculus
+
+host-suffix, binoculus.com, proxy
+host-suffix, buyoculus.com, proxy
+host-suffix, ocul.us, proxy
+host-suffix, oculus-china.com, proxy
+host-suffix, oculus.com, proxy
+host-suffix, oculus2014.com, proxy
+host-suffix, oculus3d.com, proxy
+host-suffix, oculusblog.com, proxy
+host-suffix, oculusbrand.com, proxy
+host-suffix, oculuscasino.net, proxy
+host-suffix, oculuscdn.com, proxy
+host-suffix, oculusconnect.com, proxy
+host-suffix, oculusdiving.com, proxy
+host-suffix, oculusforbusiness.com, proxy
+host-suffix, oculusrift.com, proxy
+host-suffix, oculusvr.com, proxy
+host-suffix, powersunitedvr.com, proxy

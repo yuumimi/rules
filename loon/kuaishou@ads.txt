@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaishou
+
+DOMAIN,apilog-web.acfun.cn
+DOMAIN,log-sdk.gifshow.com
+DOMAIN,wlog.kuaishou.com
+DOMAIN-SUFFIX,adbkwai.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,e.kuaishou.cn
+DOMAIN-SUFFIX,e.kuaishou.com

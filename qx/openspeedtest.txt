@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openspeedtest
+
+host-suffix, open.cachefly.net, proxy
+host-suffix, openspeedtest.com, proxy
+host-suffix, openspeedtest.in, proxy
+host-suffix, openspeedtest.org, proxy

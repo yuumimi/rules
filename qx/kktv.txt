@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kktv
+
+host-suffix, kktv.com.tw, proxy
+host-suffix, kktv.me, proxy
+host-suffix, theater-kktv.cdn.hinet.net, proxy

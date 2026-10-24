@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/avito
+
+host-suffix, avito.com, proxy
+host-suffix, avito.ru, proxy
+host-suffix, avito.st, proxy
+host-suffix, avito.tech, proxy

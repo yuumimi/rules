@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/golang
+
+.go-lang.com
+.go-lang.net
+.go-lang.org
+.go.dev
+.godoc.org
+.golang.com
+.golang.net
+.golang.org

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nixos
+
+.builtwithnix.org
+.mynixos.com
+.nix-community.org
+.nix.dev
+.nix.store
+.nixcon.org
+.nixcon2017.org
+.nixlang.com
+.nixos.org
+.nixos.wiki
+.nixpkgs.org
+nix-community.github.io

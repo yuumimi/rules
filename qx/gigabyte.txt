@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gigabyte
+
+host, gigabyte2.azureedge.net, proxy
+host, sa78gs.wpc.edgecastcdn.net, proxy
+host, sni1dcb6gl.wpc.edgecastcdn.net, proxy
+host-suffix, aorus.com, proxy
+host-suffix, aoruszone.cn, proxy
+host-suffix, gigabyte.cn, proxy
+host-suffix, gigabyte.com, proxy

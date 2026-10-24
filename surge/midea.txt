@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/midea
+
+.irsnp.com
+.mdcdn.cn
+.midea.cn
+.midea.com
+.midea.com.cn
+.mideaepayuat.com
+.msmartlife.cn
+.msmartlife.com
+.smartmidea.net

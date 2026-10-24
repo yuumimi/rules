@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/matters
+
+.matters.news
+.matters.one
+.matters.town
+.mattersprotocol.io

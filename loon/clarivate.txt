@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/clarivate
+
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,isiknowledge.com
+DOMAIN-SUFFIX,newisiknowledge.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,webofscience.com

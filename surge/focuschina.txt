@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/focuschina
+
+.focuschina.com
+.made-in-china.com
+.micstatic.com
+.trademessenger.com
+.vemic.com

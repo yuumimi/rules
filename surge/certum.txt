@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/certum
+
+.certum.pl
+.ocsp-certum.com
+.ocsp-responder.com

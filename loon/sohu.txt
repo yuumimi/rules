@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sohu
+
+DOMAIN-SUFFIX,17173.com
+DOMAIN-SUFFIX,17173cdn.com
+DOMAIN-SUFFIX,56.com
+DOMAIN-SUFFIX,56img.com
+DOMAIN-SUFFIX,changyou.com
+DOMAIN-SUFFIX,cy.com
+DOMAIN-SUFFIX,focus-img.cn
+DOMAIN-SUFFIX,focus.cn
+DOMAIN-SUFFIX,itc.cn
+DOMAIN-SUFFIX,kuaizhan.com
+DOMAIN-SUFFIX,playcool.com
+DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,sohu.com
+DOMAIN-SUFFIX,sohucs.com
+DOMAIN-SUFFIX,yeyou.com
+DOMAIN-SUFFIX,yeyoucdn.com

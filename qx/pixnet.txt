@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pixnet
+
+host-suffix, pimg.tw, proxy
+host-suffix, pixanalytics.com, proxy
+host-suffix, pixfs.net, proxy
+host-suffix, pixinsight.com.tw, proxy
+host-suffix, pixnet.cc, proxy
+host-suffix, pixnet.net, proxy
+host-suffix, pixnet.pro, proxy
+host-suffix, pixnet.tw, proxy
+host-suffix, pixplug.in, proxy

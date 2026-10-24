@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/technogym
+
+host-suffix, letsmoveforabetterworld.com, proxy
+host-suffix, technogym.bg, proxy
+host-suffix, technogym.ch, proxy
+host-suffix, technogym.com, proxy
+host-suffix, technogym.com.br, proxy
+host-suffix, technogym.ru, proxy
+host-suffix, technogym.su, proxy
+host-suffix, wellnessinstitute.com, proxy

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/divar
+
+# Behavior: domain
+
+payload:
+  - "+.divar.cloud"
+  - "+.divar.ir"
+  - "+.divarcdn.com"

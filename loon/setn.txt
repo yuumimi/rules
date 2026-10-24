@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/setn
+
+DOMAIN-SUFFIX,setn.com
+DOMAIN-SUFFIX,settv.com.tw

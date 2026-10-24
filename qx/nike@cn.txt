@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nike
+
+host-suffix, just-do-it.cn, proxy
+host-suffix, nike-shox.cn, proxy
+host-suffix, nike.cn, proxy
+host-suffix, nikebetterworld.cn, proxy
+host-suffix, nikebetterworld.com.cn, proxy
+host-suffix, nikechina.cn, proxy
+host-suffix, nikegolf.cn, proxy
+host-suffix, nikeid.cn, proxy
+host-suffix, nikeid.com.cn, proxy
+host-suffix, nikeinc.com.cn, proxy
+host-suffix, nikelab.cn, proxy
+host-suffix, nikelab.com.cn, proxy
+host-suffix, nikeliuxiang.cn, proxy
+host-suffix, nikeliuxiang.com.cn, proxy
+host-suffix, nikemall.cn, proxy
+host-suffix, nikemall.com.cn, proxy
+host-suffix, nikerunclub.cn, proxy
+host-suffix, nikerunclub.com.cn, proxy
+host-suffix, nikerunning.com.cn, proxy
+host-suffix, nikestore.cn, proxy

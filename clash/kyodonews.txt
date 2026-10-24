@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kyodonews
+
+# Behavior: domain
+
+payload:
+  - "+.47gyosei.jp"
+  - "+.47news.jp"
+  - "+.kyodo-d.info"
+  - "+.kyodo-d.jp"
+  - "+.kyodoimages.jp"
+  - "+.kyodonews.jp"
+  - "+.kyodonews.net"
+  - "+.newsmart.jp"
+  - "+.nna.jp"

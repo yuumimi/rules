@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-games
+
+host-suffix, aki-game.net, proxy
+host-suffix, aki-game2.net, proxy
+host-suffix, kurogame-service.com, proxy
+host-suffix, kurogame.net, proxy
+host-suffix, kurogames.net, proxy
+host-suffix, taptap.io, proxy

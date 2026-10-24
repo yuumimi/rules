@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/beget
+
+host-suffix, beget.app, proxy
+host-suffix, beget.cloud, proxy
+host-suffix, beget.com, proxy
+host-suffix, beget.de, proxy
+host-suffix, beget.hosting, proxy
+host-suffix, beget.pro, proxy
+host-suffix, beget.ru, proxy
+host-suffix, beget.tech, proxy
+host-suffix, begetcdn.cloud, proxy
+host-suffix, beserver.ru, proxy
+host-suffix, bget.ru, proxy
+host-suffix, sprut.io, proxy
+host-suffix, xn--90aefb9d.xn--p1ai, proxy

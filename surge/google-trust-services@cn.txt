@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google-trust-services
+
+c.pki.goog
+crl.pki.goog
+crls.pki.goog
+i.pki.goog
+o.pki.goog
+ocsp.pki.goog
+pki-goog.l.google.com

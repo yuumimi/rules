@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sto-express
+
+host-suffix, sto-express.cn, proxy
+host-suffix, sto-express.com, proxy
+host-suffix, sto-express.com.cn, proxy
+host-suffix, sto.cn, proxy
+host-suffix, stointl.com, proxy
+host-suffix, stosolution.com, proxy

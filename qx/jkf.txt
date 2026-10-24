@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jkf
+
+host-suffix, jkf.net, proxy
+host-suffix, jkface.net, proxy
+host-suffix, jkforum.net, proxy
+host-suffix, jr24h.com, proxy
+host-suffix, jvid.com, proxy

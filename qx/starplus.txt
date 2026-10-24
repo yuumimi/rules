@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/starplus
+
+host-suffix, star.api.edge.bamgrid.com, proxy
+host-suffix, star.connections.edge.bamgrid.com, proxy
+host-suffix, star.content.edge.bamgrid.com, proxy
+host-suffix, star.playback.edge.bamgrid.com, proxy
+host-suffix, starott.com, proxy
+host-suffix, starplus.com, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zhubajie
+
+DOMAIN-SUFFIX,tianpeng.com
+DOMAIN-SUFFIX,zbj.com
+DOMAIN-SUFFIX,zbjdev.com
+DOMAIN-SUFFIX,zbjimg.com
+DOMAIN-SUFFIX,zhubajie.com

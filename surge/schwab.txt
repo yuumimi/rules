@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/schwab
+
+.aboutschwab.com
+.schwab.co.uk
+.schwab.com
+.schwab.com.hk
+.schwab.com.sg
+.schwabassetmanagement.com
+.schwabcdn.com
+.schwabplan.com

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-food-cn
+
+DOMAIN-SUFFIX,4008-517-517.cn
+DOMAIN-SUFFIX,mcd.cn
+DOMAIN-SUFFIX,mcdchina.net
+DOMAIN-SUFFIX,mcdonalds.com.cn
+DOMAIN-SUFFIX,starbucks.com.cn

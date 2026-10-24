@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vimeo
+
+host-suffix, livestream.com, proxy
+host-suffix, vhx.tv, proxy
+host-suffix, vhxqa1.com, proxy
+host-suffix, vhxqa2.com, proxy
+host-suffix, vhxqa3.com, proxy
+host-suffix, vhxqa4.com, proxy
+host-suffix, vhxqa6.com, proxy
+host-suffix, vimeo-staging.com, proxy
+host-suffix, vimeo-staging2.com, proxy
+host-suffix, vimeo.com, proxy
+host-suffix, vimeo.fr, proxy
+host-suffix, vimeobusiness.com, proxy
+host-suffix, vimeocdn.com, proxy
+host-suffix, vimeogoods.com, proxy
+host-suffix, vimeoondemand.com, proxy
+host-suffix, vimeostatus.com, proxy

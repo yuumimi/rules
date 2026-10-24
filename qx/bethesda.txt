@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bethesda
+
+host-suffix, beth.games, proxy
+host-suffix, bethesda.net, proxy
+host-suffix, bethesdagamestudios.com, proxy
+host-suffix, bethsoft.com, proxy
+host-suffix, doom.com, proxy
+host-suffix, elderscrolls.com, proxy

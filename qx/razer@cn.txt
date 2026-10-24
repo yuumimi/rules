@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/razer
+
+host-suffix, razerapi.com, proxy
+host-suffix, razersynapse.com, proxy
+host-suffix, razerzone.com, proxy

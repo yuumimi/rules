@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/skyperfect
+
+# Behavior: domain
+
+payload:
+  - "+.hominis.media"
+  - "+.jsati.com"
+  - "+.jsatmobile.com"
+  - "+.skyperfectjsat.space"
+  - "+.skyperfectv.co.jp"
+  - "+.spcc-sp.com"
+  - "+.sptvbroadcast.com"

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/certum
+
+host-suffix, certum.pl, proxy
+host-suffix, ocsp-certum.com, proxy
+host-suffix, ocsp-responder.com, proxy

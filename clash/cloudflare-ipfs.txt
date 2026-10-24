@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cloudflare-ipfs
+
+# Behavior: domain
+
+payload:
+  - "+.cf-ipfs.com"
+  - "+.cloudflare-ipfs.com"

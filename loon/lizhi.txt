@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lizhi
+
+DOMAIN-SUFFIX,gzlzfm.com
+DOMAIN-SUFFIX,lizhi.fm
+DOMAIN-SUFFIX,lizhifm.com
+DOMAIN-SUFFIX,lizhiinc.com
+DOMAIN-SUFFIX,lz310.com
+DOMAIN-SUFFIX,lzpipi.com

@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meitu
+
+# Behavior: domain
+
+payload:
+  - "+.designkit.cn"
+  - "+.kaipai.com"
+  - "+.meipai.com"
+  - "+.meitu.com"
+  - "+.meitudata.com"
+  - "+.meitustat.com"
+  - "+.meituxiuxiu.com"
+  - "+.meiyan.com"
+  - "+.miraclevision.com"
+  - "+.roboneo.com"
+  - "+.whee.com"
+  - "+.wink.cn"
+  - "+.zcool.com.cn"

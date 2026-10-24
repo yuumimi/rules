@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chinapost
+
+host-suffix, 11183.com.cn, proxy
+host-suffix, 11185.cn, proxy
+host-suffix, chinapost-life.com, proxy
+host-suffix, chinapost.cn, proxy
+host-suffix, chinapost.com.cn, proxy
+host-suffix, chinapostdaily.com.cn, proxy
+host-suffix, chinapostnews.cn, proxy
+host-suffix, chinapostnews.com.cn, proxy
+host-suffix, chnppmuseum.com, proxy
+host-suffix, cnpsec.com, proxy
+host-suffix, cptu.cn, proxy
+host-suffix, cptu.org.cn, proxy
+host-suffix, ctvpost.com, proxy
+host-suffix, ems.com.cn, proxy
+host-suffix, postmail.cn, proxy
+host-suffix, postoa.com.cn, proxy
+host-suffix, psbc.com, proxy
+host-suffix, ule.com, proxy
+host-suffix, ulecdn.com, proxy

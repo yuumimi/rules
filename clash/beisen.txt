@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/beisen
+
+# Behavior: domain
+
+payload:
+  - "+.beisen.cn"
+  - "+.beisen.com"
+  - "+.beisenapp.com"
+  - "+.beisencloud.com"
+  - "+.beisenpaas.com"
+  - "+.bsurl.cc"
+  - "+.bsurl.cn"
+  - "+.zhiye.com"

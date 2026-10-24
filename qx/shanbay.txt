@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/shanbay
+
+host-suffix, baydn.com, proxy
+host-suffix, shanbay.com, proxy

@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ifast
+
+# Behavior: domain
+
+payload:
+  - "+.fsmone.com"
+  - "+.fsmone.com.hk"
+  - "+.fsmone.com.my"
+  - "+.fundsupermart.com"
+  - "+.ifastcapital.com.my"
+  - "+.ifastcorp.com"
+  - "+.ifastfinancial.co.in"
+  - "+.ifastfinancial.com.hk"
+  - "+.ifastgb.com"
+  - "+.ifastgp.com"
+  - "+.ifastgp.com.hk"
+  - "+.ifastnetwork.com"
+  - "+.ifastps.com.cn"
+  - "+.ifasttv.com"

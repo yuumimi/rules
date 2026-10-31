@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gog
+
+# Behavior: domain
+
+payload:
+  - "+.gog-services.com"
+  - "+.gog-statics.com"
+  - "+.gog.com"
+  - "+.gogalaxy.com"
+  - "gog-cdn-lumen.secure2.footprint.net"
+  - "gog-cdn.akamaized.net"
+  - "gog.qtlglb.com"

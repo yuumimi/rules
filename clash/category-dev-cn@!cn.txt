@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-dev-cn
+
+# Behavior: domain
+
+payload:
+  - "+.deepin.io"
+  - "+.deepin.org"

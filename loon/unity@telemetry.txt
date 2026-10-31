@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/unity
+
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com

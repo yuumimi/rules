@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bytedance
+
+host, log3-applog-hl.fqnovel.com, proxy
+host, log3-applog.fqnovel.com, proxy
+host, log5-applog-hl.fqnovel.com, proxy
+host, log5-applog.fqnovel.com, proxy
+host, rtlog3-applog-hl.fqnovel.com, proxy
+host, rtlog3-applog.fqnovel.com, proxy
+host, rtlog5-applog-hl.fqnovel.com, proxy
+host, rtlog5-applog.fqnovel.com, proxy
+host-suffix, applogcdn.com, proxy
+host-suffix, extlog.snssdk.com, proxy
+host-suffix, log.zijieapi.com, proxy
+host-suffix, volceapplog.com, proxy

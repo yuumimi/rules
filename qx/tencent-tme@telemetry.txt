@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tencent-tme
+
+host-suffix, monitor.music.qq.com, proxy
+host-suffix, report.tencentmusic.com, proxy
+host-suffix, stat.y.qq.com, proxy

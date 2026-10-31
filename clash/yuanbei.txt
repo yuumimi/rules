@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yuanbei
+
+# Behavior: domain
+
+payload:
+  - "+.i2oo.cn"
+  - "+.laoban100.com"
+  - "+.shengyi.ai"
+  - "+.shengyizhuanjia.com"
+  - "+.yuanbei.biz"

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/17zuoye
+
+host-suffix, 17zuoye.cn, proxy
+host-suffix, 17zuoye.com, proxy
+host-suffix, 17zuoye.net, proxy

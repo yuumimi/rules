@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tubi
+
+host-suffix, tubi.io, proxy
+host-suffix, tubi.tv, proxy
+host-suffix, tubi.video, proxy
+host-suffix, tubitv.com, proxy

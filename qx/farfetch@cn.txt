@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/farfetch
+
+host-suffix, farfetch.cn, proxy
+host-suffix, farfetch.com.cn, proxy
+host-suffix, farfetch.net.cn, proxy

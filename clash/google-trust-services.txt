@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/google-trust-services
+
+# Behavior: domain
+
+payload:
+  - "+.pki.goog"
+  - "clients1.google.com"
+  - "pki-goog.l.google.com"
+  - "pki.google.com"
+  - "preprod-publicca.googleapis.com"
+  - "publicca.googleapis.com"

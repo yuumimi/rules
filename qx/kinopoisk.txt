@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kinopoisk
+
+host, kp-config-smart-tv.akamaized.net, proxy
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, proxy
+host-suffix, kinopoisk-ru.clstorage.net, proxy
+host-suffix, kinopoisk.ru, proxy
+host-suffix, kp.yandex.net, proxy

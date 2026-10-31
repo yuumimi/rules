@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ibm
+
+host-suffix, appdomain.cloud, proxy
+host-suffix, bluemix.com, proxy
+host-suffix, bluemix.net, proxy
+host-suffix, consul.io, proxy
+host-suffix, hashicorp.com, proxy
+host-suffix, ibm, proxy
+host-suffix, ibm.com, proxy
+host-suffix, ibm.eu, proxy
+host-suffix, ibm.net, proxy
+host-suffix, ibm.us, proxy
+host-suffix, nomadproject.io, proxy
+host-suffix, packer.io, proxy
+host-suffix, s-bluemix.net, proxy
+host-suffix, s81c.com, proxy
+host-suffix, terraform.io, proxy
+host-suffix, vagrantcloud.com, proxy
+host-suffix, vagrantup.com, proxy
+host-suffix, vaultproject.io, proxy
+host-suffix, weather, proxy
+host-suffix, weatherchannel, proxy

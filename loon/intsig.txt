@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/intsig
+
+DOMAIN-SUFFIX,camcard.com
+DOMAIN-SUFFIX,camscanner.com
+DOMAIN-SUFFIX,intsig.com
+DOMAIN-SUFFIX,intsig.net
+DOMAIN-SUFFIX,qixin.com

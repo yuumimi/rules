@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kinopoisk
+
+.kinopoisk-ru.clstorage.net
+.kinopoisk.ru
+.kp.yandex.net
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com

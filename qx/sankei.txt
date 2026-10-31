@@ -1,0 +1,32 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sankei
+
+host-suffix, business-i.jp, proxy
+host-suffix, ign.jp, proxy
+host-suffix, innovations-i.com, proxy
+host-suffix, ironna.jp, proxy
+host-suffix, iza.ne.jp, proxy
+host-suffix, japan-forward.com, proxy
+host-suffix, keiba.net, proxy
+host-suffix, knowswho.co.jp, proxy
+host-suffix, metropolitana.tokyo, proxy
+host-suffix, mostly.jp, proxy
+host-suffix, sankei-ad-info.com, proxy
+host-suffix, sankei-ad.net, proxy
+host-suffix, sankei-books.co.jp, proxy
+host-suffix, sankei-call.jp, proxy
+host-suffix, sankei-digital.co.jp, proxy
+host-suffix, sankei-eiga.co.jp, proxy
+host-suffix, sankei-kaihatsu.co.jp, proxy
+host-suffix, sankei-kurashi.com, proxy
+host-suffix, sankei-shougakukai.jp, proxy
+host-suffix, sankei-tours.com, proxy
+host-suffix, sankei.co.jp, proxy
+host-suffix, sankei.com, proxy
+host-suffix, sankei.jp, proxy
+host-suffix, sankeibiz.jp, proxy
+host-suffix, sankeishop.jp, proxy
+host-suffix, sanspo.com, proxy
+host-suffix, seasidestory.tokyo, proxy
+host-suffix, seiron-sankei.com, proxy
+host-suffix, tvnaviweb.jp, proxy
+host-suffix, zakzak.co.jp, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-cdn-!cn
+
+DOMAIN-SUFFIX,akstat.io
+DOMAIN-SUFFIX,cloudflareinsights-cn.com
+DOMAIN-SUFFIX,cloudflareinsights.com

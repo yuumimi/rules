@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaomi
+
+host-suffix, data.mistat.india.xiaomi.com, proxy
+host-suffix, data.mistat.intl.xiaomi.com, proxy
+host-suffix, data.mistat.rus.xiaomi.com, proxy
+host-suffix, data.mistat.xiaomi.com, proxy
+host-suffix, logupdate.avlyun.sec.miui.com, proxy
+host-suffix, sentry.d.mi.com, proxy
+host-suffix, sentry.d.xiaomi.net, proxy
+host-suffix, stats.music.xiaomi.com, proxy

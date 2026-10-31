@@ -1,0 +1,30 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nurofen
+
+host, nurofensk-prod-env.eu-west-1.elasticbeanstalk.com, proxy
+host-suffix, nurofen.at, proxy
+host-suffix, nurofen.bg, proxy
+host-suffix, nurofen.cn, proxy
+host-suffix, nurofen.co.il, proxy
+host-suffix, nurofen.co.nz, proxy
+host-suffix, nurofen.co.uk, proxy
+host-suffix, nurofen.co.za, proxy
+host-suffix, nurofen.com, proxy
+host-suffix, nurofen.com.au, proxy
+host-suffix, nurofen.com.cn, proxy
+host-suffix, nurofen.com.sg, proxy
+host-suffix, nurofen.cz, proxy
+host-suffix, nurofen.de, proxy
+host-suffix, nurofen.es, proxy
+host-suffix, nurofen.fr, proxy
+host-suffix, nurofen.hr, proxy
+host-suffix, nurofen.hu, proxy
+host-suffix, nurofen.ie, proxy
+host-suffix, nurofen.it, proxy
+host-suffix, nurofen.net, proxy
+host-suffix, nurofen.no, proxy
+host-suffix, nurofen.pl, proxy
+host-suffix, nurofen.pt, proxy
+host-suffix, nurofen.ro, proxy
+host-suffix, nurofen.ru, proxy
+host-suffix, nurofen.sk, proxy
+host-suffix, nurofengel.com, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/b3log
+
+# Behavior: domain
+
+payload:
+  - "+.b3log.org"
+  - "+.b3logfile.com"
+  - "+.hacpai.com"
+  - "+.ld246.com"

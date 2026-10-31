@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/9news
+
+host-suffix, 9cdn.net, proxy
+host-suffix, 9nation.com.au, proxy
+host-suffix, 9news.com.au, proxy
+host-suffix, 9now.com.au, proxy
+host-suffix, freeviewplus.net.au, proxy
+host-suffix, mi9.com.au, proxy
+host-suffix, mi9cdn.com, proxy
+host-suffix, nine.com.au, proxy
+host-suffix, nineentertainment.com.au, proxy
+host-suffix, nineentertainmentco.com.au, proxy
+host-suffix, ninemediaroom.com.au, proxy
+host-suffix, ninemsn.com.au, proxy
+host-suffix, static9.net.au, proxy
+host-suffix, yourtv.com.au, proxy

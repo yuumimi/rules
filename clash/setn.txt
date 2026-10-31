@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/setn
+
+# Behavior: domain
+
+payload:
+  - "+.setn.com"
+  - "+.settv.com.tw"

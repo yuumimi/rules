@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/unity
+
+host-suffix, analytics.cloud.unity3d.com, proxy
+host-suffix, perf-events.cloud.unity3d.com, proxy
+host-suffix, perf.cloud.unity3d.com, proxy

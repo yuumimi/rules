@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dropbox
+
+host, dropbox.zendesk.com, proxy
+host, paper-attachments.s3.amazonaws.com, proxy
+host-suffix, addtodropbox.com, proxy
+host-suffix, dash.ai, proxy
+host-suffix, db.tt, proxy
+host-suffix, docsend.com, proxy
+host-suffix, dropbox-dns.com, proxy
+host-suffix, dropbox.com, proxy
+host-suffix, dropbox.tech, proxy
+host-suffix, dropboxapi.com, proxy
+host-suffix, dropboxbusiness.com, proxy
+host-suffix, dropboxcaptcha.com, proxy
+host-suffix, dropboxexperiment.com, proxy
+host-suffix, dropboxforum.com, proxy
+host-suffix, dropboxforums.com, proxy
+host-suffix, dropboxinsiders.com, proxy
+host-suffix, dropboxlegal.com, proxy
+host-suffix, dropboxmail.com, proxy
+host-suffix, dropboxpartners.com, proxy
+host-suffix, dropboxstatic.com, proxy
+host-suffix, dropboxteam.com, proxy
+host-suffix, dropboxusercontent.com, proxy
+host-suffix, getdropbox.com, proxy
+host-suffix, hellofax.com, proxy
+host-suffix, hellosign.com, proxy

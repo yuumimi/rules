@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/microsoft
+
+.applicationinsights.io
+.applicationinsights.net
+.aria.ms
+.browser.events.data.msn.cn
+.browser.events.data.msn.com
+.cafe.github.com
+.collector.github.com
+.data.microsoft.com
+.in.applicationinsights.azure.com
+.nelreports.net
+.telemetry.microsoft.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+dc.applicationinsights.azure.com
+dc.services.visualstudio.com
+live.applicationinsights.azure.com
+rt.services.visualstudio.com

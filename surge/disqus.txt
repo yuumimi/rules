@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/disqus
+
+.disq.us
+.disqus.com
+.disquscdn.com
+.disqusservice.com

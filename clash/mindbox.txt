@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mindbox
+
+# Behavior: domain
+
+payload:
+  - "+.botmechanic.io"
+  - "+.ceosummit.ru"
+  - "+.mind-box.ru"
+  - "+.mindbox-notifications.ru"
+  - "+.mindbox.cloud"
+  - "+.mindbox.group"
+  - "+.mindbox.ru"
+  - "+.mindbox.site"
+  - "+.mindbox.so"
+  - "+.popmechanic.io"
+  - "+.popmechanic.ru"
+  - "+.summitceo.ru"

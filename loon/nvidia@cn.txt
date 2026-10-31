@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nvidia
+
+DOMAIN,cn.download.nvidia.com
+DOMAIN-SUFFIX,geforce.cn
+DOMAIN-SUFFIX,gputechconf.cn
+DOMAIN-SUFFIX,nvidia.cn

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cas
+
+host-suffix, csdl.ac.cn, proxy
+host-suffix, iscas.ac.cn, proxy
+host-suffix, las.ac.cn, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apipost
+
+host-suffix, apipost.cn, proxy
+host-suffix, apipost.net, proxy

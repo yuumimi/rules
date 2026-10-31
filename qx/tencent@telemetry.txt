@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tencent
+
+host-suffix, badjs.weixinbridge.com, proxy
+host-suffix, beacon.cdn.qq.com, proxy
+host-suffix, beacon.qq.com, proxy
+host-suffix, beaconcdn.qq.com, proxy
+host-suffix, btrace.qq.com, proxy
+host-suffix, bugly.qq.com, proxy
+host-suffix, htrace.wetvinfo.com, proxy
+host-suffix, log.tbs.qq.com, proxy
+host-suffix, monitor.music.qq.com, proxy
+host-suffix, monitor.uu.qq.com, proxy
+host-suffix, mtrace.qq.com, proxy
+host-suffix, report.qqweb.qq.com, proxy
+host-suffix, report.tencentmusic.com, proxy
+host-suffix, rmonitor.qq.com, proxy
+host-suffix, sngmta.qq.com, proxy
+host-suffix, stat.y.qq.com, proxy
+host-suffix, tpstelemetry.tencent.com, proxy
+host-suffix, trace.qq.com, proxy

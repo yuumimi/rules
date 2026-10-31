@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hdrezka
+
+# Behavior: domain
+
+payload:
+  - "+.hdrezka-home.tv"
+  - "+.hdrezka.ac"
+  - "+.hdrezka.ag"
+  - "+.hdrezka.cm"
+  - "+.hdrezka.co"
+  - "+.hdrezka.me"
+  - "+.hdrezka.org"
+  - "+.hdrezka.site"
+  - "+.hdrzk.org"
+  - "+.rezka.ag"
+  - "+.rezka.fi"
+  - "+.static.voidboost.com"
+  - "+.statichdrezka.ac"
+  - "+.stream.voidboost.cc"
+  - "+.stream.voidboost.one"
+  - "+.voidslam.org"

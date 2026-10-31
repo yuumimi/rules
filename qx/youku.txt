@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youku
+
+host, ykimg.alicdn.com, proxy
+host-suffix, 9xsecndns.cn, proxy
+host-suffix, kumiao.com, proxy
+host-suffix, soku.com, proxy
+host-suffix, tudou.com, proxy
+host-suffix, ykimg.com, proxy
+host-suffix, youku.com, proxy
+host-suffix, youku.tv, proxy
+host-suffix, youkuhonor.com, proxy
+host-suffix, youkuplay.com, proxy

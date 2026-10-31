@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netcraze
+
+host-suffix, crazedns.ru, proxy
+host-suffix, netcraze.club, proxy
+host-suffix, netcraze.link, proxy
+host-suffix, netcraze.pro, proxy
+host-suffix, netcraze.ru, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/camwhores
+
+host-suffix, camwhores.tv, proxy
+host-suffix, camwhores.video, proxy

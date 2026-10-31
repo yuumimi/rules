@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kurogames
+
+host-suffix, aki-game.com, proxy
+host-suffix, aki-game.net, proxy
+host-suffix, aki-game2.com, proxy
+host-suffix, aki-game2.net, proxy
+host-suffix, kurobbs.com, proxy
+host-suffix, kurogame-service.com, proxy
+host-suffix, kurogame.com, proxy
+host-suffix, kurogame.net, proxy
+host-suffix, kurogame.xyz, proxy
+host-suffix, kurogames-ads.com, proxy
+host-suffix, kurogames.com, proxy
+host-suffix, kurogames.net, proxy
+host-suffix, wutheringwaves.cn, proxy

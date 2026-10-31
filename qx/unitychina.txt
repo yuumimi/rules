@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/unitychina
+
+host-suffix, u3d.cn, proxy
+host-suffix, unity.cn, proxy
+host-suffix, unity3dcloud.cn, proxy
+host-suffix, unitychina.cn, proxy

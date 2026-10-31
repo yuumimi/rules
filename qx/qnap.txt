@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qnap
+
+host-suffix, mycloudnas.com, proxy
+host-suffix, myqnapcloud.cn, proxy
+host-suffix, myqnapcloud.com, proxy
+host-suffix, qlink.to, proxy
+host-suffix, qlinkto.cn, proxy
+host-suffix, qnap.com, proxy
+host-suffix, qnap.com.cn, proxy
+host-suffix, qnapsupport.net, proxy

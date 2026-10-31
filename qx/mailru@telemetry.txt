@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mailru
+
+host, sentry-ng.g.smailru.net, proxy
+host, sentry.dev-my.com, proxy
+host, sentry.dev-my.games, proxy
+host, sentry.rustore.ru, proxy
+host, sentry.viqeo.tv, proxy
+host, srch-telemeter10.g.smailru.net, proxy
+host, stats.dahlmessenger.com, proxy
+host, stats.dev.telega.info, proxy
+host, stats.rustore.ru, proxy
+host, stats.telega.info, proxy
+host, stats.vk-portal.net, proxy
+host-suffix, apptracer.ru, proxy
+host-suffix, log.dzen.ru, proxy
+host-suffix, metrics.viqeo.tv, proxy

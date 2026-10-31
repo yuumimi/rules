@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/divar
+
+DOMAIN-SUFFIX,divar.cloud
+DOMAIN-SUFFIX,divar.ir
+DOMAIN-SUFFIX,divarcdn.com

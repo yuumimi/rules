@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/telekom
+
+host-suffix, telekom.com, proxy
+host-suffix, telekom.de, proxy
+host-suffix, telesec.de, proxy

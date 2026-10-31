@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/raiffeisenbank
+
+host-suffix, aval.ua, proxy
+host-suffix, priorbank.by, proxy
+host-suffix, raiffeisen-kosovo.com, proxy
+host-suffix, raiffeisen-media.ru, proxy
+host-suffix, raiffeisen.al, proxy
+host-suffix, raiffeisen.hu, proxy
+host-suffix, raiffeisen.ro, proxy
+host-suffix, raiffeisen.ru, proxy
+host-suffix, raiffeisen.ua, proxy
+host-suffix, raiffeisenbank.ba, proxy
+host-suffix, raiffeisenbank.rs, proxy
+host-suffix, rb.cz, proxy
+host-suffix, rba.hr, proxy
+host-suffix, rbinternational.com, proxy
+host-suffix, rzb.at, proxy
+host-suffix, tatrabanka.sk, proxy

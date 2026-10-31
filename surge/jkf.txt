@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jkf
+
+.jkf.net
+.jkface.net
+.jkforum.net
+.jr24h.com
+.jvid.com

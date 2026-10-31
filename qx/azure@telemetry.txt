@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/azure
+
+host, dc.applicationinsights.azure.com, proxy
+host, live.applicationinsights.azure.com, proxy
+host-suffix, in.applicationinsights.azure.com, proxy

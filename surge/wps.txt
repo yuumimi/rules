@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wps
+
+.51dzt.com
+.docer.com
+.iciba.com
+.kdocs.cn
+.kimxz.com
+.papocket.com
+.qwps.cn
+.wps.cn
+.wps.com
+.wpscdn.cn
+.wpscdn.com
+.wpsmail.net
+.wpspdf.cn

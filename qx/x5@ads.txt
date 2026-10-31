@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/x5
+
+host, ads.x5.ru, proxy
+host, ads.x5media.ru, proxy
+host, sentry.x5.ru, proxy

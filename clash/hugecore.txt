@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hugecore
+
+# Behavior: domain
+
+payload:
+  - "+.hugecore.net"
+  - "+.mojidict.com"
+  - "+.shareintelli.com"

@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/umeng
+
+host-suffix, aaid.umeng.com, proxy
+host-suffix, alog.umeng.com, proxy
+host-suffix, alog.umengcloud.com, proxy
+host-suffix, alogs.umeng.com, proxy
+host-suffix, alogus.umeng.com, proxy
+host-suffix, ar.umeng.com, proxy
+host-suffix, aspect-upush.umeng.com, proxy
+host-suffix, audid.umeng.com, proxy
+host-suffix, ccs.umeng.com, proxy
+host-suffix, cnlogs.umeng.com, proxy
+host-suffix, cnlogs.umengcloud.com, proxy
+host-suffix, log.umtrack.com, proxy
+host-suffix, new-aaid.umeng.com, proxy
+host-suffix, new-aaid.umeng.com.gds.alibabadns.com, proxy
+host-suffix, oc.umeng.com, proxy
+host-suffix, plbslog.umeng.com, proxy
+host-suffix, resolve.umeng.com, proxy
+host-suffix, ulogs.umeng.com, proxy
+host-suffix, ulogs.umengcloud.com, proxy
+host-suffix, utoken.umeng.com, proxy
+host-suffix, w.cnzz.com, proxy
+host-suffix, z.gds.cnzz.com, proxy

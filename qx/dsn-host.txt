@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dsn-host
+
+host-suffix, ds-servers.com, proxy
+host-suffix, dsn.host, proxy
+host-suffix, dsncdn.net, proxy

@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/collabora
+
+.collabora.co.uk
+.collabora.com
+.collabora.org
+.collaboraoffice.com

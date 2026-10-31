@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nowcoder
+
+.newcoder.com
+.nowcoder.com
+.nowcoder.net
+.nowcoder.org

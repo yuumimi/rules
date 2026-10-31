@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sina
+
+host-suffix, beacon.sina.com.cn, proxy
+host-suffix, log.sina.cn, proxy
+host-suffix, log2.sina.cn, proxy
+host-suffix, sbeacon.sina.com.cn, proxy
+host-suffix, slog.sina.cn, proxy
+host-suffix, slog.sina.com.cn, proxy

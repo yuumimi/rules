@@ -1,0 +1,35 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/verisign
+
+host-suffix, verisign.asia, proxy
+host-suffix, verisign.biz, proxy
+host-suffix, verisign.ch, proxy
+host-suffix, verisign.co.in, proxy
+host-suffix, verisign.co.uk, proxy
+host-suffix, verisign.com, proxy
+host-suffix, verisign.com.au, proxy
+host-suffix, verisign.com.br, proxy
+host-suffix, verisign.com.cn, proxy
+host-suffix, verisign.com.es, proxy
+host-suffix, verisign.com.hk, proxy
+host-suffix, verisign.com.sg, proxy
+host-suffix, verisign.com.tw, proxy
+host-suffix, verisign.com.vn, proxy
+host-suffix, verisign.de, proxy
+host-suffix, verisign.dk, proxy
+host-suffix, verisign.es, proxy
+host-suffix, verisign.fr, proxy
+host-suffix, verisign.hk, proxy
+host-suffix, verisign.in, proxy
+host-suffix, verisign.info, proxy
+host-suffix, verisign.jobs, proxy
+host-suffix, verisign.mobi, proxy
+host-suffix, verisign.name, proxy
+host-suffix, verisign.net, proxy
+host-suffix, verisign.org, proxy
+host-suffix, verisign.pro, proxy
+host-suffix, verisign.se, proxy
+host-suffix, verisign.sg, proxy
+host-suffix, verisign.tw, proxy
+host-suffix, verisign.us, proxy
+host-suffix, verisign.vn, proxy
+host-suffix, verisigninc.com, proxy

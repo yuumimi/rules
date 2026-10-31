@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-media
+
+DOMAIN-SUFFIX,cn-cdn1.skymansion.net
+DOMAIN-SUFFIX,etnet.com.cn
+DOMAIN-SUFFIX,etnetchina.com.cn
+DOMAIN-SUFFIX,thetype.cloud
+DOMAIN-SUFFIX,tvbc.com.cn

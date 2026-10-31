@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/auxgroup
+
+# Behavior: domain
+
+payload:
+  - "+.aufit-air.com"
+  - "+.aux-global.com"
+  - "+.auxair.com"
+  - "+.auxcac.cn"
+  - "+.auxsmart.com"
+  - "+.sanxingelectric.com"
+  - "+.shinflow.com"

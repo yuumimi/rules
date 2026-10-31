@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-social-media-cn
+
+host-suffix, beacon.sina.com.cn, proxy
+host-suffix, crash2.zhihu.com, proxy
+host-suffix, log.sina.cn, proxy
+host-suffix, log2.sina.cn, proxy
+host-suffix, sbeacon.sina.com.cn, proxy
+host-suffix, slog.sina.cn, proxy
+host-suffix, slog.sina.com.cn, proxy
+host-suffix, zhihu-web-analytics.zhihu.com, proxy

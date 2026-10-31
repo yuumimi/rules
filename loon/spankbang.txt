@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/spankbang
+
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,spankbang.com
+DOMAIN-SUFFIX,spankbang.party

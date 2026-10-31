@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dingtalk
+
+# Behavior: domain
+
+payload:
+  - "+.ddurl.to"
+  - "+.dingding.xin"
+  - "+.dingstore.cn"
+  - "+.dingtalk.cn"
+  - "+.dingtalk.com"
+  - "+.dingtalk.net"
+  - "+.dingtalkapps.com"
+  - "+.dingtalkcloud.com"
+  - "+.laiwang.com"
+  - "+.lwurl.to"
+  - "+.ztna-dingtalk.com"

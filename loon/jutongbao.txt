@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jutongbao
+
+DOMAIN-SUFFIX,guanggaotongapp.cn
+DOMAIN-SUFFIX,jutongbao.online
+DOMAIN-SUFFIX,jutongbao.top

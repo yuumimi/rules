@@ -1,0 +1,22 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-payment-ir
+
+# Behavior: domain
+
+payload:
+  - "+.asanpardakht.com"
+  - "+.asanpardakht.net"
+  - "+.behpardakht.com"
+  - "+.bitbarg.me"
+  - "+.iranicard.ir"
+  - "+.mydigipay.com"
+  - "+.pay.ir"
+  - "+.payping.ir"
+  - "+.pec.ir"
+  - "+.pep.co.ir"
+  - "+.sadadpsp.ir"
+  - "+.sep.ir"
+  - "+.shaparak.ir"
+  - "+.vandar.app"
+  - "+.vandar.io"
+  - "+.weswap.digital"
+  - "+.zarinpal.com"

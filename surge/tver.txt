@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tver
+
+.dogatch.jp
+.gorin.jp
+.screens-lab.jp
+.tver.co.jp
+.tver.jp

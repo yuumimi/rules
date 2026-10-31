@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cambridge
+
+.cam.ac.uk
+.cambridge.org
+.cambridgedigital.net
+.cambridgemaths.org
+.cambridgeschoolshakespeare.com
+.dlib.eastview.com

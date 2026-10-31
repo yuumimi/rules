@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wildberries
+
+host, analytics-stage.wildberries.ru, proxy
+host, analytics.wildberries.ru, proxy
+host, marketplace-sentry.wb.ru, proxy
+host, sentry.wb.ru, proxy
+host, web-analytics.wildberries.ru, proxy

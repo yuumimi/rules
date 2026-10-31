@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/moxing
+
+host-suffix, moxing.mobi, proxy
+host-suffix, moxing.news, proxy

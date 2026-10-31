@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ftv
+
+host-suffix, 4gtv.tv, proxy
+host-suffix, ftv.com.tw, proxy
+host-suffix, ftvnews.com.tw, proxy

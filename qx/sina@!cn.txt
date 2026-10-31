@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sina
+
+host-suffix, hk.weibo.com, proxy
+host-suffix, my.weibo.com, proxy
+host-suffix, overseas.weibo.com, proxy
+host-suffix, sg.weibo.com, proxy
+host-suffix, th.weibo.com, proxy
+host-suffix, tw.weibo.com, proxy
+host-suffix, us.weibo.com, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cloudns
+
+# Behavior: domain
+
+payload:
+  - "+.cloudns.nz"
+  - "+.cloudns.ph"

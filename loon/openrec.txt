@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openrec
+
+DOMAIN,dqd0jw5gvbchn.cloudfront.net
+DOMAIN-SUFFIX,openrec.tv

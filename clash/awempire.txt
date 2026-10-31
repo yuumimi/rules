@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/awempire
+
+# Behavior: domain
+
+payload:
+  - "+.awempire.com"
+  - "+.dditsadn.com"
+  - "+.dditscdn.com"
+  - "+.docleradn.com"
+  - "+.doclercdn.com"

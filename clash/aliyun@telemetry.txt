@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aliyun
+
+# Behavior: domain
+
+payload:
+  - "+.adash-emas.cn-hangzhou.aliyuncs.com"
+  - "+.adash.man.aliyuncs.com"

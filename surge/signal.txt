@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/signal
+
+.signal.art
+.signal.group
+.signal.link
+.signal.me
+.signal.org
+.signal.tube
+.signalusers.org
+.whispersystems.org

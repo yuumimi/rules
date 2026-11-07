@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/smzdm
+
+host-suffix, smzdm.com, proxy
+host-suffix, smzdmimg.com, proxy
+host-suffix, zdmimg.com, proxy
+host-suffix, zhidemai.com, proxy

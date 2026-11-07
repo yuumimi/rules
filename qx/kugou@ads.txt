@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kugou
+
+host-suffix, ads.service.kugou.com, proxy
+host-suffix, adserviceretry.kglink.cn, proxy
+host-suffix, adserviceretry.kugou.com, proxy

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/otpbank
+
+host-suffix, ckb.me, proxy
+host-suffix, dskbank.bg, proxy
+host-suffix, ipotekabank.uz, proxy
+host-suffix, mobiasbanca.md, proxy
+host-suffix, otpbank.al, proxy
+host-suffix, otpbank.com.ua, proxy
+host-suffix, otpbank.hu, proxy
+host-suffix, otpbank.ru, proxy
+host-suffix, otpbanka.hr, proxy
+host-suffix, otpbanka.rs, proxy
+host-suffix, otpbanka.si, proxy
+host-suffix, otpgroup.info, proxy

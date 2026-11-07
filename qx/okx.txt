@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/okx
+
+host-suffix, okex.com, proxy
+host-suffix, oklink.com, proxy
+host-suffix, okx-dns.com, proxy
+host-suffix, okx-dns1.com, proxy
+host-suffix, okx-dns2.com, proxy
+host-suffix, okx.ac, proxy
+host-suffix, okx.cab, proxy
+host-suffix, okx.com, proxy
+host-suffix, okx.com.cdn.cloudflare.net, proxy
+host-suffix, xlayer.tech, proxy

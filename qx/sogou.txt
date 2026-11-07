@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sogou
+
+host-suffix, binglianhuajianzhan.com, proxy
+host-suffix, ggoplay.com, proxy
+host-suffix, ggowan.com, proxy
+host-suffix, go2map.com, proxy
+host-suffix, pinyin.cn, proxy
+host-suffix, qd.ink, proxy
+host-suffix, sg.cn, proxy
+host-suffix, sgtmos.com, proxy
+host-suffix, sgyeyou.com, proxy
+host-suffix, sgyouxi.com, proxy
+host-suffix, sogo.com, proxy
+host-suffix, sogou-inc.com, proxy
+host-suffix, sogou-op.org, proxy
+host-suffix, sogou.cn, proxy
+host-suffix, sogou.com, proxy
+host-suffix, sogou.com.cn, proxy
+host-suffix, sogou.net, proxy
+host-suffix, sogoucdn.com, proxy
+host-suffix, sogoucdndl.com, proxy
+host-suffix, sogouimecdn.com, proxy
+host-suffix, soso.com, proxy
+host-suffix, soso.com.cn, proxy
+host-suffix, sososnap.com, proxy
+host-suffix, teemo.cn, proxy
+host-suffix, wannianqingjianzhan.com, proxy
+host-suffix, xiangrikuijianzhan.com, proxy
+host-suffix, xiangrikuisite.com, proxy
+host-suffix, xinyan.cn, proxy
+host-suffix, yeyousg.com, proxy
+host-suffix, yidianliulan.cn, proxy
+host-suffix, yidianliulan.com, proxy
+host-suffix, yuweikuijianzhan.com, proxy

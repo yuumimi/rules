@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bitauto
+
+host-suffix, bitauto.com, proxy
+host-suffix, bitautoimg.com, proxy
+host-suffix, cheyisou.com, proxy
+host-suffix, yccdn.com, proxy
+host-suffix, yiche.com, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cian
+
+host-suffix, cian.ru, proxy
+host-suffix, cian.site, proxy
+host-suffix, ciangroup.ru, proxy
+host-suffix, dmir.ru, proxy
+host-suffix, poudobnee.com, proxy
+host-suffix, xn--80aaafbpzn5blfby1p.xn--p1ai, proxy
+host-suffix, xn--80aaeib8abrryx4k.xn--p1ai, proxy

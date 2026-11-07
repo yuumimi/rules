@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/shuqi
+
+host-suffix, 11222.cn, proxy
+host-suffix, aliwx.com.cn, proxy
+host-suffix, aliwx.net, proxy
+host-suffix, ishuqi.com, proxy
+host-suffix, newstjk.com, proxy
+host-suffix, shuqi.com, proxy
+host-suffix, shuqiapi.com, proxy
+host-suffix, shuqiread.com, proxy
+host-suffix, shuqireader.com, proxy
+host-suffix, shuqistat.com, proxy
+host-suffix, sqreader.com, proxy

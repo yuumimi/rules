@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hooligapps
+
+DOMAIN-SUFFIX,cuntempire.com
+DOMAIN-SUFFIX,cuntwars.com
+DOMAIN-SUFFIX,dirtyleague.com
+DOMAIN-SUFFIX,faptitans.com
+DOMAIN-SUFFIX,hooligapps.com
+DOMAIN-SUFFIX,slotbitches.com
+DOMAIN-SUFFIX,smutstone.com
+DOMAIN-SUFFIX,townofsins.com

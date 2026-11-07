@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/afdian
+
+DOMAIN-SUFFIX,afdian.com
+DOMAIN-SUFFIX,afdian.net
+DOMAIN-SUFFIX,afdiancdn.com
+DOMAIN-SUFFIX,ifdian.net

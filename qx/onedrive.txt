@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/onedrive
+
+host-suffix, 1drv.com, proxy
+host-suffix, 1drv.ms, proxy
+host-suffix, livefilestore.com, proxy
+host-suffix, onedrive.co, proxy
+host-suffix, onedrive.co.uk, proxy
+host-suffix, onedrive.com, proxy
+host-suffix, onedrive.eu, proxy
+host-suffix, onedrive.live.com, proxy
+host-suffix, onedrive.net, proxy
+host-suffix, onedrive.org, proxy
+host-suffix, storage.live.com, proxy

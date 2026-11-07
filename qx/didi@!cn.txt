@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/didi
+
+host-suffix, didi-food.com, proxy
+host-suffix, didiaustralia.blog, proxy
+host-suffix, didiglobal.com, proxy
+host-suffix, didimobility.co.jp, proxy

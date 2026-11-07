@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/avaxhome
+
+DOMAIN-SUFFIX,avh.world
+DOMAIN-SUFFIX,avxde.org
+DOMAIN-SUFFIX,avxhm.is
+DOMAIN-SUFFIX,avxhm.se
+DOMAIN-SUFFIX,avxlive.icu
+DOMAIN-SUFFIX,xsava.xyz
+DOMAIN-SUFFIX,zavat.pw

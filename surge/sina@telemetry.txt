@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sina
+
+.beacon.sina.com.cn
+.log.sina.cn
+.log2.sina.cn
+.sbeacon.sina.com.cn
+.slog.sina.cn
+.slog.sina.com.cn

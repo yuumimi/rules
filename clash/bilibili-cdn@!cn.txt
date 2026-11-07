@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili-cdn
+
+# Behavior: domain
+
+payload:
+  - "upos-hz-mirrorakam.akamaized.net"

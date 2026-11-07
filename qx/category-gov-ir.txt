@@ -1,0 +1,31 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-gov-ir
+
+host-suffix, adliran.ir, proxy
+host-suffix, agrieng.org, proxy
+host-suffix, bazresi.ir, proxy
+host-suffix, bia-judiciary.ir, proxy
+host-suffix, budget.imo.org.ir, proxy
+host-suffix, dadiran.ir, proxy
+host-suffix, dadsara.ir, proxy
+host-suffix, dadsetani.ir, proxy
+host-suffix, divan-edalat.ir, proxy
+host-suffix, dmk.ir, proxy
+host-suffix, doe.ir, proxy
+host-suffix, dolat.ir, proxy
+host-suffix, eadl.ir, proxy
+host-suffix, enamad.ir, proxy
+host-suffix, gov.ir, proxy
+host-suffix, hadafmandi.ir, proxy
+host-suffix, intamedia.ir, proxy
+host-suffix, irimo.ir, proxy
+host-suffix, moi.ir, proxy
+host-suffix, mporg.ir, proxy
+host-suffix, parliran.ir, proxy
+host-suffix, post.ir, proxy
+host-suffix, president.ir, proxy
+host-suffix, refahi.ir, proxy
+host-suffix, sahamedalat.ir, proxy
+host-suffix, samandehi.ir, proxy
+host-suffix, samanese.ir, proxy
+host-suffix, sccr.ir, proxy
+host-suffix, shora-gc.ir, proxy

@@ -1,0 +1,30 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lanzou
+
+host-suffix, baidupan.com, proxy
+host-suffix, ilanzou.com, proxy
+host-suffix, lanosso.com, proxy
+host-suffix, lanrar.com, proxy
+host-suffix, lanzou.com, proxy
+host-suffix, lanzoub.com, proxy
+host-suffix, lanzouc.com, proxy
+host-suffix, lanzoue.com, proxy
+host-suffix, lanzouf.com, proxy
+host-suffix, lanzoug.com, proxy
+host-suffix, lanzouh.com, proxy
+host-suffix, lanzoui.com, proxy
+host-suffix, lanzouj.com, proxy
+host-suffix, lanzouk.com, proxy
+host-suffix, lanzoul.com, proxy
+host-suffix, lanzoum.com, proxy
+host-suffix, lanzouo.com, proxy
+host-suffix, lanzoup.com, proxy
+host-suffix, lanzouq.com, proxy
+host-suffix, lanzous.com, proxy
+host-suffix, lanzout.com, proxy
+host-suffix, lanzouu.com, proxy
+host-suffix, lanzouv.com, proxy
+host-suffix, lanzouw.com, proxy
+host-suffix, lanzoux.com, proxy
+host-suffix, lanzouy.com, proxy
+host-suffix, lanzov.com, proxy
+host-suffix, woozooo.com, proxy

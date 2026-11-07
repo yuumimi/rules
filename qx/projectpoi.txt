@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/projectpoi
+
+host-suffix, poi.icu, proxy
+host-suffix, poi6.net, proxy
+host-suffix, poihub.com, proxy
+host-suffix, project-poi.com, proxy

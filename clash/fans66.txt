@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fans66
+
+# Behavior: domain
+
+payload:
+  - "+.fans66.tw"
+  - "+.fansking.tw"

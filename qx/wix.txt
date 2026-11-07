@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wix
+
+host-suffix, editorx.com, proxy
+host-suffix, parastorage.com, proxy
+host-suffix, wix-code.com, proxy
+host-suffix, wix.com, proxy
+host-suffix, wixanswers.com, proxy
+host-suffix, wixapps.net, proxy
+host-suffix, wixmp.com, proxy
+host-suffix, wixsite.com, proxy
+host-suffix, wixstatic.com, proxy

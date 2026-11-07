@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sohu
+
+host-suffix, 17173.com, proxy
+host-suffix, 17173cdn.com, proxy
+host-suffix, 56.com, proxy
+host-suffix, 56img.com, proxy
+host-suffix, changyou.com, proxy
+host-suffix, cy.com, proxy
+host-suffix, focus-img.cn, proxy
+host-suffix, focus.cn, proxy
+host-suffix, itc.cn, proxy
+host-suffix, kuaizhan.com, proxy
+host-suffix, playcool.com, proxy
+host-suffix, sohu, proxy
+host-suffix, sohu.com, proxy
+host-suffix, sohucs.com, proxy
+host-suffix, yeyou.com, proxy
+host-suffix, yeyoucdn.com, proxy

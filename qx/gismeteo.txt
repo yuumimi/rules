@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gismeteo
+
+host-suffix, gismeteo.by, proxy
+host-suffix, gismeteo.com, proxy
+host-suffix, gismeteo.net, proxy
+host-suffix, gismeteo.ru, proxy
+host-suffix, gismeteo.st, proxy
+host-suffix, meteofor.com, proxy
+host-suffix, meteofor.st, proxy

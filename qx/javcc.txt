@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/javcc
+
+host-suffix, javcc.cc, proxy
+host-suffix, javcc.com, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zaobao
+
+host-suffix, zaobao.com, proxy
+host-suffix, zaobao.com.sg, proxy
+host-suffix, zaobao.sg, proxy

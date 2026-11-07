@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/newsmax
+
+host-suffix, andysparis.com, proxy
+host-suffix, newsmax.com, proxy
+host-suffix, newsmax.in, proxy
+host-suffix, newsmaxtv.com, proxy

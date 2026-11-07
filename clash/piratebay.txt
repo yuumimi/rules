@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/piratebay
+
+# Behavior: domain
+
+payload:
+  - "+.apibay.org"
+  - "+.pirates-forum.org"
+  - "+.thepiratebay.org"
+  - "+.torrindex.net"

@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/motorola
+
+host-suffix, hellomoto.com, proxy
+host-suffix, moto.com, proxy
+host-suffix, motorola.ca, proxy
+host-suffix, motorola.cl, proxy
+host-suffix, motorola.co, proxy
+host-suffix, motorola.co.id, proxy
+host-suffix, motorola.co.jp, proxy
+host-suffix, motorola.co.th, proxy
+host-suffix, motorola.co.uk, proxy
+host-suffix, motorola.com, proxy
+host-suffix, motorola.com.au, proxy
+host-suffix, motorola.com.co, proxy
+host-suffix, motorola.com.pe, proxy
+host-suffix, motorola.com.pr, proxy
+host-suffix, motorola.de, proxy
+host-suffix, motorola.es, proxy
+host-suffix, motorola.fr, proxy
+host-suffix, motorola.gr, proxy
+host-suffix, motorola.in, proxy
+host-suffix, motorola.it, proxy
+host-suffix, motorola.net, proxy
+host-suffix, motorola.vn, proxy
+host-suffix, motorolacareers.com, proxy
+host-suffix, motorolanews.com, proxy
+host-suffix, motorolasolutions.com, proxy

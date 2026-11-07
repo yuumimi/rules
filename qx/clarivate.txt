@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/clarivate
+
+host-suffix, clarivate.com, proxy
+host-suffix, isiknowledge.com, proxy
+host-suffix, newisiknowledge.com, proxy
+host-suffix, webofknowledge.com, proxy
+host-suffix, webofscience.com, proxy

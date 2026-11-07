@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/patreon
+
+# Behavior: domain
+
+payload:
+  - "+.patreon.com"
+  - "+.patreoncommunity.com"
+  - "+.patreonusercontent.com"
+  - "live-patreon-marketing.pantheonsite.io"

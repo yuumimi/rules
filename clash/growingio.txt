@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/growingio
+
+# Behavior: domain
+
+payload:
+  - "+.datayi.cn"
+  - "+.gio.ren"
+  - "+.giocdn.com"
+  - "+.growin.cn"
+  - "+.growingio.cn"
+  - "+.growingio.com"

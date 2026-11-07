@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mxroute
+
+host-suffix, mxlogin.com, proxy
+host-suffix, mxroute.com, proxy
+host-suffix, mxroutedocs.com, proxy
+host-suffix, mxroutehelp.com, proxy
+host-suffix, mxrouting.net, proxy

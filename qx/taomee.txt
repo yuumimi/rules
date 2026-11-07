@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/taomee
+
+host-suffix, 61.com, proxy
+host-suffix, taomee.com, proxy

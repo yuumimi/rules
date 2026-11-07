@@ -1,0 +1,30 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rb
+
+host-suffix, aerogard.com.cn, proxy
+host-suffix, airwick.com.cn, proxy
+host-suffix, calgon.cn, proxy
+host-suffix, clearasil.cn, proxy
+host-suffix, clearasil.com.cn, proxy
+host-suffix, dettol.com.cn, proxy
+host-suffix, dishwashingexpert.com.cn, proxy
+host-suffix, durex.com.cn, proxy
+host-suffix, durexchina.com.cn, proxy
+host-suffix, enfinitas.com.cn, proxy
+host-suffix, finish.com.cn, proxy
+host-suffix, lovesexdurex.cn, proxy
+host-suffix, lysol.cn, proxy
+host-suffix, lysol.com.cn, proxy
+host-suffix, meadjohnson.com.cn, proxy
+host-suffix, mortein.cn, proxy
+host-suffix, movefree.cn, proxy
+host-suffix, nurofen.cn, proxy
+host-suffix, nurofen.com.cn, proxy
+host-suffix, reckittbenckiser.cn, proxy
+host-suffix, reckittbenckiser.com.cn, proxy
+host-suffix, strepsils.cn, proxy
+host-suffix, strepsils.com.cn, proxy
+host-suffix, vanish.cn, proxy
+host-suffix, veet.cn, proxy
+host-suffix, veet.com.cn, proxy
+host-suffix, woolite.cn, proxy
+host-suffix, woolite.com.cn, proxy

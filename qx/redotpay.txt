@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/redotpay
+
+host-suffix, pod-15-sunco-ws.zendesk.com, proxy
+host-suffix, redotpay.com, proxy
+host-suffix, redotpay.zendesk.com, proxy
+host-suffix, rp-static-apne1.s3.ap-northeast-1.amazonaws.com, proxy
+host-suffix, xhpjc6-cdn-settings.appsflyersdk.com, proxy

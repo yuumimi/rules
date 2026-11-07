@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/newegg
+
+DOMAIN-SUFFIX,newegg.com
+DOMAIN-SUFFIX,neweggimages.com

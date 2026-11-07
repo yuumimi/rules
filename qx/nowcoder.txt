@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nowcoder
+
+host-suffix, newcoder.com, proxy
+host-suffix, nowcoder.com, proxy
+host-suffix, nowcoder.net, proxy
+host-suffix, nowcoder.org, proxy

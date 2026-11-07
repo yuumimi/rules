@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/clips4sale
+
+.c4slive.com
+.clips4sale.com
+.videos4sale.com

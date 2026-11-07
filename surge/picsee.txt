@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/picsee
+
+.pics.ee
+.picsee.co
+.picsee.pro
+.pise.pw
+.pros.ee
+.pse.is

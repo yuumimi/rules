@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-web-archive
+
+host-suffix, 4pcdn.org, proxy
+host-suffix, 4plebs.org, proxy
+host-suffix, archive-it.org, proxy
+host-suffix, archive.fo, proxy
+host-suffix, archive.is, proxy
+host-suffix, archive.li, proxy
+host-suffix, archive.md, proxy
+host-suffix, archive.org, proxy
+host-suffix, archive.ph, proxy
+host-suffix, archive.today, proxy
+host-suffix, archive.vn, proxy
+host-suffix, eotarchive.org, proxy
+host-suffix, ghostarchive.org, proxy
+host-suffix, megalodon.jp, proxy
+host-suffix, mementoweb.org, proxy
+host-suffix, openlibrary.org, proxy
+host-suffix, perma.cc, proxy
+host-suffix, webcitation.org, proxy

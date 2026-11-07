@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xtom
+
+host-suffix, v.ps, proxy
+host-suffix, vps.hosting, proxy
+host-suffix, xtom.au, proxy
+host-suffix, xtom.com, proxy
+host-suffix, xtom.de, proxy
+host-suffix, xtom.ee, proxy
+host-suffix, xtom.hk, proxy
+host-suffix, xtom.jp, proxy
+host-suffix, xtom.nl, proxy
+host-suffix, xtom.sg, proxy
+host-suffix, xtom.social, proxy
+host-suffix, xtom.us, proxy

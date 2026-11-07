@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kuaidi100
+
+host-suffix, ckd.im, proxy
+host-suffix, kd100.com, proxy
+host-suffix, kuaidi100.com, proxy
+host-suffix, kuaidilab.com, proxy

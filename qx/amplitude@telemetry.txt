@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amplitude
+
+host-suffix, api-secure.amplitude.com, proxy
+host-suffix, api-secure.eu.amplitude.com, proxy
+host-suffix, api-sr.amplitude.com, proxy
+host-suffix, api-sr.eu.amplitude.com, proxy
+host-suffix, api.amplitude.com, proxy
+host-suffix, api.eu.amplitude.com, proxy
+host-suffix, api2.amplitude.com, proxy
+host-suffix, assistant-api.amplitude.com, proxy
+host-suffix, assistant-api.eu.amplitude.com, proxy
+host-suffix, cdn.amplitude.com, proxy
+host-suffix, cdn.eu.amplitude.com, proxy
+host-suffix, engagement-static.amplitude.com, proxy
+host-suffix, engagement-static.eu.amplitude.com, proxy
+host-suffix, gs.amplitude.com, proxy
+host-suffix, gs.eu.amplitude.com, proxy
+host-suffix, lab.amplitude.com, proxy
+host-suffix, lab.eu.amplitude.com, proxy
+host-suffix, regionconfig.amplitude.com, proxy
+host-suffix, regionconfig.eu.amplitude.com, proxy
+host-suffix, sr-client-cfg.amplitude.com, proxy
+host-suffix, sr-client-cfg.eu.amplitude.com, proxy

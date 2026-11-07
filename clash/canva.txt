@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/canva
+
+# Behavior: domain
+
+payload:
+  - "+.affinity-beta.s3.amazonaws.com"
+  - "+.affinity-lessons.s3.amazonaws.com"
+  - "+.affinity.api.serifservices.com"
+  - "+.affinity.studio"
+  - "+.canva.com"
+  - "+.canvastatus.com"

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/shireyishunjian
+
+host-suffix, shireyishunjian.com, proxy
+host-suffix, yingpianqu.com, proxy

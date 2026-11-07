@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youporn
+
+host-suffix, extremetube.com, proxy
+host-suffix, keezmovies.com, proxy
+host-suffix, yopornshop.com, proxy
+host-suffix, youporn.com, proxy
+host-suffix, youporngay.com, proxy
+host-suffix, youpornpremium.com, proxy
+host-suffix, youpornru.com, proxy
+host-suffix, ypncdn.com, proxy

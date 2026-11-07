@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/strikingly
+
+host-suffix, mystrikingly.com, proxy
+host-suffix, strikingly.com, proxy
+host-suffix, strikinglycdn.com, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/msi
+
+host-suffix, msi.cn, proxy
+host-suffix, msi.com, proxy

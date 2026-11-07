@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vrcdn
+
+host-suffix, vrcdn.cloud, proxy
+host-suffix, vrcdn.live, proxy
+host-suffix, vrcdn.video, proxy

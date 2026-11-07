@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/javbus
+
+host-suffix, javbus.com, proxy
+host-suffix, javbus22.com, proxy
+host-suffix, javcdn.cc, proxy

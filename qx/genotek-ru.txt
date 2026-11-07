@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/genotek-ru
+
+host-suffix, eligens.cl, proxy
+host-suffix, eligens.com.br, proxy
+host-suffix, eligens.io, proxy
+host-suffix, genetic-technologies.am, proxy
+host-suffix, genotek.am, proxy
+host-suffix, genotek.es, proxy
+host-suffix, genotek.eu, proxy
+host-suffix, genotek.health, proxy
+host-suffix, genotek.ru, proxy

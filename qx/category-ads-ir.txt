@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ads-ir
+
+host-suffix, adivery.com, proxy
+host-suffix, adivery.ir, proxy
+host-suffix, kaprila.com, proxy
+host-suffix, najva.com, proxy
+host-suffix, sabavision.com, proxy
+host-suffix, tapsell.ir, proxy
+host-suffix, yektanet.com, proxy

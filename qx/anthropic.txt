@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anthropic
+
+host, servd-anthropic-website.b-cdn.net, proxy
+host-suffix, ant.dev, proxy
+host-suffix, anthropic.com, proxy
+host-suffix, anthropic.team, proxy
+host-suffix, antspace.dev, proxy
+host-suffix, chatbotclaude.com, proxy
+host-suffix, clau.de, proxy
+host-suffix, claude.ai, proxy
+host-suffix, claude.app, proxy
+host-suffix, claude.com, proxy
+host-suffix, claude.dev, proxy
+host-suffix, claude.new, proxy
+host-suffix, claude.site, proxy
+host-suffix, claudeacademy.com, proxy
+host-suffix, claudemcpclient.com, proxy
+host-suffix, claudemcpcontent.com, proxy
+host-suffix, claudepages.dev, proxy
+host-suffix, claudestudio.com, proxy
+host-suffix, claudeusercontent.com, proxy

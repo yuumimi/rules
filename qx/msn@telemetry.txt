@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/msn
+
+host-suffix, browser.events.data.msn.cn, proxy
+host-suffix, browser.events.data.msn.com, proxy

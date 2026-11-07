@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aparat
+
+host-suffix, aparat.com, proxy
+host-suffix, aparatkids.com, proxy
+host-suffix, aparatsport.com, proxy

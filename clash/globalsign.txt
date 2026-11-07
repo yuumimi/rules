@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/globalsign
+
+# Behavior: domain
+
+payload:
+  - "+.alphassl.com"
+  - "+.easy-signing.com"
+  - "+.globalsign-media.com"
+  - "+.globalsign.be"
+  - "+.globalsign.ch"
+  - "+.globalsign.cloud"
+  - "+.globalsign.cn"
+  - "+.globalsign.co.uk"
+  - "+.globalsign.com"
+  - "+.globalsign.com.au"
+  - "+.globalsign.com.br"
+  - "+.globalsign.com.hk"
+  - "+.globalsign.com.sg"
+  - "+.globalsign.es"
+  - "+.globalsign.eu"
+  - "+.globalsign.fr"
+  - "+.globalsign.net"
+  - "+.globalsign.nl"
+  - "+.globalsigncdn.com"
+  - "cdn.globalsigncdn.com.cdn.cloudflare.net"

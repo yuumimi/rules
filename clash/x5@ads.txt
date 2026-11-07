@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/x5
+
+# Behavior: domain
+
+payload:
+  - "ads.x5.ru"
+  - "ads.x5media.ru"
+  - "sentry.x5.ru"

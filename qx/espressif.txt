@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/espressif
+
+host-suffix, esp32.com, proxy
+host-suffix, esp8266.cn, proxy
+host-suffix, esp8266.com, proxy
+host-suffix, esp8266.com.cn, proxy
+host-suffix, espressif.cn, proxy
+host-suffix, espressif.com, proxy
+host-suffix, espressif.com.cn, proxy

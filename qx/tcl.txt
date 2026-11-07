@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tcl
+
+host-suffix, leiniao.com, proxy
+host-suffix, my7v.com, proxy
+host-suffix, tcl.com, proxy
+host-suffix, tcl.com.cn, proxy
+host-suffix, tclai.top, proxy
+host-suffix, tcltech.com, proxy

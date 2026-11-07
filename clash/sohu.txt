@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sohu
+
+# Behavior: domain
+
+payload:
+  - "+.17173.com"
+  - "+.17173cdn.com"
+  - "+.56.com"
+  - "+.56img.com"
+  - "+.changyou.com"
+  - "+.cy.com"
+  - "+.focus-img.cn"
+  - "+.focus.cn"
+  - "+.itc.cn"
+  - "+.kuaizhan.com"
+  - "+.playcool.com"
+  - "+.sohu"
+  - "+.sohu.com"
+  - "+.sohucs.com"
+  - "+.yeyou.com"
+  - "+.yeyoucdn.com"

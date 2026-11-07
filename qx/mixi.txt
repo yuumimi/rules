@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mixi
+
+host-suffix, mixi.co.jp, proxy
+host-suffix, mixi.jp, proxy
+host-suffix, mixi.net, proxy

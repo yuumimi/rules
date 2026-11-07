@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hamivideo
+
+host, apl-hamivideo.cdn.hinet.net, proxy
+host, chatscc-hamivideo2.cdn.hinet.net, proxy
+host, efe8f8a4-abd5-44c9-bf5c-cd217442c52f.t.ssp.hinet.net, proxy
+host, favoritescc-hamivideo2.cdn.hinet.net, proxy
+host, hamivideo.hinet.net, proxy
+host, hls-hamivideo.cdn.hinet.net, proxy
+host, lgcscc-hamivideo2.cdn.hinet.net, proxy
+host, mobilelive-hamivideo.cdn.hinet.net, proxy
+host, pvr-hamivideo.cdn.hinet.net, proxy
+host, scc-hamivideo.cdn.hinet.net, proxy
+host, scc.ott.hinet.net, proxy
+host, static-hamivideo.cdn.hinet.net, proxy
+host, t.ssp.hinet.net, proxy
+host, thumbnail-hamivideo.cdn.hinet.net, proxy
+host, tlmr-hamivideo2.cdn.hinet.net, proxy
+host, tvcastlive-hamivideo.cdn.hinet.net, proxy
+host, weblive-hamivideo.cdn.hinet.net, proxy
+host, weblivea-hamivideo.cdn.hinet.net, proxy
+host, webvodad-hamivideo.cdn.hinet.net, proxy

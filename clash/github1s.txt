@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/github1s
+
+# Behavior: domain
+
+payload:
+  - "+.github1s.com"
+  - "+.sourcegraph.com"

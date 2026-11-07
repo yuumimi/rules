@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openjsfoundation
+
+host, amp.akamaized.net, proxy
+host-suffix, amp.dev, proxy
+host-suffix, ampproject.com, proxy
+host-suffix, ampproject.net, proxy
+host-suffix, ampproject.org, proxy
+host-suffix, electronjs.org, proxy
+host-suffix, jquery.com, proxy
+host-suffix, jquerymobile.com, proxy
+host-suffix, jqueryui.com, proxy
+host-suffix, mochajs.org, proxy
+host-suffix, nodejs.org, proxy
+host-suffix, openjsf.org, proxy

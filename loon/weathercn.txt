@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/weathercn
+
+DOMAIN-SUFFIX,hf-aw.cn
+DOMAIN-SUFFIX,hf-aw.com
+DOMAIN-SUFFIX,huafeng-accuweather.cn
+DOMAIN-SUFFIX,huafengaw.com
+DOMAIN-SUFFIX,weathercn.com

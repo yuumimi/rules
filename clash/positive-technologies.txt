@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/positive-technologies
+
+# Behavior: domain
+
+payload:
+  - "+.ptcloud.ru"
+  - "+.ptsecurity.com"
+  - "+.standoff365.com"

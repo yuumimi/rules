@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jibencaozuo
+
+host-suffix, jbcz.tv, proxy
+host-suffix, jibencaozuo.com, proxy
+host-suffix, media.paperclipclub.net, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dsn-host
+
+DOMAIN-SUFFIX,ds-servers.com
+DOMAIN-SUFFIX,dsn.host
+DOMAIN-SUFFIX,dsncdn.net

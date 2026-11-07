@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tilda
+
+host-suffix, tilda.cc, proxy
+host-suffix, tilda.ru, proxy
+host-suffix, tilda.ws, proxy
+host-suffix, tildaapi.com, proxy
+host-suffix, tildacdn.com, proxy
+host-suffix, tildacdn.net, proxy

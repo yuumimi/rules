@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-cdn-!cn
+
+host-suffix, akstat.io, proxy
+host-suffix, cloudflareinsights-cn.com, proxy
+host-suffix, cloudflareinsights.com, proxy

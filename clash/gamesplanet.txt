@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gamesplanet
+
+# Behavior: domain
+
+payload:
+  - "+.gamesplanet.com"
+  - "+.gametap.com"
+  - "+.gpstatic.com"

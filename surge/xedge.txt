@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xedge
+
+.ganjiangvpn.com
+.glxcc.net
+.xedge.cc
+.xn0.cc

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sinopec
+
+host-suffix, sinopec-usa.com, proxy
+host-suffix, sinopec.com, proxy
+host-suffix, sinopecgroup.com, proxy
+host-suffix, sinopecnews.com.cn, proxy
+host-suffix, sinopecsales.com, proxy

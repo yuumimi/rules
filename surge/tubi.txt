@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tubi
+
+.tubi.io
+.tubi.tv
+.tubi.video
+.tubitv.com

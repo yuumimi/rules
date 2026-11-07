@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/microsoft
+
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy
+host, dc.applicationinsights.azure.com, proxy
+host, dc.services.visualstudio.com, proxy
+host, live.applicationinsights.azure.com, proxy
+host, rt.services.visualstudio.com, proxy
+host-suffix, applicationinsights.io, proxy
+host-suffix, applicationinsights.net, proxy
+host-suffix, aria.ms, proxy
+host-suffix, browser.events.data.msn.cn, proxy
+host-suffix, browser.events.data.msn.com, proxy
+host-suffix, cafe.github.com, proxy
+host-suffix, collector.github.com, proxy
+host-suffix, data.microsoft.com, proxy
+host-suffix, in.applicationinsights.azure.com, proxy
+host-suffix, nelreports.net, proxy
+host-suffix, telemetry.microsoft.com, proxy

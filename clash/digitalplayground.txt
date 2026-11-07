@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/digitalplayground
+
+# Behavior: domain
+
+payload:
+  - "+.digitalplayground.com"
+  - "+.digitalplaygroundnetwork.com"

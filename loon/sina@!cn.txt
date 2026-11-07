@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sina
+
+DOMAIN-SUFFIX,hk.weibo.com
+DOMAIN-SUFFIX,my.weibo.com
+DOMAIN-SUFFIX,overseas.weibo.com
+DOMAIN-SUFFIX,sg.weibo.com
+DOMAIN-SUFFIX,th.weibo.com
+DOMAIN-SUFFIX,tw.weibo.com
+DOMAIN-SUFFIX,us.weibo.com

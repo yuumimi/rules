@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-network-security-cn
+
+DOMAIN-SUFFIX,cnmstl.net
+DOMAIN-SUFFIX,fofa.so
+DOMAIN-SUFFIX,t00ls.cc
+DOMAIN-SUFFIX,t00ls.net
+DOMAIN-SUFFIX,tools.team

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/baidu
+
+# Behavior: domain
+
+payload:
+  - "+.fclog.baidu.com"
+  - "+.pimlog.baidu.com"

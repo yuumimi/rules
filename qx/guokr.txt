@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/guokr
+
+host-suffix, guokr.com, proxy
+host-suffix, guokr.net, proxy

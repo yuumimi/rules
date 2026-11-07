@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/redtube
+
+DOMAIN-SUFFIX,livehdcams.com
+DOMAIN-SUFFIX,rdtcdn.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,redtube.com.br
+DOMAIN-SUFFIX,redtubepremium.com

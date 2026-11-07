@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yundaex
+
+host-suffix, udalogistic.cn, proxy
+host-suffix, udalogistic.com, proxy
+host-suffix, ydsys.cn, proxy
+host-suffix, yunda56.com, proxy
+host-suffix, yundaex.cn, proxy
+host-suffix, yundaex.com, proxy
+host-suffix, yundalog.com, proxy
+host-suffix, yundaltl.com, proxy
+host-suffix, yundasys.com, proxy

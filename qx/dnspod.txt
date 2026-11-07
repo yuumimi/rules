@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dnspod
+
+host-suffix, dns.pub, proxy
+host-suffix, dnsapi.cn, proxy
+host-suffix, dnspod.cn, proxy
+host-suffix, dnspod.com, proxy
+host-suffix, dnspod.com.cn, proxy
+host-suffix, dnspod.mobi, proxy
+host-suffix, dnspod.net, proxy
+host-suffix, dnspod.org, proxy
+host-suffix, dnsv2.com, proxy
+host-suffix, dnsv3.com, proxy
+host-suffix, dnsv4.com, proxy
+host-suffix, dnsv5.com, proxy
+host-suffix, doh.pub, proxy
+host-suffix, dot.pub, proxy

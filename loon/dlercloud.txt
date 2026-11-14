@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dlercloud
+
+DOMAIN-SUFFIX,dlercloud.com
+DOMAIN-SUFFIX,dlercloud.me
+DOMAIN-SUFFIX,dlercloud.org
+DOMAIN-SUFFIX,dleris.best

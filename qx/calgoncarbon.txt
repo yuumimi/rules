@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/calgoncarbon
+
+host-suffix, calgon.at, proxy
+host-suffix, calgon.be, proxy
+host-suffix, calgon.ch, proxy
+host-suffix, calgon.cn, proxy
+host-suffix, calgon.co.uk, proxy
+host-suffix, calgon.com, proxy
+host-suffix, calgon.com.tr, proxy
+host-suffix, calgon.de, proxy
+host-suffix, calgon.es, proxy
+host-suffix, calgon.fr, proxy
+host-suffix, calgon.ie, proxy
+host-suffix, calgon.it, proxy
+host-suffix, calgon.nl, proxy
+host-suffix, calgon.pt, proxy
+host-suffix, calgon.ru, proxy
+host-suffix, calgon.tv, proxy
+host-suffix, calgoncarbon-china.com, proxy
+host-suffix, calgoncarbon.com, proxy
+host-suffix, calgonit.com, proxy

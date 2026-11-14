@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qwant
+
+DOMAIN-SUFFIX,qwant.com
+DOMAIN-SUFFIX,qwant.de
+DOMAIN-SUFFIX,qwant.fr
+DOMAIN-SUFFIX,qwant.it

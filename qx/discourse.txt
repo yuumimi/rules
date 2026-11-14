@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/discourse
+
+host-suffix, discourse-cdn.com, proxy
+host-suffix, discourse.group, proxy
+host-suffix, discourse.org, proxy

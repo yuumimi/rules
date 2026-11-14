@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aliyun-drive
+
+# Behavior: domain
+
+payload:
+  - "+.alicloudccp.com"
+  - "+.alipan.com"
+  - "+.aliyundrive.cloud"
+  - "+.aliyundrive.com"
+  - "+.aliyundrive.net"
+  - "+.yunpan.aliyun.com"

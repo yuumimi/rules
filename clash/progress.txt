@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/progress
+
+# Behavior: domain
+
+payload:
+  - "+.chef.io"
+  - "+.getfiddler.com"
+  - "+.kemptechnologies.com"
+  - "+.progress.com"
+  - "+.sharefile.com"
+  - "+.telerik.com"

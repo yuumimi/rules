@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hkgolden
+
+DOMAIN-SUFFIX,hkgolden.com
+DOMAIN-SUFFIX,hkgolden.media

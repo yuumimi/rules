@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ddmaicai
+
+host-suffix, 100.me, proxy
+host-suffix, ddcorp.net, proxy
+host-suffix, ddfresh.net, proxy
+host-suffix, ddimg.mobi, proxy
+host-suffix, ddmaicai.net, proxy
+host-suffix, ddmc.mobi, proxy
+host-suffix, dduser.mobi, proxy
+host-suffix, ddxq.mobi, proxy
+host-suffix, imaicai.mobi, proxy

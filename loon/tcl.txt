@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tcl
+
+DOMAIN-SUFFIX,leiniao.com
+DOMAIN-SUFFIX,my7v.com
+DOMAIN-SUFFIX,tcl.com
+DOMAIN-SUFFIX,tcl.com.cn
+DOMAIN-SUFFIX,tclai.top
+DOMAIN-SUFFIX,tcltech.com

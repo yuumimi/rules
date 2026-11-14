@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wbgames
+
+DOMAIN,datarouter.apps.netherrealm.com
+DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com
+DOMAIN-SUFFIX,warnerbrosgames.com
+DOMAIN-SUFFIX,wbagora.com
+DOMAIN-SUFFIX,wbgames.com
+DOMAIN-SUFFIX,wbinsights.com

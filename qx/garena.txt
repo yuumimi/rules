@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/garena
+
+host, avatargarenanow-a.akamaihd.net, proxy
+host, cdngarenanow-a.akamaihd.net, proxy
+host, dlgarenanow-a.akamaihd.net, proxy
+host, dlmobilegarena-a.akamaihd.net, proxy
+host-suffix, garena.co.id, proxy
+host-suffix, garena.co.th, proxy
+host-suffix, garena.com, proxy
+host-suffix, garena.live, proxy
+host-suffix, garena.my, proxy
+host-suffix, garena.ph, proxy
+host-suffix, garena.sg, proxy
+host-suffix, garena.tv, proxy
+host-suffix, garena.tw, proxy
+host-suffix, garena.vn, proxy
+host-suffix, garenanow.com, proxy
+host-suffix, seagroup.com, proxy

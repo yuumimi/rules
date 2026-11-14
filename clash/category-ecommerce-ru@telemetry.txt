@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ecommerce-ru
+
+# Behavior: domain
+
+payload:
+  - "analytics-stage.wildberries.ru"
+  - "analytics.wildberries.ru"
+  - "marketplace-sentry.wb.ru"
+  - "sentry.ozon.ru"
+  - "sentry.wb.ru"
+  - "stats.avito.ru"
+  - "web-analytics.wildberries.ru"

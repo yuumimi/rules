@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/booking
+
+DOMAIN-SUFFIX,booking.cn
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,bstatic.com

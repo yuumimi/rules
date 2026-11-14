@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/intsig
+
+host-suffix, camcard.com, proxy
+host-suffix, camscanner.com, proxy
+host-suffix, intsig.com, proxy
+host-suffix, intsig.net, proxy
+host-suffix, qixin.com, proxy

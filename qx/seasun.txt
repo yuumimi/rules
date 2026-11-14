@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/seasun
+
+host-suffix, cbjq.com, proxy
+host-suffix, seasungames.cn, proxy
+host-suffix, seasungames.com, proxy
+host-suffix, seasunwbl.com, proxy
+host-suffix, testplus.cn, proxy
+host-suffix, xishanju.com, proxy
+host-suffix, xoyo.com, proxy
+host-suffix, xoyocdn.com, proxy

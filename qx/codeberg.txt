@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/codeberg
+
+host-suffix, codeberg.org, proxy
+host-suffix, codeberg.page, proxy

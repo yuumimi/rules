@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wildberries
+
+host, ads-gate.wildberries.ru, proxy
+host, ads-media.wildberries.ru, proxy
+host, ads.wildberries.ru, proxy
+host, advert-api-sandbox.wb.ru, proxy
+host, advert-api-sandbox.wildberries.ru, proxy
+host, advert-api.wb.ru, proxy
+host, advert-api.wildberries.ru, proxy
+host, advert-media-api.wb.ru, proxy
+host, advert-media-api.wildberries.ru, proxy
+host, analytics-stage.wildberries.ru, proxy
+host, analytics.wildberries.ru, proxy
+host, marketing-info.wildberries.ru, proxy
+host, marketplace-sentry.wb.ru, proxy
+host, sentry.wb.ru, proxy
+host, web-analytics.wildberries.ru, proxy

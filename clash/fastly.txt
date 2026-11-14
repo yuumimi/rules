@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fastly
+
+# Behavior: domain
+
+payload:
+  - "+.fastly-edge.com"
+  - "+.fastly-terrarium.com"
+  - "+.fastly.com"
+  - "+.fastly.io"
+  - "+.fastly.net"
+  - "+.fastlylabs.com"
+  - "+.fastlylb.net"

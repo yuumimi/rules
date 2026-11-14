@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lihkg
+
+DOMAIN-SUFFIX,lih.kg
+DOMAIN-SUFFIX,lihkg.com

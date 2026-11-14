@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-podcasts
+
+# Behavior: domain
+
+payload:
+  - "+.applepodcasts.com"
+  - "+.podcasts.apple.com"

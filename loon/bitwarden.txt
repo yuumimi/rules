@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bitwarden
+
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.eu
+DOMAIN-SUFFIX,bitwarden.net
+DOMAIN-SUFFIX,btwrdn.co
+DOMAIN-SUFFIX,btwrdn.com

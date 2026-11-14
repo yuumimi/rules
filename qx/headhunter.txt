@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/headhunter
+
+host-suffix, hh.by, proxy
+host-suffix, hh.kz, proxy
+host-suffix, hh.ru, proxy
+host-suffix, hhcdn.ru, proxy
+host-suffix, rabota.by, proxy
+host-suffix, setka.ru, proxy
+host-suffix, talantix.ru, proxy
+host-suffix, zarplata.ru, proxy

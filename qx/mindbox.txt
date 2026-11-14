@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mindbox
+
+host-suffix, botmechanic.io, proxy
+host-suffix, ceosummit.ru, proxy
+host-suffix, mind-box.ru, proxy
+host-suffix, mindbox-notifications.ru, proxy
+host-suffix, mindbox.cloud, proxy
+host-suffix, mindbox.group, proxy
+host-suffix, mindbox.ru, proxy
+host-suffix, mindbox.site, proxy
+host-suffix, mindbox.so, proxy
+host-suffix, popmechanic.io, proxy
+host-suffix, popmechanic.ru, proxy
+host-suffix, summitceo.ru, proxy

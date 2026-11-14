@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/suruga-ya
+
+host-suffix, suruga-ya.com, proxy
+host-suffix, suruga-ya.jp, proxy

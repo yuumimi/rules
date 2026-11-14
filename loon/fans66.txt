@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fans66
+
+DOMAIN-SUFFIX,fans66.tw
+DOMAIN-SUFFIX,fansking.tw

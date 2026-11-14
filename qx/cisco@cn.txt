@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cisco
+
+host-suffix, cisco.cn, proxy
+host-suffix, cisco.com.cn, proxy
+host-suffix, network-auth.cn, proxy
+host-suffix, webex.com.cn, proxy

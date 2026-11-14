@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jiemian
+
+host-suffix, cailianpress.com, proxy
+host-suffix, chinastarmarket.cn, proxy
+host-suffix, cls.cn, proxy
+host-suffix, jiemian.com, proxy
+host-suffix, jiemian.com.cn, proxy
+host-suffix, jingpt.com, proxy
+host-suffix, lanjinger.com, proxy
+host-suffix, moer.cn, proxy

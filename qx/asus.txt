@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/asus
+
+host-suffix, asus.com, proxy
+host-suffix, asus.com.cn, proxy
+host-suffix, asuscloud.com, proxy
+host-suffix, asuswebstorage.com, proxy

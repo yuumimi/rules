@@ -1,0 +1,32 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/group-ib
+
+host-suffix, antiphishing.nl, proxy
+host-suffix, antiphishing.ru, proxy
+host-suffix, cert-gib.com, proxy
+host-suffix, cert-gib.ru, proxy
+host-suffix, cybercrimecon.com, proxy
+host-suffix, f6.dev, proxy
+host-suffix, f6.ru, proxy
+host-suffix, f6.security, proxy
+host-suffix, facct.email, proxy
+host-suffix, facct.ru, proxy
+host-suffix, future-cs.ru, proxy
+host-suffix, g-ib.ae, proxy
+host-suffix, g-ib.ru, proxy
+host-suffix, g-ib.sg, proxy
+host-suffix, g-ib.us, proxy
+host-suffix, gib-global.com, proxy
+host-suffix, gib.sg, proxy
+host-suffix, gibdev.net, proxy
+host-suffix, gibtds.ru, proxy
+host-suffix, group-ib.ae, proxy
+host-suffix, group-ib.co.uk, proxy
+host-suffix, group-ib.com, proxy
+host-suffix, group-ib.de, proxy
+host-suffix, group-ib.eu, proxy
+host-suffix, group-ib.ru, proxy
+host-suffix, group-ib.sg, proxy
+host-suffix, group-ib.us, proxy
+host-suffix, groupib.ae, proxy
+host-suffix, groupib.sg, proxy
+host-suffix, groupib.us, proxy

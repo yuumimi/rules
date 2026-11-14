@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bestbuy
+
+DOMAIN-SUFFIX,bestbuy.cn
+DOMAIN-SUFFIX,bestbuy.com.cn
+DOMAIN-SUFFIX,magnoliaav.com.cn

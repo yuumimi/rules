@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cdprojekt
+
+host-suffix, cdpred.services, proxy
+host-suffix, cdprojekt.com, proxy
+host-suffix, cdprojekt.red, proxy
+host-suffix, cdprojektred.com, proxy
+host-suffix, cyberpunk.net, proxy
+host-suffix, playgwent.com, proxy
+host-suffix, thewitcher.com, proxy

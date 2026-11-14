@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aamgame
+
+host-suffix, aamgame.com, proxy
+host-suffix, aamgame.mobi, proxy
+host-suffix, aamgame.net, proxy
+host-suffix, aamsmart.com, proxy
+host-suffix, singworld.net, proxy

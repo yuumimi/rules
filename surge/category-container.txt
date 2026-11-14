@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-container
+
+.azurecr.io
+.docker.io
+.ecr.aws
+.gcr.io
+.ghcr.io
+.mcr.microsoft.com
+.quay.io
+.registry.gitlab.com
+.registry.k8s.io

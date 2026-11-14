@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nicegram
+
+host-suffix, adsgram.ai, proxy
+host-suffix, nicegram.app, proxy
+host-suffix, nicegram.cloud, proxy

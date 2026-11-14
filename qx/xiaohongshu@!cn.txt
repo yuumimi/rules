@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xiaohongshu
+
+host-suffix, rednote.com, proxy
+host-suffix, rednote.com.my, proxy
+host-suffix, rednotecdn.com, proxy

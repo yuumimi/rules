@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hentaichen
+
+.h-chan.me
+.hentai-chan.com
+.hentai-chan.live
+.hentaichan.live
+.hentaichan.me
+.imgschan.xyz

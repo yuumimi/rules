@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/betboom
+
+DOMAIN-SUFFIX,betboom.ru
+DOMAIN-SUFFIX,mobile-bb.com

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/didi
+
+# Behavior: domain
+
+payload:
+  - "+.didi-food.com"
+  - "+.didiaustralia.blog"
+  - "+.didiglobal.com"
+  - "+.didimobility.co.jp"

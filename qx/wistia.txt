@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/wistia
+
+host-suffix, embedwistia-a.akamaihd.net, proxy
+host-suffix, wistia.com, proxy
+host-suffix, wistia.net, proxy

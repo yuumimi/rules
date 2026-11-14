@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/icable
+
+# Behavior: domain
+
+payload:
+  - "+.cabletv.com.hk"
+  - "+.fantv.hk"
+  - "+.hkopentv.com"
+  - "+.hoy.tv"
+  - "+.i-cable.com"
+  - "+.i-cablecomm.com"

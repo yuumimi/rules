@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/huggingface
+
+# Behavior: domain
+
+payload:
+  - "+.hf.co"
+  - "+.hf.space"
+  - "+.huggingface.co"

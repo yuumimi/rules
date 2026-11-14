@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/comssone
+
+# Behavior: domain
+
+payload:
+  - "+.comss.club"
+  - "+.comss.info"
+  - "+.comss.me"
+  - "+.comss.net"
+  - "+.comss.news"
+  - "+.comss.one"
+  - "+.comss.online"
+  - "+.comss.org"
+  - "+.comss.ru"

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jquery
+
+host-suffix, jquery.com, proxy
+host-suffix, jquerymobile.com, proxy
+host-suffix, jqueryui.com, proxy

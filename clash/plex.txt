@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/plex
+
+# Behavior: domain
+
+payload:
+  - "+.plex.com"
+  - "+.plex.services"
+  - "+.plex.tv"
+  - "+.plexapp.com"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hisense
+
+host-suffix, hisense-home.com, proxy
+host-suffix, hisense.com, proxy
+host-suffix, hisensehitachi.com, proxy
+host-suffix, hisensekf.com, proxy
+host-suffix, hismarttv.com, proxy
+host-suffix, juhaokan.org, proxy

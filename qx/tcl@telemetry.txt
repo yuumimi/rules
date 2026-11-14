@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tcl
+
+host-suffix, base.api.my7v.com, proxy
+host-suffix, dc-conf-o.api.leiniao.com, proxy
+host-suffix, dc-conf-t.api.leiniao.com, proxy
+host-suffix, dc-o.api.leiniao.com, proxy
+host-suffix, dc-t.api.leiniao.com, proxy
+host-suffix, dc-uo.api.leiniao.com, proxy
+host-suffix, dc-ut.api.leiniao.com, proxy
+host-suffix, qms-report-o.api.leiniao.com, proxy
+host-suffix, qms-report-t.api.leiniao.com, proxy

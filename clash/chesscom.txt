@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/chesscom
+
+# Behavior: domain
+
+payload:
+  - "+.chess.com"
+  - "+.chesscomfiles.com"

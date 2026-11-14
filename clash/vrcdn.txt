@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vrcdn
+
+# Behavior: domain
+
+payload:
+  - "+.vrcdn.cloud"
+  - "+.vrcdn.live"
+  - "+.vrcdn.video"

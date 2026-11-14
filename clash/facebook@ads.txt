@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/facebook
+
+# Behavior: domain
+
+payload:
+  - "+.analytics.facebook.com"
+  - "+.facebookads.com"
+  - "+.pixel.facebook.com"

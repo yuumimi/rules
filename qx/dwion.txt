@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dwion
+
+host-suffix, acadn.cn, proxy
+host-suffix, acadn.com, proxy
+host-suffix, bbbcdns.com, proxy
+host-suffix, dlgslb.cn, proxy
+host-suffix, dlgslb.net, proxy
+host-suffix, dwion.com, proxy
+host-suffix, fastcdn.com, proxy
+host-suffix, fastcdn.com.cn, proxy
+host-suffix, flxdns.cn, proxy
+host-suffix, flxdns.com, proxy
+host-suffix, globalcdn.cn, proxy
+host-suffix, mcadn.cn, proxy
+host-suffix, tlgslb.cn, proxy
+host-suffix, tlgslb.com, proxy

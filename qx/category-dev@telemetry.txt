@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-dev
+
+host, copilot-telemetry-service.githubusercontent.com, proxy
+host, copilot-telemetry.githubusercontent.com, proxy
+host, crashlyticsreports-pa.googleapis.com, proxy
+host, dc.services.visualstudio.com, proxy
+host, firebase-settings.crashlytics.com, proxy
+host, firebaselogging-pa.googleapis.com, proxy
+host, firebaselogging.googleapis.com, proxy
+host, rt.services.visualstudio.com, proxy
+host, update.crashlytics.com, proxy
+host-suffix, analytics.cloud.unity3d.com, proxy
+host-suffix, cafe.github.com, proxy
+host-suffix, collector.github.com, proxy
+host-suffix, perf-events.cloud.unity3d.com, proxy
+host-suffix, perf.cloud.unity3d.com, proxy

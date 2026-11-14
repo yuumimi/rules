@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/poe
+
+host-suffix, poe.com, proxy
+host-suffix, poecdn.net, proxy

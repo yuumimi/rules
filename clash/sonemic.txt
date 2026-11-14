@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sonemic
+
+# Behavior: domain
+
+payload:
+  - "+.glitchwave.com"
+  - "+.rateyourmusic.com"
+  - "+.rym.fm"
+  - "+.snmc.io"
+  - "+.sonematic.net"
+  - "+.sonemic.com"

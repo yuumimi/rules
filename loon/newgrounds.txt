@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/newgrounds
+
+DOMAIN-SUFFIX,newgrounds.com
+DOMAIN-SUFFIX,ngfiles.com

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nginx
+
+DOMAIN-SUFFIX,nginx.com
+DOMAIN-SUFFIX,nginx.org

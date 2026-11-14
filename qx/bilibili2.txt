@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bilibili2
+
+host-suffix, bili2.cc, proxy
+host-suffix, bili888.com, proxy
+host-suffix, bili999.com, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/infowars
+
+DOMAIN-SUFFIX,banned.video
+DOMAIN-SUFFIX,infowars.com
+DOMAIN-SUFFIX,infowarsmedia.com

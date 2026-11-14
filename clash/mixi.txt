@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mixi
+
+# Behavior: domain
+
+payload:
+  - "+.mixi.co.jp"
+  - "+.mixi.jp"
+  - "+.mixi.net"

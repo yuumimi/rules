@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sumkoo
+
+DOMAIN-SUFFIX,gongqingyun.cn
+DOMAIN-SUFFIX,jzfz.net
+DOMAIN-SUFFIX,sumkoo.cn
+DOMAIN-SUFFIX,sumkoo.com
+DOMAIN-SUFFIX,sumkoo.net
+DOMAIN-SUFFIX,veeqi.net
+DOMAIN-SUFFIX,wenmingban.com
+DOMAIN-SUFFIX,zhiyuanhe.cn
+DOMAIN-SUFFIX,zhiyuanyun.com.cn
+DOMAIN-SUFFIX,zyhe.com.cn

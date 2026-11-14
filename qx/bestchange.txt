@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bestchange
+
+host-suffix, bestchange.com, proxy
+host-suffix, bestchange.net, proxy
+host-suffix, bestchange.ru, proxy

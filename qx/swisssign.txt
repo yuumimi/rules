@@ -1,0 +1,33 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/swisssign
+
+host-suffix, digital-id.ch, proxy
+host-suffix, digitalid.ch, proxy
+host-suffix, managed-pki.ch, proxy
+host-suffix, managed-pki.de, proxy
+host-suffix, pki-post.ch, proxy
+host-suffix, pki-posta.ch, proxy
+host-suffix, pki-poste.ch, proxy
+host-suffix, root-signing.ch, proxy
+host-suffix, rootsigning.com, proxy
+host-suffix, ssl-certificate.ch, proxy
+host-suffix, swissid.ch, proxy
+host-suffix, swissign.com, proxy
+host-suffix, swissign.li, proxy
+host-suffix, swisssign-group.ch, proxy
+host-suffix, swisssign-group.com, proxy
+host-suffix, swisssign-group.li, proxy
+host-suffix, swisssign.ch, proxy
+host-suffix, swisssign.com, proxy
+host-suffix, swisssign.li, proxy
+host-suffix, swisssign.net, proxy
+host-suffix, swisssign.org, proxy
+host-suffix, swisssigner.ch, proxy
+host-suffix, swisssigner.com, proxy
+host-suffix, swisssigngroup.ch, proxy
+host-suffix, swisssigngroup.com, proxy
+host-suffix, swissstick.com, proxy
+host-suffix, swisstsa.ch, proxy
+host-suffix, swisstsa.li, proxy
+host-suffix, trustdoc.ch, proxy
+host-suffix, trustsign.ch, proxy
+host-suffix, zert.ch, proxy

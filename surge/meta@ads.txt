@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/meta
+
+.analytics.facebook.com
+.facebookads.com
+.graph-fallback.instagram.com
+.graph.instagram.com
+.pixel.facebook.com

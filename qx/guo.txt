@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/guo
+
+host, himalaya-exchange.zendesk.com, proxy
+host-suffix, g-tvapp.com, proxy
+host-suffix, gclubs.com, proxy
+host-suffix, gettr.com, proxy
+host-suffix, gfashion.com, proxy
+host-suffix, gnews.org, proxy
+host-suffix, gtv.org, proxy
+host-suffix, gtv1.org, proxy
+host-suffix, gtvmediagroupfairfund.com, proxy
+host-suffix, guo.media, proxy
+host-suffix, gwiki.net, proxy
+host-suffix, gwins.org, proxy
+host-suffix, himalaya.exchange, proxy
+host-suffix, hpayshop.com, proxy
+host-suffix, nfsc.global, proxy
+host-suffix, nfscdict.com, proxy
+host-suffix, nfscofficial.com, proxy
+host-suffix, rexcha.com, proxy
+host-suffix, rolfoundation.org, proxy
+host-suffix, rolsociety.org, proxy
+host-suffix, yiqiedoushiganggangkaishi.org, proxy

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/headhunter
+
+.hh.by
+.hh.kz
+.hh.ru
+.hhcdn.ru
+.rabota.by
+.setka.ru
+.talantix.ru
+.zarplata.ru

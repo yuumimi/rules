@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kingkonglive
+
+host-suffix, kingkong.com.tw, proxy
+host-suffix, kingkongapp.com, proxy

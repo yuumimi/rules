@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aliyun-drive
+
+host-suffix, alicloudccp.com, proxy
+host-suffix, alipan.com, proxy
+host-suffix, aliyundrive.cloud, proxy
+host-suffix, aliyundrive.com, proxy
+host-suffix, aliyundrive.net, proxy
+host-suffix, yunpan.aliyun.com, proxy

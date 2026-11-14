@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kontur
+
+.kontur-inc.com
+.kontur.host
+.kontur.ru
+.ktalk.host
+.ktalk.ru

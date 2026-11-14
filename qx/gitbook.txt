@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gitbook
+
+host-suffix, gitbook.com, proxy
+host-suffix, gitbook.io, proxy

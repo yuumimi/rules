@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tongfang
+
+host-suffix, mechrevo.com, proxy
+host-suffix, thtf.com.cn, proxy
+host-suffix, tongfangpc.com, proxy

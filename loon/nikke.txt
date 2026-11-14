@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nikke
+
+DOMAIN-SUFFIX,nikke-de.com
+DOMAIN-SUFFIX,nikke-en.com
+DOMAIN-SUFFIX,nikke-fr.com
+DOMAIN-SUFFIX,nikke-jp.com
+DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,nikke-sea.com

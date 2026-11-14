@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/petrochina
+
+DOMAIN-SUFFIX,95504.net
+DOMAIN-SUFFIX,95504test.com
+DOMAIN-SUFFIX,cnpc.com.cn
+DOMAIN-SUFFIX,petrochina.com.cn

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hugecore
+
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,shareintelli.com

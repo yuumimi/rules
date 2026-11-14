@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kktv
+
+# Behavior: domain
+
+payload:
+  - "+.kktv.com.tw"
+  - "+.kktv.me"
+  - "+.theater-kktv.cdn.hinet.net"

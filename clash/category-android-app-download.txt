@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-android-app-download
+
+# Behavior: domain
+
+payload:
+  - "+.apkcombo.com"
+  - "+.apkmirror.com"
+  - "+.apkpure.com"
+  - "+.apkpure.net"
+  - "+.apkpures.xyz"
+  - "+.cdnpure.com"
+  - "+.pureapk.com"
+  - "+.uptodown.com"
+  - "+.utdstc.com"
+  - "+.winudf.com"
+  - "apkmirror.disqus.com"

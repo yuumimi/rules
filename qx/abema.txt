@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/abema
+
+host, abematv.akamaized.net, proxy
+host, ds-linear-abematv.akamaized.net, proxy
+host, ds-vod-abematv.akamaized.net, proxy
+host, linear-abematv.akamaized.net, proxy
+host, vod-abematv.akamaized.net, proxy
+host-suffix, abema-tv.com, proxy
+host-suffix, abema.io, proxy
+host-suffix, abema.tv, proxy
+host-suffix, abematv.co.jp, proxy
+host-suffix, adx.promo, proxy
+host-suffix, ameba.jp, proxy
+host-suffix, amebame.com, proxy
+host-suffix, amebaownd.com, proxy
+host-suffix, amebaowndme.com, proxy
+host-suffix, ameblo.jp, proxy
+host-suffix, bucketeer.jp, proxy
+host-suffix, dokusho-ojikan.jp, proxy
+host-suffix, hayabusa.dev, proxy
+host-suffix, hayabusa.io, proxy
+host-suffix, hayabusa.media, proxy
+host-suffix, winticket.jp, proxy

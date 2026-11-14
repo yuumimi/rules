@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/awempire
+
+host-suffix, awempire.com, proxy
+host-suffix, dditsadn.com, proxy
+host-suffix, dditscdn.com, proxy
+host-suffix, docleradn.com, proxy
+host-suffix, doclercdn.com, proxy

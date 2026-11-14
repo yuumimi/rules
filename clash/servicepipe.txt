@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/servicepipe
+
+# Behavior: domain
+
+payload:
+  - "+.servicepipe.ru"
+  - "+.servicepipe.tech"

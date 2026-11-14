@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/archivetoday
+
+DOMAIN-SUFFIX,archive.fo
+DOMAIN-SUFFIX,archive.is
+DOMAIN-SUFFIX,archive.li
+DOMAIN-SUFFIX,archive.md
+DOMAIN-SUFFIX,archive.ph
+DOMAIN-SUFFIX,archive.today
+DOMAIN-SUFFIX,archive.vn

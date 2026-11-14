@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/smtiaojiaoshi
+
+DOMAIN-SUFFIX,jhxl.org
+DOMAIN-SUFFIX,xn--sgt856gbjl.cc

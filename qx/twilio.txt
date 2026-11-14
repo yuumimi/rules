@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/twilio
+
+host-suffix, twilio.com, proxy
+host-suffix, twilio.jp, proxy
+host-suffix, tytch.com, proxy

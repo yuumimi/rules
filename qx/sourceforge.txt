@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sourceforge
+
+host-suffix, fsdn.com, proxy
+host-suffix, sf.net, proxy
+host-suffix, sourceforge.com, proxy
+host-suffix, sourceforge.net, proxy

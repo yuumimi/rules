@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zscaler
+
+host-suffix, securecloudtransformation.com, proxy
+host-suffix, securitypreview.com, proxy
+host-suffix, threatlabz.com, proxy
+host-suffix, zdxbeta.net, proxy
+host-suffix, zdxcloud.net, proxy
+host-suffix, zpagov.net, proxy
+host-suffix, zpath.com, proxy
+host-suffix, zscaler.com, proxy
+host-suffix, zscaler.jp, proxy
+host-suffix, zscaler.net, proxy
+host-suffix, zscalerbeta.net, proxy
+host-suffix, zscalergov.net, proxy
+host-suffix, zscalerone.net, proxy
+host-suffix, zscalershift.com, proxy
+host-suffix, zscalerthree.net, proxy
+host-suffix, zscalertwo.net, proxy
+host-suffix, zscloud.net, proxy

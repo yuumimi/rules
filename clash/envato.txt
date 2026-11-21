@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/envato
+
+# Behavior: domain
+
+payload:
+  - "+.envato-static.com"
+  - "+.envato.com"
+  - "+.envatousercontent.com"
+  - "+.themeforest.net"

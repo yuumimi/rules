@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hentaivn
+
+# Behavior: domain
+
+payload:
+  - "+.hentaivn.de"
+  - "+.hentaivn.la"
+  - "+.hentaivn.net"
+  - "+.htvncdn.net"

@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dmm
+
+host, api-p.videomarket.jp, proxy
+host-suffix, bluekai.com, proxy
+host-suffix, dmm-extension.com, proxy
+host-suffix, dmm.co.jp, proxy
+host-suffix, dmm.com, proxy
+host-suffix, dmmapis.com, proxy
+host-suffix, dmmrex.com, proxy
+host-suffix, fout.jp, proxy
+host-suffix, gmossp-sp.jp, proxy
+host-suffix, i-mobile.co.jp, proxy
+host-suffix, im-apps.net, proxy
+host-suffix, impact-ad.jp, proxy
+host-suffix, ladsp.com, proxy
+host-suffix, microad.co.jp, proxy
+host-suffix, microad.jp, proxy
+host-suffix, socdm.com, proxy

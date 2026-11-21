@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aliyun
+
+host-suffix, acjs.aliyun.com, proxy
+host-suffix, adash-emas.cn-hangzhou.aliyuncs.com, proxy
+host-suffix, adash.man.aliyuncs.com, proxy
+host-suffix, alimama.alicdn.com, proxy
+host-suffix, atanx.alicdn.com, proxy
+host-suffix, atanx2.alicdn.com, proxy
+host-suffix, baichuan-sdk.alicdn.com, proxy
+host-suffix, nbsdk-baichuan.alicdn.com, proxy
+host-suffix, tce.alicdn.com, proxy

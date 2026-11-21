@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/avaxhome
+
+# Behavior: domain
+
+payload:
+  - "+.avh.world"
+  - "+.avxde.org"
+  - "+.avxhm.is"
+  - "+.avxhm.se"
+  - "+.avxlive.icu"
+  - "+.xsava.xyz"
+  - "+.zavat.pw"

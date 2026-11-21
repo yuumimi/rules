@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bttzyw
+
+host-suffix, btt804.com, proxy
+host-suffix, btt904.com, proxy
+host-suffix, bttzyw.com, proxy
+host-suffix, bttzyw.net, proxy

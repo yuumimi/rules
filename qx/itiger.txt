@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/itiger
+
+host-suffix, itiger.com, proxy
+host-suffix, itigergrowth.com, proxy
+host-suffix, itigergrowtha.com, proxy
+host-suffix, itigerup.com, proxy
+host-suffix, laohu8.com, proxy
+host-suffix, skytigris.cn, proxy
+host-suffix, tigerbbs.cn, proxy
+host-suffix, tigerbbs.com, proxy
+host-suffix, xiaohu8.com, proxy

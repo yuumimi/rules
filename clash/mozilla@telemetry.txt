@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mozilla
+
+# Behavior: domain
+
+payload:
+  - "incoming-telemetry.thunderbird.net"
+  - "incoming.telemetry.mozilla.org"

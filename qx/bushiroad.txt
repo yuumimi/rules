@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bushiroad
+
+host-suffix, argo-bdp.com, proxy
+host-suffix, bang-dream.com, proxy
+host-suffix, bushi-navi.com, proxy
+host-suffix, bushimo.jp, proxy
+host-suffix, bushiroad-creative.com, proxy
+host-suffix, bushiroad-global-online-store.com, proxy
+host-suffix, bushiroad-move.com, proxy
+host-suffix, bushiroad-music.com, proxy
+host-suffix, bushiroad-store.com, proxy
+host-suffix, bushiroad-works.com, proxy
+host-suffix, bushiroad.co.jp, proxy
+host-suffix, bushiroad.com, proxy
+host-suffix, bushiroadgames.com, proxy
+host-suffix, cf-vanguard.com, proxy
+host-suffix, comic-growl.com, proxy
+host-suffix, comicbushi-web.com, proxy
+host-suffix, d4dj-pj.com, proxy
+host-suffix, dreamorder.com, proxy
+host-suffix, fc-buddyfight.com, proxy
+host-suffix, gamebiz.jp, proxy
+host-suffix, gekkan-bushi.com, proxy
+host-suffix, hibiki-cast.jp, proxy
+host-suffix, hikosen.co.jp, proxy
+host-suffix, njpw.co.jp, proxy
+host-suffix, njpw1972.com, proxy
+host-suffix, our-notes.jp, proxy
+host-suffix, rebirth-fy.com, proxy
+host-suffix, revuestarlight.com, proxy
+host-suffix, shadowverse-evolve.com, proxy
+host-suffix, ws-blau.com, proxy
+host-suffix, ws-tcg.com, proxy
+host-suffix, wwr-stardom.com, proxy

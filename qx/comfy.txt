@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/comfy
+
+host-suffix, comfy.org, proxy
+host-suffix, comfyci.org, proxy
+host-suffix, comfyregistry.org, proxy
+host-suffix, oystermercury.top, proxy

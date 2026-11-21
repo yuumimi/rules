@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/okjike
+
+host-suffix, jike.city, proxy
+host-suffix, jikecdn.com, proxy
+host-suffix, okjike.com, proxy
+host-suffix, okjk.co, proxy
+host-suffix, ruguoapp.com, proxy

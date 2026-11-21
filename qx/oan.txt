@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/oan
+
+host-suffix, aweencore.com, proxy
+host-suffix, awetv.com, proxy
+host-suffix, herringnetwork.com, proxy
+host-suffix, oanencore.com, proxy
+host-suffix, oann.com, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-games
+
+# Behavior: domain
+
+payload:
+  - "+.insights-collector.gog.com"
+  - "+.kurogames-ads.com"
+  - "+.log-upload-os.hoyoverse.com"
+  - "+.log-upload.mihoyo.com"

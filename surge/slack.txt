@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/slack
+
+.slack-core.com
+.slack-edge.com
+.slack-files.com
+.slack-imgs.com
+.slack-msgs.com
+.slack-redir.net
+.slack.com
+.slackb.com
+.slackcertified.com
+.slackdemo.com
+.slackhq.com

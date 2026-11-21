@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gree
+
+host-suffix, gree.cn, proxy
+host-suffix, gree.com, proxy
+host-suffix, gree.com.cn, proxy
+host-suffix, greeyun.com, proxy
+host-suffix, kinghomechina.com, proxy
+host-suffix, tosot.com.cn, proxy
+host-suffix, zhlyen.com, proxy

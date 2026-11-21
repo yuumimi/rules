@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amap
+
+host-suffix, a-map.cn, proxy
+host-suffix, a-map.co, proxy
+host-suffix, a-map.link, proxy
+host-suffix, a-map.vip, proxy
+host-suffix, acloudrender.com, proxy
+host-suffix, amap.com, proxy
+host-suffix, amap.net, proxy
+host-suffix, amapauto.com, proxy
+host-suffix, anav.com, proxy
+host-suffix, autonavi.com, proxy
+host-suffix, gaode.com, proxy

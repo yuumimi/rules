@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imgbb
+
+host-suffix, ibb.co, proxy
+host-suffix, imgbb.com, proxy
+host-suffix, simgbb.com, proxy

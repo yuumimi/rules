@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/polyv
+
+host-suffix, polyv.net, proxy
+host-suffix, videocc.net, proxy

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/catchplay
+
+host-suffix, catchplay.com, proxy
+host-suffix, tra-ww000-cp.akamaized.net, proxy

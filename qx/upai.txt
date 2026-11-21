@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/upai
+
+host-suffix, aicdn.com, proxy
+host-suffix, oncdp.com, proxy
+host-suffix, upai.com, proxy
+host-suffix, upaiyun.com, proxy
+host-suffix, upcdn.net, proxy
+host-suffix, upyun.com, proxy

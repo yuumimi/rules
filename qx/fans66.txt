@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fans66
+
+host-suffix, fans66.tw, proxy
+host-suffix, fansking.tw, proxy

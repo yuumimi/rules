@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qingtingfm
+
+host-suffix, qingting.fm, proxy
+host-suffix, qtfm.cn, proxy

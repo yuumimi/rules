@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mailcom
+
+host-suffix, mail.com, proxy
+host-suffix, ui-portal.de, proxy
+host-suffix, uicdn.com, proxy
+host-suffix, uimserv.net, proxy

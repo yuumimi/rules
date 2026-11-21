@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/eleme
+
+host-suffix, adashx.ut.ele.me, proxy
+host-suffix, h-adashx.ut.ele.me, proxy
+host-suffix, v6-adashx.ut.ele.me, proxy

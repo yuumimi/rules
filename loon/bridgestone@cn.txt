@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bridgestone
+
+DOMAIN-SUFFIX,bridgestone.cn
+DOMAIN-SUFFIX,bridgestone.com.cn
+DOMAIN-SUFFIX,nokiantyres.cn

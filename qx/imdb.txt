@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/imdb
+
+host-suffix, boxofficemojo.com, proxy
+host-suffix, imdb, proxy
+host-suffix, imdb.com, proxy
+host-suffix, imdb.to, proxy
+host-suffix, media-imdb.com, proxy

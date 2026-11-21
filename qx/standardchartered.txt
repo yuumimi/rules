@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/standardchartered
+
+host, standchartbank.sc.omtrdc.net, proxy
+host, standchartbank.tt.omtrdc.net, proxy
+host-suffix, sc.com, proxy
+host-suffix, standardchartered.com, proxy

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youzan
+
+host-suffix, daogou.ai, proxy
+host-suffix, koudaitong.com, proxy
+host-suffix, quntuantuan.cn, proxy
+host-suffix, xinlingshou.com, proxy
+host-suffix, youzan.com, proxy
+host-suffix, youzanyun.com, proxy
+host-suffix, yzcdn.cn, proxy

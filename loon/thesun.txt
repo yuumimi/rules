@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/thesun
+
+DOMAIN-SUFFIX,dreamteamfc.com
+DOMAIN-SUFFIX,page3.com
+DOMAIN-SUFFIX,sunbingo.co.uk
+DOMAIN-SUFFIX,talksport.com
+DOMAIN-SUFFIX,thescottishsun.co.uk
+DOMAIN-SUFFIX,thesun.co.uk
+DOMAIN-SUFFIX,thesun.ie

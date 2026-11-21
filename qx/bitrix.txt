@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bitrix
+
+host-suffix, 1c-bitrix.ru, proxy
+host-suffix, bitrix.info, proxy
+host-suffix, bitrix24.com, proxy
+host-suffix, bitrix24.net, proxy
+host-suffix, bitrix24.ru, proxy
+host-suffix, bitrix24.tech, proxy
+host-suffix, bitrix24public.com, proxy
+host-suffix, bitrix24shop.ru, proxy
+host-suffix, bitrix24site.ru, proxy
+host-suffix, bitrixphone.com, proxy
+host-suffix, bitrixsoft.com, proxy

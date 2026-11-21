@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ecommerce
+
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,stats.avito.ru
+DOMAIN,web-analytics.wildberries.ru

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bluearchive
+
+# Behavior: domain
+
+payload:
+  - "+.bluearchive-cn.com"
+  - "+.bluearchive.jp"
+  - "+.bluearchive.nexon.com"

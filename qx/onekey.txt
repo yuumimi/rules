@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/onekey
+
+host, onekey.zendesk.com, proxy
+host-suffix, onekey-asset.com, proxy
+host-suffix, onekey.so, proxy
+host-suffix, onekeycn.com, proxy

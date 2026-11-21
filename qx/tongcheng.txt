@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tongcheng
+
+host-suffix, 17u.cn, proxy
+host-suffix, 17u.net, proxy
+host-suffix, 17usoft.com, proxy
+host-suffix, 17usoft.net, proxy
+host-suffix, 40017.cn, proxy
+host-suffix, elong.com, proxy
+host-suffix, elongstatic.com, proxy
+host-suffix, ly.com, proxy

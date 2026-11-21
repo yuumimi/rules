@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ai-chat-!cn
+
+browser-intake-datadoghq.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+http-intake.logs.us5.datadoghq.com
+o1158394.ingest.us.sentry.io
+o33249.ingest.sentry.io
+o33249.ingest.us.sentry.io

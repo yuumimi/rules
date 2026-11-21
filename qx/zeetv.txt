@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/zeetv
+
+host-suffix, z5.app, proxy
+host-suffix, z5.com, proxy
+host-suffix, zee5.com, proxy
+host-suffix, zee5.in, proxy
+host-suffix, zee5.tv, proxy
+host-suffix, zeebioskop.com, proxy
+host-suffix, zeetv.co.uk, proxy
+host-suffix, zeetv.com, proxy
+host-suffix, zeeuk.com, proxy

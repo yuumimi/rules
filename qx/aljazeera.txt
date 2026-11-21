@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/aljazeera
+
+host-suffix, ajplus.net, proxy
+host-suffix, aljazeera.com, proxy
+host-suffix, aljazeera.net, proxy
+host-suffix, palestineremix.com, proxy
+host-suffix, sarajevopodopsadom.com, proxy
+host-suffix, srebrenica360.com, proxy
+host-suffix, syhacked.com, proxy

@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-music
+
+host-suffix, applemusic.berlin, proxy
+host-suffix, applemusic.co, proxy
+host-suffix, applemusic.com, proxy
+host-suffix, applemusic.com.au, proxy
+host-suffix, applemusic.hamburg, proxy
+host-suffix, applemusic.wang, proxy
+host-suffix, applemusicconnect.com, proxy
+host-suffix, applemusicfestival.com, proxy
+host-suffix, music.apple.com, proxy
+host-suffix, musickit.net, proxy
+host-suffix, wwwapplemusic.com, proxy

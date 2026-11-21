@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/openspeedtest
+
+DOMAIN-SUFFIX,open.cachefly.net
+DOMAIN-SUFFIX,openspeedtest.com
+DOMAIN-SUFFIX,openspeedtest.in
+DOMAIN-SUFFIX,openspeedtest.org

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/koolearn
+
+host-suffix, koocdn.com, proxy
+host-suffix, koolearn.com, proxy
+host-suffix, koopass.com, proxy

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xueersi
+
+host-suffix, 100tal.com, proxy
+host-suffix, aoshu.com, proxy
+host-suffix, eduu.com, proxy
+host-suffix, eduuu.com, proxy
+host-suffix, gaokao.com, proxy
+host-suffix, speiyou.com, proxy
+host-suffix, tal.com, proxy
+host-suffix, xesimg.com, proxy
+host-suffix, xueersi.com, proxy
+host-suffix, youjiao.com, proxy
+host-suffix, zhongkao.com, proxy
+host-suffix, zuowen.com, proxy

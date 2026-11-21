@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qualcomm
+
+DOMAIN-SUFFIX,gpsonextra.net
+DOMAIN-SUFFIX,izatcloud.net
+DOMAIN-SUFFIX,qceventscenter.com.cn
+DOMAIN-SUFFIX,qualcomm.cn
+DOMAIN-SUFFIX,qualcomm.cn.cdn.cloudflare.net
+DOMAIN-SUFFIX,xtracloud.cn

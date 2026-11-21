@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ximalaya
+
+host-suffix, ximalaya.com, proxy
+host-suffix, xmcdn.com, proxy

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tencent-tme
+
+# Behavior: domain
+
+payload:
+  - "+.monitor.music.qq.com"
+  - "+.report.tencentmusic.com"
+  - "+.stat.y.qq.com"

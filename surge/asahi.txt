@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/asahi
+
+.aiasahi.jp
+.asagaku.com
+.asahi.com
+.asahicom.jp
+.asakonet.co.jp
+.nikkansports.com
+asahishimbun.sc.omtrdc.net

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/longbridge
+
+host-suffix, lbctrl.com, proxy
+host-suffix, lbkrs.com, proxy
+host-suffix, longbridge.cloud, proxy
+host-suffix, longbridge.cn, proxy
+host-suffix, longbridge.com, proxy
+host-suffix, longbridge.global, proxy
+host-suffix, longbridge.hk, proxy
+host-suffix, longbridge.sg, proxy
+host-suffix, longbridgeapp.com, proxy
+host-suffix, longbridgehk.com, proxy
+host-suffix, longportapp.com, proxy
+host-suffix, wbrks.com, proxy

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/organicmaps
+
+# Behavior: domain
+
+payload:
+  - "+.omaps.app"
+  - "+.organicmaps.app"

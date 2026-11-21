@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/weathercn
+
+host-suffix, hf-aw.cn, proxy
+host-suffix, hf-aw.com, proxy
+host-suffix, huafeng-accuweather.cn, proxy
+host-suffix, huafengaw.com, proxy
+host-suffix, weathercn.com, proxy

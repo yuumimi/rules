@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/snapp
+
+host-suffix, cdnsnapptrip.com, proxy
+host-suffix, snapp-box.com, proxy
+host-suffix, snapp.cab, proxy
+host-suffix, snapp.doctor, proxy
+host-suffix, snapp.express, proxy
+host-suffix, snapp.ir, proxy
+host-suffix, snapp.ninja, proxy
+host-suffix, snapp.site, proxy
+host-suffix, snapp.supply, proxy
+host-suffix, snapp.taxi, proxy
+host-suffix, snapp.tech, proxy
+host-suffix, snappcloud.io, proxy
+host-suffix, snappfood.dev, proxy
+host-suffix, snappfood.ir, proxy
+host-suffix, snappmaps.ir, proxy
+host-suffix, snapproom.com, proxy
+host-suffix, snappshop.ir, proxy
+host-suffix, snapptrip.com, proxy

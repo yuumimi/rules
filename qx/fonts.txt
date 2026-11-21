@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fonts
+
+host-suffix, fonts.com, proxy
+host-suffix, fonts.net, proxy

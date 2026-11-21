@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/projectmoon
+
+host-suffix, limbuscompany.global, proxy
+host-suffix, limbuscompanyapi.com, proxy
+host-suffix, limbuscompanycdn.org, proxy
+host-suffix, projectmoon.studio, proxy

@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hinet-eca
+
+# Behavior: domain
+
+payload:
+  - "+.eca.hinet.net"
+  - "+.gtlsca.nat.gov.tw"
+  - "+.pki.hinet.net"
+  - "+.publicca.hinet.net"
+  - "+.tls.hinet.net"

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/coomer
+
+# Behavior: domain
+
+payload:
+  - "+.coomer.party"
+  - "+.coomer.st"
+  - "+.coomer.su"

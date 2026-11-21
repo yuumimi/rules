@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/certinomis
+
+host-suffix, certinomis.com, proxy
+host-suffix, certinomis.fr, proxy

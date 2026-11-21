@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anthropic
+
+http-intake.logs.us5.datadoghq.com
+o1158394.ingest.us.sentry.io

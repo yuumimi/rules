@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bybit
+
+.byabcde.com
+.byapis.com
+.byapps.net
+.bybdc6.com
+.bybit-global.com
+.bybit.biz
+.bybit.cloud
+.bybit.com
+.bybitglobal.com
+.bycbe.com
+.bycsi.com
+.byd3c3.com
+.bymj.io
+.bytick.com
+bybit-exchange.github.io
+bybit.ada.support

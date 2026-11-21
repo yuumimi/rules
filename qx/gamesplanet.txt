@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/gamesplanet
+
+host-suffix, gamesplanet.com, proxy
+host-suffix, gametap.com, proxy
+host-suffix, gpstatic.com, proxy

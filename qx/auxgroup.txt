@@ -1,0 +1,33 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/auxgroup
+
+host-suffix, aufit-air.com, proxy
+host-suffix, aux-global.com, proxy
+host-suffix, aux-home.com, proxy
+host-suffix, auxair.com, proxy
+host-suffix, auxauto.com.cn, proxy
+host-suffix, auxcac.cn, proxy
+host-suffix, auxcss.com, proxy
+host-suffix, auxgroup.com, proxy
+host-suffix, auxshop.cn, proxy
+host-suffix, auxshop.com, proxy
+host-suffix, auxsmart.com, proxy
+host-suffix, auxsmart.com.cn, proxy
+host-suffix, auxsol.com, proxy
+host-suffix, auxsolar.com.cn, proxy
+host-suffix, auxsolcloud.com, proxy
+host-suffix, auxtelecom.com, proxy
+host-suffix, auxwy.com, proxy
+host-suffix, auxyl.com, proxy
+host-suffix, mzgjbj.com, proxy
+host-suffix, mzyyfck.com, proxy
+host-suffix, mzyygb.com, proxy
+host-suffix, mzyygk.com, proxy
+host-suffix, mzyyzl.com, proxy
+host-suffix, nbmzyl.com, proxy
+host-suffix, nbmzyy.com, proxy
+host-suffix, nbyzfeyy.com, proxy
+host-suffix, sanxing.com, proxy
+host-suffix, sanxingelectric.com, proxy
+host-suffix, shinflow.com, proxy
+host-suffix, shuyifuwu.com.cn, proxy
+host-suffix, solarcloud.top, proxy

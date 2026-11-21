@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/asahi
+
+host, asahishimbun.sc.omtrdc.net, proxy
+host-suffix, aiasahi.jp, proxy
+host-suffix, asagaku.com, proxy
+host-suffix, asahi.com, proxy
+host-suffix, asahicom.jp, proxy
+host-suffix, asakonet.co.jp, proxy
+host-suffix, nikkansports.com, proxy

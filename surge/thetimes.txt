@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/thetimes
+
+.driving.co.uk
+.mytimesplus.co.uk
+.sportswomanoftheyear.co.uk
+.sportswomenoftheyear.co.uk
+.the-tls.co.uk
+.thesundaytimes.co.uk
+.thetimes.co.uk
+.thetimes.ie
+.timesmembership.com

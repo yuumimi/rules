@@ -1,0 +1,30 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tld-opennic
+
+host-suffix, bazar, proxy
+host-suffix, bbs, proxy
+host-suffix, chan, proxy
+host-suffix, coin, proxy
+host-suffix, cyb, proxy
+host-suffix, dyn, proxy
+host-suffix, emc, proxy
+host-suffix, epic, proxy
+host-suffix, free, proxy
+host-suffix, fur, proxy
+host-suffix, geek, proxy
+host-suffix, gopher, proxy
+host-suffix, indy, proxy
+host-suffix, ko, proxy
+host-suffix, ku, proxy
+host-suffix, lib, proxy
+host-suffix, libre, proxy
+host-suffix, neo, proxy
+host-suffix, null, proxy
+host-suffix, o, proxy
+host-suffix, oss, proxy
+host-suffix, oz, proxy
+host-suffix, parody, proxy
+host-suffix, pirate, proxy
+host-suffix, rm, proxy
+host-suffix, te, proxy
+host-suffix, ti, proxy
+host-suffix, uu, proxy

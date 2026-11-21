@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/alibabacloud
+
+# Behavior: domain
+
+payload:
+  - "account-cn.alibabacloud.com"
+  - "api.alibabacloud.com"
+  - "cn.alibabacloud.com"
+  - "status.alibabacloud.com"

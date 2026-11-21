@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xedge
+
+DOMAIN-SUFFIX,ganjiangvpn.com
+DOMAIN-SUFFIX,glxcc.net
+DOMAIN-SUFFIX,xedge.cc
+DOMAIN-SUFFIX,xn0.cc

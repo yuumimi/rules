@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mailcom
+
+DOMAIN-SUFFIX,mail.com
+DOMAIN-SUFFIX,ui-portal.de
+DOMAIN-SUFFIX,uicdn.com
+DOMAIN-SUFFIX,uimserv.net

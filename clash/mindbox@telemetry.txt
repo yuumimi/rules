@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mindbox
+
+# Behavior: domain
+
+payload:
+  - "sentry.mindbox.ru"
+  - "sentry.popmechanic.ru"

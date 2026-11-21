@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qihoo360
+
+host-suffix, c.sayhi.360.cn, proxy
+host-suffix, fenxi.360.cn, proxy
+host-suffix, fenxi.com, proxy
+host-suffix, lianmeng.360.cn, proxy
+host-suffix, mediav.com, proxy
+host-suffix, mvad.com, proxy
+host-suffix, qhupdate.com, proxy
+host-suffix, s.360.cn, proxy
+host-suffix, s.so.360.cn, proxy
+host-suffix, s.union.360.cn, proxy

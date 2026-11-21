@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hypergryph
+
+host-suffix, gryphline.cn, proxy
+host-suffix, gryphline.com, proxy
+host-suffix, gryphline.com.cn, proxy
+host-suffix, gryphline.net, proxy
+host-suffix, hg-cdn.com, proxy
+host-suffix, skport.com, proxy

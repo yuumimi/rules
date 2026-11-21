@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/amazontrust
+
+# Behavior: domain
+
+payload:
+  - "+.amazontrust.com"
+  - "+.awstrust.com"
+  - "+.ss2.us"

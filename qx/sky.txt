@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/sky
+
+host-suffix, sky, proxy
+host-suffix, sky.com, proxy
+host-suffix, skyassets.com, proxy
+host-suffix, skymansion.net, proxy
+host-suffix, skyoceanrescue.com, proxy
+host-suffix, skyoceanrescue.de, proxy
+host-suffix, skyoceanrescue.it, proxy
+host-suffix, skysports.com, proxy
+host-suffix, skysports.fr, proxy
+host-suffix, skysports.ie, proxy
+host-suffix, skysportsonline.com, proxy
+host-suffix, skysportsracing.com, proxy

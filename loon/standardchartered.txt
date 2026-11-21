@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/standardchartered
+
+DOMAIN,standchartbank.sc.omtrdc.net
+DOMAIN,standchartbank.tt.omtrdc.net
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,standardchartered.com

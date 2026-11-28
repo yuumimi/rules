@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/eleme
+
+.adashx.ut.ele.me
+.h-adashx.ut.ele.me
+.v6-adashx.ut.ele.me

@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/7tv
+
+.7tv.app
+.7tv.io

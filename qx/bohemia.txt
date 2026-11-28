@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bohemia
+
+host-suffix, arma3.com, proxy
+host-suffix, armaplatform.com, proxy
+host-suffix, bistudio.com, proxy
+host-suffix, bohemia.net, proxy
+host-suffix, dayz.com, proxy
+host-suffix, makearmanotwar.com, proxy
+host-suffix, silicagame.com, proxy
+host-suffix, vigorgame.com, proxy
+host-suffix, ylands.com, proxy

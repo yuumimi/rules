@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/headhunter
+
+DOMAIN-SUFFIX,hh.by
+DOMAIN-SUFFIX,hh.kz
+DOMAIN-SUFFIX,hh.ru
+DOMAIN-SUFFIX,hhcdn.ru
+DOMAIN-SUFFIX,rabota.by
+DOMAIN-SUFFIX,setka.ru
+DOMAIN-SUFFIX,talantix.ru
+DOMAIN-SUFFIX,zarplata.ru

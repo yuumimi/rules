@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rutracker
+
+# Behavior: domain
+
+payload:
+  - "+.maintracker.org"
+  - "+.rutracker.cc"
+  - "+.rutracker.cr"
+  - "+.rutracker.me"
+  - "+.rutracker.net"
+  - "+.rutracker.nl"
+  - "+.rutracker.org"
+  - "+.rutracker.wiki"
+  - "+.rutrk.org"

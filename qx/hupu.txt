@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hupu
+
+host-suffix, hoopchina.com.cn, proxy
+host-suffix, hupu.com, proxy
+host-suffix, hupucdn.com, proxy
+host-suffix, shihuo.cn, proxy

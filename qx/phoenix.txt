@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/phoenix
+
+host-suffix, fengcx.com, proxy
+host-suffix, fengedu.com, proxy
+host-suffix, ifeng.com, proxy
+host-suffix, ifengimg.com, proxy
+host-suffix, ifengweekly.com, proxy
+host-suffix, phoenixcenter.cn, proxy

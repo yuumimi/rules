@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pinggy
+
+# Behavior: domain
+
+payload:
+  - "+.pinggy.io"
+  - "+.pinggy.link"

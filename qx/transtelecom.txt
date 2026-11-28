@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/transtelecom
+
+host-suffix, baikal-ttk.ru, proxy
+host-suffix, kttk.ru, proxy
+host-suffix, myttk.ru, proxy
+host-suffix, sakhttk.ru, proxy
+host-suffix, ttc-net.ru, proxy
+host-suffix, ttk.ru, proxy
+host-suffix, ttkdv.ru, proxy
+host-suffix, zsttk.net, proxy

@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mindbox
+
+DOMAIN-SUFFIX,botmechanic.io
+DOMAIN-SUFFIX,ceosummit.ru
+DOMAIN-SUFFIX,mind-box.ru
+DOMAIN-SUFFIX,mindbox-notifications.ru
+DOMAIN-SUFFIX,mindbox.cloud
+DOMAIN-SUFFIX,mindbox.group
+DOMAIN-SUFFIX,mindbox.ru
+DOMAIN-SUFFIX,mindbox.site
+DOMAIN-SUFFIX,mindbox.so
+DOMAIN-SUFFIX,popmechanic.io
+DOMAIN-SUFFIX,popmechanic.ru
+DOMAIN-SUFFIX,summitceo.ru

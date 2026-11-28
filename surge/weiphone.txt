@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/weiphone
+
+.feng.com
+.fengimg.com
+.weiphone.net
+.wfdata.club

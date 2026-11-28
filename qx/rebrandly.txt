@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rebrandly
+
+host-suffix, rb.gy, proxy
+host-suffix, rebrandly.com, proxy

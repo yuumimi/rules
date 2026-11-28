@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kanzhongguo
+
+host-suffix, es-visiontimes.com, proxy
+host-suffix, kannewyork.com, proxy
+host-suffix, kanzhongguo.com, proxy
+host-suffix, kanzhongguo.eu, proxy
+host-suffix, secretchina.com, proxy
+host-suffix, trithucvn.net, proxy
+host-suffix, trithucvn.org, proxy
+host-suffix, vct.news, proxy
+host-suffix, visiontimes.com, proxy
+host-suffix, visiontimes.de, proxy
+host-suffix, visiontimes.fr, proxy
+host-suffix, visiontimes.it, proxy
+host-suffix, visiontimes.net, proxy
+host-suffix, visiontimesjp.com, proxy
+host-suffix, vtvan.com, proxy
+host-suffix, watchinese.com, proxy

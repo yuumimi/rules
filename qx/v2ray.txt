@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/v2ray
+
+host-suffix, v2fly.org, proxy
+host-suffix, v2ray.com, proxy
+host-suffix, v2ray.cool, proxy

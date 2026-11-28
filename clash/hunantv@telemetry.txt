@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hunantv
+
+# Behavior: domain
+
+payload:
+  - "+.log.hunantv.com"
+  - "+.log.v2.hunantv.com"

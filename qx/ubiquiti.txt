@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ubiquiti
+
+host-suffix, amplifi.com, proxy
+host-suffix, amplifi.com.cn, proxy
+host-suffix, frontrow.com, proxy
+host-suffix, frontrow.com.cn, proxy
+host-suffix, ubncloud.com, proxy
+host-suffix, ubnt.com, proxy
+host-suffix, ubnt.com.cn, proxy
+host-suffix, ui.com, proxy
+host-suffix, ui.com.cn, proxy
+host-suffix, uisp.com, proxy
+host-suffix, uum.com.cn, proxy
+host-suffix, uwn.com, proxy
+host-suffix, wifiman.com, proxy

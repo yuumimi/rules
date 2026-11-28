@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dell
+
+# Behavior: domain
+
+payload:
+  - "+.dell-alw.com"
+  - "+.dell-brand.com"
+  - "+.dell.com.cn"
+  - "+.dellemc.com.cn"
+  - "+.dellmobile.cn"
+  - "+.delltechnologies.com.cn"
+  - "+.platform.dell.com"

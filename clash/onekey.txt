@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/onekey
+
+# Behavior: domain
+
+payload:
+  - "+.onekey-asset.com"
+  - "+.onekey.so"
+  - "+.onekeycn.com"
+  - "onekey.zendesk.com"

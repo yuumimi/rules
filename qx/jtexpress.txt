@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/jtexpress
+
+host-suffix, bxexpress.com.cn, proxy
+host-suffix, cr-cts.com, proxy
+host-suffix, crscm.com, proxy
+host-suffix, jet-ego.com, proxy
+host-suffix, jet-logistics.com, proxy
+host-suffix, jetlogistic.com, proxy
+host-suffix, jnt-express.com.cn, proxy
+host-suffix, jtexpress.cn, proxy
+host-suffix, jtexpress.com, proxy
+host-suffix, jtexpress.com.cn, proxy
+host-suffix, jtexpress.top, proxy
+host-suffix, jtfulfillment.cn, proxy
+host-suffix, jtfulfillment.com, proxy
+host-suffix, jtg2g.com, proxy
+host-suffix, jtjms-ae.com, proxy
+host-suffix, jtjms-br.com, proxy
+host-suffix, jtjms-eg.com, proxy
+host-suffix, jtjms-mx.com, proxy
+host-suffix, jtjms-sa.com, proxy
+host-suffix, upfos.cn, proxy
+host-suffix, upfos.com, proxy
+host-suffix, yl-scm.com, proxy

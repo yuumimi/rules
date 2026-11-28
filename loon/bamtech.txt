@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/bamtech
+
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,bamtech.net
+DOMAIN-SUFFIX,dmed.technology

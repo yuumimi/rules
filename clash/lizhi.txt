@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lizhi
+
+# Behavior: domain
+
+payload:
+  - "+.gzlzfm.com"
+  - "+.lizhi.fm"
+  - "+.lizhifm.com"
+  - "+.lizhiinc.com"
+  - "+.lz310.com"
+  - "+.lzpipi.com"

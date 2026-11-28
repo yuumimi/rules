@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hongkongpost
+
+# Behavior: domain
+
+payload:
+  - "+.ecert.gov.hk"
+  - "+.hongkongpost.gov.hk"

@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/brightcove
+
+host, bcovlive-a.akamaihd.net, proxy
+host, bcsecure01-a.akamaihd.net, proxy
+host, brightcove.imgix.net, proxy
+host-suffix, bcove.video, proxy
+host-suffix, bcovlive.io, proxy
+host-suffix, bcvp0rtal.com, proxy
+host-suffix, boltdns.net, proxy
+host-suffix, brightcove.com, proxy
+host-suffix, brightcove.net, proxy
+host-suffix, brightcove.services, proxy
+host-suffix, brightcovecdn.com, proxy
+host-suffix, videojs.com, proxy
+host-suffix, zencdn.net, proxy
+host-suffix, zencoder.com, proxy

@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/shuqi
+
+# Behavior: domain
+
+payload:
+  - "+.11222.cn"
+  - "+.aliwx.com.cn"
+  - "+.aliwx.net"
+  - "+.ishuqi.com"
+  - "+.newstjk.com"
+  - "+.shuqi.com"
+  - "+.shuqiapi.com"
+  - "+.shuqiread.com"
+  - "+.shuqireader.com"
+  - "+.shuqistat.com"
+  - "+.sqreader.com"

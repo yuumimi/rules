@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/webflow
+
+host-suffix, webflow-ext.com, proxy
+host-suffix, webflow.com, proxy
+host-suffix, webflow.io, proxy
+host-suffix, website-files.com, proxy

@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/moji
+
+.airnut.com
+.moji.com
+.moji001.com
+.moji002.com
+.mojicdn.com
+.mojichina.com

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pptv
+
+host-suffix, pplive.cn, proxy
+host-suffix, pplive.com, proxy
+host-suffix, pptv.com, proxy

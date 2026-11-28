@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netflav
+
+host-suffix, netflav.com, proxy
+host-suffix, netflav1.com, proxy
+host-suffix, netflav5.com, proxy

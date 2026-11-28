@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/linakesi
+
+DOMAIN-SUFFIX,heiyu.space
+DOMAIN-SUFFIX,lazycat.cloud
+DOMAIN-SUFFIX,linakesi.cn
+DOMAIN-SUFFIX,linakesi.com

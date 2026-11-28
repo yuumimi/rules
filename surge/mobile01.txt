@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mobile01
+
+.5i01.com
+.mobile01.com

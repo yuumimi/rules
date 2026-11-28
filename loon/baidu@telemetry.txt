@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/baidu
+
+DOMAIN-SUFFIX,fclog.baidu.com
+DOMAIN-SUFFIX,pimlog.baidu.com

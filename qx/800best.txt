@@ -1,0 +1,31 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/800best
+
+host-suffix, 56laile.com, proxy
+host-suffix, 800best.cn, proxy
+host-suffix, 800best.com, proxy
+host-suffix, 800best.com.cn, proxy
+host-suffix, 800best.net, proxy
+host-suffix, 800bestapi.cn, proxy
+host-suffix, 800bestapi.com, proxy
+host-suffix, 800bestapp.cn, proxy
+host-suffix, 800bestapp.com, proxy
+host-suffix, baishinetwork.com, proxy
+host-suffix, best-inc.com, proxy
+host-suffix, bestcrossborder.com, proxy
+host-suffix, bestdataclub.com, proxy
+host-suffix, bestincapi.cn, proxy
+host-suffix, bestincapi.com, proxy
+host-suffix, bestincapp.cn, proxy
+host-suffix, bestincapp.com, proxy
+host-suffix, linliyz.com, proxy
+host-suffix, qiancangwms.com, proxy
+host-suffix, qianyierp.com, proxy
+host-suffix, t1tms.com, proxy
+host-suffix, t8tms.com, proxy
+host-suffix, t9tms.com, proxy
+host-suffix, tnettms.com, proxy
+host-suffix, wangniuwms.com, proxy
+host-suffix, xinyuanfin.com, proxy
+host-suffix, youyierp.com, proxy
+host-suffix, youyitms.com, proxy
+host-suffix, youyiwms.com, proxy

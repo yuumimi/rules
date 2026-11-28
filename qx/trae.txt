@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/trae
+
+host-suffix, doudou.com, proxy
+host-suffix, marscode.cn, proxy
+host-suffix, marscode.com.cn, proxy
+host-suffix, mcbaas.work, proxy
+host-suffix, mcdemo.show, proxy
+host-suffix, mchost.guru, proxy
+host-suffix, mcprev.cn, proxy
+host-suffix, tcwqqdy.guru, proxy
+host-suffix, trae.cn, proxy
+host-suffix, trae.com.cn, proxy
+host-suffix, trae.guru, proxy
+host-suffix, yoma.cn, proxy

@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/kyodonews
+
+host-suffix, 47gyosei.jp, proxy
+host-suffix, 47news.jp, proxy
+host-suffix, kyodo-d.info, proxy
+host-suffix, kyodo-d.jp, proxy
+host-suffix, kyodoimages.jp, proxy
+host-suffix, kyodonews.jp, proxy
+host-suffix, kyodonews.net, proxy
+host-suffix, newsmart.jp, proxy
+host-suffix, nna.jp, proxy

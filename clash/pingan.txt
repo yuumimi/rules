@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pingan
+
+# Behavior: domain
+
+payload:
+  - "+.172.com"
+  - "+.1qianbao.com"
+  - "+.4008000000.com"
+  - "+.lu.com"
+  - "+.lufax.com"
+  - "+.lufaxcdn.com"
+  - "+.lujincaifu.com"
+  - "+.mingyuanfund.com"
+  - "+.pacfc.com"
+  - "+.pafoundation.org.cn"
+  - "+.ph.com.cn"
+  - "+.pingan.cn"
+  - "+.pingan.com"
+  - "+.pingan.com.cn"
+  - "+.pingan.com.hk"
+  - "+.yiqianbao.com"
+  - "+.yqb.com"
+  - "+.yqbimg.net"
+  - "+.yqbmall.com"

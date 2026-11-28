@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lizhi
+
+host-suffix, gzlzfm.com, proxy
+host-suffix, lizhi.fm, proxy
+host-suffix, lizhifm.com, proxy
+host-suffix, lizhiinc.com, proxy
+host-suffix, lz310.com, proxy
+host-suffix, lzpipi.com, proxy

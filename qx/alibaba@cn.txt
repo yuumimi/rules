@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/alibaba
+
+host, account-cn.alibabacloud.com, proxy
+host, api.alibabacloud.com, proxy
+host, cn.alibabacloud.com, proxy
+host, status.alibabacloud.com, proxy

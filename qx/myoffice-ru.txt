@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/myoffice-ru
+
+host-suffix, myoffice.ru, proxy
+host-suffix, myoffice.team, proxy

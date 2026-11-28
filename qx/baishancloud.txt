@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/baishancloud
+
+host-suffix, baishan.com, proxy
+host-suffix, baishancdnx.cn, proxy
+host-suffix, baishancloud.com, proxy
+host-suffix, bsclink.cn, proxy
+host-suffix, qingcdn.com, proxy
+host-suffix, saxyit.com, proxy
+host-suffix, trpcdn.com, proxy
+host-suffix, trpcdn.net, proxy
+host-suffix, yundun.com, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/dmm-porn
+
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,fanza.jp

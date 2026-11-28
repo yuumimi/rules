@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/uber
+
+host-suffix, uber-assets.com, proxy
+host-suffix, uber.com, proxy
+host-suffix, ubereats.com, proxy

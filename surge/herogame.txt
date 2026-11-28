@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/herogame
+
+.hero.com
+.heroesports.com
+.herogame.com
+.shyxhy.com
+.yingxiong.com

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mega
+
+host-suffix, mega.co.nz, proxy
+host-suffix, mega.io, proxy
+host-suffix, mega.nz, proxy
+host-suffix, megaad.nz, proxy
+host-suffix, megapay.nz, proxy
+host-suffix, megas4.com, proxy
+host-suffix, transfer.it, proxy

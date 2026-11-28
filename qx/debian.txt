@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/debian
+
+host-suffix, debian.map.fastlydns.net, proxy
+host-suffix, debian.org, proxy
+host-suffix, dotdeb.org, proxy

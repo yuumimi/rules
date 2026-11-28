@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/koolearn
+
+# Behavior: domain
+
+payload:
+  - "+.koocdn.com"
+  - "+.koolearn.com"
+  - "+.koopass.com"

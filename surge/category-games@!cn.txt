@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-games
+
+.aki-game.net
+.aki-game2.net
+.gryphline.cn
+.gryphline.com
+.gryphline.com.cn
+.gryphline.net
+.hg-cdn.com
+.kurogame-service.com
+.kurogame.net
+.kurogames.net
+.levelinfinite.com
+.nikke-en.com
+.skport.com
+.taptap.io
+.tencentgames.com

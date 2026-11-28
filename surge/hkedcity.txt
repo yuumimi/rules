@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hkedcity
+
+.edcity.hk
+.hkedcity.net
+.hkreadingcity.net

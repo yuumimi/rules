@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/archivetoday
+
+.archive.fo
+.archive.is
+.archive.li
+.archive.md
+.archive.ph
+.archive.today
+.archive.vn

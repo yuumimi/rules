@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/flowus
+
+host-suffix, allflow.cn, proxy
+host-suffix, flowus.cn, proxy

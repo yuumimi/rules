@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tcl
+
+.leiniao.com
+.my7v.com
+.tcl.com
+.tcl.com.cn
+.tclai.top
+.tcltech.com

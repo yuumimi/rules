@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/qualcomm
+
+host-suffix, gpsonextra.net, proxy
+host-suffix, izatcloud.net, proxy
+host-suffix, qceventscenter.com.cn, proxy
+host-suffix, qualcomm.cn, proxy
+host-suffix, qualcomm.cn.cdn.cloudflare.net, proxy
+host-suffix, xtracloud.cn, proxy

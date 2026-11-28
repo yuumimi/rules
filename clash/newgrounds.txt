@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/newgrounds
+
+# Behavior: domain
+
+payload:
+  - "+.newgrounds.com"
+  - "+.ngfiles.com"

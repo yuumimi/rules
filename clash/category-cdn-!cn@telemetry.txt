@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-cdn-!cn
+
+# Behavior: domain
+
+payload:
+  - "+.akstat.io"
+  - "+.cloudflareinsights-cn.com"
+  - "+.cloudflareinsights.com"

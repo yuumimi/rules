@@ -1,0 +1,14 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/juejin
+
+host, p1-juejin.byteimg.com, proxy
+host, p2-juejin.byteimg.com, proxy
+host, p3-juejin.byteimg.com, proxy
+host, p4-juejin.byteimg.com, proxy
+host, p5-juejin.byteimg.com, proxy
+host, p6-juejin.byteimg.com, proxy
+host, p7-juejin.byteimg.com, proxy
+host, p8-juejin.byteimg.com, proxy
+host, p9-juejin.byteimg.com, proxy
+host-suffix, juejin.cn, proxy
+host-suffix, juejin.im, proxy
+host-suffix, xitu.io, proxy

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cnbc
+
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cnbccouncils.com
+DOMAIN-SUFFIX,cnbcfm.com

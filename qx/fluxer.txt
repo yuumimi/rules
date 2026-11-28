@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/fluxer
+
+host-suffix, fluxer.app, proxy
+host-suffix, fluxer.com, proxy
+host-suffix, fluxer.dev, proxy
+host-suffix, fluxer.gg, proxy
+host-suffix, fluxer.gift, proxy
+host-suffix, fluxer.media, proxy
+host-suffix, fluxer.tools, proxy
+host-suffix, fluxerapp.com, proxy
+host-suffix, fluxerstatic.com, proxy
+host-suffix, fluxerstatus.com, proxy
+host-suffix, fluxerusercontent.com, proxy

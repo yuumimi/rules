@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/framer
+
+# Behavior: domain
+
+payload:
+  - "+.framer.com"
+  - "+.framer.website"
+  - "+.framercanvas.com"
+  - "+.framerstatic.com"
+  - "+.framerusercontent.com"

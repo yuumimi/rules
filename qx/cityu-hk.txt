@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cityu-hk
+
+host-suffix, cityu.edu.hk, proxy
+host-suffix, cityu.hk, proxy
+host-suffix, xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g, proxy
+host-suffix, xn--uis44a.xn--j6w193g, proxy

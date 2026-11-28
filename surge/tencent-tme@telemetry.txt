@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/tencent-tme
+
+.monitor.music.qq.com
+.report.tencentmusic.com
+.stat.y.qq.com

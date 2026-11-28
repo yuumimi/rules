@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hetzner
+
+host-suffix, first-ns.de, proxy
+host-suffix, hetzner-cloud.de, proxy
+host-suffix, hetzner.cloud, proxy
+host-suffix, hetzner.com, proxy
+host-suffix, hetzner.company, proxy
+host-suffix, hetzner.de, proxy
+host-suffix, hetzner.social, proxy
+host-suffix, htznr.li, proxy
+host-suffix, second-ns.com, proxy
+host-suffix, second-ns.de, proxy
+host-suffix, your-objectstorage.com, proxy
+host-suffix, your-server.de, proxy
+host-suffix, your-storagebox.de, proxy
+host-suffix, your-storageshare.de, proxy

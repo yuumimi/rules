@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/herogame
+
+host-suffix, hero.com, proxy
+host-suffix, heroesports.com, proxy
+host-suffix, herogame.com, proxy
+host-suffix, shyxhy.com, proxy
+host-suffix, yingxiong.com, proxy

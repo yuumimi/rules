@@ -1,0 +1,15 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-betting-ru
+
+host-suffix, betboom.ru, proxy
+host-suffix, bk6bba-resources.com, proxy
+host-suffix, bk6bba-resources.ru, proxy
+host-suffix, fon.bet, proxy
+host-suffix, fon.promo, proxy
+host-suffix, ligadobra.ru, proxy
+host-suffix, ligastavok-csr.ru, proxy
+host-suffix, ligastavok.ru, proxy
+host-suffix, mobile-bb.com, proxy
+host-suffix, sozvezdie-dobra.ru, proxy
+host-suffix, win-line.ru, proxy
+host-suffix, winline.ru, proxy
+host-suffix, winlinebet.ru, proxy

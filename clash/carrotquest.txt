@@ -1,0 +1,17 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/carrotquest
+
+# Behavior: domain
+
+payload:
+  - "+.carrot-mail.io"
+  - "+.carrotquest-mail.io"
+  - "+.carrotquest.app"
+  - "+.carrotquest.io"
+  - "+.carrottrack.app"
+  - "+.dashly.app"
+  - "+.dashly.help"
+  - "+.dashly.io"
+  - "+.dashly.me"
+  - "+.dashlytrack.app"
+  - "+.mail-carrotquest.io"
+  - "+.pushgrow.io"

@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lisiku
+
+# Behavior: domain
+
+payload:
+  - "+.lisiku.com"
+  - "+.lisiku1.com"

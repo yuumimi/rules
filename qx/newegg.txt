@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/newegg
+
+host-suffix, newegg.com, proxy
+host-suffix, neweggimages.com, proxy

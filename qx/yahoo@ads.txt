@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/yahoo
+
+host-suffix, ads.yahoo.com, proxy
+host-suffix, gemini.yahoo.com, proxy
+host-suffix, ysm.yahoo.com, proxy

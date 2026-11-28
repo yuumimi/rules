@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nhk
+
+host-suffix, nhk, proxy
+host-suffix, nhk.jp, proxy
+host-suffix, nhk.or.jp, proxy
+host-suffix, nhkworld.jp, proxy

@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anker
+
+# Behavior: domain
+
+payload:
+  - "+.anker-in.com"
+  - "+.anker.com"
+  - "+.ankersolix.com"
+  - "+.eufy.com"
+  - "+.eufylife.com"
+  - "+.eufymake.com"
+  - "+.soundcore.com"

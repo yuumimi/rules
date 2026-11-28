@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/twilio
+
+# Behavior: domain
+
+payload:
+  - "+.twilio.com"
+  - "+.twilio.jp"
+  - "+.tytch.com"

@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/ixbt
+
+host-suffix, ixbt.com, proxy
+host-suffix, ixbt.games, proxy
+host-suffix, ixbt.market, proxy
+host-suffix, ixbt.media, proxy
+host-suffix, ixbt.pro, proxy
+host-suffix, ixbt.ru, proxy
+host-suffix, ixbt.shop, proxy
+host-suffix, ixbt.site, proxy
+host-suffix, ixbt.video, proxy

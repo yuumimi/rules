@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/growingio
+
+host-suffix, datayi.cn, proxy
+host-suffix, gio.ren, proxy
+host-suffix, giocdn.com, proxy
+host-suffix, growin.cn, proxy
+host-suffix, growingio.cn, proxy
+host-suffix, growingio.com, proxy

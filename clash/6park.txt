@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/6park
+
+# Behavior: domain
+
+payload:
+  - "+.6park.com"
+  - "+.6parkbbs.com"
+  - "+.6parknews.com"
+  - "+.cool18.com"
+  - "+.parkvv.com"
+  - "+.popo8.com"
+  - "+.xwbo.com"

@@ -1,0 +1,21 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pingan
+
+host-suffix, 172.com, proxy
+host-suffix, 1qianbao.com, proxy
+host-suffix, 4008000000.com, proxy
+host-suffix, lu.com, proxy
+host-suffix, lufax.com, proxy
+host-suffix, lufaxcdn.com, proxy
+host-suffix, lujincaifu.com, proxy
+host-suffix, mingyuanfund.com, proxy
+host-suffix, pacfc.com, proxy
+host-suffix, pafoundation.org.cn, proxy
+host-suffix, ph.com.cn, proxy
+host-suffix, pingan.cn, proxy
+host-suffix, pingan.com, proxy
+host-suffix, pingan.com.cn, proxy
+host-suffix, pingan.com.hk, proxy
+host-suffix, yiqianbao.com, proxy
+host-suffix, yqb.com, proxy
+host-suffix, yqbimg.net, proxy
+host-suffix, yqbmall.com, proxy

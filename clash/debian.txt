@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/debian
+
+# Behavior: domain
+
+payload:
+  - "+.debian.map.fastlydns.net"
+  - "+.debian.org"
+  - "+.dotdeb.org"

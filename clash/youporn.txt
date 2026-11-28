@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/youporn
+
+# Behavior: domain
+
+payload:
+  - "+.extremetube.com"
+  - "+.keezmovies.com"
+  - "+.yopornshop.com"
+  - "+.youporn.com"
+  - "+.youporngay.com"
+  - "+.youpornpremium.com"
+  - "+.youpornru.com"
+  - "+.ypncdn.com"

@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/faceit
+
+host-suffix, faceit-cdn.net, proxy
+host-suffix, faceit.com, proxy
+host-suffix, fce.gg, proxy

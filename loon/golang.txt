@@ -1,0 +1,10 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/golang
+
+DOMAIN-SUFFIX,go-lang.com
+DOMAIN-SUFFIX,go-lang.net
+DOMAIN-SUFFIX,go-lang.org
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,godoc.org
+DOMAIN-SUFFIX,golang.com
+DOMAIN-SUFFIX,golang.net
+DOMAIN-SUFFIX,golang.org

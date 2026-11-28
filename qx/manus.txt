@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/manus
+
+host-suffix, manus.im, proxy
+host-suffix, manuscdn.com, proxy

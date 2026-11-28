@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/n26
+
+host-suffix, n26.com, proxy
+host-suffix, number26.de, proxy
+host-suffix, tech26.de, proxy

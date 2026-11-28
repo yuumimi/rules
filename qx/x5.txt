@@ -1,0 +1,34 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/x5
+
+host-suffix, 5ka.ru, proxy
+host-suffix, 5post.market, proxy
+host-suffix, abonementx5.ru, proxy
+host-suffix, chizhik.club, proxy
+host-suffix, clubx5.ru, proxy
+host-suffix, dialogx5.ru, proxy
+host-suffix, e5.ru, proxy
+host-suffix, fivepost.ru, proxy
+host-suffix, idx5.ru, proxy
+host-suffix, jx5.ru, proxy
+host-suffix, keyx5.ru, proxy
+host-suffix, mnogolososya.ru, proxy
+host-suffix, myapelsin.ru, proxy
+host-suffix, okolo.app, proxy
+host-suffix, perekrestok.com, proxy
+host-suffix, perekrestok.ru, proxy
+host-suffix, x5.ai, proxy
+host-suffix, x5.com, proxy
+host-suffix, x5.digital, proxy
+host-suffix, x5.group, proxy
+host-suffix, x5.media, proxy
+host-suffix, x5.ru, proxy
+host-suffix, x5.team, proxy
+host-suffix, x5.tech, proxy
+host-suffix, x5club.ru, proxy
+host-suffix, x5id.ru, proxy
+host-suffix, x5l.ru, proxy
+host-suffix, x5media.ru, proxy
+host-suffix, x5paket.ru, proxy
+host-suffix, x5q.ru, proxy
+host-suffix, x5static.net, proxy
+host-suffix, x5w.ru, proxy

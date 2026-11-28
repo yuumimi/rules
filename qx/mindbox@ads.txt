@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/mindbox
+
+host, api-js.mindbox.ru, proxy
+host, api-ru.mindbox.cloud, proxy
+host, api-staging.mindbox.ru, proxy
+host, api.mindbox.cloud, proxy
+host, api.mindbox.ru, proxy
+host, sentry.mindbox.ru, proxy
+host, sentry.popmechanic.ru, proxy
+host-suffix, e.mindbox.ru, proxy
+host-suffix, g.mindbox.ru, proxy
+host-suffix, s.mindbox.ru, proxy

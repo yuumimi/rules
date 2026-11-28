@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/firebase
+
+host, crashlyticsreports-pa.googleapis.com, proxy
+host, firebase-settings.crashlytics.com, proxy
+host, update.crashlytics.com, proxy

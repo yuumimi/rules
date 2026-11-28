@@ -1,0 +1,20 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hypergryph
+
+host-suffix, arknights.com, proxy
+host-suffix, arknights.com.cn, proxy
+host-suffix, gryphline.cn, proxy
+host-suffix, gryphline.com, proxy
+host-suffix, gryphline.com.cn, proxy
+host-suffix, gryphline.net, proxy
+host-suffix, hg-cdn.com, proxy
+host-suffix, hgto.cc, proxy
+host-suffix, hycdn.cn, proxy
+host-suffix, hycdn.com, proxy
+host-suffix, hypergryph.cn, proxy
+host-suffix, hypergryph.com, proxy
+host-suffix, hypergryph.com.cn, proxy
+host-suffix, hypergryph.net, proxy
+host-suffix, octavedge.com, proxy
+host-suffix, skland.com, proxy
+host-suffix, skland.net, proxy
+host-suffix, skport.com, proxy

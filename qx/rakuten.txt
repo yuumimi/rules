@@ -1,0 +1,32 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/rakuten
+
+host-suffix, bfads.net, proxy
+host-suffix, buyservices.com, proxy
+host-suffix, ebates.ca, proxy
+host-suffix, ebates.kr, proxy
+host-suffix, ebates.sg, proxy
+host-suffix, ebatescanada.com, proxy
+host-suffix, ecbsn.com, proxy
+host-suffix, fatwallet.com, proxy
+host-suffix, kobo.com, proxy
+host-suffix, r10s.com, proxy
+host-suffix, r10s.jp, proxy
+host-suffix, rakuten-static.com, proxy
+host-suffix, rakuten.ca, proxy
+host-suffix, rakuten.co.jp, proxy
+host-suffix, rakuten.com, proxy
+host-suffix, rakuten.com.tw, proxy
+host-suffix, rakuten.ne.jp, proxy
+host-suffix, rakuten.tv, proxy
+host-suffix, rakuten.tw, proxy
+host-suffix, rakutenadvertising.com, proxy
+host-suffix, rakutengiftcards.ca, proxy
+host-suffix, rclon.com, proxy
+host-suffix, rebates.jp, proxy
+host-suffix, rrcbsn.com, proxy
+host-suffix, vbcdn.com, proxy
+host-suffix, vbcdn.net, proxy
+host-suffix, viber.co, proxy
+host-suffix, viber.com, proxy
+host-suffix, viber.me, proxy
+host-suffix, viki.com, proxy

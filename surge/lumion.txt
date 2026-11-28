@@ -1,0 +1,8 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/lumion
+
+.lumion-la.com
+.lumion.com
+.lumion3d.com.my
+.lumion3d.net
+.lumiontech.net
+.mylumion.com

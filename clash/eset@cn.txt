@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/eset
+
+# Behavior: domain
+
+payload:
+  - "+.cn.eset.com"

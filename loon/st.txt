@@ -1,0 +1,4 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/st
+
+DOMAIN-SUFFIX,st.com
+DOMAIN-SUFFIX,stmicroelectronics.com.cn

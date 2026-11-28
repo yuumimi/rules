@@ -1,0 +1,23 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/anime
+
+host-suffix, 9anime.cz, proxy
+host-suffix, 9anime.id, proxy
+host-suffix, 9anime.to, proxy
+host-suffix, 9anime.ws, proxy
+host-suffix, age.tv, proxy
+host-suffix, agedm.app, proxy
+host-suffix, agedm.org, proxy
+host-suffix, agedm.tv, proxy
+host-suffix, agefans.com, proxy
+host-suffix, agemys.org, proxy
+host-suffix, animedao-tv.com, proxy
+host-suffix, crunchyroll.com, proxy
+host-suffix, funimation.com, proxy
+host-suffix, gogo-load.com, proxy
+host-suffix, gogoanime.vc, proxy
+host-suffix, gogoanime.wiki, proxy
+host-suffix, gogoanime3.co, proxy
+host-suffix, gogocdn.net, proxy
+host-suffix, gogotaku.info, proxy
+host-suffix, hidive.com, proxy
+host-suffix, vrv.co, proxy

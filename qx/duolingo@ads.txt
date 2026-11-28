@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/duolingo
+
+host-suffix, ads-api.duolingo.com, proxy
+host-suffix, analytics.vpc.duolingo.com, proxy
+host-suffix, metrics.duolingo.com, proxy

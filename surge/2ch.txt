@@ -1,0 +1,6 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/2ch
+
+.2ch.hk
+.2ch.life
+.2ch.org
+.2ch.su

@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/cdprojekt
+
+.cdpred.services
+.cdprojekt.com
+.cdprojekt.red
+.cdprojektred.com
+.cyberpunk.net
+.playgwent.com
+.thewitcher.com

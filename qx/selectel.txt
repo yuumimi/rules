@@ -1,0 +1,26 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/selectel
+
+host-suffix, chipcore.com, proxy
+host-suffix, chipcore.ru, proxy
+host-suffix, haicomdc.com, proxy
+host-suffix, haicomdc.ru, proxy
+host-suffix, haicomgroup.ru, proxy
+host-suffix, itirex.ru, proxy
+host-suffix, selcdn.net, proxy
+host-suffix, selectel.academy, proxy
+host-suffix, selectel.blog, proxy
+host-suffix, selectel.com, proxy
+host-suffix, selectel.dev, proxy
+host-suffix, selectel.info, proxy
+host-suffix, selectel.io, proxy
+host-suffix, selectel.live, proxy
+host-suffix, selectel.ru, proxy
+host-suffix, selectelix.ru, proxy
+host-suffix, selectelpro.ru, proxy
+host-suffix, servercore.com, proxy
+host-suffix, servercore.live, proxy
+host-suffix, slc.tl, proxy
+host-suffix, tehnodom.com, proxy
+host-suffix, vscale.blog, proxy
+host-suffix, vscale.io, proxy
+host-suffix, vscale.ru, proxy

@@ -1,0 +1,13 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-pt
+
+DOMAIN-SUFFIX,dmhy.best
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,mt.cc
+DOMAIN-SUFFIX,myanonamouse.net
+DOMAIN-SUFFIX,nebulance.io
+DOMAIN-SUFFIX,skyey2.com
+DOMAIN-SUFFIX,skyeysnow.com
+DOMAIN-SUFFIX,torrentleech.cc
+DOMAIN-SUFFIX,torrentleech.org

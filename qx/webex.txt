@@ -1,0 +1,18 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/webex
+
+host-suffix, webex.ca, proxy
+host-suffix, webex.co.in, proxy
+host-suffix, webex.co.it, proxy
+host-suffix, webex.co.jp, proxy
+host-suffix, webex.co.kr, proxy
+host-suffix, webex.co.nz, proxy
+host-suffix, webex.co.uk, proxy
+host-suffix, webex.com, proxy
+host-suffix, webex.com.au, proxy
+host-suffix, webex.com.br, proxy
+host-suffix, webex.com.cn, proxy
+host-suffix, webex.com.hk, proxy
+host-suffix, webex.com.mx, proxy
+host-suffix, webex.de, proxy
+host-suffix, webex.es, proxy
+host-suffix, webex.fr, proxy

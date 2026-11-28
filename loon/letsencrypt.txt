@@ -1,0 +1,5 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/letsencrypt
+
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,letsencrypt.com
+DOMAIN-SUFFIX,letsencrypt.org

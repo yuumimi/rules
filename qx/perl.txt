@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/perl
+
+host-suffix, cpan.org, proxy
+host-suffix, metacpan.org, proxy
+host-suffix, modperl.pl, proxy
+host-suffix, perl.apache.org, proxy
+host-suffix, perl.org, proxy

@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/pingcap
+
+# Behavior: domain
+
+payload:
+  - "+.asktug.com"
+  - "+.pingcap.cn"
+  - "+.pingcap.com"
+  - "+.tidb.ai"
+  - "+.tidb.net"
+  - "+.tidbcloud.com"
+  - "+.tikv.org"

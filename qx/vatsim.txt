@@ -1,0 +1,27 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/vatsim
+
+host-suffix, vat-apac.com, proxy
+host-suffix, vatca.org, proxy
+host-suffix, vatcan.ca, proxy
+host-suffix, vatcar.net, proxy
+host-suffix, vateud.net, proxy
+host-suffix, vathk.com, proxy
+host-suffix, vatil.org.il, proxy
+host-suffix, vatjpn.org, proxy
+host-suffix, vatkor.net, proxy
+host-suffix, vatmex.com.mx, proxy
+host-suffix, vatnz.net, proxy
+host-suffix, vatpac.org, proxy
+host-suffix, vatprc.net, proxy
+host-suffix, vatroc.net, proxy
+host-suffix, vats.im, proxy
+host-suffix, vatsea.org, proxy
+host-suffix, vatsim.com.br, proxy
+host-suffix, vatsim.dev, proxy
+host-suffix, vatsim.me, proxy
+host-suffix, vatsim.net, proxy
+host-suffix, vatsim.uk, proxy
+host-suffix, vatssa.com, proxy
+host-suffix, vatsur.org, proxy
+host-suffix, vatusa.net, proxy
+host-suffix, vatwa.net, proxy

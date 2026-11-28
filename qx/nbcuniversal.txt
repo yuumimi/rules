@@ -1,0 +1,35 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/nbcuniversal
+
+host-suffix, bravotv.com, proxy
+host-suffix, dreamworks.com, proxy
+host-suffix, focusfeatures.com, proxy
+host-suffix, hayu.com, proxy
+host-suffix, illumination.com, proxy
+host-suffix, nbc.co, proxy
+host-suffix, nbc.com, proxy
+host-suffix, nbcnews.com, proxy
+host-suffix, nbcolympics.com, proxy
+host-suffix, nbcsports.com, proxy
+host-suffix, nbcudigitaladops.com, proxy
+host-suffix, nbcumv.com, proxy
+host-suffix, nbcuni.com, proxy
+host-suffix, nbcunicareers.com, proxy
+host-suffix, nbcuniversal.com, proxy
+host-suffix, nbcuniversalprivacy.com, proxy
+host-suffix, peacocktv.com, proxy
+host-suffix, s-nbcnews.com, proxy
+host-suffix, telemundo.com, proxy
+host-suffix, udxfpp.com, proxy
+host-suffix, universalbeijingresort.com, proxy
+host-suffix, universalhorrorunleashed.com, proxy
+host-suffix, universalkidsresort.com, proxy
+host-suffix, universalorlando.com, proxy
+host-suffix, universalpictures.co.uk, proxy
+host-suffix, universalpictures.com, proxy
+host-suffix, universalpicturesathome.com, proxy
+host-suffix, universalpicturesinternational.com, proxy
+host-suffix, universalproductsexperiences.com, proxy
+host-suffix, universalstudioshollywood.com, proxy
+host-suffix, universalukproject.co.uk, proxy
+host-suffix, uphe.com, proxy
+host-suffix, usj.co.jp, proxy

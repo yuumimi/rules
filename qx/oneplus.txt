@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/oneplus
+
+host-suffix, h2os.com, proxy
+host-suffix, oneplus.cn, proxy
+host-suffix, oneplus.com, proxy
+host-suffix, oneplus.net, proxy
+host-suffix, oneplusbbs.com, proxy
+host-suffix, oneplusmobile.com, proxy
+host-suffix, opstatics.com, proxy

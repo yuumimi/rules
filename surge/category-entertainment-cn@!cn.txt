@@ -1,0 +1,25 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-entertainment-cn
+
+.aki-game.net
+.aki-game2.net
+.bilibili.tv
+.biliintl.com
+.dreamcast.hk
+.gryphline.cn
+.gryphline.com
+.gryphline.com.cn
+.gryphline.net
+.hg-cdn.com
+.iq.com
+.kurogame-service.com
+.kurogame.net
+.kurogames.net
+.levelinfinite.com
+.nikke-en.com
+.skport.com
+.taptap.io
+.tencentgames.com
+.webnovel.com
+.youku.tv
+.youkuplay.com
+upos-hz-mirrorakam.akamaized.net

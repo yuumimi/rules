@@ -1,0 +1,11 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/hypergryph
+
+# Behavior: domain
+
+payload:
+  - "+.gryphline.cn"
+  - "+.gryphline.com"
+  - "+.gryphline.com.cn"
+  - "+.gryphline.net"
+  - "+.hg-cdn.com"
+  - "+.skport.com"

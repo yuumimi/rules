@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/xvideos
+
+.xv-ru.com
+.xvideos-ar.com
+.xvideos-cdn.com
+.xvideos-india.com
+.xvideos.com

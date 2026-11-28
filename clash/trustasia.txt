@@ -1,0 +1,16 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/trustasia
+
+# Behavior: domain
+
+payload:
+  - "+.51ssl.cn"
+  - "+.51ssl.com"
+  - "+.geossl.cn"
+  - "+.litessl.cn"
+  - "+.litessl.com"
+  - "+.myssl-uri.com"
+  - "+.myssl.com"
+  - "+.trustasia.cn"
+  - "+.trustasia.com"
+  - "+.trustasia.com.cn"
+  - "+.trustasia.net"
